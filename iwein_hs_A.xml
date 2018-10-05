@@ -20,7 +20,7 @@
             <publicationStmt>
                 <publisher>Universitätsbibliothek Heidelberg</publisher>
                 <pubPlace>Heidelberg</pubPlace>
-                <idno type="d.o.i.">????</idno>
+                <idno type="d.o.i.">???</idno>
                 <availability>
                     <p>Creative Commons-Lizenz 4.0 (CC BY-SA 4.0)</p>
                 </availability>
@@ -30,9 +30,9 @@
                     <witness xml:id="witness_signatur">
                         <msDesc>
                             <msIdentifier>
-                                <settlement>???</settlement>
-                                <repository>????</repository>
-                                <idno>????</idno>
+                                <settlement>Heidelberg</settlement>
+                                <repository>Universitätsbibliothek</repository>
+                                <idno>cgm 397</idno>
                             </msIdentifier>
                         </msDesc>
                     </witness>
@@ -55,17 +55,15 @@
             <div>
                 <lg>
                     <l>
-                        <w></w>
-                        <w></w>
-                        <w></w>
-                        <w></w>
-                        <w></w>
+                        <w><hi rend="init">W</hi><hi rend="decoration color:red">E</hi>re</w>
+                        <w>an</w>
+                        <w>rechte</w>
+                        <w>gute</w>
                     </l>
                     <l>
-                        <w></w>
-                        <w></w>
-                        <w></w>
-                        <w></w>
+                        <w><hi rend="decoration color:red">w</hi>endet</w>
+                        <w>ſin</w>
+                        <w>gemute</w>
                     </l>
                 </lg>
             </div>
