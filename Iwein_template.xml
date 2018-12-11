@@ -1,14 +1,14 @@
 ﻿<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" type="reimpaar_frame">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Iwein-Hs. r</title>
+                <title>Iwein-Hs.</title>
                 <author>Hartmann von Aue</author>
                 <respStmt>
                     <resp>transcription</resp>
-                    <persName>Samanta Dening</persName>
+                    <persName>##</persName>
                 </respStmt>
             </titleStmt>
             <publicationStmt>
@@ -16,13 +16,13 @@
             </publicationStmt>
             <sourceDesc>
                 <listWit>
-                    <witness xml:id="r"> <msDesc>
+                    <witness xml:id="#"><msDesc>
                         <msIdentifier>
-                            <settlement>Rostock</settlement>
-                            <repository>Universitätsbibliothek</repository>
-                            <idno>Ms. philol. 81</idno>
+                            <settlement>##</settlement>
+                            <repository>##</repository>
+                            <idno>##</idno>
                         </msIdentifier>
-                        </msDesc> </witness>
+                        </msDesc></witness>
                 </listWit>
             </sourceDesc>
         </fileDesc>
@@ -30,178 +30,169 @@
     <text>
         <body>
             <div>
-                <pb n="2r"/>
-                <cb n="2r-a"/>
+                <pb n="1r"/>
+                <cb n="1r-a"/>
+                <head n="0"><w/><w/><w/><w/><w/></head>
                 <lg>
-                    <l n="1"><lb n="1"/><w><hi rend="init color:red">W</hi>er</w><w>an</w><w>rechte</w><w>güte</w></l>
-                    <l n="2"><lb/><w><hi rend="decoration color:red">W</hi>enndet</w><w>ſin</w><w>gemütte</w></l>
+                    <l n="1"><lb n="1"/><w/><w/><w/><w/><w/></l>
+                    <l n="2"><lb n="2"/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="3"><lb/><w><hi rend="decoration color:red">D</hi>em</w><w>volget</w><w>ſelde</w><w>vnd</w><w>ere</w></l>
-                    <l n="4"><lb/><w><hi rend="decoration color:red">D</hi>es</w><w>git</w><w>gewiſſe</w><w>lere</w></l>
+                    <l n="3"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="4"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="5"><lb/><w><hi rend="decoration color:red">K</hi>ung</w><w>artus</w><w>der</w><w>güte</w></l>
-                    <l n="6"><lb/><w><hi rend="decoration color:red">D</hi>er</w><w>mit</w><w>lichtlichem</w><w>müte</w></l>
+                    <l n="5"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="6"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="7"><lb/><w><hi rend="decoration color:red">N</hi>ach</w><w>lobe</w><w>kunde</w><w>ſtritten</w></l>
-                    <l n="8"><lb/><w><hi rend="decoration color:red">E</hi>r</w><w>hat</w><w>by</w><w>sinen</w><w>ziten</w></l>
+                    <l n="7"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="8"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="9"><lb/><w><hi rend="decoration color:red">G</hi>elebt</w><w>alſo</w><w>ſchöne</w></l>
-                    <l n="10"><lb/><w><hi rend="decoration color:red">D</hi>as</w><w>er</w><w>der</w><w>eren</w><w>kröne</w></l>
+                    <l n="9"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="10"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="11"><lb/><w><hi rend="decoration color:red">T</hi>rüg</w><w>vnd</w><w>noch</w><w>ſin</w><w>name</w><w>treit</w></l>
-                    <l n="12"><lb/><w><hi rend="decoration color:red">D</hi>es</w><w>gichet</w><w>jm</w><w>die</w><w>warheit</w></l>
+                    <l n="11"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="12"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="13"><lb/><w><hi rend="decoration color:red">S</hi>ine</w><w>lantlu̍te</w></l>
-                    <l n="14"><lb/><w><hi rend="decoration color:red">S</hi>prichent</w><w>er</w><w>leb</w><w>noch</w><w>hu̍te</w></l>
+                    <l n="13"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="14"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="15"><lb/><w><hi rend="decoration color:red">E</hi>r</w><w>hat</w><w>auch</w><w>das</w><w>lob</w><w>erworben</w></l>
-                    <l n="16"><lb/><w><hi rend="decoration color:red">I</hi>ſt</w><w>im</w><w>der</w><w>lib</w><w>erſtorben</w></l>
+                    <l n="15"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="16"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="17"><lb/><w><hi rend="decoration color:red">S</hi>o</w><w>lebt</w><w>doch</w><w>ymer</w><w>ſin</w><w>werder</w><w>nam</w></l>
-                    <l n="18"><lb/><w><hi rend="decoration color:red">E</hi>r</w><w>iſt</w><w>laſterlicher</w><w>ſchäm</w></l>
+                    <l n="17"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="18"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="19"><lb/><w><hi rend="decoration color:red">Y</hi>mer</w><w>vil</w><w>gar</w><w>entwert</w></l>
-                    <l n="20"><lb/><w><hi rend="decoration color:red">D</hi>er</w><w>nach</w><w>ſinem</w><w>ſitten</w><w>vert</w></l>
+                    <l n="19"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="20"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="21"><lb/><w><hi rend="init color:red">E</hi>in</w><w>ritter</w><w>der</w><w>gelert</w><w>was</w></l>
-                    <l n="22"><lb/><w><hi rend="decoration color:red">D</hi>as</w><w>er</w><w>an</w><w>den</w><w>buͦchen</w><w>laß</w></l>
+                    <l n="21"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="22"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="22a"><lb/><w><hi rend="decoration color:red">W</hi>as</w><w>er</w><w>an</w><w>den</w><w>buͦochen</w><w>vandt</w></l>
-                    <l n="28"><lb/><w><hi rend="decoration color:red">E</hi>r</w><w>was</w><w>hartman</w><w>genant</w></l>
+                    <l n="23"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="24"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="29"><lb/><w><hi rend="decoration color:red">V</hi>nd</w><w>was</w><w>ain</w><w>awere</w></l>
-                    <l n="30"><lb/><w><hi rend="decoration color:red">D</hi>er</w><w>bracht</w><w>diſe</w><w>mëre</w></l>
-                </lg>
-                <cb n="2r-b"/>
-                <lg>
-                    <l n="30a"><lb/><w><hi rend="decoration color:red">Z</hi>u</w><w>tisſch</w><w>als</w><w>ich</w><w>han</w><w>vernomen</w></l>
-                    <l n="30b"><lb/><w><hi rend="decoration color:red">D</hi>o</w><w>er</w><w>uß</w><w>engellandt</w><w>was</w><w>komen</w></l>
+                    <l n="25"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="26"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="30c"><lb/><w><hi rend="decoration color:red">D</hi>a</w><w>er</w><w>uil</w><w>zit</w><w>was</w><w>geweſſen</w></l>
-                    <l n="30d"><lb/><w><hi rend="decoration color:red">H</hi>at</w><w join="right">er</w><w join="left">s</w><w>an</w><w>den</w><w>welſchen</w><w>büchen</w><w>geleſen</w></l>
+                    <l n="27"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="28"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="31"><lb/><w><hi rend="initial color:red" n="1">E</hi>s</w><w>hette</w><w>der</w><w>künig</w><w>Artus</w></l>
-                    <l n="32"><lb/><w><hi rend="decoration color:red">Z</hi>e<del rend="overstrike">r</del></w><w>karidol</w><w>in</w><w>ſinem</w><w>huß</w></l>
+                    <l n="29"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="30"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="33"><lb/><w><hi rend="decoration color:red">Z</hi>e</w><w>ainem</w><w>pfingſtag</w><w>angeleit</w></l>
-                    <l n="34"><lb/><w><hi rend="decoration color:red">N</hi>ach</w><w>ritters</w><w>gewonheit</w></l>
+                    <l n="31"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="32"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="35"><lb/><w><hi rend="decoration color:red">A</hi>in</w><w>als</w><w>ſchöne</w><w>hochzit</w></l>
-                    <l n="36"><lb/><w><hi rend="decoration color:red">D</hi>as</w><w>er</w><w>uor</w><w>des</w><w>noch</w><w>ſitt</w></l>
+                    <l n="33"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="34"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="37"><lb/><w><hi rend="decoration color:red">D</hi>ehain</w><w>ſchöne</w><w>kinn</w><w>gewan</w></l>
-                    <l n="38"><lb/><w><hi rend="decoration color:red">E</hi>s</w><w>iſt</w><w>wär</w><w>da</w><w>was</w><w>ain</w><w>böſer</w><w>man</w></l>
+                    <l n="35"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="36"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="39"><lb/><w><hi rend="decoration color:red">I</hi>n</w><w>uil</w><w>ſchwachem</w><w>werde</w></l>
-                    <l n="40"><lb/><w><hi rend="decoration color:red">S</hi>ich</w><w>hat</w><w>geſammet</w><w>uff</w><w>der</w><w>erde</w></l>
+                    <l n="37"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="38"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="41"><lb/><w><hi rend="decoration color:red">D</hi>y</w><w>nieman</w><w>anderſwa</w></l>
-                    <l n="42"><lb/><w><hi rend="decoration color:red">S</hi>o</w><w>manig</w><w>güt</w><w>ritter</w><w>als</w><w>da</w></l>
+                    <l n="39"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="40"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="43"><lb/><w><hi rend="decoration color:red">O</hi>uch</w><w>wart</w><w>jn</w><w>da</w><w>ze</w><w>hoffe</w><w>geben</w></l>
-                    <l n="44"><lb/><w><hi rend="decoration color:red">I</hi>n</w><w>alle</w><w>wÿß</w><w>erwu̍nſtes</w><w>leben</w></l>
+                    <l n="41"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="42"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="45"><lb/><w><hi rend="decoration color:red">I</hi>n</w><w>liebte</w><w>der</w><w>hoff</w><w>vnd</w><w>ir</w><w>lib</w></l>
-                    <l n="46"><lb/><w><hi rend="decoration color:red">M</hi>anig</w><w>maget</w><w>vnd</w><w>wib</w></l>
+                    <l n="43"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="44"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="47"><lb/><w><hi rend="decoration color:red">D</hi>ie</w><w>ſchönsten</w><w>von</w><w>allen</w><w>richen</w></l>
-                    <l n="48"><lb/><w><hi rend="decoration color:red">M</hi>ich</w><w>jamert</w><w>werlichen</w></l>
+                    <l n="45"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="46"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="49"><lb/><w><hi rend="decoration color:red">H</hi>u̍lffe</w><w>es</w><w>icht</w><w>ich</w><w>wölt</w><w>es</w><w>clagen</w></l>
-                    <l n="50"><lb/><w><hi rend="decoration color:red">D</hi>as</w><w>nuͮn</w><w>by</w><w>vnſern</w><w>tagen</w></l>
+                    <l n="47"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="48"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="51"><lb/><w><hi rend="decoration color:red">S</hi>öllich</w><w>fröd</w><w>nymer</w><w>werden</w><w>mag</w></l>
-                    <l n="52"><lb/><w><hi rend="decoration color:red">D</hi>er</w><w>man</w><w>zü</w><w>den</w><w>ziten</w><w>pflag</w></l>
+                    <l n="49"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="50"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="53"><lb/><w><hi rend="decoration color:red">D</hi>och</w><w>müſſen</w><w>wir</w><w>nuͮn</w><w>ouch</w><w>genëſen</w></l>
-                    <pb n="2v"/>
-                    <cb n="2v-a"/>
-                    <l n="54"><lb/><w><hi rend="decoration color:red">I</hi>ch</w><w join="right">en</w><w join="left">wolte</w><w>da</w><w>nit</w><w>ſin</w><w>geweſſen</w></l>
+                    <l n="51"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="52"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="55"><lb/><w><hi rend="decoration color:red">D</hi>as</w><w>ich</w><w>nuͮn</w><w>mich</w><w join="right">en</w><w join="left">were</w></l>
-                    <l n="56"><lb/><w><hi rend="decoration color:red">D</hi>as</w><w>vns</w><w>mit</w><w>ir</w><w>mëre</w></l>
+                    <l n="53"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="54"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="57"><lb/><w><hi rend="decoration color:red">S</hi>o</w><w>rechte</w><w>wol</w><w>weſen</w><w>ſol</w></l>
-                    <l n="58"><lb/><w><hi rend="decoration color:red">D</hi>o</w><w>tëtten</w><w>in</w><w>die</w><w>wercke</w><w>wol</w></l>
+                    <l n="55"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="56"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="59"><lb/><w><hi rend="initial color:red"><hi rend="initial color:red">A</hi></hi>rtus</w><w>vnd</w><w>die</w><w>ku̇nigin</w></l>
-                    <l n="60"><lb/><w><hi rend="decoration color:red">J</hi>etweders</w><w>vnder</w><w>jn</w></l>
+                    <l n="57"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="58"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="61"><lb/><w><hi rend="decoration color:red">S</hi>ich</w><w>uff</w><w>ir</w><w>aller</w><w>willen</w><w>flaiß</w></l>
-                    <l n="62"><lb/><w><hi rend="decoration color:red">D</hi>o</w><w>man</w><w>des</w><w>pſingſtages</w><w>enbaiß</w></l>
+                    <l n="59"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="60"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="63"><lb/><w><hi rend="decoration color:red">M</hi>englich</w><w>jm</w><w>die</w><w>fröde</w><w>nam</w></l>
-                    <l n="64"><lb/><w><hi rend="decoration color:red">D</hi>er</w><w>jm</w><w>do</w><w>aller</w><w>beſt</w><w>gezäm</w></l>
+                    <l n="61"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="62"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="65"><lb/><w><hi rend="decoration color:red">D</hi>iſe</w><w>ſpracheten</w><w>wider</w><w>die</w><w>wip</w></l>
-                    <l n="66"><lb/><w><hi rend="decoration color:red">D</hi>iſe</w><w>ſparten</w><w>den</w><w>lib</w></l>
+                    <l n="63"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="64"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="67"><lb/><w><hi rend="decoration color:red">D</hi>iſe</w><w>tantzeten</w></l>
-                    <l n="67a"><lb/><w><hi rend="decoration color:red">I</hi>r</w><w>ettlich</w><w>ſwantzeten</w></l>
-                    <!--Nummerierung in disen Zeilen     -->
+                    <l n="65"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="66"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="67b"><lb/><w><hi rend="decoration color:red">D</hi>iſe</w><w>ſungen</w><w>jene</w><w>rungen</w></l>
-                    <l n="68"><lb/><w><hi rend="decoration color:red">E</hi>tlich</w><w>ſprungen</w></l>
+                    <l n="67"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="68"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="69"><lb/><w><hi rend="decoration color:red">D</hi>iſe</w><w>horten</w><w>allerlay</w><w>ſaiten</w><w>ſpil</w></l>
-                    <l n="70"><lb/><w><hi rend="decoration color:red">D</hi>iſe</w><w>ſchuſſen</w><w>zü</w><w>dem</w><w>zil</w></l>
+                    <l n="69"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="70"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="71"><lb/><w><hi rend="decoration color:red">D</hi>iſe</w><w>redtent</w><w>von</w><w>ſender</w><w>arbeit</w></l>
-                    <l n="72"><lb/><w><hi rend="decoration color:red">D</hi>iſe</w><w>ſeitent</w><w>von</w><w>manheit</w></l>
+                    <l n="71"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="72"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="73"><lb/><w><hi rend="decoration color:red">H</hi>er</w><w>gawin</w><w>achtet</w><w>umb</w><w>waffen</w></l>
-                    <l n="74"><lb/><w><hi rend="decoration color:red">K</hi>äy</w><w>leit</w><w>ſich</w><w>ſchläffen</w></l>
-                    <lg>
-                        <l n="75"><lb/><w><hi rend="decoration color:red">U</hi>ff</w><w>dem</w><w>ſäl</w><w>vnder</w><w>jm</w></l>
-                        <l n="76"><lb/><w><hi><hi rend="decoration color:red">Z</hi></hi>e</w><w>gemäch</w><w>än</w><w>er</w><w>ſtünd</w><w>ſin</w><w>ſyn</w></l>
-                    </lg>
+                    <l n="73"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="74"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="77"><lb/><w><hi rend="init color:red">D</hi>er</w><w>king</w><w>vnd</w><w>die</w><w>kunigin</w></l>
-                    <l n="78"><lb/><w>Die</w><w>hetten</w><w>ſich</w><w>vnder</w><w>jn</w></l>
+                    <l n="75"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="76"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="79"><lb/><w><hi rend="decoration color:red">Z</hi>e</w><w>den</w><w>henden</w><w>gevangen</w></l>
-                    <l n="80"><lb/><w><hi rend="decoration color:red">V</hi>nd</w><w>warent</w><w>ſament</w><w>gangen</w></l>
+                    <l n="77"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="78"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
-                <pb n="2v"/>
-                <cb n="2v-b"/>
+                <lg>
+                    <l n="79"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="80"><lb/><w/><w/><w/><w/><w/></l>
+                </lg>
                 <lg>
                     <l n="81"><lb/><w/><w/><w/><w/><w/></l>
                     <l n="82"><lb/><w/><w/><w/><w/><w/></l>
@@ -20046,4 +20037,3 @@
         </body>
     </text>
 </TEI>
-<?oxy_options track_changes="on"?>
