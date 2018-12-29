@@ -34,11 +34,24 @@
             <div>
                 <pb n="5v"/>
                 <cb n="5v-c"/>
-                <head rend="colour:red">
-                    <lb n="49"/><w>Von</w><w>künig</w><w>Artus</w><w>hochzeit</w><pc type="ms">·</pc><w>auch</w>
-                    <lb n="50"/><w>von</w><w>ſeinem</w><w>Recht</w><pc type="ms">·</pc><w>deſgleichen</w><w part="I">hofge</w><pc type="ms">⸗</pc>
-                    <lb n="51"/><w part="F">ſind</w><pc type="ms">·</pc><w>vnd</w><w>geſchäfften</w><pc type="ms">·</pc><w>als</w><w>von</w><w part="I">Ca</w><pc type="ms">⸗</pc>
-                    <lb n="52"/><w part="F">logriant</w><pc type="ms">·</pc><w>Chaÿ</w><pc type="ms">·</pc><w>he<choice><am>r ͛</am><ex>rr</ex></choice></w><w>Yban</w><pc type="ms">·</pc><w>vnd</w>
+                <head rend="color:red">
+                    <lb n="49"/><w>Von</w><w>künig</w><w>Artus</w><w>hochzeit</w><pc type="ms"
+                        >·</pc><w>auch</w>
+                    <lb n="50"/><w>von</w><w>ſeinem</w><w>Recht</w><pc type="ms"
+                        >·</pc><w>deſgleichen</w><w part="I">hofge</w><pc type="ms">⸗</pc>
+                    <lb n="51"/><w part="F">ſind</w><pc type="ms">·</pc><w><choice>
+                            <orig>v</orig>
+                            <reg>u</reg>
+                        </choice>nd</w><w>geſchäfften</w><pc type="ms">·</pc><w>als</w><w>von</w><w
+                        part="I">Ca</w><pc type="ms">⸗</pc>
+                    <lb n="52"/><w part="F">logriant</w><pc type="ms">·</pc><w>Chaÿ</w><pc type="ms"
+                        >·</pc><w>he<choice>
+                            <am>r ͛</am>
+                            <ex>rr</ex>
+                        </choice></w><w>Yban</w><pc type="ms">·</pc><w><choice>
+                            <orig>v</orig>
+                            <reg>u</reg>
+                        </choice>nd</w>
                     <lb n="53"/><w>anndern</w><metamark>&amp;</metamark>
                 </head>
                 <pb n="6r"/>
