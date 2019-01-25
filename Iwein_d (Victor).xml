@@ -1,6 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://digi.ub.uni-heidelberg.de/schema/tei/heiEDITIONS/tei_hes.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://digi.ub.uni-heidelberg.de/schema/tei/heiEDITIONS/tei_hes.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:hei="https://digi.ub.uni-heidelberg.de/schema/tei/heiEDITIONS" type="reimpaar_frame">
     <teiHeader>
         <fileDesc>
@@ -35,7 +36,7 @@
             <div>
                 <pb n="5v"/>
                 <cb n="5v-c"/>
-                <head hei:color="color:red">
+                <head ana="hc:WorkHeading">
                     <lb n="49"/><w>Von</w><w>künig</w><w>Artus</w><w>hochzeit</w><pc type="ms">·</pc><w>auch</w>
                     <lb n="50"/><w>von</w><w>ſeinem</w><w>Recht</w><pc type="ms">·</pc><w>deſgleichen</w><w part="I">hofge</w><pc type="ms">⸗</pc>
                     <lb n="51"/><w part="F">ſind</w><pc type="ms">·</pc><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>geſchäfften</w><pc type="ms">·</pc><w>als</w><w>von</w><w part="I">Ca</w><pc type="ms">⸗</pc>
@@ -45,7 +46,7 @@
                 <pb n="6r"/>
                 <cb n="6r-a"/>
                 <lg>
-                    <l n="1"><lb n="1"/><w><hi rend="initial color:gold" n="7">W</hi>er</w><w>an</w><w>zerte</w><w>guete</w><pc type="ms">·</pc></l>
+                    <l n="1"><lb n="1"/><w><hei:initial hei:color="Gold" hei:heightLines="7">W</hei:initial>er</w><w>an</w><w>zerte</w><w>guete</w><pc type="ms">·</pc></l>
                     <l n="2"><lb n="2"/><w>wenndet</w><w>ſein</w><w part="I">ge</w><pc type="ms">⸗</pc><lb n="3"/><w part="F">müete</w><pc type="ms">·</pc></l>
                 </lg>
                 <lg>
@@ -701,7 +702,7 @@
                 </lg>
                 <lg>
                     <l n="327"><w>das</w><w>gab</w><w>sÿ</w><lb n="5"/><w>mir</w><w>an</w><pc type="ms">·</pc></l>
-                    <l n="328"><w>Ic</w>h<w><choice><orig>v</orig><reg>u</reg></choice>nseliger</w><w>man</w><pc type="ms">·</pc></l>
+                    <l n="328"><w>Ich</w><w><choice><orig>v</orig><reg>u</reg></choice>nseliger</w><w>man</w><pc type="ms">·</pc></l>
                 </lg>
                 <lg>
                     <l n="329"><w>daz</w><w>sÿ</w><lb n="6"/><w>meine</w><w>augen</w><w>ye</w><w>geſahen</w><pc type="ms">·</pc></l>
@@ -1328,7 +1329,7 @@
                     <l n="640"><w>do</w><w>zergieng</w><w>das</w><w>voglgeſang</w><pc type="ms">·</pc></l>
                 </lg>
                 <lg>
-                    <l n="641"><lb n="60"/><w>die</w><w>wolcke</w>n<w>begunden</w><pc type="ms">·</pc></l>
+                    <l n="641"><lb n="60"/><w>die</w><w>wolcken</w><w>begunden</w><pc type="ms">·</pc></l>
                     <l n="642"><w>in</w><w>den</w><w>ſelben</w><lb n="61"/><w>ſtunden</w><pc type="ms">·</pc></l>
                 </lg>
                 <lg>
@@ -1440,7 +1441,7 @@
                     <l n="696"><w>was</w><lb n="37"/><w>grÿmme</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>alſo</w><w>herte</w><pc type="ms">·</pc></l>
                 </lg>
                 <lg>
-                    <l n="697"><lb n="38"/><w>daz</w><w>ich</w><w>des</w><w>wänte</w><w>es</w><w>wär</w><w>ei</w>n<w>her</w><pc type="ms">·</pc></l>
+                    <l n="697"><lb n="38"/><w>daz</w><w>ich</w><w>des</w><w>wänte</w><w>es</w><w>wär</w><w>ein</w><w>her</w><pc type="ms">·</pc></l>
                     <l n="698"><w>yedoch</w><lb n="39"/><w>beraite</w><w>ich</w><w>mich</w><w>ze</w><w>wer</w><pc type="ms">·</pc></l>
                 </lg>
                 <lg>
@@ -1717,7 +1718,7 @@
                     <l n="834"><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><lb n="16"/><w>gebet</w><w>mir</w><w>nicht</w><w join="right">ze</w><w join="left">taile</w><pc type="ms">·</pc></l>
                 </lg>
                 <lg>
-                    <l n="835"><w>was</w><w>Ew</w><w>da</w><lb n="17"/><w>Eere</w>n<w>geſchicht</w><pc type="ms">·</pc></l>
+                    <l n="835"><w>was</w><w>Ew</w><w>da</w><lb n="17"/><w>Eeren</w><w>geſchicht</w><pc type="ms">·</pc></l>
                     <l n="836"><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>zelet</w><w>mir</w><w>auch</w><lb n="18"/><w>halben</w><w>ſchaden</w><w>nicht</w><pc type="ms">·</pc></l>
                 </lg>
                 <lg>
