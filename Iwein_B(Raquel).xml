@@ -1,14 +1,15 @@
-﻿<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" type="reimpaar_frame">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Iwein-Hs. b</title>
+                <title>Iwein-Hs. B</title>
                 <author>Hartmann von Aue</author>
                 <respStmt>
                     <resp>transcription</resp>
-                    <persName>Roberto Rivas Couce</persName>
+                    <persName>Raquel Pereira Gil</persName>
                 </respStmt>
             </titleStmt>
             <publicationStmt>
@@ -16,15 +17,13 @@
             </publicationStmt>
             <sourceDesc>
                 <listWit>
-                    <witness xml:id="b">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>Heidelberg</settlement>
-                                <repository>Universitätsbibliothek</repository>
-                                <idno>cod. pal. germ. 391</idno>
-                            </msIdentifier>
-                        </msDesc>
-                    </witness>
+                    <witness xml:id="B"><msDesc>
+                        <msIdentifier>
+                            <settlement>Gießen</settlement>
+                            <repository>Universitätsbibliothek</repository>
+                            <idno>Hs. 97</idno>
+                        </msIdentifier>
+                        </msDesc></witness>
                 </listWit>
             </sourceDesc>
         </fileDesc>
@@ -34,760 +33,725 @@
             <div>
                 <pb n="1r"/>
                 <cb n="1r-a"/>
-                <head rend="color:red">
-                    <lb n="0"/><w>Ein</w><w>gedicht</w><w>von</w><w>Ritter</w><w>Hartm<gap reason="cut_off" extent="2" unit="chars"/></w>
-                </head>
                 <lg>
-                    <l n="1"><lb n="1"/><w><hi rend="initial color:red" n="6">W</hi><hi rend="decoration color:red">E</hi>re</w><w>an</w><w>rechte</w><w>güte</w></l>
-                    <l n="2"><lb n="2"/><w><hi rend="decoration color:red">W</hi>endet</w><w>ſin</w><w>gemüte</w></l>
+                    <l n="1"><lb n="1"/><w><hi rend="deluxe_initial colour:blue" n="8">S</hi>wer</w><w>an</w><w>rehte</w><w>gvͤte</w></l>
+                    <l n="2"><lb n="2"/><w>wendet</w><w>ſin</w><w>gemvͤte</w></l>
                 </lg>
                 <lg>
-                    <l n="3"><lb n="3"/><w><hi rend="decoration color:red">D</hi>em</w><w>volget</w><w>ſelde</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>ere</w></l>
-                    <l n="4"><lb n="4"/><w><hi rend="decoration color:red">D</hi>es</w><w>gyt</w><w>gewiſz</w><w>lere</w></l>
+                    <l n="3"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="4"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="5"><lb n="5"/><w><hi rend="decoration color:red">k</hi>unig</w><w>artus</w><w>der</w><w>gut</w></l>
-                    <l n="6"><lb n="6"/><w><hi rend="decoration color:red">D</hi>er</w><w>ye</w><w>mit</w><w>ritters</w><w>muͦt</w></l>
+                    <l n="5"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="6"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="7"><lb n="7"/><w><hi rend="decoration color:red">N</hi>och</w><w>lobe</w><w>kunde</w><w>ſtrÿten</w></l>
-                    <l n="8"><lb n="8"/><w><hi rend="decoration color:red">E</hi>r</w><w>hat</w><w>bÿ</w><w>ſinen</w><w>zÿten</w></l>
+                    <l n="7"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="8"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="9"><lb n="9"/><w><hi rend="decoration color:red">G</hi>elebet</w><w>alſo</w><w>ſchone</w></l>
-                    <l n="10"><lb n="10"/><w><hi rend="decoration color:red">D</hi>az</w><w>er</w><w>der</w><w>eren</w><w>krone</w></l>
+                    <l n="9"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="10"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="11"><lb n="11"/><w><hi rend="decoration color:red">D</hi>o</w><w>truge</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>noch</w><w>ſin</w><w>name</w><w>treit</w></l>
-                    <l n="12"><lb n="12"/><w><hi rend="decoration color:red">D</hi>es</w><w><choice><orig>i</orig><reg>j</reg></choice>ehent</w><w>yme</w><w>der</w><w>worheit</w></l>
+                    <l n="11"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="12"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="13"><lb n="13"/><w><hi rend="decoration color:red">S</hi>ine</w><w>lannde</w><w>lüte</w></l>
-                    <l n="14"><lb n="14"/><w><hi rend="decoration color:red"><choice><orig>V</orig><reg>U</reg></choice></hi>nd</w><w>wenne</w><w>er</w><w>lebe</w><w>noch</w><w>hüte</w></l>
+                    <l n="13"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="14"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="15"><lb n="15"/><w><hi rend="decoration color:red">E</hi>r</w><w>hat</w><w>dieſz</w><w>lob</w><w>erworben</w></l>
-                    <l n="16"><lb n="16"/><w><hi rend="decoration color:red"><choice><orig>J</orig><reg>I</reg></choice></hi>ſt</w><w>yme</w><w>der</w><w>lip</w><w>erſtorben</w></l>
+                    <l n="15"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="16"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="17"><lb n="17"/><w><hi rend="decoration color:red">S</hi>o</w><w>lebt</w><w>doch</w><w>ymer</w><w>ſin</w><w>name</w></l>
-                    <l n="18"><lb n="18"/><w><hi rend="decoration color:red">E</hi>r</w><w>iſt</w><w>laſterlicher</w><w>ſchame</w></l>
+                    <l n="17"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="18"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="19"><lb n="19"/><w><hi rend="decoration color:red">Y</hi>mmer</w><w><choice><orig>u</orig><reg>v</reg></choice>il</w><w>gar</w><w>verhert</w></l>
-                    <l n="20"><lb n="20"/><w><hi rend="decoration color:red">D</hi>er</w><w>noch</w><w>nach</w><w>ſinem</w><w>ſitten</w><w>fert</w></l>
+                    <l n="19"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="20"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="21"><lb n="21"/><w><hi rend="initial color:red" n="2">E</hi>ine</w><w>ritter</w><w>ſo</w><w>geleret</w><w>waz</w></l>
-                    <l n="22"><lb n="22"/><w><hi rend="decoration color:red">D</hi>az</w><w>er</w><w>an</w><w>den</w><w>büchen</w><w>laſz</w></l>
+                    <l n="21"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="22"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
-                <pb n="1v"/>
-                <cb n="1v-a"/>
                 <lg>
-                    <l n="23"><lb n="1"/><w><hi rend="decoration color:red">W</hi>enne</w><w>er</w><w>ſin</w><w>ſtünde</w></l>
-                    <l n="24"><lb n="2"/><w><hi rend="decoration color:red">N</hi>icht</w><w>baſz</w><w>bewenden</w><w>künde</w></l>
+                    <l n="23"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="24"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="25"><lb n="3"/><w><hi rend="decoration color:red">D</hi>az</w><w>er</w><w>auch</w><w>diechtens</w><w>pflage</w></l>
-                    <l n="26"><lb n="4"/><w><hi rend="decoration color:red">D</hi>az</w><w>man</w><w>noch</w><w>gerne</w><w>horn</w><w>mag</w></l>
+                    <l n="25"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="26"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="27"><lb n="5"/><w><hi rend="decoration color:red">D</hi>o</w><w>kert</w><w>er</w><w>ſinen</w><w>fliſze</w><w>an</w></l>
-                    <l n="28"><lb n="6"/><w><hi rend="decoration color:red">G</hi>eheiſſen</w><w>waz</w><w>er</w><w>hartman</w></l>
-                    <!--Hartmann von späterer Hand unterstrichen-->
+                    <l n="27"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="28"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="29"><lb n="7"/><w><hi rend="decoration color:red"><choice><orig>V</orig><reg>U</reg></choice></hi>nd</w><w>waz</w><w>eine</w><w>oüware</w></l>
-                    <l n="30"><lb n="8"/><w><hi rend="decoration color:red">D</hi>er</w><w>diecht</w><w>dieſz</w><w>mere</w></l>
+                    <l n="29"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="30"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="31"><lb n="9"/><w><hi rend="initial color:red" n="2">E</hi>s</w><w>hette</w><w>der</w><w>kunig</w><w>artüs</w></l>
-                    <!-- Artus von späterer Hand unterstrichen-->
-                    <l n="32"><lb n="10"/><w><hi rend="decoration color:red">Z</hi>u</w><w>karidol</w><w>in</w><w>ſinem</w><w>hüſe</w></l>
+                    <l n="31"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="32"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="33"><lb n="11"/><w><hi rend="decoration color:red">Z</hi>u</w><w>ein<choice><am>ē</am><ex>em</ex></choice></w><w>pfingſten</w><w>geleit</w></l>
-                    <l n="34"><lb n="12"/><w><hi rend="decoration color:red">N</hi>ach</w><w>rittere</w><w>gewonheit</w></l>
+                    <l n="33"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="34"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="35"><lb n="13"/><w><hi rend="decoration color:red">E</hi>ine</w><w>alſo</w><w>ſchone</w><w>hochtzÿt</w></l>
-                    <l n="36"><lb n="14"/><w><hi rend="decoration color:red">D</hi>az</w><w>er</w><w>vor</w><w>des</w><w>noch</w><w>ſÿt</w></l>
+                    <l n="35"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="36"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="37"><lb n="15"/><w><hi rend="decoration color:red">k</hi>eine</w><w>ſchoner</w><w>nye</w><w>gewane</w></l>
-                    <l n="38"><lb n="16"/><w join="right"><hi rend="decoration color:red">D</hi>e</w><w join="left">s</w><w>war</w><w>da</w><w>waz</w><w>eine</w><w>ſwacher</w><w>man</w></l>
+                    <l n="37"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="38"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="39"><lb n="17"/><w><hi rend="decoration color:red"><choice><orig>J</orig><reg>I</reg></choice></hi>n</w><w>hart</w><w>boſem</w><w>werde</w></l>
-                    <l n="40"><lb n="18"/><w><hi rend="decoration color:red">W</hi>ann</w><w>ſich</w><w>geſamet</w><w>off</w><w>der</w><w>erde</w></l>
+                    <l n="39"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="40"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="41"><lb n="19"/><w><hi rend="decoration color:red">B</hi>y</w><w>nymants</w><w>zÿten</w><w>anderſwa</w></l>
-                    <l n="42"><lb n="20"/><w><hi rend="decoration color:red">S</hi>o</w><w>manig</w><w>gut</w><w>ritter</w><w>als</w><w>da</w></l>
+                    <l n="41"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="42"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="43"><lb n="21"/><w><hi rend="decoration color:red">A</hi>uch</w><w>waz</w><w>yne</w><w>zü</w><w>ho<choice><orig>ü</orig><reg>v</reg></choice>e</w><w>gegeben</w></l>
-                    <l n="44"><lb n="22"/><w><hi rend="decoration color:red"><choice><orig>J</orig><reg>I</reg></choice></hi>n</w><w>aller</w><w>wyſe</w><w>eine</w><w>wunſche</w><w>leben</w></l>
+                    <l n="43"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="44"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
-                <pb n="2r"/>
-                <cb n="2r-a"/>
                 <lg>
-                    <l n="45"><lb n="1"/><w><hi rend="decoration color:red"><choice><orig>J</orig><reg>I</reg></choice></hi>ne</w><w>liebt</w><w>hoff</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>lip</w></l>
-                    <l n="46"><lb n="2"/><w><hi rend="decoration color:red">M</hi>anig</w><w>magt</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>wip</w></l>
+                    <l n="45"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="46"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="47"><lb n="3"/><w><hi rend="decoration color:red">D</hi>ie</w><w>ſchonſten</w><w>von</w><w>den</w><w>richen</w></l>
-                    <l n="48"><lb n="4"/><w><hi rend="decoration color:red">M</hi>ich</w><w><choice><orig>i</orig><reg>j</reg></choice>amert</w><w>werlichen</w></l>
+                    <l n="47"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="48"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="49"><lb n="5"/><w><hi rend="decoration color:red"><choice><orig>V</orig><reg>U</reg></choice></hi>nd</w><w>hülff</w><w>es</w><w>icht</w><w>ich</w><w>wolt</w><w>es</w><w>clagen</w></l>
-                    <l n="50"><lb n="6"/><w><hi rend="decoration color:red">D</hi>az</w><w>nü</w><w>bÿ</w><w><choice><orig>v</orig><reg>u</reg></choice>nſern</w><w>tagen</w></l>
+                    <l n="49"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="50"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="51"><lb n="7"/><w><hi rend="decoration color:red">S</hi>oliche</w><w>freude</w><w>nÿmer</w><w>werden</w><w>mag</w></l>
-                    <l n="52"><lb n="8"/><w><hi rend="decoration color:red">A</hi>ls</w><w>man</w><w>zü</w><w>den</w><w>zÿten</w><w>pflage</w></l>
+                    <l n="51"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="52"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="53"><lb n="9"/><w><hi rend="decoration color:red">D</hi>och</w><w>müſzen</w><w>wir</w><w>auch</w><w>nu</w><w>geneſen</w></l>
-                    <l n="54"><lb n="10"/><w><hi rend="decoration color:red"><choice><orig>J</orig><reg>I</reg></choice></hi>ch</w><w>wolt</w><w>da</w><w>nicht</w><w>ſin</w><w>geweſen</w></l>
+                    <l n="53"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="54"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="55"><lb n="11"/><w><hi rend="decoration color:red">D</hi>as</w><w>ich</w><w>nu</w><w>nicht</w><w>enwere</w></l>
-                    <l n="56"><lb n="12"/><w><hi rend="decoration color:red">S</hi>yt</w><w><choice><orig>v</orig><reg>u</reg></choice>ns</w><w>von</w><w>ir</w><w>mere</w></l>
+                    <l n="55"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="56"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="57"><lb n="13"/><w><hi rend="decoration color:red">N</hi>och</w><w>ſo</w><w>wol</w><w>werden</w><w>ſol</w></l>
-                    <l n="58"><lb n="14"/><w><hi rend="decoration color:red">D</hi>a</w><w>deten</w><w>yne</w><w>die</w><w>wercke</w><w><choice><orig>u</orig><reg>v</reg></choice>il</w><w>wol</w></l>
+                    <l n="57"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="58"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="59"><lb n="15"/><w><hi rend="initial color:red" n="2">A</hi>rtus</w><w>
-                            <choice><orig>v</orig><reg>u</reg></choice>nd</w><w>die</w><w>kunigein</w></l>
-                    <l n="60"><lb n="16"/><w><hi rend="decoration color:red"><choice><orig>J</orig><reg>I</reg></choice></hi>r</w><w>ytweders</w><w><choice><orig>v</orig><reg>u</reg></choice>nder</w><w>ÿne</w></l>
+                    <l n="59"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="60"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="61"><lb n="17"/><w><hi rend="decoration color:red">S</hi>ich</w><w>off</w><w>ir</w><w>aller</w><w>willen</w><w>fleis</w></l>
-                    <l n="62"><lb n="18"/><w><hi rend="decoration color:red">D</hi>a</w><w>man</w><w>des</w><w>pfingſtages</w><w>enbeiſz</w></l>
+                    <l n="61"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="62"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="63"><lb n="19"/><w><hi rend="decoration color:red"><choice><orig>J</orig><reg>I</reg></choice></hi>glicher</w><w>yme</w><w>die</w><w>freude</w><w>name</w></l>
-                    <l n="64"><lb n="20"/><w><hi rend="decoration color:red">D</hi>er</w><w>in</w><w>aller</w><w>beſte</w><w>getzame</w></l>
+                    <l n="63"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="64"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="65"><lb n="21"/><w><hi rend="decoration color:red">D</hi>ieſe</w><w>ſprachten</w><w>widder</w><w>die</w><w>wibe</w></l>
-                    <l n="66"><lb n="22"/><w><hi rend="decoration color:red">D</hi>ie</w><w>barlierhten</w><w>den</w><w>lip</w></l>
-                    <!-- zu bärlîchen? zu parlieren? -->
+                    <l n="65"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="66"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
-                <pb n="2v"/>
-                <cb n="2v-a"/>
                 <lg>
-                    <l n="67"><lb n="1"/><w><hi rend="decoration color:red">D</hi>ieſe</w><w>dantzten</w><w>dieſe</w><w>ſungen</w></l>
-                    <l n="68"><lb n="2"/><w><hi rend="decoration color:red">D</hi>ieſe</w><w>lieffen</w><w>dieſe</w><w>ſprüngen</w></l>
+                    <l n="67"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="68"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="69"><lb n="3"/><w><hi rend="decoration color:red">D</hi>ieſe</w><w>ſchuſzen</w><w>zu</w><w>dem</w><w>ziele</w></l>
-                    <l n="70"><lb n="4"/><w><hi rend="decoration color:red">D</hi>ieſe</w><w>horten</w><w>ſeyten</w><w>ſpiele</w></l>
+                    <l n="69"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="70"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="71"><lb n="5"/><w><hi rend="decoration color:red">D</hi>ieſe</w><w>retten</w><w>von</w><w>ſender</w><w>arbeit</w></l>
-                    <l n="72"><lb n="6"/><w><hi rend="decoration color:red">D</hi>ieſe</w><w>von</w><w>manheit</w></l>
+                    <l n="71"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="72"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="73"><lb n="7"/><w><hi rend="decoration color:red">G</hi>awein</w><w>achte</w><w><choice><orig>v</orig><reg>u</reg></choice>mb</w><w>waffen</w></l>
-                    <l n="74"><lb n="8"/><w><hi rend="decoration color:red">k</hi>eÿie</w><w>leÿten</w><w>ſich</w><w>ſlaffen</w></l>
+                    <l n="73"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="74"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="75"><lb n="9"/><w><hi rend="decoration color:red"><choice><orig>V</orig><reg>U</reg></choice></hi>ff</w><w>dem</w><w>ſal</w><w><choice><orig>v</orig><reg>u</reg></choice>nder</w><w>yne</w></l>
-                    <l n="76"><lb n="10"/><w><hi rend="decoration color:red">Z</hi>ü</w><w>gemache</w><w>ane</w><w>ere</w><w>ſtünt</w><w>ſin</w><w>ſÿn</w></l>
+                    <l n="75"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="76"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="77"><lb n="11"/><w><hi rend="initial color:red" n="2">D</hi>er</w><w>kunig</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>die</w><w>kunigÿnne</w></l>
-                    <l n="78"><lb n="12"/><w><hi rend="decoration color:red">D</hi>ie</w><w>hetten</w><w>ſich</w><w>auch</w><w><choice><orig>v</orig><reg>u</reg></choice>nder</w><w>yne</w></l>
+                    <l n="77"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="78"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="79"><lb n="13"/><w><hi rend="decoration color:red">Z</hi>u</w><w>handen</w><w>gefangen</w></l>
-                    <l n="80"><lb n="14"/><w><hi rend="decoration color:red"><choice><orig>V</orig><reg>U</reg></choice></hi>nd</w><w>woren</w><w>auch</w><w>gegangen</w></l>
+                    <l n="79"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="80"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="81"><lb n="15"/><w><hi rend="decoration color:red"><choice><orig>J</orig><reg>I</reg></choice></hi>n</w><w>eine</w><w>kemnaten</w><w>da</w></l>
-                    <l n="82"><lb n="16"/><w><hi rend="decoration color:red"><choice><orig>V</orig><reg>U</reg></choice></hi>nd</w><w>leiten</w><w>ſich</w><w>auch</w><w>ſa</w></l>
+                    <l n="81"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="82"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="83"><lb n="17"/><w><hi rend="decoration color:red">M</hi>ee</w><w>dürche</w><w>geſellikeit</w></l>
-                    <l n="84"><lb n="18"/><w><hi rend="decoration color:red">D</hi>ann</w><w>durch</w><w>ir</w><w>tragheyt</w></l>
+                    <l n="83"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="84"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="85"><lb n="19"/><w><hi rend="decoration color:red"><choice><orig>V</orig><reg>U</reg></choice></hi>nd</w><w>entſlieffen</w><w>beyde</w><w>ſchiere</w></l>
-                    <l n="86"><lb n="20"/><w><hi rend="decoration color:red">N</hi>un</w><w>geſaſſen</w><w>ritter</w><w>viere</w></l>
+                    <l n="85"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="86"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="87"><lb n="21"/><w><hi rend="decoration color:red">D</hi>odimes</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w><hi rend="decoration color:red">G</hi>awine</w></l>
-                    <l n="88"><lb n="22"/><w><hi rend="decoration color:red">S</hi>igremors</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>ywine</w></l>
+                    <l n="87"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="88"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
-                <pb n="3r"/>
-                <cb n="3r-a"/>
                 <lg>
-                    <l n="89"><lb n="1"/><w><hi rend="decoration color:red">A</hi>uch</w><w>was</w><w>gelegen</w><w>dabÿ</w></l>
-                    <l n="90"><lb n="2"/><w><hi rend="decoration color:red">d</hi>er</w><w>zuchtloſe</w><w>key</w></l>
+                    <l n="89"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="90"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="91"><lb n="3"/><w><hi rend="decoration color:red"><choice><orig>V</orig><reg>U</reg></choice></hi>ſzerhalp</w><w>bÿ</w><w>der</w><w>want</w></l>
-                    <l n="92"><lb n="4"/><w><hi rend="decoration color:red">d</hi>as</w><w>ſechſt</w><w>waz</w><w>kolocriant</w></l>
+                    <l n="91"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="92"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="93"><lb n="5"/><w><hi rend="decoration color:red">d</hi>er</w><w>begonde</w><w>ſagen</w><w>mere</w></l>
-                    <l n="94"><lb n="6"/><w><hi rend="decoration color:red">V</hi>on</w><w>groſzer</w><w>ſiner</w><w>ſwere</w></l>
+                    <l n="93"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="94"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="95"><lb n="7"/><w><hi rend="decoration color:red"><choice><orig>V</orig><reg>U</reg></choice></hi>nd</w><w>nicht</w><w>von</w><w>ſiner</w><w>frümkeit</w></l>
-                    <l n="96"><lb n="8"/><w><hi rend="decoration color:red">d</hi>a</w><w>er</w><w>yne</w><w>lützel</w><w>hette</w><w>geſeit</w></l>
+                    <l n="95"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="96"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="97"><lb n="9"/><w><hi rend="decoration color:red">d</hi>a</w><w>erwachet</w><w>die</w><w>kunigÿn</w></l>
-                    <l n="98"><lb n="10"/><w><hi rend="decoration color:red"><choice><orig>V</orig><reg>U</reg></choice></hi>nd</w><w>erhort</w><w>ſin</w><w>ſagen</w><w>hin</w><w>jne</w></l>
-                    <!-- jne korrigiert aus me! -->
+                    <l n="97"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="98"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="99"><lb n="11"/><w><hi rend="decoration color:red">S</hi>ie</w><w>lieſz</w><w>ligen</w><w>den</w><w>kunig</w><w>ir<choice><am>ē</am><ex>en</ex></choice></w><w>man</w></l>
-                    <l n="100"><lb n="12"/><w><hi rend="decoration color:red"><choice><orig>V</orig><reg>U</reg></choice></hi>nd</w><w>ſtale</w><w>ſich</w><w>von</w><w>yme</w><w>dan</w></l>
+                    <l n="99"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="100"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="101"><lb n="13"/><w><hi rend="decoration color:red"><choice><orig>V</orig><reg>U</reg></choice></hi>nd</w><w>ſleiche</w><w>zu</w><w>yne</w><w>ſo</w><w>lyſe</w><w>dar</w></l>
-                    <l n="102"><lb n="14"/><w><hi rend="decoration color:red">D</hi>az</w><w>ir</w><w>keyner</w><w>warde</w><w>gewar</w></l>
+                    <l n="101"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="102"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="103"><lb n="15"/><w><hi rend="decoration color:red">B</hi>iſz</w><w>ſie</w><w>yne</w><w>kame</w><w>ſo</w><w>nahen</w><w>bÿ</w></l>
-                    <l n="104"><lb n="16"/><w><hi rend="decoration color:red"><choice><orig>V</orig><reg>U</reg></choice></hi>nd</w><w join="right">en</w><w join="left"><choice><orig>u</orig><reg>v</reg></choice>il</w><w join="right">en</w><w join="left">mitten</w><w><choice><orig>v</orig><reg>u</reg></choice>nder</w><w>ſÿ</w></l>
+                    <l n="103"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="104"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="105"><lb n="17"/><w><hi rend="decoration color:red">N</hi>ur</w><w>alleine</w><w><hi rend="decoration color:red">C</hi>olocriant</w></l>
-                    <l n="106"><lb n="18"/><w><hi rend="decoration color:red">d</hi>er</w><w>ſprang</w><w>gegen</w><w>ir</w><w>zuhant</w></l>
+                    <l n="105"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="106"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="107"><lb n="19"/><w><hi rend="decoration color:red">E</hi>r</w><w>neÿg</w><w>ir</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>empfing</w><w>ſÿ</w></l>
-                    <l n="108"><lb n="20"/><w><hi rend="decoration color:red">d</hi>a</w><w>ertzeigt</w><w>aber</w><w>keÿ</w></l>
+                    <l n="107"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="108"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="109"><lb n="21"/><w><hi rend="decoration color:red">S</hi>in</w><w>alte</w><w>gewonheit</w></l>
-                    <l n="110"><lb n="22"/><w><hi rend="decoration color:red">d</hi>es</w><w>mannes</w><w>ere</w><w>waz</w><w>yme</w><w>leÿt</w></l>
+                    <l n="109"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="110"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="111"><lb n="23"/><w><hi rend="decoration color:red">E</hi>r</w><w>ſtrafft</w><w>ÿne</w><w>darumb</w><w>ſere</w></l>
-                    <pb n="3v"/>
-                    <cb n="3v-a"/>
-                    <l n="112"><lb n="1"/><w><hi rend="decoration color:red"><choice><orig>V</orig><reg>U</reg></choice></hi>nd</w><w>ſprache</w><w>yme</w><w>an</w><w>ſin</w><w>ere</w></l>
+                    <l n="111"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="112"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="113"><lb n="2"/><w><hi rend="initial color:red" n="2">E</hi><hi rend="decoration color:red">r</hi></w><w>ſprach</w><w>here</w><w>Colocriant</w></l>
-                    <l n="114"><lb n="3"/><w><hi rend="decoration color:red"><choice><orig>V</orig><reg>U</reg></choice></hi>ns</w><w>waz</w><w>daz</w><w>allen</w><w>wol</w><w>erkant</w></l>
+                    <l n="113"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="114"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="115"><lb n="4"/><w><hi rend="decoration color:red">d</hi>az</w><w><choice><orig>v</orig><reg>u</reg></choice>nder</w><w><choice><orig>v</orig><reg>u</reg></choice>ns</w><w>nymant</w><w>were</w></l>
-                    <l n="116"><lb n="5"/><w><hi rend="decoration color:red">S</hi>o</w><w>hubſche</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>ſo</w><w>erbere</w></l>
+                    <l n="115"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="116"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="117"><lb n="6"/><w><hi rend="decoration color:red">A</hi>ls</w><w>ir</w><w>wenent</w><w>das</w><w>ir</w><w>ſyt</w></l>
-                    <l n="118"><lb n="7"/><w><hi rend="decoration color:red">A</hi>uch</w><w>laſzen</w><w>wir</w><w>üch</w><w>den</w><w>ſtryt</w></l>
+                    <l n="117"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="118"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="119"><lb n="8"/><w><hi rend="decoration color:red">V</hi>or</w><w>allem</w><w>üweren</w><w>geſellen</w></l>
-                    <l n="120"><lb n="9"/><w><hi rend="decoration color:red">O</hi>b</w><w>wir</w><w>ſelbe</w><w>wollen</w></l>
+                    <l n="119"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="120"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="121"><lb n="10"/><w><hi rend="decoration color:red">M</hi>ich</w><w>duncket</w><w>des</w><w>wan</w><w>ſol</w><w>uch</w><w><choice><orig>j</orig><reg>i</reg></choice>n</w><w>lan</w></l>
-                    <l n="122"><lb n="11"/><w><hi rend="decoration color:red">A</hi>uch</w><w>ſol</w><w>es</w><w>myn</w><w>fraüwe</w><w>dafur</w><w>han</w></l>
+                    <l n="121"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="122"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="123"><lb n="12"/><w><hi rend="decoration color:red">S</hi>ie</w><w>dete</w><w>uch</w><w>anders</w><w>gewalt</w></l>
-                    <l n="124"><lb n="13"/><w><hi rend="decoration color:red">E</hi>uwer</w><w>zucht</w><w>iſt</w><w>ſo</w><w>manigfalt</w></l>
+                    <l n="123"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="124"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="125"><lb n="14"/><w><hi rend="decoration color:red"><choice><orig>J</orig><reg>I</reg></choice></hi>r</w><w>duncket</w><w>uch</w><w>ſo</w><w>volkomen</w></l>
-                    <l n="126"><lb n="15"/><w><hi rend="decoration color:red"><choice><orig>V</orig><reg>U</reg></choice></hi>nd</w><w>habt</w><w>des</w><w>uch</w><w>war</w><w>angenomen</w></l>
+                    <l n="125"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="126"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="127"><lb n="16"/><w><hi rend="decoration color:red"><choice><orig>J</orig><reg>I</reg></choice></hi>r</w><w join="right">en</w><w join="left">wiſſent</w><w>ſelbe</w><w>was</w></l>
-                    <l n="128"><lb n="17"/><w><hi rend="decoration color:red"><choice><orig>V</orig><reg>U</reg></choice></hi>nfer</w><w>keyner</w><w>waz</w><w>ſo</w><w>laſz</w></l>
+                    <l n="127"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="128"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="129"><lb n="18"/><w><hi rend="decoration color:red">H</hi>ette</w><w>er</w><w>dy</w><w>kunigin</w><w>erſehen</w></l>
-                    <l n="130"><lb n="19"/><w join="right"><hi rend="decoration color:red">d</hi>ie</w><w>ſelbe</w><w>zücht</w><w>were</w><w>im</w><w>geſcheen</w></l>
+                    <l n="129"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="130"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="131"><lb n="20"/><w><hi rend="decoration color:red">d</hi>ie</w><w>uwer</w><w>einem</w><w>da</w><w>geſchach</w></l>
-                    <l n="132"><lb n="21"/><w><hi rend="decoration color:red">d</hi>a</w><w>ſÿ</w><w>nymant</w><w>mee</w><w>geſach</w></l>
+                    <l n="131"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="132"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="133"><lb n="22"/><w><hi rend="decoration color:red">d</hi>artzu</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w join="right">wir</w><w join="left">s</w><w>vergaſzen</w></l>
-                    <l n="134"><lb n="23"/><w><hi rend="decoration color:red">d</hi>as</w><w>wir</w><w>ſtille</w><w>geſaſzen</w></l>
+                    <l n="133"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="134"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
-                <pb n="4r"/>
-                <cb n="4r-a"/>
                 <lg>
-                    <l n="135"><lb n="1"/><w><hi rend="decoration color:red">D</hi>a</w><w>ſoltent</w><w>auch</w><w>ir</w><w>geſeſſen</w><w>ſin</w></l>
-                    <l n="136"><lb n="2"/><w><hi rend="decoration color:red">D</hi>es</w><w>antwort</w><w>yme</w><w>dy</w><w>konigin</w></l>
+                    <l n="135"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="136"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="137"><lb n="3"/><w><hi rend="initial color:red" n="2">B</hi>ey</w><w>dieſz</w><w>waz</w><w>ye</w><w>din</w><w>ſytte</w></l>
-                    <l n="138"><lb n="4"/><w><choice><orig>V</orig><reg>U</reg></choice>nd</w><w>ſchadeſt</w><w>nymant</w><w>mee</w><w>damit</w></l>
+                    <l n="137"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="138"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="139"><lb n="5"/><w><hi rend="decoration color:red">d</hi>ann</w><w>du</w><w>dir</w><w>ſelben</w><w>du̇ſt</w></l>
-                    <l n="140"><lb n="6"/><w><hi rend="decoration color:red">d</hi>az</w><w>dü</w><w>den</w><w>ymmer</w><w>haſzen</w><w>müſt</w></l>
+                    <l n="139"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="140"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="141"><lb n="7"/><w><hi rend="decoration color:red">d</hi>em</w><w>keine</w><w>ere</w><w>geſchicht</w></l>
-                    <l n="142"><lb n="8"/><w><hi rend="decoration color:red">d</hi>u</w><w>erlaſt</w><w>dines</w><w>nydes</w><w>nicht</w></l>
+                    <l n="141"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="142"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="143"><lb n="9"/><w><hi rend="decoration color:red">d</hi>az</w><w>geſinde</w><w>noch</w><w>dy</w><w>geſte</w></l>
-                    <l n="144"><lb n="10"/><w><hi rend="decoration color:red">d</hi>er</w><w>boſt</w><w>iſt</w><w>dir</w><w>der</w><w>beſte</w></l>
+                    <l n="143"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="144"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="145"><lb n="11"/><w><hi rend="decoration color:red"><choice><orig>V</orig><reg>U</reg></choice></hi>nd</w><w>der</w><w>beſte</w><w>der</w><w>boſte</w></l>
-                    <l n="146"><lb n="12"/><w><hi rend="decoration color:red">E</hi>ynes</w><w>dinges</w><w>ich</w><w>dich</w><w>troſt</w></l>
+                    <l n="145"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="146"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="147"><lb n="13"/><w><hi rend="decoration color:red">d</hi>az</w><w>man</w><w join="right">dir</w><w join="left">s</w><w>ſo</w><w><choice><orig>u</orig><reg>v</reg></choice>il</w><w>vertreit</w></l>
-                    <l n="148"><lb n="14"/><w><hi rend="decoration color:red">d</hi>az</w><w>komet</w><w>von</w><w>diner</w><w>gewonheit</w></l>
+                    <l n="147"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="148"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="149"><lb n="15"/><w><hi rend="decoration color:red">W</hi>ann</w><w>du̇</w><w>es</w><w>dy</w><w>boſen</w><w>alle</w><w>erlaſt</w></l>
-                    <l n="150"><lb n="16"/><w><hi rend="decoration color:red"><choice><orig>V</orig><reg>U</reg></choice></hi>nd</w><w>nüwen</w><w>haſz</w><w>zu</w><w>den</w><w>from<choice><am>ē</am><ex>en</ex></choice></w><w>haſt</w></l>
+                    <l n="149"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="150"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="151"><lb n="17"/><w><hi rend="decoration color:red">d</hi>ine</w><w>ſchelten</w><w>iſt</w><w>eine</w><w>brÿſen</w></l>
-                    <l n="152"><lb n="18"/><w><hi rend="decoration color:red">W</hi>ider</w><w>alle</w><w>dy</w><w>wÿſen</w></l>
+                    <l n="151"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="152"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="153"><lb n="19"/><w><hi rend="decoration color:red">h</hi>etteſt</w><w>du</w><w>es</w><w>nit</w><w>geſprochen</w></l>
-                    <l n="154"><lb n="20"/><w><hi rend="decoration color:red">D</hi>u</w><w>wereſt</w><w>gar</w><w>zerbrochen</w></l>
+                    <l n="153"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="154"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="155"><lb n="21"/><w><hi rend="decoration color:red">D</hi>az</w><w>auch</w><w>weiſz</w><w>got</w><w>war</w><w>wol</w></l>
-                    <l n="156"><lb n="22"/><w><hi rend="decoration color:red">W</hi>ann</w><w>du̇</w><w>biſt</w><w>bitters</w><w>eÿters</w><w>vol</w></l>
+                    <l n="155"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="156"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
-                <pb n="4v"/>
-                <cb n="4v-a"/>
                 <lg>
-                    <l n="157"><lb n="1"/><w><hi rend="decoration color:red">D</hi>a</w><w>dine</w><w>herze</w><w><choice><orig>j</orig><reg>i</reg></choice>nne</w><w>ſwebet</w></l>
-                    <l n="158"><lb n="2"/><w><hi rend="decoration color:red"><choice><orig>V</orig><reg>U</reg></choice></hi>nd</w><w>wider</w><w>dine</w><w>eren</w><w>ſtrebet</w></l>
+                    <l n="157"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="158"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="159"><lb n="3"/><w><hi rend="initial color:red" n="2">K</hi>ey</w><w>den</w><w>zorn</w><w>nit</w><w>vertrüge</w></l>
-                    <l n="160"><lb n="4"/><w>Er</w><w>ſprach</w><w>ftrauwe</w><w>es</w><w>iſt</w><w>gnūg</w></l>
+                    <l n="159"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="160"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="161"><lb n="5"/><w><hi rend="decoration color:red"><choice><orig>J</orig><reg>I</reg></choice></hi>r</w><w>habent</w><w join="right">mir</w><w join="left">s</w><w>altzu</w><w><choice><orig>u</orig><reg>v</reg></choice>il</w><w>geſaget</w></l>
-                    <l n="162"><lb n="6"/><w><hi rend="decoration color:red"><choice><orig>V</orig><reg>U</reg></choice></hi>nd</w><w>hettent</w><w join="right">ir</w><w join="left">s</w><w>eine</w><w>teÿle</w><w>vertaget</w></l>
+                    <l n="161"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="162"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="163"><lb n="7"/><w><hi rend="decoration color:red">D</hi>az</w><w>zeme</w><w>uwerm</w><w>namen</w><w>wol</w></l>
-                    <l n="164"><lb n="8"/><w><hi rend="decoration color:red"><choice><orig>J</orig><reg>I</reg></choice></hi>ch</w><w>empfahe</w><w>gerne</w><w>als</w><w>ich</w><w>ſol</w></l>
+                    <l n="163"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="164"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="165"><lb n="9"/><w><hi rend="decoration color:red"><choice><orig>V</orig><reg>U</reg></choice></hi>wer</w><w>zucht</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>uwer</w><w>meiſterſchafft</w></l>
-                    <l n="166"><lb n="10"/><w><hi rend="decoration color:red">D</hi>och</w><w>hat</w><w>ſie</w><w>alſo</w><w>groſz</w><w>krafft</w></l>
+                    <l n="165"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="166"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="167"><lb n="11"/><w><hi rend="decoration color:red"><choice><orig>J</orig><reg>I</reg></choice></hi>r</w><w>ſprechent</w><w>altzü</w><w>ſere</w></l>
-                    <l n="168"><lb n="12"/><w><hi rend="decoration color:red">D</hi>en</w><w>rittern</w><w>an</w><w>ir</w><w>ere</w></l>
+                    <l n="167"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="168"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="169"><lb n="13"/><w><hi rend="decoration color:red">S</hi>ie</w><w>warens</w><w>an</w><w>uch</w><w><choice><orig>v</orig><reg>u</reg></choice>ngewon</w></l>
-                    <l n="170"><lb n="14"/><w><hi rend="decoration color:red"><choice><orig>J</orig><reg>I</reg></choice></hi>r</w><w>werdent</w><w>viel</w><w><choice><orig>v</orig><reg>u</reg></choice>nwert</w><w>da<choice><orig>u</orig><reg>v</reg></choice>on</w></l>
+                    <l n="169"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="170"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="171"><lb n="15"/><w><hi rend="decoration color:red"><choice><orig>J</orig><reg>I</reg></choice></hi>r</w><w>ſtraffent</w><w>mich</w><w>als</w><w>einen</w><w>knecht</w></l>
-                    <l n="172"><lb n="16"/><w><hi rend="decoration color:red">G</hi>nade</w><w>iſt</w><w>beſzer</w><w>dann</w><w>recht</w></l>
+                    <l n="171"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="172"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="173"><lb n="17"/><w><hi rend="decoration color:red"><choice><orig>J</orig><reg>I</reg></choice></hi>ch</w><w>habe</w><w>uch</w><w>ſolichs</w><w>nit</w><w>gethan</w></l>
-                    <l n="174"><lb n="18"/><w><hi rend="decoration color:red"><choice><orig>J</orig><reg>I</reg></choice></hi>r</w><w>mogent</w><w>mich</w><w>wol</w><w>leben</w><w>lan</w></l>
+                    <l n="173"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="174"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="175"><lb n="19"/><w><hi rend="decoration color:red"><choice><orig>V</orig><reg>U</reg></choice></hi>nd</w><w>were</w><w>min</w><w>ſchulde</w><w>groſzer</w><w>icht</w></l>
-                    <l n="176"><lb n="20"/><w><hi rend="decoration color:red">S</hi>o</w><w>beliebe</w><w>mir</w><w>der</w><w>lip</w><w>nicht</w></l>
+                    <l n="175"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="176"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="177"><lb n="21"/><w><hi rend="decoration color:red">f</hi>fraüwe</w><w>habent</w><w>gnade</w><w>mÿn</w></l>
-                    <l n="178"><lb n="22"/><w><hi rend="decoration color:red"><choice><orig>V</orig><reg>U</reg></choice></hi>nd</w><w>lant</w><w>ſus</w><w>groſzen</w><w>zorn</w><w>ſin</w></l>
+                    <l n="177"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="178"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="179"><lb n="23"/><w><hi rend="decoration color:red"><choice><orig>V</orig><reg>U</reg></choice></hi>wer</w><w>zorn</w><w>iſt</w><w><choice><orig>v</orig><reg>u</reg></choice>ngnediglich</w></l>
-                    <pb n="5r"/>
-                    <cb n="5r-a"/>
-                    <l n="180"><lb n="1"/><w><hi rend="decoration color:red">N</hi>icht</w><w>brechent</w><w>uwer</w><w>zucht</w><w>durch</w><w>mich</w></l>
+                    <l n="179"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="180"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="181"><lb n="2"/><w><hi rend="decoration color:red">M</hi>in</w><w>laſter</w><w>wil</w><w>ich</w><w>gerne</w><w>vertragen</w></l>
-                    <l n="182"><lb n="3"/><w><hi rend="decoration color:red">d</hi>az</w><w>ir</w><w>ru̇chent</w><w>getagen</w></l>
+                    <l n="181"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="182"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="183"><lb n="4"/><w><hi rend="decoration color:red"><choice><orig>J</orig><reg>I</reg></choice></hi>ch</w><w>küme</w><w>noch</w><w>mynen</w><w>ſchulden</w></l>
-                    <l n="184"><lb n="5"/><w><hi rend="decoration color:red">G</hi>erne</w><w>zu</w><w>ſinen</w><w>hulden</w></l>
+                    <l n="183"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="184"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="185"><lb n="6"/><w><hi rend="decoration color:red">N</hi>u</w><w>bittent</w><w>in</w><w>ſin</w><w>mere</w></l>
-                    <l n="186"><lb n="7"/><w><hi rend="decoration color:red">d</hi>es</w><w>ee</w><w>begunnen</w><w>were</w></l>
+                    <l n="185"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="186"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="187"><lb n="8"/><w><hi rend="decoration color:red">d</hi>ürche</w><w>üweren</w><w>willen</w><w>wolle</w><w>ſagen</w></l>
-                    <l n="188"><lb n="9"/><w><hi rend="decoration color:red">W</hi>ann</w><w>ſol</w><w>gerne</w><w>vor</w><w>ir</w><w>getagen</w></l>
+                    <l n="187"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="188"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="189"><lb n="10"/><w><hi rend="initial color:red" n="2">S</hi>us</w><w>antwort</w><w><hi rend="decoration color:red"><choice><orig>j</orig><reg>i</reg></choice></hi>m</w><w><hi rend="decoration color:red">C</hi>ollocriant</w></l>
-                    <l n="190"><lb n="11"/><w><hi rend="decoration color:red">E</hi>s</w><w>iſt</w><w><choice><orig>v</orig><reg>u</reg></choice>mb</w><w>üch</w><w>alſo</w><w>gewant</w></l>
+                    <l n="189"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="190"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="191"><lb n="12"/><w><hi rend="decoration color:red">d</hi>az</w><w>an</w><w>uch</w><w>nyman</w><w>mercken</w><w>ſol</w></l>
-                    <l n="192"><lb n="13"/><w><hi rend="decoration color:red">S</hi>prechent</w><w>ir</w><w>anders</w><w>dann</w><w>wol</w></l>
+                    <l n="191"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="192"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="193"><lb n="14"/><w><hi rend="decoration color:red">M</hi>ir</w><w>iſt</w><w>eine</w><w>ding</w><w>wol</w><w>künt</w></l>
-                    <l n="194"><lb n="15"/><w><hi rend="decoration color:red">E</hi>s</w><w>ſpricht</w><w>nÿmants</w><w>münt</w></l>
+                    <l n="193"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="194"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="195"><lb n="16"/><w><hi rend="decoration color:red">W</hi>ann</w><w>als</w><w><choice><orig>j</orig><reg>i</reg></choice>ne</w><w>daz</w><w>herze</w><w>leret</w></l>
-                    <l n="196"><lb n="17"/><w><hi rend="decoration color:red">W</hi>en</w><w>uwer</w><w>zunge</w><w>enteret</w></l>
+                    <l n="195"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="196"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="197"><lb n="18"/><w><hi rend="decoration color:red">d</hi>a</w><w>iſt</w><w>daz</w><w>herze</w><w>ſchuldig</w><w>an</w></l>
-                    <l n="198"><lb n="19"/><w><hi rend="decoration color:red"><choice><orig>J</orig><reg>I</reg></choice></hi>n</w><w>der</w><w>welt</w><w>iſt</w><w>man</w><w>nit</w><w>man</w></l>
+                    <l n="197"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="198"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="199"><lb n="20"/><w><hi rend="decoration color:red">V</hi>alſche</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>wandelbere</w></l>
-                    <l n="200"><lb n="21"/><w><hi rend="decoration color:red">D</hi>er</w><w>gerne</w><w>biederbe</w><w>were</w></l>
+                    <l n="199"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="200"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="201"><lb n="22"/><w><hi rend="decoration color:red">W</hi>ann</w><w>daz</w><w><choice><orig>j</orig><reg>i</reg></choice>n</w><w>ſin</w><w>herze</w><w join="right">en</w><w join="left">lat</w></l>
-                    <pb n="5v"/>
-                    <cb n="5v-a"/>
-                    <l n="202"><lb n="1"/><w><hi rend="decoration color:red">W</hi>ere</w><w>uch</w><w>mit</w><w>lere</w><w>beſtat</w></l>
+                    <l n="201"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="202"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="203"><lb n="2"/><w><hi rend="decoration color:red">D</hi>eſt</w><w>eine</w><w>verlorne</w><w>arbeit</w></l>
-                    <l n="204"><lb n="3"/><w><hi rend="decoration color:red"><choice><orig>J</orig><reg>I</reg></choice></hi>r</w><w>ſolt</w><w>uwer</w><w>gewonheit</w></l>
+                    <l n="203"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="204"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="205"><lb n="4"/><w><hi rend="decoration color:red">D</hi>ürche</w><w>nÿmant</w><w>zerbrechen</w></l>
-                    <l n="206"><lb n="5"/><w><hi rend="decoration color:red">D</hi>er</w><w>humel</w><w>der</w><w>ſol</w><w>ſtechen</w></l>
+                    <l n="205"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="206"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="207"><lb n="6"/><w><hi rend="decoration color:red">A</hi>uch</w><w>iſt</w><w>recht</w><w>daz</w><w>der</w><w>miſt</w></l>
-                    <l n="208"><lb n="7"/><w><hi rend="decoration color:red">Y</hi>mmer</w><w>ſmecke</w><w>wa</w><w>der</w><w>iſt</w></l>
+                    <l n="207"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="208"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="209"><lb n="8"/><w><hi rend="decoration color:red">D</hi>er</w><w>hurnüs</w><w>der</w><w>ſol</w><w>dieſſen</w></l>
-                    <l n="210"><lb n="9"/><w><hi rend="decoration color:red"><choice><orig>J</orig><reg>I</reg></choice></hi>ch</w><w>mecht</w><w>nit</w><w>genÿſzen</w></l>
+                    <l n="209"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="210"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="211"><lb n="10"/><w><hi rend="decoration color:red"><choice><orig>V</orig><reg>U</reg></choice></hi>wers</w><w>lobes</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>uwer</w><w>früntſchafft</w></l>
-                    <l n="212"><lb n="11"/><w><hi rend="decoration color:red">W</hi>ann</w><w>üwer</w><w>rede</w><w>iſt</w><w>ane</w><w>krafft</w></l>
+                    <l n="211"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="212"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="213"><lb n="12"/><w><hi rend="decoration color:red">A</hi>uch</w><w>wil</w><w>ich</w><w>nit</w><w>engelten</w></l>
-                    <l n="214"><lb n="13"/><w><hi rend="decoration color:red">W</hi>az</w><w>ir</w><w>mich</w><w>mügent</w><w>geſchelten</w></l>
+                    <l n="213"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="214"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="215"><lb n="14"/><w><hi rend="decoration color:red">W</hi>arumb</w><w>ſoltent</w><w>ir</w><w join="right">mich</w><w join="left">s</w><w>erlan</w></l>
-                    <l n="216"><lb n="15"/><w><hi rend="decoration color:red"><choice><orig>J</orig><reg>I</reg></choice></hi>r</w><w>habent</w><w>es</w><w>türen</w><w>mannen</w><w>gethan</w></l>
+                    <l n="215"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="216"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="217"><lb n="16"/><w><hi rend="decoration color:red">A</hi>uch</w><w>wil</w><w>ich</w><w>zü</w><w>dieſer</w><w>zÿt</w></l>
-                    <l n="218"><lb n="17"/><w><hi rend="decoration color:red"><choice><orig>V</orig><reg>U</reg></choice></hi>nd</w><w>ymmer</w><w>mere</w><w>wo</w><w>ir</w><w>ſÿt</w></l>
+                    <l n="217"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="218"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="219"><lb n="18"/><w><hi rend="decoration color:red">M</hi>ines</w><w>ſagens</w><w>emberen</w></l>
-                    <l n="220"><lb n="19"/><w><hi rend="decoration color:red">M</hi>in</w><w>frauwe</w><w>ſol</w><w>mich</w><w>geweren</w></l>
+                    <l n="219"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="220"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="221"><lb n="20"/><w><hi rend="decoration color:red">d</hi>az</w><w join="right">ich</w><w join="left">s</w><w>mit</w><w>hülden</w><w>uber</w><w>ſiehe</w></l>
-                    <l n="222"><lb n="21"/><w><hi rend="decoration color:red">d</hi>a</w><w>ſprach</w><w>aber</w><w>keÿ</w></l>
+                    <l n="221"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="222"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="223"><lb n="22"/><w><hi rend="decoration color:red">N</hi>ün</w><w>lat</w><w>dieſen</w><w>herren</w></l>
-                    <pb n="6r"/>
-                    <cb n="6r-a"/>
-                    <l n="224"><lb n="1"/><w><hi rend="decoration color:red">M</hi>in</w><w>ſchulde</w><w>nit</w><w>gewerren</w></l>
+                    <l n="223"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="224"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="225"><lb n="2"/><w><hi rend="decoration color:red">d</hi>ie</w><w>hand</w><w>wider</w><w>uch</w><w>nit</w><w>gethan</w></l>
-                    <l n="226"><lb n="3"/><w><hi rend="decoration color:red">M</hi>in</w><w>fraüwe</w><w>ſol</w><w>uch</w><w>nit</w><w>erlan</w></l>
+                    <l n="225"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="226"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="227"><lb n="4"/><w><hi rend="decoration color:red"><choice><orig>J</orig><reg>I</reg></choice></hi>r</w><w>enſagent</w><w>uwer</w><w>mere</w></l>
-                    <l n="228"><lb n="5"/><w><hi rend="decoration color:red">W</hi>ann</w><w>es</w><w>nicht</w><w>recht</w><w>were</w></l>
+                    <l n="227"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="228"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="229"><lb n="6"/><w><hi rend="decoration color:red">E</hi>ngulten</w><w>ſie</w><w>alle</w><w>mÿn</w></l>
-                    <l n="230"><lb n="7"/><w><hi rend="decoration color:red">D</hi>es</w><w>antwort</w><w><hi rend="decoration color:red"><choice><orig>j</orig><reg>i</reg></choice></hi>m</w><w>die</w><w>kunigin</w></l>
+                    <l n="229"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="230"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="231"><lb n="8"/><w><hi rend="initial color:red" n="3">H</hi>e<choice><am>r͛</am><ex>rr</ex></choice>e</w><w><hi rend="decoration color:red">C</hi>olocriant</w></l>
-                    <l n="232"><lb n="9"/><w><hi rend="decoration color:red">N</hi>ün</w><w>iſt</w><w>uch</w><w>ſelber</w><w>wol</w><w>erkant</w></l>
+                    <l n="231"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="232"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="233"><lb n="10"/><w><hi rend="decoration color:red"><choice><orig>V</orig><reg>U</reg></choice></hi>nd</w><w>ſÿt</w><w>erwachſen</w><w>damite</w></l>
-                    <l n="234"><lb n="11"/><w><hi rend="decoration color:red">d</hi>az</w><w><choice><orig>j</orig><reg>i</reg></choice>ne</w><w>ſin</w><w><choice><orig>u</orig><reg>v</reg></choice>il</w><w>boſer</w><w>ſite</w></l>
+                    <l n="233"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="234"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="235"><lb n="12"/><w><hi rend="decoration color:red">d</hi>icke</w><w>hat</w><w>enteret</w></l>
-                    <l n="236"><lb n="13"/><w><hi rend="decoration color:red"><choice><orig>V</orig><reg>U</reg></choice></hi>nd</w><w>daz</w><w>ſich</w><w>nÿmand</w><w>keret</w></l>
+                    <l n="235"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="236"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="237"><lb n="14"/><w><hi rend="decoration color:red">A</hi>n</w><w>keinen</w><w>ſinen</w><w>ſpot</w></l>
-                    <l n="238"><lb n="15"/><w><hi rend="decoration color:red">E</hi>s</w><w>iſt</w><w>mÿn</w><w>bete</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>myn</w><w>gebot</w></l>
+                    <l n="237"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="238"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="239"><lb n="16"/><w><hi rend="decoration color:red">d</hi>as</w><w>ir</w><w>ſagent</w><w>uwer</w><w>mere</w></l>
-                    <l n="240"><lb n="17"/><w><hi rend="decoration color:red">W</hi>ann</w><w>es</w><w>ſin</w><w>ſpot</w><w>were</w></l>
+                    <l n="239"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="240"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="241"><lb n="18"/><w><hi rend="decoration color:red">h</hi>ete</w><w>er</w><w><choice><orig>v</orig><reg>u</reg></choice>ns</w><w>dÿ</w><w>rede</w><w>erwant</w></l>
-                    <l n="242"><lb n="19"/><w><hi rend="decoration color:red">d</hi>a</w><w>ſprach</w><w>der</w><w>her</w><w><hi rend="decoration color:red">C</hi>olocriant</w></l>
+                    <l n="241"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="242"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="243"><lb n="20"/><w><hi rend="initial color:red" n="w">W</hi><hi rend="decoration color:red">a</hi>z</w><w>ir</w><w>gebietent</w><w>daz</w><w>iſt</w><w>gethan</w></l>
-                    <l n="244"><lb n="21"/><w><hi rend="decoration color:red">S</hi>ÿt</w><w>ir</w><w join="right">mich</w><w join="left">s</w><w>nit</w><w>wolt</w><w>erlan</w></l>
+                    <l n="243"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="244"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="245"><lb n="22"/><w><hi rend="decoration color:red">S</hi>o</w><w>vernement</w><w>es</w><w>mit</w><w>gut<choice><am>ē</am><ex>en</ex></choice></w><w>ſitten</w></l>
-                    <l n="246"><lb n="23"/><w><choice><orig><hi rend="decoration color:red">V</hi></orig><reg>U</reg></choice>nd</w><w>mÿtent</w><w>mich</w><w>damit</w></l>
+                    <l n="245"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="246"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
-                <pb n="6v"/>
-                <cb n="6v-a"/>
                 <lg>
-                    <l n="247"><lb n="1"/><w><hi rend="decoration color:red"><choice><orig>J</orig><reg>I</reg></choice></hi>ch</w><w>ſage</w><w>uch</w><w>deſte</w><w>gerner</w><w><choice><orig>u</orig><reg>v</reg></choice>il</w></l>
-                    <l n="248"><lb n="2"/><w><hi rend="decoration color:red">O</hi>b</w><w>man</w><w>es</w><w>recht</w><w>merrkten</w><w>wil</w></l>
+                    <l n="247"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="248"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="249"><lb n="3"/><w><hi rend="decoration color:red">W</hi>ann</w><w>welhe</w><w>mercken</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>tagen</w></l>
-                    <l n="250"><lb n="4"/><w><hi rend="decoration color:red">M</hi>an</w><w>verluſet</w><w>michel</w><w>ſagen</w></l>
+                    <l n="249"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="250"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="251"><lb n="5"/><w><hi rend="decoration color:red">M</hi>anicher</w><w>butet</w><w>das</w><w>ore</w><w>dar</w></l>
-                    <l n="252"><lb n="6"/><w><hi rend="decoration color:red">E</hi>r</w><w>neme</w><w>es</w><w>auch</w><w>mit</w><w>dem</w><w>hertzen</w><lb ana="hc:RunOverLineAbove hc:DependentLine" n="6a"/><metamark ana="hc:RunOverSign">|</metamark><w>war</w></l>
+                    <l n="251"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="252"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="253"><lb n="7"/><w><hi rend="decoration color:red">S</hi>o</w><w>wirt</w><w><choice><orig>j</orig><reg>i</reg></choice>m</w><w>nicht</w><w>wann</w><w>der</w><w>dos</w></l>
-                    <l n="254"><lb n="8"/><w><hi rend="decoration color:red"><choice><orig>V</orig><reg>U</reg></choice></hi>nd</w><w>iſt</w><w>der</w><w>ſchade</w><w>alſo</w><w>groſz</w></l>
+                    <l n="253"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="254"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="255"><lb n="9"/><w><hi rend="decoration color:red">W</hi>ann</w><w>ſie</w><w>verlieſſen</w><w>beÿde</w><w>ir</w><w>arbeit</w></l>
-                    <l n="256"><lb n="10"/><w><hi rend="decoration color:red">d</hi>er</w><w>da</w><w>hort</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>der</w><w>da</w><w>ſeit</w></l>
+                    <l n="255"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="256"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="257"><lb n="11"/><w><hi rend="initial color:red" n="2">I</hi>r</w><w>ſolt</w><w>mir</w><w>deſt</w><w>gerner</w><w>tagen</w></l>
-                    <l n="258"><lb n="12"/><w><hi rend="decoration color:red"><choice><orig>j</orig><reg>i</reg></choice></hi>ch</w><w>wil</w><w>uch</w><w>keine</w><w>lugen</w><w>ſagen</w></l>
+                    <l n="257"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="258"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="259"><lb n="13"/><w><hi rend="decoration color:red">W</hi>ie</w><w>mir</w><w>geſchach</w><w>daz</w><w>iſt</w><w>ware</w></l>
-                    <l n="260"><lb n="14"/><w><hi rend="decoration color:red">d</hi>es</w><w>ſin</w><w>nu̇</w><w>wol</w><w>zehen</w><w>jare</w></l>
+                    <l n="259"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="260"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="261"><lb n="15"/><w><hi rend="decoration color:red">d</hi>a</w><w>ich</w><w>nach</w><w>a<choice><orig>u</orig><reg>v</reg></choice>entu̇r</w><w>reÿt</w></l>
-                    <l n="262"><lb n="16"/><w><hi rend="decoration color:red">G</hi>ewaffent</w><w>noch</w><w>gewonheit</w></l>
+                    <l n="261"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="262"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="263"><lb n="17"/><w><hi rend="decoration color:red">Z</hi>u</w><w>brezzilian</w><w>in</w><w>den</w><w>walt</w></l>
-                    <l n="264"><lb n="18"/><w><hi rend="decoration color:red">d</hi>a</w><w>waren</w><w>die</w><w>ſteige</w><w>manigfalt</w></l>
+                    <l n="263"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="264"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="265"><lb n="19"/><w><hi rend="decoration color:red">d</hi>o</w><w>kerte</w><w>ich</w><w>zu</w><w>der</w><w>rechten</w><w>hant</w></l>
-                    <l n="266"><lb n="20"/><w><hi rend="decoration color:red">E</hi>inen</w><w>ſteig</w><w>den</w><w>ich</w><w>da</w><w>fant</w></l>
+                    <l n="265"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="266"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="267"><lb n="21"/><w><hi rend="decoration color:red">d</hi>er</w><w>waz</w><w>rüche</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>enge</w></l>
-                    <l n="268"><lb n="22"/><w><hi rend="decoration color:red">d</hi>ürche</w><w>dorne</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>durch</w><w>getrenge</w></l>
+                    <l n="267"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="268"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="269"><lb n="23"/><w>Reit</w><w>ich</w><w>allen</w><w>einen</w><w>tag</w></l>
-                    <pb n="7r"/>
-                    <cb n="7r-a"/>
-                    <l n="270"><lb n="1"/><w><hi rend="decoration color:red">ff</hi>ur</w><w>ware</w><w>ich</w><w>daz</w><w>wol</w><w>ſagen</w><w>mag</w></l>
+                    <l n="269"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="270"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="271"><lb n="2"/><w><hi rend="decoration color:red">d</hi>az</w><w>ich</w><w>ſo</w><w>groſze</w><w>arbeit</w></l>
-                    <l n="272"><lb n="3"/><w><hi rend="decoration color:red">v</hi>on</w><w><choice><orig>v</orig><reg>u</reg></choice>nge<choice><orig>u</orig><reg>v</reg></choice>ert</w><w>nÿe</w><w>erleit</w></l>
+                    <l n="271"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="272"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="273"><lb n="4"/><w><hi rend="decoration color:red">d</hi>a</w><w>es</w><w>an</w><w>den</w><w>abent</w><w>ginge</w></l>
-                    <l n="274"><lb n="5"/><w><hi rend="decoration color:red">E</hi>inen</w><w>ſteig</w><w>ich</w><w>da</w><w>gefinge</w></l>
+                    <l n="273"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="274"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="275"><lb n="6"/><w><hi rend="decoration color:red">d</hi>er</w><w>truge</w><w>mich</w><w><choice><orig>v</orig><reg>u</reg></choice>ſz</w><w>der</w><w>wilde</w></l>
-                    <l n="276"><lb n="7"/><w><hi rend="decoration color:red">h</hi>in</w><w>an</w><w>eine</w><w>breit</w><w>ge<choice><orig>u</orig><reg>v</reg></choice>ilde</w></l>
+                    <l n="275"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="276"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="277"><lb n="8"/><w><hi rend="decoration color:red">d</hi>em</w><w>volgt</w><w>ich</w><w>eine</w><w>wile</w></l>
-                    <l n="278"><lb n="9"/><w><hi rend="decoration color:red">N</hi>icht</w><w>volle</w><w>eine</w><w>mÿle</w></l>
+                    <l n="277"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="278"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="279"><lb n="10"/><w><hi rend="decoration color:red"><choice><orig>V</orig><reg>U</reg></choice></hi>ntz</w><w>ich</w><w>eine</w><w>bürg</w><w>erſach</w></l>
-                    <l n="280"><lb n="11"/><w><hi rend="decoration color:red">d</hi>ar</w><w>kerte</w><w>ich</w><w>durch</w><w>mÿn</w><w>gemach</w></l>
+                    <l n="279"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="280"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="281"><lb n="12"/><w><hi rend="decoration color:red"><choice><orig>J</orig><reg>I</reg></choice></hi>ch</w><w>reit</w><w>gem</w><w>dem</w><w>bürg tor</w></l>
-                    <l n="282"><lb n="13"/><w><hi rend="decoration color:red">d</hi>a</w><w>fande</w><w>ich</w><w>einen</w><w>ritter</w><w>vor</w></l>
+                    <l n="281"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="282"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="283"><lb n="14"/><w><hi rend="decoration color:red">E</hi>r</w><w>hette</w><w>dën</w><w>ich</w><w>da</w><w>ſtanden</w><w>fande</w></l>
-                    <l n="284"><lb n="15"/><w><hi rend="decoration color:red">E</hi>inen</w><w>habich</w><w>müſzer</w><w>off</w><w>ſiner</w><w>hant</w></l>
+                    <l n="283"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="284"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="285"><lb n="16"/><w><hi rend="decoration color:red"><choice><orig>V</orig><reg>U</reg></choice></hi>nd</w><w>waz</w><w>des</w><w>hüſes</w><w>herre</w></l>
-                    <l n="286"><lb n="17"/><w><hi rend="decoration color:red">A</hi>ls</w><w>er</w><w>mich</w><w>von</w><w>verre</w></l>
+                    <l n="285"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="286"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="287"><lb n="18"/><w><hi rend="decoration color:red">Z</hi>ü</w><w>ÿme</w><w>ſach</w><w>rÿten</w></l>
-                    <l n="288"><lb n="19"/><w><hi rend="decoration color:red">d</hi>a</w><w>motht</w><w>er</w><w>nit</w><w>gebeiten</w></l>
+                    <l n="287"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="288"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="289"><lb n="20"/><w><hi rend="decoration color:red"><choice><orig>V</orig><reg>U</reg></choice></hi>nd</w><w>lieſz</w><w>mir</w><w>nit</w><w>der</w><w>müſze</w></l>
-                    <l n="290"><lb n="21"/><w><hi rend="decoration color:red">d</hi>az</w><w>ich</w><w>zu</w><w>ſinem</w><w>gruſz</w></l>
+                    <l n="289"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="290"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="291"><lb n="22"/><w><hi rend="decoration color:red">V</hi>olliglichen</w><w>were</w><w>komen</w></l>
-                    <pb n="7v"/>
-                    <cb n="7v-a"/>
-                    <l n="292"><lb n="1"/><w><hi rend="decoration color:red">E</hi>r</w><w>enhette</w><w>mir</w><w>ee</w><w>benomen</w></l>
+                    <l n="291"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="292"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="293"><lb n="2"/><w><hi rend="decoration color:red">Z</hi>ame</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>ſtegraÿff</w></l>
-                    <!--ÿ aus u korrigiert     -->
-                    <l n="294"><lb n="3"/><w><hi rend="decoration color:red">d</hi>o</w><w>er</w><w>mich</w><w>begreiff</w></l>
+                    <l n="293"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="294"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="295"><lb n="4"/><w><hi rend="decoration color:red">E</hi>r</w><w>empfinge</w><w>mich</w><w>alſo</w><w>ſchone</w></l>
-                    <l n="296"><lb n="5"/><w><hi rend="decoration color:red">d</hi>az</w><w>yme</w><w>got</w><w>ymmer</w><w>lone</w></l>
+                    <l n="295"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="296"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="299"><lb n="6"/><w><hi rend="initial color:red" n=""><hi rend="initial color:red" n="2">N</hi></hi>ün</w><w>hinge</w><w>eine</w><w>tafel</w><w>an</w><w>dem</w><w>tor</w></l>
-                    <l n="300"><lb n="7"/><w>an</w><w>zwein</w><w>ketten</w><w>enbor</w></l>
+                    <l n="297"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="298"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="301"><lb n="8"/><w><hi rend="decoration color:red">d</hi>a</w><w>ſlug</w><w>er</w><w>an</w><w>daz</w><w>es</w><w>erhal</w></l>
-                    <l n="302"><lb n="9"/><w><hi rend="decoration color:red"><choice><orig>V</orig><reg>U</reg></choice></hi>nd</w><w>lüte</w><w>in</w><w>die</w><w join="right">burg</w><w join="left">ſchale</w></l>
+                    <l n="299"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="300"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="303"><lb n="10"/><w><hi rend="decoration color:red">d</hi>arnach</w><w>waz</w><w><choice><orig>u</orig><reg>v</reg></choice>il</w><w><choice><orig>v</orig><reg>u</reg></choice>nlange</w></l>
-                    <l n="304"><lb n="11"/><w>Ee</w><w>dort</w><w>her</w><w>fur</w><w>ſprange</w></l>
+                    <l n="301"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="302"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="305"><lb n="12"/><w><hi rend="decoration color:red">d</hi>es</w><w>wirtes</w><w>ſamn<choice><am>ū</am><ex>un</ex></choice>ge</w></l>
-                    <l n="306"><lb n="13"/><w>Schon</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>jünge</w></l>
+                    <l n="303"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="304"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="307"><lb n="14"/><w><hi rend="decoration color:red">J</hi>ünckherren</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>knecht</w></l>
-                    <l n="308"><lb n="15"/><w><hi rend="decoration color:red">G</hi>ekleidet</w><w>nach</w><w><choice><orig>j</orig><reg>i</reg></choice>rem</w><w>recht</w></l>
+                    <l n="305"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="306"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="309"><lb n="16"/><w><hi rend="decoration color:red">d</hi>ie</w><w>hieſſen</w><w>mich</w><w>wilkomen</w><w>ſin</w></l>
-                    <l n="310"><lb n="17"/><w><hi rend="decoration color:red">M</hi>ines</w><w>roſzes</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>mÿn</w></l>
+                    <l n="307"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="308"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="311"><lb n="18"/><w><hi rend="decoration color:red">W</hi>arde</w><w><choice><orig>u</orig><reg>v</reg></choice>il</w><w>wol</w><w>ware</w><w>genomen</w></l>
-                    <l n="312"><lb n="19"/><w><hi rend="decoration color:red">d</hi>arnach</w><w>ſach</w><w>ich</w><w>ſchiere</w><w>komen</w></l>
+                    <l n="309"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="310"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="313"><lb n="20"/><w><hi rend="decoration color:red">A</hi>ls</w><w>ich</w><w>in</w><w>die</w><w>burg</w><w>ginge</w></l>
-                    <l n="314"><lb n="21"/><w><hi rend="decoration color:red">E</hi>ine</w><w>jünckfraüwe</w><w>die</w><w>mich</w><w>empfing</w></l>
+                    <l n="311"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="312"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="315"><lb n="22"/><w><hi rend="decoration color:red"><choice><orig>J</orig><reg>I</reg></choice></hi>ch</w><w>gihe</w><w>des</w><w>ich</w><w>da</w><w><choice><orig>i</orig><reg>j</reg></choice>ach</w></l>
-                    <l n="316"><lb n="23"/><w><hi rend="decoration color:red">d</hi>az</w><w>ich</w><w>nie</w><w>ſchoner</w><w>kinde</w><w>geſach</w></l>
+                    <l n="313"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="314"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
-                <pb n="8r"/>
-                <cb n="8r-a"/>
                 <lg>
-                    <l n="317"><lb n="1"/><w><hi rend="decoration color:red">d</hi>ie</w><w>entwaffent</w><w>mich</w></l>
-                    <l n="318"><lb n="2"/><w><choice><orig><hi rend="decoration color:red">V</hi></orig><reg>U</reg></choice>nd</w><w>einen</w><w>ſchaden</w><w>clagen</w><w>ich</w></l>
+                    <l n="315"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="316"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="319"><lb n="3"/><w><hi rend="decoration color:red">d</hi>es</w><w>enwunder</w><w>nÿman</w></l>
-                    <l n="320"><lb n="4"/><w><hi rend="decoration color:red">d</hi>az</w><w>der</w><w>waffen</w><w>riemen</w></l>
+                    <l n="317"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="318"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="321"><lb n="5"/><w><hi rend="decoration color:red">A</hi>ls</w><w>recht</w><w>lützel</w><w>iſt</w></l>
-                    <l n="322"><lb n="6"/><w><hi rend="decoration color:red">W</hi>ann</w><w>ſie</w><w>nit</w><w>lenger</w><w>friſt</w></l>
+                    <l n="319"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="320"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="323"><lb n="7"/><w><hi rend="decoration color:red">M</hi>it</w><w>mir</w><w>muſt</w><w><choice><orig>v</orig><reg>u</reg></choice>mb</w><w>gan</w></l>
-                    <l n="324"><lb n="8"/><w><hi rend="decoration color:red">E</hi>s</w><w>waz</w><w>zu</w><w>ſchier</w><w>gethan</w></l>
+                    <l n="321"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="322"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="325"><lb n="9"/><w><hi rend="decoration color:red"><choice><orig>J</orig><reg>I</reg></choice></hi>ch</w><w>enrücht</w><w>ſolt</w><w>es</w><w>ymer</w><w>ſin</w></l>
-                    <l n="326"><lb n="10"/><w><hi rend="decoration color:red">E</hi>ine</w><w>ſcharlaches</w><w>mentelin</w></l>
+                    <l n="323"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="324"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="327"><lb n="11"/><w><hi rend="decoration color:red">G</hi>abe</w><w>ſie</w><w>mir</w><w>daz</w><w>leit</w><w>ich</w><w>an</w></l>
-                    <l n="328"><lb n="12"/><w><hi rend="decoration color:red">O</hi>we</w><w>ich</w><w><choice><orig>v</orig><reg>u</reg></choice>nſelig</w><w>man</w></l>
+                    <l n="325"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="326"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="329"><lb n="13"/><w><hi rend="decoration color:red">d</hi>az</w><w>ſie</w><w>mÿn</w><w>augen</w><w>ye</w><w>geſach</w></l>
-                    <l n="330"><lb n="14"/><w><hi rend="decoration color:red">d</hi>o</w><w><choice><orig>v</orig><reg>u</reg></choice>ns</w><w join="right">zu</w><w join="left">ſcheiden</w><w>geſach</w></l>
+                    <l n="327"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="328"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="331"><lb n="15"/><w><hi rend="initial color:red" n="2">W</hi>ir</w><w>zwey</w><w>belieben</w><w>eine</w></l>
-                    <l n="332"><lb n="16"/><w><hi rend="decoration color:red">N</hi>un</w><w>verſtu̇nd</w><w>ſich</w><w>wol</w><w>dÿ</w><w>reine</w></l>
+                    <l n="329"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="330"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="333"><lb n="17"/><w><hi rend="decoration color:red">d</hi>as</w><w>ich</w><w>gerne</w><w>bÿ</w><w>ir</w><w>waz</w></l>
-                    <l n="334"><lb n="18"/><w><hi rend="decoration color:red"><choice><orig>J</orig><reg>I</reg></choice></hi>n</w><w>daz</w><w>ſchonnſt</w><w>graſz</w></l>
+                    <l n="331"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="332"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="335"><lb n="19"/><w><hi rend="decoration color:red">d</hi>az</w><w>dy</w><w>welt</w><w>ye</w><w>gewan</w></l>
-                    <l n="336"><lb n="20"/><w><hi rend="decoration color:red">d</hi>a</w><w>fürt</w><w>ſie</w><w>mich</w><w>an</w></l>
+                    <l n="333"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="334"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="337"><lb n="21"/><w><hi rend="decoration color:red">E</hi>ine</w><w>wenig</w><w>von</w><w>den</w><w>luten</w><w>baſz</w></l>
-                    <l n="338"><lb n="22"/><w><hi rend="decoration color:red">D</hi>az</w><w>lieſz</w><w>ich</w><w>weyſz</w><w>got</w><w>ane</w><w>haſz</w></l>
+                    <l n="335"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="336"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
-                <pb n="8v"/>
-                <cb n="8v-a"/>
                 <lg>
-                    <l n="339"><lb n="1"/><w><hi rend="decoration color:red">S</hi>ie</w><w>ſaſz</w><w>mir</w><w>gutlichen</w><w>by</w></l>
-                    <l n="340"><lb n="2"/><w><hi rend="decoration color:red">W</hi>az</w><w>ich</w><w>ſprach</w><w>daz</w><w>hort</w><w>ſie</w></l>
+                    <l n="337"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="338"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="341"><lb n="3"/><w><hi rend="decoration color:red"><choice><orig>v</orig><reg>u</reg></choice></hi>nd</w><w>antwort</w><w>mirs</w><w>mit</w><w>güt</w></l>
-                    <l n="342"><lb n="4"/><w><hi rend="decoration color:red">E</hi>s</w><w>bezwange</w><w>myn</w><w>gemüt</w></l>
+                    <l n="339"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="340"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="343"><lb n="5"/><w><hi rend="decoration color:red">N</hi>och</w><w>beduncket</w><w>mynen</w><w>lip</w></l>
-                    <l n="344"><lb n="6"/><w><hi rend="decoration color:red">N</hi>ẏe</w><w>ſo</w><w>ſere</w><w>maget</w><w>noch</w><w>wyp</w></l>
+                    <l n="341"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="342"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="345"><lb n="7"/><w><hi rend="decoration color:red"><choice><orig>V</orig><reg>U</reg></choice></hi>nd</w><w>getut</w><w>auch</w><w>nymer</w><w>mee</w></l>
-                    <l n="346"><lb n="8"/><w><hi rend="decoration color:red">O</hi>we</w><w>mir</w><w>ẏmer</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>wee</w></l>
+                    <l n="343"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="344"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="347"><lb n="9"/><w><hi rend="decoration color:red">W</hi>az</w><w>er</w><w>mir</w><w>guter</w><w>freude</w><w>name</w></l>
-                    <l n="348"><lb n="10"/><w><hi rend="decoration color:red">E</hi>in</w><w>botte</w><w>der</w><w>von</w><w>dem</w><w>wirt</w><w>kame</w></l>
+                    <l n="345"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="346"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="349"><lb n="11"/><w><hi rend="decoration color:red">d</hi>er</w><w>hieſz</w><w><choice><orig>v</orig><reg>u</reg></choice>ns</w><w>beÿde</w><w>eſſen</w><w>gan</w></l>
-                    <l n="350"><lb n="12"/><w><hi rend="decoration color:red">d</hi>a</w><w>müſt</w><w>ich</w><w>rede</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>freude</w><w>lan</w></l>
+                    <l n="347"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="348"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="351"><lb n="13"/><w><hi rend="decoration color:red">d</hi>a</w><w>ich</w><w>mit</w><w>ir</w><w>zu</w><w>tiſche</w><w>ginge</w></l>
-                    <l n="352"><lb n="14"/><w><hi rend="decoration color:red">d</hi>er</w><w>wirt</w><w>mich</w><w>an</w><w>der</w><w>ſtund</w><w>empfing</w></l>
+                    <l n="349"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="350"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="353"><lb n="15"/><w><hi rend="decoration color:red">E</hi>s</w><w>erbot</w><w>nye</w><w>wirt</w><w>mere</w></l>
-                    <l n="354"><lb n="16"/><w><hi rend="decoration color:red">G</hi>aſt</w><w>groſzer</w><w>ere</w></l>
+                    <l n="351"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="352"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="355"><lb n="17"/><w><hi rend="decoration color:red"><choice><orig>V</orig><reg>U</reg></choice></hi>nd</w><w>dere</w><w>den</w><w>ſtigen</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>den</w><w>weg</w></l>
-                    <l n="356"><lb n="18"/><w><hi rend="decoration color:red">V</hi>iel</w><w>manichen</w><w>gutlichen</w><w>ſegen</w></l>
+                    <l n="353"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="354"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="357"><lb n="19"/><w><hi rend="decoration color:red">d</hi>ie</w><w>mich</w><w>gewẏſet</w><w>hetten</w><w>dar</w></l>
-                    <l n="358"><lb n="20"/><w><hi rend="decoration color:red">h</hi>ie</w><w>mit</w><w>uber</w><w>gult</w><w join="right">er</w><w join="left">ſt</w><w>gar</w></l>
+                    <l n="355"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="356"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="359"><lb n="21"/><w><hi rend="decoration color:red">d</hi>az</w><w>er</w><w>mich</w><w>ir</w><w>nit</w><w>verſtieſz</w></l>
-                    <l n="360"><lb n="22"/><w><choice><orig><hi rend="decoration color:red">v</hi></orig><reg>u</reg></choice>nd</w><w>mich</w><w>ſo</w><w>gutlichen</w><w>lieſz</w></l>
+                    <l n="357"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="358"><lb/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="359"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="360"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
                     <l n="361"><lb/><w/><w/><w/><w/><w/></l>
@@ -20018,8 +19982,8 @@
                     <l n="9974"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="9976"><lb/><w/><w/><w/><w/><w/></l>
                     <l n="9975"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="9976"><lb/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
                     <l n="9977"><lb/><w/><w/><w/><w/><w/></l>
