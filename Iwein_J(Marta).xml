@@ -45,7 +45,6 @@
                     <lb n="21"/><hi hei:color="Red"><w>Bvͦch</w><w>daz</w><w>da</w><w>haiſet</w><w>der</w></hi>
                     <lb n="22"/><hi hei:color="Red"><w>ritter</w><w>mit</w><w>dem</w><w>leben</w></hi>
                 </head>
-                <!-- Hier müssen die merkwürdigen Eingangsverse nachgetragen werden -->
                 <lg>
                     <l n="0,1"><lb n="23"/><w><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="5">S</hei:initial>wenn</w><w>ein</w><w>wol</w><w>beſchaiden</w><w>man</w><pc type="ms">·</pc></l>
                     <l n="0,2"><lb n="24"/><w>Der</w><w>beſchaidenleichen</w><w>dienen</w><w>chan</w><pc type="ms">·</pc></l>
@@ -178,17 +177,14 @@
                 <lg>
                     <l n="27"><lb n="27"/><w>Da</w><w>chert</w><w>er</w><w>ſeinen</w><w>fleiz</w><w>an</w><pc type="ms">·</pc></l>
                     <l n="28"><lb n="28"/><w>Er</w><w>iſt</w><w>genant</w><w>Hartman</w><pc type="ms">·</pc></l>
-                    <!--¿Mayúscula? VALE, AQUÍ SI    -->
                 </lg>
                 <lg>
                     <l n="29"><lb n="29"/><w><choice><orig>V</orig><reg>U</reg></choice>nd</w><w>iſt</w><w>ain</w><w>auwer</w><pc type="ms">·</pc></l>
-                    <!--¿am/ ain? ¿Mayúscula? AIN Y AQUÍ SIN MAYÚSCULA, PORQUE EL TRAZO ES IGUAL QUE EN LAS DEMÁS 'A'    -->
                     <l n="30"><lb n="30"/><w>Der</w><w>ticht</w><w><choice><orig>v</orig><reg>u</reg></choice>ns</w><w>daz</w><w>mær</w><pc type="ms">·</pc></l>
                 </lg>
                 <lg>
                     <l n="31"><lb n="31"/><w><hei:initial hei:color="Blue" hei:heightLines="2">I</hei:initial>z</w><w>het</w><w>der</w><w>ch<choice><orig>v</orig><reg>u</reg></choice>nich</w><w>artus</w><pc type="ms">·</pc></l>
-                    <l n="32"><lb n="32"/><w>ze</w><w>Karitol</w><w>in</w><w>ſeinen</w><w>hauſe</w><pc type="ms">·</pc></l>
-                    <!--¿ K mayúscula? YO DIRÍA QUE NO, PQ EL TRAZO ES EL MISMO    -->
+                    <l n="32"><lb n="32"/><w>ze</w><w>karitol</w><w>in</w><w>ſeinen</w><w>hauſe</w><pc type="ms">·</pc></l>
                 </lg>
                 <lg>
                     <l n="33"><lb n="33"/><w>ze</w><w>einen</w><w>phingſten</w><w>gelait</w><pc type="ms">·</pc></l>
@@ -200,23 +196,19 @@
                 </lg>
                 <lg>
                     <l n="37"><lb n="37"/><w>Nie</w><w>dehaine</w><w>ſo</w><w>ſchone</w><w>gewan</w><pc type="ms">·</pc></l>
-                    <l n="38"><lb n="38"/><w>Daz</w><w>iſt</w><w>war</w><w>da</w><w>was</w><w>ein</w><w>poſer</w><w>m<choice><am>ā</am><ex>an</ex></choice></w><pc type="ms">·</pc></l>
-                    <!--¿Marca en la última palabra?  SI, ABREVIATURA   -->
+                    <l n="38"><lb n="38"/><w>Daz</w><w>iſt</w><w>war</w><w>da</w><w>was</w><w>ein</w><w>poſer</w><w>m<choice><am>ā</am><ex>AN</ex></choice></w><pc type="ms">·</pc></l>
                 </lg>
                 <lg>
                     <l n="39"><lb n="39"/><w>In</w><w>vil</w><w>ſwachem</w><w>werde</w><pc type="ms">·</pc></l>
-                    <!--¿Puntuación final? BUENO, DIGAMOS QUE SI   -->
                     <l n="40"><lb n="40"/><w>Wan</w><w>ſich</w><w>beſannden</w><w>auf</w><w>der</w><w>erde</w><pc type="ms">·</pc></l>
                 </lg>
                 <lg>
                     <l n="41"><lb n="41"/><w>Pei</w><w>ſeinen</w><w>zeiten</w><w>noch</w><w>ander</w><w>ſwa</w><pc type="ms">·</pc></l>
                     <l n="42"><lb n="42"/><w>Nie</w><w>ſo</w><w>manich</w><w>g<choice><orig>v</orig><reg>u</reg></choice>t</w><w>rit<choice><am>t͛</am><ex>ter</ex></choice></w><w>alſo</w><w>da</w><pc type="ms">·</pc></l>
-                    <!--¿Puntuación debajo de 'manich'? NO CAQUITA DE MOSCA, PERO NO VISTE LA ABREVIATURA EN RITT'    -->
                 </lg>
                 <lg>
                     <l n="43"><lb n="43"/><w><hei:initial hei:color="Red" hei:heightLines="2">A</hei:initial><choice><orig>v</orig><reg>u</reg></choice>ch</w><w>wart</w><w>in</w><w>von</w><w>ho<choice><orig>u</orig><reg>v</reg></choice>e</w><w>gegeben</w><pc type="ms">·</pc></l>
                     <l n="44"><lb n="44"/><w>In</w><w>allen</w><w>weiſe</w><w>ein</w><w>wnſch</w><w>leben</w><pc type="ms">·</pc></l>
-                    <!--¿wnſch? SI: W = UU    -->
                 </lg>
                 <lg>
                     <l n="45"><lb n="45"/><w>In</w><w>liebet</w><w>den</w><w>hof</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>den</w><w>leib</w><pc type="ms">·</pc></l>
@@ -232,18 +224,14 @@
                 </lg>
                 <lg>
                     <l n="51"><lb n="51"/><w>Solche</w><w>vreude</w><w>nimmer</w><w><choice><am>w͛</am><ex>wer</ex></choice>den</w><w>mach</w><pc type="ms">·</pc></l>
-                    <!--¿Puntuación wden?  ABREVIATURA!!   -->
                     <l n="52"><lb n="52"/><w>So</w><w>der</w><w>man</w><w>do</w><w>pei</w><w>ſeinen</w><w>zeiten</w><w part="I">phl</w><lb n="52a" ana="hc:DependentLine hc:RunOverLineBelow"/><metamark ana="hc:RunOverSign">|</metamark><w part="F">ach</w></l>
-                    <!-- Paréntesis final de linea. División palabra. HECHO-->
                 </lg>
                 <lg>
                     <l n="53"><lb n="53"/><w>Idoch</w><w>m<choice><orig>v</orig><reg>u</reg></choice>zze</w><w>wir</w><w>n</w><choice><orig>v</orig><reg>u</reg></choice><w>geneſen</w><pc type="ms">·</pc></l>
-                    <!--¿Doch?  NO, "IDOCH"   -->
                     <l n="54"><lb n="54"/><w>Ich</w><w join="right">en</w><w join="left">wolt</w><w>do</w><w>nicht</w><w>ſein</w><w>geweſen</w><pc type="ms">·</pc></l>
                 </lg>
                 <lg>
                     <l n="55"><lb n="55"/><w>Daz</w><w>main</w><w>n<choice><orig>v</orig><reg>u</reg></choice></w><w>nicht</w><w>enwere</w><pc type="ms">·</pc></l>
-                    <!--¿main?  SI   -->
                     <l n="56"><lb n="56"/><w>Wan</w><w>da</w><w><choice><orig>v</orig><reg>u</reg></choice>ns</w><w>mit</w><w>ir</w><w>mere</w><pc type="ms">·</pc></l>
                 </lg>
                 <lg>
@@ -252,7 +240,6 @@
                 </lg>
                 <lg>
                     <l n="59"><lb n="59"/><w><hei:initial hei:color="Blue" hei:heightLines="2">A</hei:initial>Rtus</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>de<choice><orig>v</orig><reg>u</reg></choice></w><w>ch<choice><orig>v</orig><reg>u</reg></choice>niginn</w><pc type="ms">·</pc></l>
-                    <!--¿R? ¿chvniginn?  CORRECTO   -->
                     <l n="60"><lb n="60"/><w>Ir</w><w>ietwederz</w><w><choice><orig>v</orig><reg>u</reg></choice>nder</w><w>in</w><pc type="ms">·</pc></l>
                 </lg>
                 <cb n="46r-c"/>
@@ -275,7 +262,6 @@
                 <lg>
                     <l n="69"><lb n="9"/><w>Diſe</w><w>horten</w><w>ſaiten</w><w>ſpil</w><pc type="ms">·</pc></l>
                     <l n="70"><lb n="10"/><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>diſe</w><w>ſchuzzen</w><w>z<choice><orig>vͦ</orig><reg/></choice></w><w>dem</w><w>zil</w><pc type="ms">·</pc></l>
-                    <!--¿V mayúscula?  NO   -->
                 </lg>
                 <lg>
                     <l n="71"><lb n="11"/><w>Diſe</w><w>reten</w><w>von</w><w>ſender</w><w>arbait</w><pc type="ms">·</pc></l>
@@ -283,23 +269,18 @@
                 </lg>
                 <lg>
                     <l n="73"><lb n="13"/><w>Her</w><w>Kawein</w><w>acht</w><w><choice><orig>v</orig><reg>u</reg></choice>mb</w><w>waffen</w><pc type="ms">·</pc></l>
-                    <!--¿H inicial?  SI   -->
                     <l n="74"><lb n="14"/><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>Key</w><w>lait</w><w>ſich</w><w>ſlaffen</w><pc type="ms">·</pc></l>
                 </lg>
                 <lg>
                     <l n="75"><lb n="15"/><w>In</w><w>den</w><w>ſal</w><w><choice><orig>v</orig><reg>u</reg></choice>nder</w><w>in</w><pc type="ms">·</pc></l>
                     <l n="76"><lb n="16"/><w>ze</w><w>gemach</w><w>an</w><w>ere</w><w>ſt<choice><orig>v</orig><reg>u</reg></choice>nt</w><w>ſein</w><w>ſin</w><pc type="ms">·</pc></l>
-                    <!--¿Mayúscula? NO    -->
                 </lg>
                 <lg>
                     <l n="77"><lb n="17"/><w><hei:initial hei:color="Red" hei:heightLines="2">D</hei:initial>er</w><w>ch<choice><orig>v</orig><reg>u</reg></choice>nich</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>de<choice><orig>v</orig><reg>u</reg></choice></w><w>ch<choice><orig>v</orig><reg>u</reg></choice>niginn</w><pc type="ms">·</pc></l>
-                    <!--¿chvniginn? SI!    -->
                     <l n="78"><lb n="18"/><w>Die</w><w>heten</w><w>ſich</w><w>auch</w><w><choice><orig>v</orig><reg>u</reg></choice>nder</w><w>in</w><pc type="ms">·</pc></l>
-                    <!--¿in? SI    -->
                 </lg>
                 <lg>
                     <l n="79"><lb n="19"/><w>Pei</w><w>handen</w><w>gevangen</w><pc type="ms">·</pc></l>
-                    <!--  ¿Letra inicial? P -->
                     <l n="80"><lb n="20"/><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>waren</w><w>gegangen</w><pc type="ms">·</pc></l>
                 </lg>
                 <lg>
@@ -313,13 +294,10 @@
                 <lg>
                     <l n="85"><lb n="25"/><w>Si</w><w>enzlieffen</w><w>ſchier</w><pc type="ms">·</pc></l>
                     <l n="86"><lb n="26"/><w>Nu</w><w>geſazzen</w><w>ritter</w><w join="right">vor</w><w join="left">ire</w><pc type="ms">·</pc></l>
-                    <!--¿Palabra incial?  NU   -->
                 </lg>
                 <lg>
                     <l n="87"><lb n="27"/><w>Todenes</w><w><choice><orig>v</orig><reg>u</reg></choice>nde</w><w>Gawein</w><pc type="ms">·</pc></l>
-                    <!--¿ T inicial? SI ¿Gawem? NO: GAWEIN    -->
                     <l n="88"><lb n="28"/><w>Segremors</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>ywein</w><pc type="ms">·</pc></l>
-                    <!--Nombre inicial.  -ORS   -->
                 </lg>
                 <lg>
                     <l n="89"><lb n="29"/><w>Auch</w><w>waz</w><w>gelegen</w><w>da</w><w>pei</w><pc type="ms">·</pc></l>
@@ -329,7 +307,6 @@
                 <lg>
                     <l n="91"><lb n="31"/><w><choice><orig>v</orig><reg>u</reg></choice>nder</w><w>in</w><w>pei</w><w>der</w><w>want</w><pc type="ms">·</pc></l>
                     <l n="92"><lb n="32"/><w>Daz</w><w>ſechſte</w><w>waz</w><w>kalocriant</w><pc type="ms">·</pc></l>
-                    <!--¿Nombre final?  CORRECTO, MENOS QUE ESTABA EN MAYÚSCULA   -->
                 </lg>
                 <lg>
                     <l n="93"><lb n="33"/><w>Der</w><w>beg<choice><orig>v</orig><reg>u</reg></choice>nde</w><w>ſagen</w><w>ein</w><w>mere</w><pc type="ms">·</pc></l>
@@ -337,13 +314,11 @@
                 </lg>
                 <lg>
                     <l n="95"><lb n="35"/><w><choice><orig>v</orig><reg>U</reg></choice>nd</w><w>von</w><w>dhainer</w><w>manhait</w><pc type="ms">·</pc></l>
-                    <!--¿dhainer?     -->
                     <l n="96"><lb n="36"/><w>Do</w><w>er</w><w>ein</w><w>luetzel</w><w>her</w><w>geſait</w><pc type="ms">·</pc></l>
                 </lg>
                 <lg>
                     <l n="97"><lb n="37"/><w>Do</w><w>er wachte</w><w>de<choice><orig>v</orig><reg>u</reg></choice></w><w>ch<choice><orig>v</orig><reg>u</reg></choice>niginn</w><pc type="ms">·</pc></l>
                     <l n="98"><lb n="38"/><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>hort</w><w>ſein</w><w>ſagen</w><w>dar</w><w>in</w><pc type="ms">·</pc></l>
-                    <!--¿dar in separado?  SI   -->
                 </lg>
                 <lg>
                     <l n="99"><lb n="39"/><w>Si</w><w>liez</w><w>ligen</w><w>den</w><w>ch<choice><orig>v</orig><reg>u</reg></choice>nich</w><w>ir</w><w>man</w><pc type="ms">·</pc></l>
@@ -352,23 +327,18 @@
                 <lg>
                     <l n="101"><lb n="41"/><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>ſlaich</w><w>ſo</w><w>leiſe</w><w>z<choice><orig>v</orig><reg>u</reg></choice></w><w>in</w><w>dar</w><pc type="ms">·</pc></l>
                     <l n="102"><lb n="42"/><w>Daz</w><w>ir</w><w>dhainer</w><w>wart</w><w>gewar</w><pc type="ms">·</pc></l>
-                    <!--¿dhainer?  SI: DEHEINER O NEHEINER SON NEGACIONES DE EINER   -->
                 </lg>
                 <lg>
                     <l n="103"><lb n="43"/><w><choice><orig>v</orig><reg>U</reg></choice>ntz</w><w>ſi</w><w>in</w><w>chom</w><w>vil</w><w>nachen</w><w>pei</w><pc type="ms">·</pc></l>
-                    <!--Palabra incial. ¿chom?  SI, LA CH ES TÍPICA DE SUIZA    -->
                     <l n="104"><lb n="44"/><w><choice><orig>v</orig><reg>U</reg></choice>nd</w><w>vil</w><w>mitten</w><w><choice><orig>v</orig><reg>u</reg></choice>nder</w><w>ſei</w><pc type="ms">·</pc></l>
                 </lg>
                 <lg>
                     <l n="105"><lb n="45"/><w>Nywan</w><w>kalocriant</w><pc type="ms">·</pc></l>
-                    <!--w? ¿Nombre?  SI, PERO HAY UNA Y DELANTE, NO UNA V   -->
                     <l n="106"><lb n="46"/><w>Der</w><w>ſpranch</w><w>auf</w><w>al</w><w>zehant</w><pc type="ms">·</pc></l>
                 </lg>
                 <lg>
                     <l n="107"><lb n="47"/><w>Als</w><w>er</w><w>ir</w><w>naich</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>ſei</w><w>enphie</w><pc type="ms">·</pc></l>
-                    <!--Última palabra.  CORRECTO   -->
                     <l n="108"><lb n="48"/><w><hei:initial hei:color="Blue" hei:heightLines="2">D</hei:initial>o</w><w>erzaiget</w><w>aber</w><w>key</w><w>hie</w><pc type="ms">·</pc></l>
-                    <!--K? ¿hie?  LA K ES MINÚSCULA, LO DEMÁS BIEN   -->
                 </lg>
                 <lg>
                     <l n="109"><lb n="49"/><w>Sein</w><w>alt</w><w>gewonhait</w><pc type="ms">·</pc></l>
@@ -376,18 +346,15 @@
                 </lg>
                 <lg>
                     <l n="111"><lb n="51"/><w>Er</w><w>ber<choice><orig>v</orig><reg>u</reg></choice>ft</w><w>in</w><w>dar</w><w><choice><orig>v</orig><reg>u</reg></choice>mbe</w><w>ſere</w><pc type="ms">·</pc></l>
-                    <!--Palabra incial.     -->
                     <l n="112"><lb n="52"/><w><choice><orig>v</orig><reg>U</reg></choice>nd</w><w>ſprach</w><w>im</w><w>an</w><w>ſein</w><w>ere</w><pc type="ms">·</pc></l>
                 </lg>
                 <lg>
                     <l n="113"><lb n="53"/><w>Er</w><w>ſprach</w><w>herre</w><w>Kalocriant</w><pc type="ms">·</pc></l>
-                    <!--Inicial.   UNA E  -->
                     <l n="114"><lb n="54"/><w>Mir</w><w>waz</w><w>daz</w><w>wol</w><w>erchant</w><pc type="ms">·</pc></l>
                 </lg>
                 <lg>
                     <l n="115"><lb n="55"/><w>Daz</w><w><choice><orig>v</orig><reg>u</reg></choice>nder</w><w><choice><orig>v</orig><reg>u</reg></choice>ns</w><w>niemen</w><w>were</w><pc type="ms">·</pc></l>
                     <l n="116"><lb n="56"/><w>So</w><w>hobſch</w><w><choice><orig><w>v</w></orig><reg>u</reg></choice>nd</w><w>ſo</w><w>erbære</w><pc type="ms">·</pc></l>
-                    <!--hobſch  SI: HOBSCH < HUBSCH < HOBISCH < HOVISCH = HÖFISCH   -->
                 </lg>
                 <lg>
                     <l n="117"><lb n="57"/><w>Als</w><w>ir</w><w>da</w><w>wænet</w><w>daz</w><w>ir</w><w>ſeit</w><pc type="ms">·</pc></l>
@@ -396,10 +363,9 @@
                 <lg>
                     <l n="119"><lb n="59"/><w>Vor</w><w>allen</w><w><choice><orig>v</orig><reg>u</reg></choice>nſern</w><w>geſellen</w><pc type="ms">·</pc></l>
                     <l n="120"><lb n="60"/><w>Ob</w><w>wir</w><w>ſelbe</w><w>wellen</w><pc type="ms">·</pc></l>
-                    <!--Signo de puntuación.  SI, A VECES SE LE VA UN POCO CON LAS PRISAS, JEJE...   -->
                 </lg>
                 <lg>
-                    <l n="121"><lb/><w></w><w></w><w></w><w></w><w></w><pc type="ms">·</pc></l>
+                    <l n="121"><lb/><w/><w/><w/><w/><w/><pc type="ms">·</pc></l>
                     <l n="122"><lb/><w></w><w></w><w></w><w></w><w></w><pc type="ms">·</pc></l>
                 </lg>
                 <lg>
