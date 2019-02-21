@@ -244,13 +244,19 @@
             <div>
                 <pb n="5v"/>
                 <cb n="c"/>
-                <head ana="hc:WorkHeading">
-                    <lb n="49"/><w>Von</w><w>künig</w><w>Artus</w><w>hochzeit</w><pc type="ms">·</pc><w>auch</w>
-                    <lb n="50"/><w>von</w><w>ſeinem</w><w>Recht</w><pc type="ms">·</pc><w>deſgleichen</w><w part="I">hofge</w><metamark ana="hc:Hyphen">⸗</metamark>
-                    <lb n="51" break="no"/><w part="F">ſind</w><pc type="ms">·</pc><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>geſchäfften</w><pc type="ms">·</pc><w>als</w><w>von</w><w part="I">Ca</w><metamark ana="hc:Hyphen">⸗</metamark>
-                    <lb n="52" break="no"/><w part="F">logriant</w><pc type="ms">·</pc><w>Chaÿ</w><pc type="ms">·</pc><w>he<choice><am>r ͛</am><ex>rr</ex></choice></w><w>Yban</w><pc type="ms">·</pc><w><choice><orig>v</orig><reg>u</reg></choice>nd</w>
-                    <lb n="53"/><w>anndern</w><metamark>&amp;</metamark>
-                </head>
+                <head ana="hc:WorkHeading"> <lb n="49"/><hi hei:color="Red"
+                    ><w>Von</w><w>künig</w><w>Artus</w><w>hochzeit</w><pc type="ms"
+                    >·</pc><w>auch</w></hi> <lb n="50"/><hi hei:color="Red"
+                    ><w>von</w><w>ſeinem</w><w>Recht</w><pc type="ms">·</pc><w>deſgleichen</w><w
+                    part="I">hofge</w><metamark ana="hc:Hyphen">⸗</metamark></hi> <lb n="51"
+                    break="no"/><hi hei:color="Red"><w part="F">ſind</w><pc type="ms"
+                    >·</pc><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>geſchäfften</w><pc
+                    type="ms">·</pc><w>als</w><w>von</w><w part="I">Ca</w><metamark ana="hc:Hyphen"
+                    >⸗</metamark></hi> <lb n="52" break="no"/><hi hei:color="Red"><w part="F"
+                    >logriant</w><pc type="ms">·</pc><w>Chaÿ</w><pc type="ms"
+                    >·</pc><w>he<choice><am>r͛</am><ex>rr</ex></choice></w><w>Yban</w><pc type="ms"
+                    >·</pc><w><choice><orig>v</orig><reg>u</reg></choice>nd</w></hi> <lb n="53"/><hi
+                    hei:color="Red"><w>anndern</w><metamark>&amp;</metamark></hi> </head>
                 <pb n="6r"/>
                 <cb n="a"/>
                 <lg>
