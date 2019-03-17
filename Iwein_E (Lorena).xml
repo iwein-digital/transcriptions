@@ -7936,8 +7936,8 @@
                 </lg>
                 <lg>
                     <l n="5221"><lb n="41"/><w><hi rendition="hc:Versal">V</hi>rowe</w><w>zeiget</w><w>mir</w><w>die</w></l>
-                    <l n="5222"><lb n="42"/><w>die</w><w>i<choice><orig>v</orig><reg>u</reg></choice>ch</w><w>da</w><w>chemphent</w><w>ſin</w><w>ſi</w><w>hie</w><pc>·</pc></l>
-                    <!--non sei se en "sin" había unha macron que logo tacharon -->
+                    <l n="5222"><lb n="42"/><w>die</w><w>i<choice><orig>v</orig><reg>u</reg></choice>ch</w><w>da</w><w>chemphent</w><w>ſin<add hei:placeRef="hc:AboveLine">t</add></w><w>ſi</w><w>hie</w><pc>·</pc></l>
+                    <!--non sei se en "sin" había unha macron que logo tacharon  NON, CREO QUE É UNHA 'T' ENGADIDA-->
                 </lg>
                 <lg>
                     <l n="5223"><lb n="43"/><w><hi rendition="hc:Versal"><choice><orig>V</orig><reg>U</reg></choice></hi>nd</w><w>heizet</w><w>i<choice><orig>v</orig><reg>u</reg></choice>ch</w><w>drat</w><w>ledich</w><w>lan</w><pc>·</pc></l>
@@ -7974,8 +7974,8 @@
                 </lg>
                 <lg>
                     <l n="5239"><lb n="11"/><w><hi rendition="hc:Versal">N</hi>iwan</w><w>alſ</w><w>ich</w><w>ſch<choice><orig>v</orig><reg>u</reg></choice>ldich</w><w>ſi</w><pc>·</pc></l>
-                    <l n="5240"><lb n="12"/><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>zeiget</w><w>imſ</w><w>alle</w><w>dri</w><pc>·</pc></l>
-                    <!--ims?             -->
+                    <l n="5240"><lb n="12"/><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>zeiget</w><w join="right">im</w><w join="left">ſ</w><w>alle</w><w>dri</w><pc>·</pc></l>
+                    <!--ims?   SI-->
                 </lg>
                 <lg>
                     <l n="5241"><lb n="13"/><w><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">D</hei:initial>o</w><w>ſprach</w><w><choice><am>d ͛</am><ex>der</ex></choice></w><w>dr<choice><orig>v</orig><reg>u</reg></choice>hſæze</w></l>
@@ -8006,7 +8006,7 @@
                     <l n="5254"><lb n="26"/><w>daz</w><w>ir</w><w>i<choice><orig>v</orig><reg>u</reg></choice>ch</w><w>bedæhtet</w><w>baz</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="5255"><lb n="27"/><w><hi rendition="hc:Versal">I</hi>ch</w><w>engan</w><w>i<choice><orig>v</orig><reg>u</reg></choice></w><w>des</w><w>vil</w><w>ſere</w><pc>·</pc></l>
+                    <l n="5255"><lb n="27"/><w><hi rendition="hc:Versal">I</hi>ch</w><w join="right">en</w><w join="left">gan</w><w>i<choice><orig>v</orig><reg>u</reg></choice></w><w>des</w><w>vil</w><w>ſere</w><pc>·</pc></l>
                     <l n="5256"><lb n="28"/><w>daz</w><w>ich</w><w>i<choice><orig>v</orig><reg>u</reg></choice></w><w>iwer</w><w>ere</w><pc>·</pc></l>
                 </lg>
                 <lg>
@@ -8046,23 +8046,23 @@
                     <l n="5274"><lb n="46"/><w>wænet</w><w>ir</w><w>daz</w><w>ich</w><w>eine</w><w>ſi</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="5275"><lb n="47"/><w><hi rendition="hc:Versal">G</hi>ot</w><w>geſt<choice><orig>v</orig><reg>u</reg></choice>nt</w><w><choice><am>d ͛</am><ex>der</ex></choice></w><w>warheit</w><w>ie</w></l>
+                    <l n="5275"><lb n="47"/><w><hi rendition="hc:Versal">G</hi>ot</w><w>geſt<choice><orig>v</orig><reg>u</reg></choice>nt</w><w><choice><am>d ͛</am><ex>der</ex></choice></w><w>warheit</w><w>iê</w></l>
                     <l n="5276"><lb n="48"/><w>mit</w><w>den</w><w>beiden</w><w>bin</w><w>ich</w><w>hie</w><pc>·</pc></l>
                 </lg>
-                <pb n="20v"/>
+                <pb n="21v"/>
                 <cb n="a"/>
                 <lg>
                     <l n="5277"><lb n="1"/><w><hi rendition="hc:Versal">I</hi>ch</w><w>weiz</w><w>wol</w><w>ſi</w><w>geſtent</w><w>mir</w><pc>·</pc></l>
                     <l n="5278"><lb n="2"/><w>ſ<choice><orig>v</orig><reg>u</reg></choice>s</w><w>bin</w><w>ich</w><w>ſelbe</w><w>dritte</w><w>alſ</w><w>ir</w></l>
                 </lg>
                 <lg>
-                    <l n="5279"><lb n="3"/><w join="right"><hi rendition="hc:Versal">D</hi>ar</w><w join="left">an</w><w>lit</w><w>wenich</w><w>grozzer</w><w>chraft</w><pc>·</pc></l>
+                    <l n="5279"><lb n="3"/><w join="right"><hi rendition="hc:Versal">D</hi>ar</w><w join="left">an</w><w>lit</w><w join="right">wen</w><w join="left">ich</w><w>grozzer</w><w>chraft</w><pc>·</pc></l>
                     <l n="5280"><lb n="4"/><w>danne</w><w>an</w><w>iwer</w><w>geſelleſchaft</w></l>
                 </lg>
                 <lg>
                     <l n="5281"><lb n="5"/><w><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">D</hei:initial>o</w><w>ſprach</w><w><choice><am>d ͛</am><ex>der</ex></choice></w><w>dr<choice><orig>v</orig><reg>u</reg></choice>hſæze</w><pc>·</pc></l>
                     <l n="5282"><lb n="6"/><w>ſwes</w><w>ich</w><w>mich</w><w>vermæze</w><pc>·</pc></l>
-                    <!--o W ten un punto abaixo, pero non me ten sentido que o quixera borrar     -->
+                    <!--o W ten un punto abaixo, pero non me ten sentido que o quixera borrar  NON TIÑAMOS OUTROS CASOS ASÍ??   -->
                 </lg>
                 <lg>
                     <l n="5283"><lb n="7"/><w><hi rendition="hc:Versal">W</hi>ider</w><w><choice><orig>v</orig><reg>u</reg></choice>nſern</w><w><choice><am>h ͛</am><ex>her</ex></choice>ren</w><w>got</w></l>
@@ -8074,7 +8074,7 @@
                 </lg>
                 <lg>
                     <l n="5287"><lb n="11"/><w><hi rendition="hc:Versal">I</hi>ch</w><w>ſih</w><w>i<choice><orig>v</orig><reg>u</reg></choice>ch</w><w>einen</w><w>geverten</w><w>han</w><pc>·</pc></l>
-                    <l n="5288"><lb n="12"/><w>den</w><w>ſ<choice><orig>v</orig><reg>u</reg></choice>lt</w><w>ir</w><w>herzen</w><w>hoher</w><w>ſtan</w><pc>·</pc></l>
+                    <l n="5288"><lb n="12"/><w>den</w><w>ſ<choice><orig>v</orig><reg>u</reg></choice>lt</w><w>ir</w><w>heizen</w><w>hoher</w><w>ſtan</w><pc>·</pc></l>
                 </lg>
                 <lg>
                     <l n="5289"><lb n="13"/><w join="right"><hi rendition="hc:Versal">I</hi>wern</w><w>le<choice><orig>v</orig><reg>u</reg></choice>n</w><w><choice><am>d ͛</am><ex>der</ex></choice></w><w>hie</w><w>ſtat</w></l>
@@ -8103,7 +8103,7 @@
                 <lg>
                     <l n="5301"><lb n="25"/><w><hi rendition="hc:Versal">D</hi>ie</w><w><choice><orig>i</orig><reg>j</reg></choice><choice><orig>v</orig><reg>u</reg></choice>nchvrowen</w><w>brinn<choice><am>ē</am><ex>en</ex></choice></w><w>ſehen</w></l>
                     <l n="5302"><lb n="26"/><w>er</w><w>ſprach</w><w>des</w><w>en</w><w>ſol</w><w><del rendition="hc:Erased">ich</del></w><w>niht</w><w>geſc<choice><am>hʼ</am><ex>he</ex></choice>en</w></l>
-                    <!--non estou segura nin do que borraron nin da marquiña do H, pero eu inténtoo     -->
+                    <!--non estou segura nin do que borraron nin da marquiña do H, pero eu inténtoo   MUY BIEN!!-->
                 </lg>
                 <lg>
                     <l n="5303"><lb n="27"/><w><hi rendition="hc:Versal">S</hi><choice><orig>v</orig><reg>u</reg></choice>s</w><w>m<choice><orig>vͦ</orig><reg>uͦ</reg></choice>s</w><w><choice><am>d ͛</am><ex>der</ex></choice></w><w>leve</w><w>hoher</w><w>ſtan</w><pc>·</pc></l>
@@ -8151,8 +8151,8 @@
                 </lg>
                 <cb n="b"/>
                 <lg>
-                    <l n="5325"><lb n="1"/><w><hi rendition="hc:Versal">V</hi><subst><del rendition="hc:Adapted">v</del><add rendition="hc:Adapted">n</add></subst>n</w><w>in</w><w>einſ</w><w>ackerſ</w><w>lanch</w><pc>·</pc></l>
-                    <!--A segunda letra parece que a cambiaron por un N, pero non sei...     -->
+                    <l n="5325"><lb n="1"/><w><hi rendition="hc:Versal">V</hi><subst><del rendition="hc:Adapted">w</del><add rendition="hc:Adapted">m</add></subst>n</w><w>in</w><w>einſ</w><w>ackerſ</w><w>lanch</w><pc>·</pc></l>
+                    <!--A segunda letra parece que a cambiaron por un N, pero non sei... EU PENSO QUE QUIXO ESCRIBIR W E LOGO CAMBIOU A M-->
                     <l n="5326"><lb n="2"/><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>tet</w><w>ſchiere</w><w>den</w><w>wider</w><w>wanch</w></l>
                 </lg>
                 <lg>
@@ -8173,7 +8173,7 @@
                 </lg>
                 <lg>
                     <l n="5335"><lb n="11"/><w><hi rendition="hc:Versal">R</hi>eht</w><w>vliegende</w><w>ſtach</w><w>er</w><w>in</w><pc>·</pc></l>
-                    <l n="5336"><lb n="12"/><w>en</w><w>bor</w><w><choice><orig>v</orig><reg>u</reg></choice>z</w><w>dem</w><w>ſatel</w><w>hin</w><pc>·</pc></l>
+                    <l n="5336"><lb n="12"/><w>enbor</w><w><choice><orig>v</orig><reg>u</reg></choice>z</w><w>dem</w><w>ſatel</w><w>hin</w><pc>·</pc></l>
                 </lg>
                 <lg>
                     <l n="5337"><lb n="13"/><w><hi rendition="hc:Versal">D</hi>az</w><w>er</w><w><choice><orig>v</orig><reg>u</reg></choice>f</w><w>dem</w><w>ſande</w><w>gelach</w></l>
@@ -8189,7 +8189,7 @@
                 </lg>
                 <lg>
                     <l n="5343"><lb n="19"/><w><hi rendition="hc:Versal">D</hi>ie</w><w>zwene</w><w>die</w><w>noch</w><w>werten</w><pc>·</pc></l>
-                    <l n="5344"><lb n="20"/><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>phlagens</w><w>mit</w><w>den</w><w>ſwerten</w><pc>·</pc></l>
+                    <l n="5344"><lb n="20"/><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w join="right">phlagen</w><w join="left">s</w><w>mit</w><w>den</w><w>ſwerten</w><pc>·</pc></l>
                 </lg>
                 <lg>
                     <l n="5345"><lb n="21"/><w><hi rendition="hc:Versal">A</hi>lſ</w><w>g<choice><orig>v</orig><reg>u</reg></choice>t</w><w>ritter</w><w>ſolden</w></l>
@@ -8233,14 +8233,14 @@
                 </lg>
                 <lg>
                     <l n="5367"><lb n="41"/><w><hi rendition="hc:Versal">B</hi>ech<choice><orig>v</orig><reg>u</reg></choice>mberten</w><w>ſi</w><w>in</w><w>vil</w><w>ſere</w><pc>·</pc></l>
-                    <l n="5368"><lb n="42"/><w>doch</w><w>enmohten</w><w>ſi</w><w>im</w><w>dehein</w><w>ere</w></l>
+                    <l n="5368"><lb n="42"/><w>doch</w><w join="right">en</w><w join="left">mohten</w><w>ſi</w><w>im</w><w>dehein</w><w>ere</w></l>
                 </lg>
                 <lg>
                     <l n="5369"><lb n="43"/><w><hi rendition="hc:Versal">V</hi><choice><orig>v</orig><reg>u</reg></choice>r</w><w>namſ</w><w>an</w><w>gewinnen</w><pc>·</pc></l>
                     <l n="5370"><lb n="44"/><w>n<choice><orig>vͦ</orig><reg>uͦ</reg></choice></w><w>chom</w><w>ze</w><w>ſinen</w><w>ſinnen</w></l>
                 </lg>
                 <lg>
-                    <l n="5371"><lb n="45"/><w><hi rendition="hc:Versal">D</hi>er</w><w>dr<choice><orig>v</orig><reg>u</reg></choice>ſæze</w><w>wider</w></l>
+                    <l n="5371"><lb n="45"/><w><hi rendition="hc:Versal">D</hi>er</w><w>dr<choice><orig>v</orig><reg>u</reg></choice>hſæze</w><w>wider</w></l>
                     <l n="5372"><lb n="46"/><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>lac</w><w>niht</w><w>me</w><w>da</w><w>nider</w></l>
                 </lg>
                 <lg>
@@ -8260,7 +8260,7 @@
                 <lg>
                     <l n="5379"><lb n="5"/><w><hi rendition="hc:Versal"><choice><orig>V</orig><reg>U</reg></choice></hi><choice><am>n̄</am><ex>nd</ex></choice></w><w>zart</w><w>von</w><w>im</w><w>daz</w><w>yſen</w><pc>·</pc></l>
                     <l n="5380"><lb n="6"/><w>man</w><w>ſach</w><w>da</w><w>ringe</w><w>riſen</w><pc>·</pc></l>
-                    <!--Non sabía como marcar o que hai despois de "ringe"     -->
+                    <!--Non sabía como marcar o que hai despois de "ringe"  PARECE COMO SI HOUBERA QUERIDO EMPEZAR OUTRA LETRA. PASAMOS DE CODIFICAR ISO, NON TE PARECE?    -->
                 </lg>
                 <lg>
                     <l n="5381"><lb n="7"/><w><hi rendition="hc:Versal">S</hi>am</w><w>ſi</w><w>wæren</w><w>von</w><w>ſtro</w></l>
@@ -8287,7 +8287,7 @@
                     <l n="5393"><lb n="18"/><w>heten</w><w>enphangen</w><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>gegeben</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="5393,1"><lb n="19"/><w><hi rendition="hc:Versal">H</hi>eten</w><w>enphangen</w><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>gegeben</w><pc>·</pc></l>
+                    <l n="5393"><lb n="19"/><w><hi rendition="hc:Versal">H</hi>eten</w><w>enphangen</w><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>gegeben</w><pc>·</pc></l>
                     <l n="5394"><lb n="20"/><w>werten</w><w>ſi</w><w>n<choice><orig>v</orig><reg>u</reg></choice></w><w>daz</w><w>leben</w><pc>·</pc></l>
                 </lg>
                 <lg>
@@ -8295,7 +8295,7 @@
                     <l n="5396"><lb n="22"/><w>wan</w><w>ſi</w><w>n<choice><orig>v</orig><reg>u</reg></choice></w><w>beſt<choice><orig>v</orig><reg>u</reg></choice>nd</w><w>michel</w><w>not</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="5397"><lb n="23"/><w><hi rendition="hc:Versal">N</hi><choice><orig>v</orig><reg>u</reg></choice></w><w>waren</w><w>zwen</w><w>wi<choice><am>dʼ</am><ex>de</ex></choice></w><w>zwein</w><pc>·</pc></l>
+                    <l n="5397"><lb n="23"/><w><hi rendition="hc:Versal">N</hi><choice><orig>v</orig><reg>u</reg></choice></w><w>waren</w><w>zwen</w><w>wi<choice><am>d͛</am><ex>der</ex></choice></w><w>zwein</w><pc>·</pc></l>
                     <l n="5398"><lb n="24"/><w>wan</w><w join="right">ez</w><w join="left">n</w><w>mohte</w><w>her</w><w>ywein</w><pc>·</pc></l>
                 </lg>
                 <lg>
