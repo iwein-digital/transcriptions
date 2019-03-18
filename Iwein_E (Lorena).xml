@@ -9955,8 +9955,8 @@
                 </lg>
                 <lg>
                     <l n="6405"><lb n="21"/><w><hi rendition="hc:Versal">S</hi>o</w><w>ſint</w><w>ſi</w><w>worden</w><w>riche</w><pc>·</pc></l>
-                    <l n="6406"><lb n="22"/><w><choice><orig>v</orig><reg>u</reg></choice><subst><del rendition="hc:Adapted">n</del><add rendition="hc:Adapted"><choice><am>n<hi hei:color="Red">̄</hi></am><ex>nd</ex></choice></add></subst></w><w>lebe</w><w>wir</w><w><choice><orig>i</orig><reg>j</reg></choice>æmerliche</w><pc>·</pc></l>
-                    <!--macron vermello  QUÉ TAL ASÍ?? ;-)   -->
+                    <l n="6406"><lb n="22"/><w xml:id="w_6406_1"><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>lebe</w><w>wir</w><w><choice><orig>i</orig><reg>j</reg></choice>æmerliche</w><pc>·</pc><note target="#w_6406_1" ana="hc:TranscriptionNote">Nasalstrich in roter Tinte nachgetragen</note></l>
+                    <!--macron vermello DIXÉRNOME QUE O MELLOR ERA FACER UNHA NOTA...-->
                 </lg>
                 <lg>
                     <l n="6407"><lb n="23"/><w><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">D</hei:initial><choice><orig>v</orig><reg>u</reg></choice></w><w>erbarmet</w><w>im</w><w>ir</w><w><choice><orig>v</orig><reg>u</reg></choice>ngemach</w><pc>·</pc></l>
