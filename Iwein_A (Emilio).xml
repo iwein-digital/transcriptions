@@ -184,8 +184,8 @@
                     <!--Revisado hasta aquí Victor 14/03/2019     -->
                 </lg>
                 <lg>
-                    <l n="73"><w>Gawain</w><w>ahte</w><w>uffe</w><w>wafen</w><lb n="23"/><pc type="ms">·</pc></l>
-                    <l n="74"><w>Keie</w><w>legede</w><w>ſich ſlafen</w><pc type="ms">·</pc></l>
+                    <l n="73"><w>Gawain</w><w>ahte</w><w>uffe</w><w>wafen</w><pc type="ms">·</pc></l>
+                    <l n="74"><lb n="23"/><w>Keie</w><w>legede</w><w>ſich ſlafen</w><pc type="ms">·</pc></l>
                 </lg>
                 <lg>
                     <l n="75"><w>vffe</w><w>den</w><w>undir</w><lb n="24"/><w>in</w><pc type="ms">·</pc></l>
@@ -193,7 +193,7 @@
                 </lg>
                 <lg>
                     <l n="77"><lb n="25"/><w><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="1">D</hei:initial>er</w><w>koninc</w><w>unde</w><w>diu</w><w>koningin</w><pc type="ms">·</pc></l>
-                    <l n="78"><w>die</w><w part="I">he<pb n="2r"/><cb n="2r-a"/></w><lb n="1"/><w part="F">ten</w><w>ſih</w><w>oh</w><w>under</w><w>in</w><pc type="ms">·</pc></l>
+                    <l n="78"><w>die</w><w part="I">he<pb n="2r"/><cb n="a"/></w><lb n="1"/><w part="F">ten</w><w>ſih</w><w>oh</w><w>under</w><w>in</w><pc type="ms">·</pc></l>
                 </lg>
                 <lg>
                     <l n="79"><w>Ze</w><w>handen</w><w>gevangen</w><pc type="ms">·</pc></l>
@@ -241,7 +241,7 @@
                 </lg>
                 <lg>
                     <l n="101"><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>ſleich</w><w>zoͮ</w><w>in</w><w>ſo</w><w>liſe</w><lb n="15"/><w>dar</w><pc type="ms">·</pc></l>
-                    <l n="102"><w>daz</w><w>iſ</w><w>ir chein</w><w>newart</w><w>gewar</w><pc type="ms">·</pc></l>
+                    <l n="102"><w>daz</w><w>iſ</w><w>ir chein</w><w join="right">ne</w><w join="left">wart</w><w>gewar</w><pc type="ms">·</pc></l>
                 </lg>
                 <lg>
                     <l n="103"><w><choice><orig>V</orig><reg>U</reg></choice>nze</w><lb n="16"/><w>ſie</w><w>in quam</w><w>vil nahe</w><w>bi</w><pc type="ms">·</pc></l>
@@ -249,8 +249,7 @@
                 </lg>
                 <lg>
                     <l n="105"><w>Nie wen</w><w>ein</w><w>kalogranant</w><pc type="ms">·</pc></l>
-                    <!--Revisar separación de palabra-->
-                    <l n="106"><lb n="18"/><w>der</w><w>ſpranc</w><w>in</w><w>gegen</w><w>ir</w><w>zehant</w><pc type="ms">·</pc></l>
+                    <l n="106"><lb n="18"/><w>der</w><w>ſpranc</w><w>in gegen</w><w>ir</w><w>zehant</w><pc type="ms">·</pc></l>
                 </lg>
                 <lg>
                     <l n="107"><w>her</w><w>neich</w><lb n="19"/><w>ir</w><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>untfienc</w><w>ſi</w><pc type="ms">·</pc></l>
@@ -262,7 +261,8 @@
                 </lg>
                 <lg>
                     <l n="111"><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>berief</w><w>en</w><w join="right">dar</w><w join="left">umbe</w><w>sere</w><pc type="ms">·</pc></l>
-                    <l n="112"><lb n="22"/><w>her</w><w>ſprah</w><w>eine</w><w>an</w><w>ſin</w><w>ere</w><pc type="ms">·</pc></l>
+                    <l n="112"><lb n="22"/><w>her</w><w>ſprah</w><w>eme</w><w>an</w><w>ſin</w><w>ere</w><pc type="ms">·</pc></l>
+                    <!--revisar si es EME o EINE, mirar otros casos     -->
                 </lg>
                 <lg>
                     <l n="113"><w>her</w><w>ſprah</w><w>her</w><lb n="23"/><w>kalogranant</w><pc type="ms">·</pc></l>
@@ -270,7 +270,9 @@
                 </lg>
                 <lg>
                     <l n="115"><w>daz</w><w><choice><orig>v</orig><reg>u</reg></choice>nder</w><w>unſ</w><w>nieman</w><w>ne</w><w>waſ</w><pc type="ms">·</pc></l>
-                    <l n="116"><pb n="2v"/><cb n="2v-a"/><lb n="1"/><w>So</w><w>ho<choice><orig>u</orig><reg>v</reg></choice>iſc</w><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>alſo</w><w>irbare</w><pc type="ms">·</pc></l>
+                    <pb n="2v"/>
+                    <cb n="a"/>
+                    <l n="116"><lb n="1"/><w>So</w><w>ho<choice><orig>u</orig><reg>v</reg></choice>iſc</w><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>alſo</w><w>irbare</w><pc type="ms">·</pc></l>
                 </lg>
                 <lg>
                     <l n="117"><w join="right">Alſ</w><w join="left">ir</w><w>wenet</w><w join="right">dar</w><w join="left">z</w><lb n="2"/><w>ir</w><w>ſit</w><pc type="ms">·</pc></l>
@@ -307,16 +309,16 @@
                 </lg>
                 <lg>
                     <l n="133"><w>Oder</w><w>ſwi</w><w>wir</w><w>deſ</w><lb n="13"/><w>vor gazen</w><pc type="ms">·</pc></l>
-                    <!--Getrenntschreibung überprüfen!-->
-                    <l n="134"><w>daz</w><w>wir</w><w>ſtille</w><w><subst><del rendition="hc:Overdotted">z</del><add hei:placeRef="hc:AboveLine">ſ</add></subst>azen</w><pc type="ms">·</pc></l>
+                    <l n="134"><w>daz</w><w>wir</w><w>ſtille</w><w><subst><del rendition="hc:Underdotted">z</del><add hei:placeRef="hc:AboveLine">ſ</add></subst>azen</w><pc type="ms">·</pc></l>
                 </lg>
                 <lg>
                     <l n="135"><w>doͮ</w><w part="I">moh</w><lb n="14"/><w part="F" join="right">t</w><w join="left">er</w><w>oh</w><w>geſezen</w><w>ſin</w><pc type="ms">·</pc></l>
-                    <l n="136"><w>doͮ</w><w join="right">antwort</w><w join="left">im</w><w>diu</w><w part="I">ko<lb ana="hc:DependentLine hc:RunOverLineBelow" n="14a"/><w>ningin</w></w><pc type="ms">·</pc></l>
+                    <l n="136"><w>doͮ</w><w join="right">antwort</w><w join="left">im</w><w>diu</w><w part="I">ko<lb ana="hc:DependentLine hc:RunOverLineBelow" n="14a"/><w part="F"><metamark ana="hc:RunOverSign ">∫</metamark>ningin</w></w><pc type="ms">·</pc></l>
                 </lg>
                 <lg>
                     <l n="137"><lb n="15"/><w><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">S</hei:initial>i<choice><orig>v</orig><reg>u</reg></choice></w><w>ſprah</w><w>kay</w><w>daz</w><lb n="16"/><w>iſ</w><w>din</w><w>ſite</w><pc type="ms">·</pc></l>
                     <l n="138"><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w join="right">ne</w><w join="left">ſcades</w><w>nieman</w><w>me</w><lb n="17"/><w>da</w><w>mite</w><pc type="ms">·</pc></l>
+                    <!--Revisado hasta aquí Victor 25/03/2019     -->
                 </lg>
                 <lg>
                     <l n="139"><w/><w/><w/><w/><w/><pc type="ms">·</pc></l>
