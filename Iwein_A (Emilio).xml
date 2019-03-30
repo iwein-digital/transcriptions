@@ -420,6 +420,11 @@
                     <l n="184"><lb n="25"/><w>Gerne</w><w>zoͮ</w><w>ſinen</w><w>hulden</w><pc >·</pc></l>
                 </lg>
                 <lg> <l n="185"><w>Nu</w><w>bitet</w><w>in</w><w>ſin</w><w>mare</w><pc >·</pc></l> <pb n="3v"/><cb n="a"/><l n="186"><lb n="1"/><w>deſ</w><w>e</w><w>begunnen</w><w>ware</w><pc>·</pc></l> </lg>
+                <lg> 
+                    <l n="185"><w>Nu</w><w>bitet</w><w>in</w><w>ſin</w><w>mare</w><pc >·</pc></l> 
+                    <pb n="3v"/>
+                    <cb n="a"/>
+                    <l n="186"><lb n="1"/><w>deſ</w><w>e</w><w>begunnen</w><w>ware</w><pc>·</pc></l> </lg>
                 <lg>
                     <l n="187"><w>dur</w><w><choice><orig>v</orig><reg>u</reg></choice>we</w><w>liebe</w><w part="I">vol</w><lb n="2"/><w part="F">ſagen</w><pc>·</pc></l>
                     <l n="188"><w>Man</w><w>mah</w><w>vil</w><w>gerne</w><w>vor</w><w><choice><orig>v</orig><reg>u</reg></choice></w><w>getagen</w><pc >·</pc></l>
@@ -488,15 +493,20 @@
                     <l n="219"><w>Mineſ</w><w>ſagenes</w><lb n="23"/><w>umbern</w><pc>·</pc></l>
                     <l n="220"><w>Min</w><w><choice><orig>u</orig><reg>v</reg></choice>rowe</w><w>ſal</w><w>mih</w><w>deſ</w><w>gewern</w><pc>·</pc></l>
                 </lg>
-                <lg> <l n="221"><lb n="24"/><w>Daz</w><w>ih</w><w>iſ</w><w>mit</w><w>hu<add hei:placeRef="hc:AboveLine">l</add>den</w><w>o<choice><orig>u</orig><reg>v</reg></choice>ir</w><w>ſi</w><pc>·</pc></l> <l n="222"><w>doͮ</w><w>ſprah</w><w>der</w><w part="I">her</w><lb n="25"/><w part="F">re</w><w>key</w><pc >·</pc></l> <pb n="4r"/><cb n="a"/></lg>
+                <lg> 
+                       <l n="221"><lb n="24"/><w>Daz</w><w>ih</w><w>iſ</w><w>mit</w><w>hu<add hei:placeRef="hc:AboveLine">l</add>den</w><w>o<choice><orig>u</orig><reg>v</reg></choice>ir</w><w>ſi</w><pc>·</pc></l> 
+                       <l n="222"><w>doͮ</w><w>ſprah</w><w>der</w><w part="I">her</w><lb n="25"/><w part="F">re</w><w>key</w><pc >·</pc></l> <pb n="4r"/><cb n="a"/></lg>
+                       <pb n="4r"/>
+                       <cb n="a"/>
                 <lg>
                     <l n="223"><lb n="1"/><w><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">N</hei:initial>u</w><w>ne</w><w>lant</w><w>diſe</w><w>herren</w><pc >·</pc></l>
                     <l n="224"><w>Mine</w><w>ſculde</w><lb n="2"/><w>niht</w><w>gewerren</w><pc >·</pc></l>
                     <!--Revisado hasta aquí Victor 29/03/2019     -->
                 </lg>
                 <lg>
-                    <l n="225"><w/><w/><w/><w/><w/><pc >·</pc></l>
-                    <l n="226"><w/><w/><w/><w/><w/><pc >·</pc></l>
+                    <l n="225"><w>wande</w><w>die</w><w>ne</w><w>habēt</w><lb n="3"/><w>wider</w><w><choice><orig>v</orig><reg>u</reg></choice></w><w>niht</w><w>getan</w><pc>·</pc></l>
+                    <l n="226"><w>Min</w><w><choice><orig>u</orig><reg>v</reg></choice>rowe</w><w>ne</w><w>ſal</w><lb n="4"/><w>u</w><w>niht</w><w><choice><orig>u</orig><reg>v</reg></choice>or lan</w><pc>·</pc></l>
+
                 </lg>
                 <lg>
                     <l n="227"><w/><w/><w/><w/><w/><pc >·</pc></l>
