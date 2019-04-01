@@ -754,11 +754,9 @@
                 <lg>
                     <l n="313"><lb n="13"/><w>als</w><w>ich</w><w>in</w><w>die</w><w>p<choice><orig>v</orig><reg>u</reg></choice>rch</w><w>giench</w><pc>·</pc></l>
                     <l n="314"><lb n="14"/><w>ain</w><w><choice><orig>i</orig><reg>j</reg></choice><choice><orig>v</orig><reg>u</reg></choice>nchvrowen</w><w>de<choice><orig>v</orig><reg>u</reg></choice></w><w>mich</w><w>enphi<choice><am>ē</am><ex>en</ex></choice>ch</w><pc>·</pc></l>
-                    <!--Revisar última palabra. ES UNA ABREVIATURA! Y EN "ivnchvrowen" HAY QUE REGULARIZAR TAMBIÉN LA "I" INICIAL-->
                 </lg>
                 <lg>
                     <l n="315"><lb n="15"/><w>Ich</w><w>giche</w><w>als</w><w>ich</w><w>do</w><w><choice><orig>i</orig><reg>j</reg></choice>ach</w><pc>·</pc></l>
-                    <!--Comprobar segunda palabra. "GICHE" DE "JEHEN" (=SPRECHEN) Y TAMBIÉN "JACH" (REGULARIZADO)-->
                     <l n="316"><lb n="16"/><w>Daz</w><w>ich</w><w>nie</w><w>ſchoner</w><w>chint</w><w>geſach</w><pc>·</pc></l>
                 </lg>
                 <lg>
@@ -767,7 +765,6 @@
                 </lg>
                 <lg>
                     <l n="319"><lb n="19"/><w>Des</w><w join="right">en</w><w join="left">wunder</w><w>niemen</w><pc>·</pc></l>
-                    <!--LAS NEGACIONES PROCLÍTICAS LAS CODIFICAMOS COMO 2 PALABRAS  UNIDAS POR UN @JOIN     -->
                     <l n="320"><lb n="20"/><w>Daz</w><w>der</w><w>waffen</w><w>riemen</w><pc>·</pc></l>
                 </lg>
                 <lg>
@@ -850,7 +847,6 @@
                     <l n="359"><lb n="60"/><w>Die</w><w>mich</w><w>geweiſt</w><w>heten</w><w>dar</w><pc>·</pc></l>
                     <cb n="b"/>
                     <l n="360"><lb n="1"/><w>Hie</w><w>mit</w><w>ver g<choice><orig>v</orig><reg>u</reg></choice>lt</w><w join="right">er</w><w join="left">z</w><w>gar</w><pc>·</pc></l>
-                    <!--"VER GULT" ES UNA ÚNICA PALABRA (PREFIJO NO SEPARABLE) Y VA DENTRO DE UNA ÚNICA <W>. EN CAMBIO, "ERZ" ES "ER" + "EZ" Y VA EN DOS PALABRAS (CON @JOIN)-->
                 </lg>
                 <lg>
                     <l n="361"><lb n="2"/><w>Daz</w><w>er</w><w>mich</w><w>ir</w><w>nicht</w><w>verſtiez</w><pc>·</pc></l>
@@ -918,7 +914,6 @@
                 </lg>
                 <lg>
                     <l n="393"><lb n="34"/><w>Daz</w><w>inſinde</w><w>bevalch</w><w>ich</w><w>got</w><pc>·</pc></l>
-                    <!--Comprobar segunda palabra.  INSINDE (=INGESINDE = SÉQUITO, CRIADOS)   -->
                     <l n="394"><lb n="35"/><w>ze</w><w>meineſ</w><w>wirtes</w><w>gepot</w><pc>·</pc></l>
                 </lg>
                 <lg>
@@ -971,14 +966,12 @@
                 </lg>
                 <lg>
                     <l n="419"><lb n="60"/><w>In</w><w>anſmiten</w><w><choice><orig>v</orig><reg>u</reg></choice>nder</w><w>in</w><pc>·</pc></l>
-                    <!--Revisar segunda palabra. NI IDEA, FORMA MUY RARA, POSIBLEMENTE UN ERRO, YO DIRÍA QUE ES UNA S LARGA-->
                     <cb n="c"/>
                     <l n="420"><lb n="1"/><w>Der</w><w>ſelbe</w><w>getroſte</w><w>mir</w><w>den</w><w>ſin</w><pc>·</pc></l>
                 </lg>
                 <lg>
                     <l n="421"><lb n="2"/><w>als</w><w>ich</w><w>im</w><w>do</w><w>ſo</w><w>nachen</w><w>cham</w><pc>·</pc></l>
                     <l n="422"><lb n="3"/><w>Daz</w><w>ich</w><w>ſein</w><w>rechte</w><w>war</w><w>gen<choice><am>ā</am><ex>m</ex></choice></w><pc>·</pc></l>
-                    <!--Comprobar última palabra. CORRECTO, BIEN! -->
                 </lg>
                 <lg>
                     <l n="423"><lb n="4"/><w>Do</w><w>forcht</w><w>ich</w><w>in</w><w>alſo</w><w>ſere</w><pc>·</pc></l>
@@ -1022,7 +1015,6 @@
                 </lg>
                 <lg>
                     <l n="443"><lb n="24"/><w>Praiter</w><w>dann</w><w>ein</w><w>wanne</w><pc>·</pc></l>
-                    <!--Revisar verso. CORRECTO, BIEN!-->
                     <l n="444"><lb n="25"/><w>Dem</w><w><choice><orig>v</orig><reg>u</reg></choice>ngehewern</w><w>manne</w><pc>·</pc></l>
                 </lg>
                 <lg>
@@ -1035,7 +1027,6 @@
                 </lg>
                 <lg>
                     <l n="450"><lb n="30"/><w>awe</w><w>wi</w><w>vraiſleich</w><w>erſach</w><pc>·</pc></l>
-                    <!--Revisar  número de verso. BIEN HECHO, MÁRCAME TODOS ESTOS CAMBIOS DE ORDEN, ELIMINACIONES O AÑADIDOS, QUE LUEGO YO LOS TENGO QUE ANOTAR EN OTRA PARTE. GRACIAS!    -->
                     <l n="449"><lb n="31"/><w>Sein</w><w>antl<choice><orig>v</orig><reg>u</reg></choice>tz</w><w>d<choice><orig>v</orig><reg>u</reg></choice>rre</w><w><choice><orig>v</orig><reg>u</reg></choice>nde</w><w>vlach</w><pc>·</pc></l>
                 </lg>
                 <lg>
@@ -1052,7 +1043,6 @@
                 </lg>
                 <lg>
                     <l n="457"><lb n="38"/><w>Ietwederchalb</w><w>des</w><w>m<choice><orig>v</orig><reg>u</reg></choice>ndes</w><w>t<choice><orig>vͤ</orig><reg>uͤ</reg></choice>r</w><pc>·</pc></l>
-                    <!--Revisar verso. BIEN. LA "V" LLEVA UNA "e" ENCIMA...-->
                     <l n="458"><lb n="39"/><w>Rachten</w><w>im</w><w>di</w><w>zende</w><w>her</w><w>f<choice><orig>v</orig><reg>u</reg></choice>r</w><pc>·</pc></l>
                 </lg>
                 <lg>
@@ -1108,7 +1098,6 @@
                 </lg>
                 <lg>
                     <l n="483"><lb n="4"/><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>ſprach</w><w join="right">piſ</w><w join="left">tu</w><w><choice><orig>v</orig><reg>u</reg></choice>bel</w><w>o<choice><am>d͛</am><ex>er</ex></choice></w><w>g<choice><orig>v</orig><reg>u</reg></choice>t</w><pc>·</pc></l>
-                    <!--Revisar separación. MUY BIEN!-->
                     <l n="484"><lb n="5"/><w>Er</w><w>ſprach</w><w>ſwer</w><w>miR</w><w>niht</w><w>ent<choice><orig>v</orig><reg>u</reg></choice>t</w><pc>·</pc></l>
                 </lg>
                 <lg>
@@ -1117,7 +1106,6 @@
                 </lg>
                 <lg>
                     <l n="487"><lb n="8"/><w>waz</w><w>createwer</w><w join="right">piſ</w><w join="left">t<choice><orig>v</orig><reg>u</reg></choice></w><pc>·</pc></l>
-                    <!--Revisar separación. PERFECTO-->
                     <l n="488"><lb n="9"/><w>Ein</w><w>man</w><w>alſo</w><w>d<choice><orig>v</orig><reg>u</reg></choice></w><w>geſiecheſt</w><w>n<choice><orig>v</orig><reg>u</reg></choice></w><pc>·</pc></l>
                 </lg>
                 <lg>
@@ -1146,7 +1134,6 @@
                 </lg>
                 <lg>
                     <l n="501"><lb n="22"/><w>Si</w><w>erche<choice><am>n̄</am><ex>nn</ex></choice>ent</w><w>man</w><w>noh</w><w>ſein</w><w>gepot</w><pc>·</pc></l>
-                    <!--Comprobar abreviación segunda palabra. HECHO  -->
                     <l n="502"><lb n="23"/><w>Ich</w><w>enwæn</w><w>nicht</w><w>daz</w><w>an</w><w>got</w><pc>·</pc></l>
                 </lg>
                 <lg>
@@ -1160,7 +1147,6 @@
                 <lg>
                     <l n="507"><lb n="28"/><w>mein</w><w>maiſterſchaft</w><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>mein</w><w>dro</w><pc>·</pc></l>
                     <l n="508"><lb n="29"/><w>Di</w><w>habent</w><w join="right">mir</w><w join="left">z</w><w>gemachet</w><w>ſo</w><pc>·</pc></l>
-                    <!--Comprobar separación.  BIEN!-->
                 </lg>
                 <lg>
                     <l n="509"><lb n="30"/><w>Daz</w><w>ſi</w><w>pimende</w><w>vor</w><w>mir</w><w>ſtant</w><pc>·</pc></l>
@@ -1229,12 +1215,12 @@
                     <l n="540"><lb n="1"/><w/><w/><w/><w/><w/><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="541"><lb/><w/><w/><w/><w/><w/><pc>·</pc></l>
-                    <l n="542"><lb/><w/><w/><w/><w/><w/><pc>·</pc></l>
+                    <l n="541"><lb n="2"/><w/><w/><w/><w/><w/><pc>·</pc></l>
+                    <l n="542"><lb n="3"/><w/><w/><w/><w/><w/><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="543"><lb/><w/><w/><w/><w/><w/><pc>·</pc></l>
-                    <l n="544"><lb/><w/><w/><w/><w/><w/><pc>·</pc></l>
+                    <l n="543"><lb n="4"/><w/><w/><w/><w/><w/><pc>·</pc></l>
+                    <l n="544"><lb n="5"/><w/><w/><w/><w/><w/><pc>·</pc></l>
                 </lg>
                 <lg>
                     <l n="545"><lb/><w/><w/><w/><w/><w/><pc>·</pc></l>
