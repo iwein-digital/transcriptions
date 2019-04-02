@@ -261,8 +261,7 @@
                 </lg>
                 <lg>
                     <l n="111"><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>berief</w><w>en</w><w join="right">dar</w><w join="left">umbe</w><w>ſere</w><pc>·</pc></l>
-                    <l n="112"><lb n="23"/><w>her</w><w>ſprah</w><w>eme</w><w>an</w><w>ſin</w><w>ere</w><pc >·</pc></l>
-                    <!--revisar si es EME o EINE, mirar otros casos  DEBERÍA SER "EME"   -->
+                    <l n="112"><lb n="23"/><w>her</w><w>ſprah</w><w>eme</w><w>an</w><w>ſin</w><w>ere</w><pc>·</pc></l>
                 </lg>
                 <lg>
                     <l n="113"><w>her</w><w>ſprah</w><w>her</w><lb n="24"/><w>kalogranant</w><pc >·</pc></l>
@@ -555,7 +554,6 @@
                 <lg>
                     <l n="249"><w>Man</w><w><choice><orig>u</orig><reg>v</reg></choice>irluſet</w><w part="I">mi</w><lb n="20"/><w part="F">chel</w><w>ſagen</w><pc>·</pc></l>
                     <l n="250"><w>Man</w><w>n<choice><orig>v</orig><reg>u</reg></choice></w><w join="right">will</w><w join="left">iz</w><w>mirken</w><w>unde</w><lb n="21"/><w>dagen</w><pc>·</pc></l>
-                    <!--nv o ne?? No estoy seguro de la última palabra; podría ser sagen??    -->
                 </lg>
                 <lg>
                     <l n="251"><w>Manih</w><w>biudet</w><w>die</w><w>oren</w><w>dar</w><pc>·</pc></l>
@@ -709,114 +707,117 @@
                     <l n="328"><w>Ih</w><w>unſaliger</w><w>man</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="329"><w>Daz</w><w>ſie</w><w>min</w><lb n="19"/><w>ouge</w><w>ie</w><w>geſah</w><pc>·</pc></l>
+                    <l n="329"><w>Daz</w><w>ſie</w><w>min</w><lb n="19"/><w>ouge</w><w><choice><orig>i</orig><reg>j</reg></choice>e</w><w>geſah</w><pc>·</pc></l>
                     <!--La palabra 'ie' se regulariza??     -->
                     <l n="330"><w>doͮ</w><w>[…]</w><w>ze</w><w>ſceidine</w><w>geſcah</w><pc>·</pc></l>
                     <!--La palabra marcada con puntos suspensivos no se lee; y el sceidine a duras penas; lo deduje del contexto. Habrá que comprobarlo.-->
                 </lg>
                 <lg>
-                    <l n="331"><w/><w/><w/><w/><w/><pc >·</pc></l>
-                    <l n="332"><w/><w/><w/><w/><w/><pc >·</pc></l>
+                    <l n="331"><lb n="20"/><w><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">W</hei:initial><choice><orig>v</orig><reg>u</reg></choice>ir</w><w>zwei</w><w>bli<choice><orig>u</orig><reg>v</reg></choice>en</w><w>eine</w><pc>·</pc></l>
+                    <!--¿Qué pinta la v después de la W; tiene valor vocálico o consonántico? Regularizar?     -->
+                    <l n="332"><w>doͮ</w><w><choice><orig>u</orig><reg>v</reg></choice>irſtunt</w><w>ſih</w><lb n="21"/><w>wol</w><w>die</w><w>reine</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="333"><w/><w/><w/><w/><w/><pc >·</pc></l>
-                    <l n="334"><w/><w/><w/><w/><w/><pc >·</pc></l>
+                    <l n="333"><w>Daz</w><w>ih</w><w>gerne</w><w>bi</w><w>ir</w><w>was</w><pc>·</pc></l>
+                    <l n="334"><lb n="22"/><w>an</w><w>ein</w><w>daz</w><w>ſconeſte</w><w>graſ</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="335"><w/><w/><w/><w/><w/><pc >·</pc></l>
-                    <l n="336"><w/><w/><w/><w/><w/><pc >·</pc></l>
+                    <l n="335"><w>Daz</w><w>di<choice><orig>v</orig><reg>u</reg></choice></w><w>werlt</w><w><choice><orig>i</orig><reg>j</reg></choice>e</w><w part="I">ge</w><lb n="23"/><w part="F">wan</w><pc>·</pc></l>
+                    <l n="336"><w>da</w><w><choice><orig>u</orig><reg>v</reg></choice>orte</w><w>ſi<choice><orig>v</orig><reg>u</reg></choice></w><w>mih</w><w>an</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="337"><w/><w/><w/><w/><w/><pc >·</pc></l>
-                    <l n="338"><w/><w/><w/><w/><w/><pc >·</pc></l>
+                    <l n="337"><w>Ein</w><w>wenih</w><w>von</w><lb n="24"/><w>den</w><w>liuten</w><w>baz</w><pc>·</pc></l>
+                    <l n="338"><w>daz</w><w>liez</w><w>ih</w><w>weiz</w><w>got</w><w>ane</w><w>haz</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="339"><w/><w/><w/><w/><w/><pc >·</pc></l>
-                    <l n="340"><w/><w/><w/><w/><w/><pc >·</pc></l>
+                    <l n="339"><lb n="25"/><w>hie</w><w>vant</w><w>ih</w><w>wiſheit</w><w>an der</w><w>iuͦgēt</w><pc>·</pc></l>
+                    <l n="340"><w>Gr<subst><del rendition=" hc:Overwritten">u</del><add hei:placeRef="hc:AboveLine">o</add></subst>ze<pb n="5v"/><cb n="a"/></w><lb n="1"/><w>ſcone</w><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>ganze</w><w>tuͦgent</w><pc>·</pc></l>
+                    <!--No estoy seguro de haber marcado bien la sustitución en 'Groze'; ¿o se trata simplemente de un Umlaut?? 'la palabra 'scone' apenas se lee, pero en ningún caso se lee 'swaz', tal como transcribe Gärtner.     -->
                 </lg>
                 <lg>
-                    <l n="341"><w/><w/><w/><w/><w/><pc >·</pc></l>
-                    <l n="342"><w/><w/><w/><w/><w/><pc >·</pc></l>
+                    <l n="341"><w>Sie</w><w>ſaz</w><w>mir</w><w>guͦtliche</w><lb n="2"/><w>bi</w><pc>·</pc></l>
+                    <l n="342"><w><choice><orig>v</orig><reg>u</reg></choice>nde</w><w>ſwaz</w><w>ih</w><w>ſprah</w><w>daz</w><w>horte</w><w>ſi</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="343"><w/><w/><w/><w/><w/><pc >·</pc></l>
-                    <l n="344"><w/><w/><w/><w/><w/><pc >·</pc></l>
+                    <l n="343"><w><choice><orig>v</orig><reg>u</reg></choice>nde</w><lb n="3"/><w join="right">antwort</w><w join="left">eſ</w><w>mir</w><w>guͦte</w><pc>·</pc></l>
+                    <l n="344"><w>Iz</w><w join="right">ne</w><w join="left">betwanc</w><w>min</w><lb n="4"/><w>gemuͦte</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="345"><w/><w/><w/><w/><w/><pc >·</pc></l>
-                    <l n="346"><w/><w/><w/><w/><w/><pc >·</pc></l>
+                    <l n="345"><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>bikumberte</w><w>minen</w><w>lib</w><pc>·</pc></l>
+                    <!--Difícil lectura del 'bikumberte'     -->
+                    <l n="346"><w>Nie</w><lb n="5"/><w>ſo</w><w>ſere</w><w>maget</w><w>noh</w><w>wib</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="347"><w/><w/><w/><w/><w/><pc >·</pc></l>
-                    <l n="348"><w/><w/><w/><w/><w/><pc >·</pc></l>
+                    <l n="347"><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>ne</w><w>duͦt</w><w>oh</w><w>lihte</w><lb n="6"/><w>nimer</w><w>me</w><pc>·</pc></l>
+                    <l n="348"><w>Owe</w><w>immer</w><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>owe</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="349"><w/><w/><w/><w/><w/><pc >·</pc></l>
-                    <l n="350"><w/><w/><w/><w/><w/><pc >·</pc></l>
+                    <l n="349"><w>waz</w><w>mir</w><lb n="7"/><w>doͮ</w><w><choice><orig>u</orig><reg>v</reg></choice>roweden</w><w>be nam</w><pc>·</pc></l>
+                    <l n="350"><w>Ein</w><w>bote</w><w>de</w><w>van</w><w>dem</w><lb n="8"/><w>wirte</w><w>quam</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="351"><w/><w/><w/><w/><w/><pc >·</pc></l>
-                    <l n="352"><w/><w/><w/><w/><w/><pc >·</pc></l>
+                    <l n="351"><w>Der</w><w>hiez</w><w>uns</w><w>beide</w><w>ezen</w><w>gan</w><pc>·</pc></l>
+                    <l n="352"><lb n="9"/><w>doͮ</w><w join="right">moͮſt</w><w join="left">ih</w><w>rede</w><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w><choice><orig>u</orig><reg>v</reg></choice>rowede</w><w>lan</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="353"><w/><w/><w/><w/><w/><pc >·</pc></l>
-                    <l n="354"><w/><w/><w/><w/><w/><pc >·</pc></l>
+                    <l n="353"><w>Doͮ</w><w>ih</w><w>mit</w><lb n="10"/><w>ir</w><w>ze</w><w>tiſke</w><w>ginc</w><pc>·</pc></l>
+                    <l n="354"><w>der</w><w>wirt</w><w>mih</w><w>an</w><w>der</w><w>stūt</w><lb n="11"/><w>unt finc</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="355"><w/><w/><w/><w/><w/><pc >·</pc></l>
-                    <l n="356"><w/><w/><w/><w/><w/><pc >·</pc></l>
+                    <l n="355"><w>Iz</w><w>ne</w><w>gebot</w><w>nie</w><w>wirt</w><w>mere</w><pc>·</pc></l>
+                    <l n="356"><w>Sime</w><lb n="12"/><w>gaſte</w><w>grozer</w><w>ere</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="357"><w/><w/><w/><w/><w/><pc >·</pc></l>
-                    <l n="358"><w/><w/><w/><w/><w/><pc >·</pc></l>
+                    <l n="357"><w>her</w><w>dede</w><w>den</w><w>stigen</w><w><choice><orig>v</orig><reg>u</reg></choice>nde</w><lb n="13"/><w>den</w><w>wegen</w><pc>·</pc></l>
+                    <l n="358"><w>Manigen</w><w>guthlichen</w><w>ſegen</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="359"><w/><w/><w/><w/><w/><pc >·</pc></l>
-                    <l n="360"><w/><w/><w/><w/><w/><pc >·</pc></l>
+                    <l n="359"><lb n="14"/><w>die</w><w>mih</w><w>gewiſet</w><w>heten</w><w>dar</w><pc>·</pc></l>
+                    <l n="360"><w>hi</w><w>mide</w><w>ſo</w><w part="I"><choice><orig>v</orig><reg>u</reg></choice></w><lb n="15"/><w part="F" join="right">birgulder</w><w join="left">z</w><w>gar</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="361"><w/><w/><w/><w/><w/><pc >·</pc></l>
-                    <l n="362"><w/><w/><w/><w/><w/><pc >·</pc></l>
+                    <l n="361"><w>Daz</w><w>er</w><w>mih</w><w>nirgen</w><w><choice><orig>u</orig><reg>v</reg></choice>or ſtiz</w><pc>·</pc></l>
+                    <l n="362"><lb n="16"/><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>mih</w><w>ſo</w><w>guͦtlichen</w><w>liez</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="363"><w/><w/><w/><w/><w/><pc >·</pc></l>
-                    <l n="364"><w/><w/><w/><w/><w/><pc >·</pc></l>
+                    <l n="363"><w>Mit</w><w>der</w><w part="I"><choice><orig>i</orig><reg>j</reg></choice>unc<choice><orig>u</orig><reg>v</reg></choice>ro</w><lb n="17"/><w part="F">wen</w><w>ezen</w><pc>·</pc></l>
+                    <l n="364"><w>Oh</w><w>ne</w><w>wart</w><w>da</w><w>niht</w><w><choice><orig>u</orig><reg>v</reg></choice>orgezen</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="365"><w/><w/><w/><w/><w/><pc >·</pc></l>
-                    <l n="366"><w/><w/><w/><w/><w/><pc >·</pc></l>
+                    <l n="365"><lb n="18"/><w>wir</w><w>ne</w><w>heten</w><w>alles</w><w>deſ</w><w>di<choice><orig>v</orig><reg>u</reg></choice></w><w>craft</w><pc>·</pc></l>
+                    <l n="366"><w>daz</w><w>man</w><lb n="19"/><w>da</w><w>herzet</w><w>wirtſcaft</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="367"><w/><w/><w/><w/><w/><pc >·</pc></l>
-                    <l n="368"><w/><w/><w/><w/><w/><pc >·</pc></l>
+                    <l n="367"><w>Man</w><w>gaf</w><w>unſ</w><w>ſpiſe</w><lb n="20"/><w>die</w><w>was</w><w>guͦt</w><pc>·</pc></l>
+                    <l n="368"><w>dar</w><w>zoͮ</w><w>willegen</w><w>muͦt</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="369"><w/><w/><w/><w/><w/><pc >·</pc></l>
-                    <l n="370"><w/><w/><w/><w/><w/><pc >·</pc></l>
+                    <l n="369"><lb n="21"/><w><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">D</hei:initial>oͮ</w><w>wir</w><w>mit</w><w><choice><orig>u</orig><reg>v</reg></choice>roweden</w><w>gazen</w><pc>·</pc></l>
+                    <l n="370"><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>dar</w><lb n="22"/><w>na</w><w>geſazen</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="371"><w/><w/><w/><w/><w/><pc >·</pc></l>
-                    <l n="372"><w/><w/><w/><w/><w/><pc >·</pc></l>
+                    <l n="371"><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>ih</w><w>em</w><w>hete</w><w>geſeit</w><pc>·</pc></l>
+                    <l n="372"><w>daz</w><lb n="23"/><w>ih</w><w>nah</w><w>aventuren</w><w>reit</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="373"><w/><w/><w/><w/><w/><pc >·</pc></l>
-                    <l n="374"><w/><w/><w/><w/><w/><pc >·</pc></l>
+                    <l n="373"><w>Des</w><w>wndert</w><w>en</w><lb n="24"/><w>vil</w><w>ſere</w><pc>·</pc></l>
+                    <l n="374"><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w><choice><orig>i</orig><reg>j</reg></choice>ah</w><w>daz</w><w>ein</w><w>nie</w><w>mere</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="375"><w/><w/><w/><w/><w/><pc >·</pc></l>
-                    <l n="376"><w/><w/><w/><w/><w/><pc >·</pc></l>
+                    <l n="375"><w>So</w><w>hein</w><lb n="25"/><w>gaſt</w><w>were</w><w>koͮmen</w><pc>·</pc></l>
+                    <l n="376"><w>van</w><w>dem</w><w>here</w><w>hete<pb n="6r"/><cb n="a"/></w><lb n="1"/><w><choice><orig>u</orig><reg>v</reg></choice>ir nomen</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="377"><w/><w/><w/><w/><w/><pc >·</pc></l>
-                    <l n="378"><w/><w/><w/><w/><w/><pc >·</pc></l>
+                    <l n="377"><w join="right">Daz</w><w join="left">er</w><w>a<choice><orig>u</orig><reg>v</reg></choice>enture</w><w>ſuͦhte</w><pc>·</pc></l>
+                    <l n="378"><w><choice><orig>v</orig><reg>u</reg></choice>nde</w><lb n="2"/><w>bat</w><w>daz</w><w>ih</w><w>deſ</w><w>geruͦhte</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="379"><w/><w/><w/><w/><w/><pc >·</pc></l>
-                    <l n="380"><w/><w/><w/><w/><w/><pc >·</pc></l>
+                    <l n="379"><w join="right">Swan</w><w join="left">ih</w><w>den</w><w>weh</w><lb n="3"/><w>da</w><w>hinen</w><w>ride</w><pc>·</pc></l>
+                    <l n="380"><w>daz</w><w>ih</w><w>in</w><w>dan</w><w>niht</w><w>ne</w><w part="I">uir</w><lb n="4"/><w part="F">mide</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="381"><w/><w/><w/><w/><w/><pc >·</pc></l>
-                    <l n="382"><w/><w/><w/><w/><w/><pc >·</pc></l>
+                    <l n="381"><w>Da</w><w>wider</w><w>ne</w><w join="right">het</w><w join="left">ih</w><w>neheinnen</w><w>ſtrit</w><pc>·</pc></l>
+                    <l n="382"><lb n="5"/><w>Ih</w><w join="right">lo<choice><orig>u</orig><reg>v</reg></choice>et</w><w join="left">iz</w><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>ih</w><w join="right">leiſt</w><w join="left">iz</w><w>ſit</w><pc>·</pc></l>
                 </lg>
                 <lg>
                     <l n="383"><w/><w/><w/><w/><w/><pc >·</pc></l>
