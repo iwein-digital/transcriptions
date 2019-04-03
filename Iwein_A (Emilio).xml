@@ -639,8 +639,8 @@
                 </lg>
                 <lg>
                     <l n="287"><w>Zoͮ</w><w>eme</w><lb n="20"/><w>ſah</w><w>riden</w><pc>·</pc></l>
-                    <l n="288"><w>Nu</w><w join="right">ne</w><w join="left">moh<choice><am>t͛</am><ex>ter</ex></choice></w><w>niht</w><w>irbiden</w><pc>·</pc></l>
-                    <!--CÓMO TOKENIZAR EL PRONOMBRE EN "NEMOHTER"??     -->
+                    <l n="288"><w>Nu</w><w join="right">ne</w><choice><abbr>moh<am>t͛</am></abbr><expan><w join="both">moh<ex>t</ex></w><w join="left"><ex>er</ex></w></expan></choice><w>niht</w><w>irbiden</w><pc>·</pc></l>
+                    <!--CÓMO TOKENIZAR EL PRONOMBRE EN "NEMOHTER"?? ESTA ES LA PROPUESTA DE JAKUB, PERO TODAVÍA NO ESTÁ CERRADA (ISSUE #26)  -->
                 </lg>
                 <lg>
                     <l n="289"><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><lb n="21"/><w>liez</w><w>mir niht</w><w>die</w><w>muͦze</w><pc>·</pc></l>
