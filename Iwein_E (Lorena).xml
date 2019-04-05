@@ -33,13 +33,84 @@
     <facsimile>
         <surface ana="hc:Page" xml:id="E_1r" n="1r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/sbb-pk_mgf1062_foll1-35/0001/image"></graphic>
-            <zone ana="hc:Column" xml:id="E_1r-a" n="a"></zone>
-            <zone ana="hc:Column" xml:id="E_1r-b" n="b"></zone>
+            <zone ana="hc:Column" xml:id="E_1r-a" n="a"/>
+            <zone ana="hc:Column" xml:id="E_1r-b" n="b"/>
         </surface>
         <surface ana="hc:Page" xml:id="E_1v" n="1v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/sbb-pk_mgf1062_foll1-35/0002/image"></graphic>
-            <zone ana="hc:Column" xml:id="E_1v-a" n="a"></zone>
-            <zone ana="hc:Column" xml:id="E_1v-b" n="b"></zone>
+            <zone ana="hc:Column" xml:id="E_1v-a" n="a"/>
+            <zone ana="hc:Column" xml:id="E_1v-b" n="b"/>
+        </surface>
+        <surface ana="hc:Page" xml:id="E_2r" n="2r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/sbb-pk_mgf1062_foll1-35/0003/image"></graphic>
+            <zone ana="hc:Column" xml:id="E_2r-a" n="a"/>
+            <zone ana="hc:Column" xml:id="E_2r-b" n="b"/>
+        </surface>
+        <surface ana="hc:Page" xml:id="E_2v" n="2v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/sbb-pk_mgf1062_foll1-35/0004/image"></graphic>
+            <zone ana="hc:Column" xml:id="E_2v-a" n="a"/>
+            <zone ana="hc:Column" xml:id="E_2v-b" n="b"/>
+        </surface>
+        <surface ana="hc:Page" xml:id="E_3r" n="3r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/sbb-pk_mgf1062_foll1-35/0005/image"></graphic>
+            <zone ana="hc:Column" xml:id="E_3r-a" n="a"/>
+            <zone ana="hc:Column" xml:id="E_3r-b" n="b"/>
+        </surface>
+        <surface ana="hc:Page" xml:id="E_3v" n="3v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/sbb-pk_mgf1062_foll1-35/0006/image"></graphic>
+            <zone ana="hc:Column" xml:id="E_3v-a" n="a"/>
+            <zone ana="hc:Column" xml:id="E_3v-b" n="b"/>
+        </surface>
+        <surface ana="hc:Page" xml:id="E_4r" n="4r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/sbb-pk_mgf1062_foll1-35/0007/image"></graphic>
+            <zone ana="hc:Column" xml:id="E_4r-a" n="a"/>
+            <zone ana="hc:Column" xml:id="E_4r-b" n="b"/>
+        </surface>
+        <surface ana="hc:Page" xml:id="E_4v" n="4v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/sbb-pk_mgf1062_foll1-35/0008/image"></graphic>
+            <zone ana="hc:Column" xml:id="E_4v-a" n="a"/>
+            <zone ana="hc:Column" xml:id="E_4v-b" n="b"/>
+        </surface>
+        <surface ana="hc:Page" xml:id="E_5r" n="5r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/sbb-pk_mgf1062_foll1-35/0009/image"></graphic>
+            <zone ana="hc:Column" xml:id="E_5r-a" n="a"/>
+            <zone ana="hc:Column" xml:id="E_5r-b" n="b"/>
+        </surface>
+        <surface ana="hc:Page" xml:id="E_5v" n="5v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/sbb-pk_mgf1062_foll1-35/0010/image"></graphic>
+            <zone ana="hc:Column" xml:id="E_5v-a" n="a"/>
+            <zone ana="hc:Column" xml:id="E_5v-b" n="b"/>
+        </surface>
+        <surface ana="hc:Page" xml:id="E_6r" n="6r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/sbb-pk_mgf1062_foll1-35/0011/image"></graphic>
+            <zone ana="hc:Column" xml:id="E_6r-a" n="a"/>
+            <zone ana="hc:Column" xml:id="E_6r-b" n="b"/>
+        </surface>
+        <surface ana="hc:Page" xml:id="E_6v" n="6v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/sbb-pk_mgf1062_foll1-35/0012/image"></graphic>
+            <zone ana="hc:Column" xml:id="E_6v-a" n="a"/>
+            <zone ana="hc:Column" xml:id="E_6v-b" n="b"/>
+        </surface>
+        <surface ana="hc:Page" xml:id="E_7r" n="7r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/sbb-pk_mgf1062_foll1-35/0013/image"></graphic>
+            <zone ana="hc:Column" xml:id="E_7r-a" n="a"/>
+            <zone ana="hc:Column" xml:id="E_7r-b" n="b"/>
+        </surface>
+        <surface ana="hc:Page" xml:id="E_7v" n="7v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/sbb-pk_mgf1062_foll1-35/0014/image"></graphic>
+            <zone ana="hc:Column" xml:id="E_7v-a" n="a"/>
+            <zone ana="hc:Column" xml:id="E_7v-b" n="b"/>
+        </surface>
+        <surface ana="hc:Page" xml:id="E_8r" n="8r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/sbb-pk_mgf1062_foll1-35/0015/image"></graphic>
+            <zone ana="hc:Column" xml:id="E_8r-a" n="a"/>
+            <zone ana="hc:Column" xml:id="E_8r-b" n="b"/>
+        </surface>
+        <surface ana="hc:Page" xml:id="E_8v" n="8v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/sbb-pk_mgf1062_foll1-35/0016/image"></graphic>
+            <zone ana="hc:Column" xml:id="E_8v-a" n="a"/>
+            <zone ana="hc:Column" xml:id="E_8v-b" n="b"/>
+            <zone ana="hc:MarginalZone" xml:id="E_8v_c" hei:placeRef="hc:PageBottom"></zone>
         </surface><!-- Introducir aquí tantos elementos <surface> como lados de folios teña o texto, cun <zone> para cada columna. E a URL da imaxe do ms. -->
     </facsimile>
     <text>
@@ -1647,7 +1718,7 @@
                 </lg>
                 <lg>
                     <l n="2115"><lb n="17"/><w><hi rendition="hc:Versal">w</hi>eiſt</w><w>aber</w><w>d<choice><orig>v</orig><reg>u</reg></choice></w><w>geſelle</w><pc>·</pc></l>
-                    <l n="2116"><lb n="18"/><w>reht</w><del rend="erasure"/><w>ob</w><w>er</w><w>mich</w><w>welle</w><pc>·</pc></l>
+                    <l n="2116"><lb n="18"/><w>reht</w><w>ob</w><w>er</w><w>mich</w><w>welle</w><pc>·</pc></l>
                 </lg>
                 <lg>
                     <l n="2117"><lb n="19"/><w><hi rendition="hc:Versal">e</hi>r</w><w>wolde</w><w>daz</w><w>ez</w><w>wære</w><w>geſchehen</w><pc>·</pc></l>
@@ -3171,6 +3242,7 @@
                     <l n="2865"><lb n="47"/><w><hi rendition="hc:Versal"><choice><orig>v</orig><reg>u</reg></choice></hi><choice><am>n̄</am><ex>nd</ex></choice></w><w>giht</w><w>des</w><w>danne</w></l>
                     <l n="2866"><lb n="48"/><w>gelich</w><w>einem</w><w>boſen</w><w>manne</w><pc>·</pc></l>
                 </lg>
+                <fw ana="hc:QuireSignature"><lb facs="#E_8v-c" n="1"/><num value="2">ıı</num><metamark ana="hc:TokenMarker" join="left">·</metamark></fw>
                 <pb n="9r"/>
                 <cb n="a"/>
                 <lg>
@@ -6290,6 +6362,7 @@
                     <l n="4413"><lb n="47"/><w><hi rendition="hc:Versal">D</hi>i<choice><orig>v</orig><reg>u</reg></choice></w><w>tr<choice><orig>vͦ</orig><reg>uͦ</reg></choice>be</w><w>vro<choice><orig>v</orig><reg>u</reg></choice>de</w><w>iſt</w><w>enwiht</w><pc>·</pc></l>
                     <l n="4414"><lb n="48"/><w>di<choice><orig>v</orig><reg>u</reg></choice></w><w>mit</w><w>liſten</w><w>geſchiht</w></l>
                 </lg>
+                <fw ana="hc:QuireSignature"><lb facs="#E_16v-c" n="1"/><num value="3">ııı</num></fw>
                 <pb n="17r"/>
                 <cb n="a"/>
                 <lg>
@@ -8280,6 +8353,7 @@
                 </lg>
                 <lg>
                     <l n="5393"><lb n="19"/><w><hi rendition="hc:Versal">H</hi>eten</w><w>enphangen</w><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>gegeben</w><pc>·</pc></l>
+                    <!--VORSICHT: Doppelte Vers-Nummer!!     -->
                     <l n="5394"><lb n="20"/><w>werten</w><w>ſi</w><w>n<choice><orig>v</orig><reg>u</reg></choice></w><w>daz</w><w>leben</w><pc>·</pc></l>
                 </lg>
                 <lg>
@@ -9410,6 +9484,8 @@
                     <l n="5951"><lb n="47"/><w><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">W</hei:initial>an</w><w>daz</w><w>ein</w><w>le<choice><orig>v</orig><reg>u</reg></choice></w><w>mit</w><w>im</w><w>iſt</w><pc>·</pc></l>
                     <l n="5952"><lb n="48"/><w>er</w><w>ſ<choice><am>pᷓ</am><ex>pra</ex></choice>ch</w><w><choice><am>d ͛</am><ex>der</ex></choice></w><w>hat</w><w join="right">an</w><w join="left">dirre</w><w>vriſt</w></l>
                 </lg>
+                <fw ana="hc:QuireSignature"><lb facs="#E_24v-c" n="1"/><num value="4"><w xml:id="w_E_24v-c_1"><choice><abbr><am>ııııꝰ</am></abbr><expan><ex>quartus</ex></expan></choice></w></num><metamark ana="hc:TokenMarker" join="left">·</metamark></fw>
+                <gap ana="hc:Lost" extent="192" unit="lines"/>
                 <pb n="25r"/>
                 <cb n="a"/>
                 <lg>
@@ -12140,6 +12216,7 @@
                     <l n="7531"><lb n="47"/><w><hi rendition="hc:Versal">A</hi>lſ</w><w>iwer</w><w>ritter</w><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>iwer</w><w>chneht</w><pc>·</pc></l>
                     <l n="7532"><lb n="48"/><w>daz</w><w>iſt</w><w>min</w><w>wille</w><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>min</w><w>reht</w><pc>·</pc></l>
                 </lg>
+                <fw ana="hc:QuireSignature"><lb facs="#E_31v-c" n="1"/><metamark ana="hc:TokenMarker" join="right">·</metamark><num value="5">v</num><metamark ana="hc:TokenMarker" join="left">·</metamark></fw>
                 <pb n="32r"/>
                 <cb n="a"/>
                 <lg>
@@ -12335,7 +12412,7 @@
                     <l n="7627"><lb n="47"/><w><hi rendition="hc:Versal">I</hi>r</w><w>ſweſter</w><w>iſt</w><w>mit</w><w>rehte</w><w>hie</w></l>
                     <l n="7628"><lb n="48"/><w>ſo</w><w>half</w><w>o<choice><orig>v</orig><reg>u</reg></choice>ch</w><w>got</w><w>dem</w><w>rehten</w><w>ie</w></l>
                 </lg>
-                <pb n="31v"/>
+                <pb n="32v"/>
                 <cb n="a"/>
                 <lg>
                     <l n="7629"><lb n="1"/><w><hi rendition="hc:Versal">D</hi>eſ</w><w>wære</w><w>ich</w><w>tot</w><w>von</w><w>ſiner</w><w>hant</w></l>
