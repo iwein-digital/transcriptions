@@ -111,7 +111,275 @@
             <zone ana="hc:Column" xml:id="E_8v-a" n="a"/>
             <zone ana="hc:Column" xml:id="E_8v-b" n="b"/>
             <zone ana="hc:MarginalZone" xml:id="E_8v_c" hei:placeRef="hc:PageBottom"></zone>
-        </surface><!-- Introducir aquí tantos elementos <surface> como lados de folios teña o texto, cun <zone> para cada columna. E a URL da imaxe do ms. -->
+        </surface>
+        <surface ana="hc:Page" xml:id="E_9r" n="9r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/sbb-pk_mgf1062_foll1-35/0017/image"></graphic>
+            <zone ana="hc:Column" xml:id="E_9r-a" n="a"/>
+            <zone ana="hc:Column" xml:id="E_9r-b" n="b"/>
+        </surface>
+        <surface ana="hc:Page" xml:id="E_9v" n="9v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/sbb-pk_mgf1062_foll1-35/0018/image"></graphic>
+            <zone ana="hc:Column" xml:id="E_9v-a" n="a"/>
+            <zone ana="hc:Column" xml:id="E_9v-b" n="b"/>
+        </surface>
+        <surface ana="hc:Page" xml:id="E_10r" n="10r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/sbb-pk_mgf1062_foll1-35/0019/image"></graphic>
+            <zone ana="hc:Column" xml:id="E_10r-a" n="a"/>
+            <zone ana="hc:Column" xml:id="E_10r-b" n="b"/>
+        </surface>
+        <surface ana="hc:Page" xml:id="E_10v" n="10v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/sbb-pk_mgf1062_foll1-35/0020/image"></graphic>
+            <zone ana="hc:Column" xml:id="E_10v-a" n="a"/>
+            <zone ana="hc:Column" xml:id="E_10v-b" n="b"/>
+        </surface>
+        <surface ana="hc:Page" xml:id="E_11r" n="11r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/sbb-pk_mgf1062_foll1-35/00021/image"></graphic>
+            <zone ana="hc:Column" xml:id="E_11r-a" n="a"/>
+            <zone ana="hc:Column" xml:id="E_11r-b" n="b"/>
+        </surface>
+        <surface ana="hc:Page" xml:id="E_11v" n="11v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/sbb-pk_mgf1062_foll1-35/0022/image"></graphic>
+            <zone ana="hc:Column" xml:id="E_11v-a" n="a"/>
+            <zone ana="hc:Column" xml:id="E_11v-b" n="b"/>
+        </surface>
+        <surface ana="hc:Page" xml:id="E_12r" n="12r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/sbb-pk_mgf1062_foll1-35/0023/image"></graphic>
+            <zone ana="hc:Column" xml:id="E_12r-a" n="a"/>
+            <zone ana="hc:Column" xml:id="E_12r-b" n="b"/>
+        </surface>
+        <surface ana="hc:Page" xml:id="E_12v" n="12v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/sbb-pk_mgf1062_foll1-35/0024/image"></graphic>
+            <zone ana="hc:Column" xml:id="E_12v-a" n="a"/>
+            <zone ana="hc:Column" xml:id="E_12v-b" n="b"/>
+        </surface>
+        <surface ana="hc:Page" xml:id="E_13r" n="13r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/sbb-pk_mgf1062_foll1-35/0025/image"></graphic>
+            <zone ana="hc:Column" xml:id="E_13r-a" n="a"/>
+            <zone ana="hc:Column" xml:id="E_13r-b" n="b"/>
+        </surface>
+        <surface ana="hc:Page" xml:id="E_13v" n="13v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/sbb-pk_mgf1062_foll1-35/0026/image"></graphic>
+            <zone ana="hc:Column" xml:id="E_13v-a" n="a"/>
+            <zone ana="hc:Column" xml:id="E_13v-b" n="b"/>
+        </surface>
+        <surface ana="hc:Page" xml:id="E_14r" n="14r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/sbb-pk_mgf1062_foll1-35/0027/image"></graphic>
+            <zone ana="hc:Column" xml:id="E_14r-a" n="a"/>
+            <zone ana="hc:Column" xml:id="E_14r-b" n="b"/>
+        </surface>
+        <surface ana="hc:Page" xml:id="E_14v" n="14v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/sbb-pk_mgf1062_foll1-35/0028/image"></graphic>
+            <zone ana="hc:Column" xml:id="E_14v-a" n="a"/>
+            <zone ana="hc:Column" xml:id="E_14v-b" n="b"/>
+        </surface>
+        <surface ana="hc:Page" xml:id="E_15r" n="15r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/sbb-pk_mgf1062_foll1-35/0029/image"></graphic>
+            <zone ana="hc:Column" xml:id="E_15r-a" n="a"/>
+            <zone ana="hc:Column" xml:id="E_15r-b" n="b"/>
+        </surface>
+        <surface ana="hc:Page" xml:id="E_15v" n="15v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/sbb-pk_mgf1062_foll1-35/0030/image"></graphic>
+            <zone ana="hc:Column" xml:id="E_15v-a" n="a"/>
+            <zone ana="hc:Column" xml:id="E_15v-b" n="b"/>
+        </surface>
+        <surface ana="hc:Page" xml:id="E_16r" n="16r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/sbb-pk_mgf1062_foll1-35/0031/image"></graphic>
+            <zone ana="hc:Column" xml:id="E_16r-a" n="a"/>
+            <zone ana="hc:Column" xml:id="E_16r-b" n="b"/>
+        </surface>
+        <surface ana="hc:Page" xml:id="E_16v" n="16v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/sbb-pk_mgf1062_foll1-35/0032/image"></graphic>
+            <zone ana="hc:Column" xml:id="E_16v-a" n="a"/>
+            <zone ana="hc:Column" xml:id="E_16v-b" n="b"/>
+            <zone ana="hc:MarginalZone" xml:id="E_16v_c" hei:placeRef="hc:PageBottom"></zone>
+        </surface>
+        <surface ana="hc:Page" xml:id="E_17r" n="17r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/sbb-pk_mgf1062_foll1-35/0033/image"></graphic>
+            <zone ana="hc:Column" xml:id="E_17r-a" n="a"/>
+            <zone ana="hc:Column" xml:id="E_17r-b" n="b"/>
+        </surface>
+        <surface ana="hc:Page" xml:id="E_17v" n="17v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/sbb-pk_mgf1062_foll1-35/0034/image"></graphic>
+            <zone ana="hc:Column" xml:id="E_17v-a" n="a"/>
+            <zone ana="hc:Column" xml:id="E_17v-b" n="b"/>
+        </surface>
+        <surface ana="hc:Page" xml:id="E_18r" n="18r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/sbb-pk_mgf1062_foll1-35/0035/image"></graphic>
+            <zone ana="hc:Column" xml:id="E_18r-a" n="a"/>
+            <zone ana="hc:Column" xml:id="E_18r-b" n="b"/>
+        </surface>
+        <surface ana="hc:Page" xml:id="E_18v" n="18v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/sbb-pk_mgf1062_foll1-35/0036/image"></graphic>
+            <zone ana="hc:Column" xml:id="E_18v-a" n="a"/>
+            <zone ana="hc:Column" xml:id="E_18v-b" n="b"/>
+        </surface>
+        <surface ana="hc:Page" xml:id="E_19r" n="19r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/sbb-pk_mgf1062_foll1-35/0037/image"></graphic>
+            <zone ana="hc:Column" xml:id="E_19r-a" n="a"/>
+            <zone ana="hc:Column" xml:id="E_19r-b" n="b"/>
+        </surface>
+        <surface ana="hc:Page" xml:id="E_19v" n="19v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/sbb-pk_mgf1062_foll1-35/0038/image"></graphic>
+            <zone ana="hc:Column" xml:id="E_19v-a" n="a"/>
+            <zone ana="hc:Column" xml:id="E_19v-b" n="b"/>
+        </surface>
+        <surface ana="hc:Page" xml:id="E_20r" n="20r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/sbb-pk_mgf1062_foll1-35/0039/image"></graphic>
+            <zone ana="hc:Column" xml:id="E_20r-a" n="a"/>
+            <zone ana="hc:Column" xml:id="E_20r-b" n="b"/>
+        </surface>
+        <surface ana="hc:Page" xml:id="E_20v" n="20v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/sbb-pk_mgf1062_foll1-35/0040/image"></graphic>
+            <zone ana="hc:Column" xml:id="E_20v-a" n="a"/>
+            <zone ana="hc:Column" xml:id="E_20v-b" n="b"/>
+        </surface>
+        <surface ana="hc:Page" xml:id="E_21r" n="21r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/sbb-pk_mgf1062_foll1-35/0041/image"></graphic>
+            <zone ana="hc:Column" xml:id="E_21r-a" n="a"/>
+            <zone ana="hc:Column" xml:id="E_21r-b" n="b"/>
+        </surface>
+        <surface ana="hc:Page" xml:id="E_21v" n="21v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/sbb-pk_mgf1062_foll1-35/0042/image"></graphic>
+            <zone ana="hc:Column" xml:id="E_21v-a" n="a"/>
+            <zone ana="hc:Column" xml:id="E_21v-b" n="b"/>
+        </surface>
+        <surface ana="hc:Page" xml:id="E_22r" n="22r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/sbb-pk_mgf1062_foll1-35/0043/image"></graphic>
+            <zone ana="hc:Column" xml:id="E_22r-a" n="a"/>
+            <zone ana="hc:Column" xml:id="E_22r-b" n="b"/>
+        </surface>
+        <surface ana="hc:Page" xml:id="E_22v" n="22v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/sbb-pk_mgf1062_foll1-35/0044/image"></graphic>
+            <zone ana="hc:Column" xml:id="E_22v-a" n="a"/>
+            <zone ana="hc:Column" xml:id="E_22v-b" n="b"/>
+        </surface>
+        <surface ana="hc:Page" xml:id="E_23r" n="23r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/sbb-pk_mgf1062_foll1-35/0045/image"></graphic>
+            <zone ana="hc:Column" xml:id="E_23r-a" n="a"/>
+            <zone ana="hc:Column" xml:id="E_23r-b" n="b"/>
+        </surface>
+        <surface ana="hc:Page" xml:id="E_23v" n="23v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/sbb-pk_mgf1062_foll1-35/0046/image"></graphic>
+            <zone ana="hc:Column" xml:id="E_23v-a" n="a"/>
+            <zone ana="hc:Column" xml:id="E_23v-b" n="b"/>
+        </surface>
+        <surface ana="hc:Page" xml:id="E_24r" n="24r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/sbb-pk_mgf1062_foll1-35/0047/image"></graphic>
+            <zone ana="hc:Column" xml:id="E_24r-a" n="a"/>
+            <zone ana="hc:Column" xml:id="E_24r-b" n="b"/>
+        </surface>
+        <surface ana="hc:Page" xml:id="E_24v" n="24v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/sbb-pk_mgf1062_foll1-35/0048/image"></graphic>
+            <zone ana="hc:Column" xml:id="E_24v-a" n="a"/>
+            <zone ana="hc:Column" xml:id="E_24v-b" n="b"/>
+            <zone ana="hc:MarginalZone" xml:id="E_24v_c" hei:placeRef="hc:PageBottom"></zone>
+        </surface>
+        <surface ana="hc:Page" xml:id="E_25r" n="25r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/sbb-pk_mgf1062_foll1-35/0049/image"></graphic>
+            <zone ana="hc:Column" xml:id="E_25r-a" n="a"/>
+            <zone ana="hc:Column" xml:id="E_25r-b" n="b"/>
+        </surface>
+        <surface ana="hc:Page" xml:id="E_25v" n="25v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/sbb-pk_mgf1062_foll1-35/0050/image"></graphic>
+            <zone ana="hc:Column" xml:id="E_25v-a" n="a"/>
+            <zone ana="hc:Column" xml:id="E_25v-b" n="b"/>
+        </surface>
+        <surface ana="hc:Page" xml:id="E_26r" n="26r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/sbb-pk_mgf1062_foll1-35/0051/image"></graphic>
+            <zone ana="hc:Column" xml:id="E_26r-a" n="a"/>
+            <zone ana="hc:Column" xml:id="E_26r-b" n="b"/>
+        </surface>
+        <surface ana="hc:Page" xml:id="E_26v" n="26v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/sbb-pk_mgf1062_foll1-35/0052/image"></graphic>
+            <zone ana="hc:Column" xml:id="E_26v-a" n="a"/>
+            <zone ana="hc:Column" xml:id="E_26v-b" n="b"/>
+        </surface>
+        <surface ana="hc:Page" xml:id="E_27r" n="27r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/sbb-pk_mgf1062_foll1-35/0053/image"></graphic>
+            <zone ana="hc:Column" xml:id="E_27r-a" n="a"/>
+            <zone ana="hc:Column" xml:id="E_27r-b" n="b"/>
+        </surface>
+        <surface ana="hc:Page" xml:id="E_27v" n="27v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/sbb-pk_mgf1062_foll1-35/0054/image"></graphic>
+            <zone ana="hc:Column" xml:id="E_27v-a" n="a"/>
+            <zone ana="hc:Column" xml:id="E_27v-b" n="b"/>
+        </surface>
+        <surface ana="hc:Page" xml:id="E_28r" n="28r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/sbb-pk_mgf1062_foll1-35/0055/image"></graphic>
+            <zone ana="hc:Column" xml:id="E_28r-a" n="a"/>
+            <zone ana="hc:Column" xml:id="E_28r-b" n="b"/>
+        </surface>
+        <surface ana="hc:Page" xml:id="E_28v" n="28v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/sbb-pk_mgf1062_foll1-35/0056/image"></graphic>
+            <zone ana="hc:Column" xml:id="E_28v-a" n="a"/>
+            <zone ana="hc:Column" xml:id="E_28v-b" n="b"/>
+        </surface>
+        <surface ana="hc:Page" xml:id="E_29r" n="29r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/sbb-pk_mgf1062_foll1-35/0057/image"></graphic>
+            <zone ana="hc:Column" xml:id="E_29r-a" n="a"/>
+            <zone ana="hc:Column" xml:id="E_29r-b" n="b"/>
+        </surface>
+        <surface ana="hc:Page" xml:id="E_29v" n="29v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/sbb-pk_mgf1062_foll1-35/0058/image"></graphic>
+            <zone ana="hc:Column" xml:id="E_29v-a" n="a"/>
+            <zone ana="hc:Column" xml:id="E_29v-b" n="b"/>
+        </surface>
+        <surface ana="hc:Page" xml:id="E_30r" n="30r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/sbb-pk_mgf1062_foll1-35/0059/image"></graphic>
+            <zone ana="hc:Column" xml:id="E_30r-a" n="a"/>
+            <zone ana="hc:Column" xml:id="E_30r-b" n="b"/>
+        </surface>
+        <surface ana="hc:Page" xml:id="E_30v" n="30v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/sbb-pk_mgf1062_foll1-35/0060/image"></graphic>
+            <zone ana="hc:Column" xml:id="E_30v-a" n="a"/>
+            <zone ana="hc:Column" xml:id="E_30v-b" n="b"/>
+        </surface>
+        <surface ana="hc:Page" xml:id="E_31r" n="31r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/sbb-pk_mgf1062_foll1-35/00061/image"></graphic>
+            <zone ana="hc:Column" xml:id="E_31r-a" n="a"/>
+            <zone ana="hc:Column" xml:id="E_31r-b" n="b"/>
+        </surface>
+        <surface ana="hc:Page" xml:id="E_31v" n="31v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/sbb-pk_mgf1062_foll1-35/0062/image"></graphic>
+            <zone ana="hc:Column" xml:id="E_31v-a" n="a"/>
+            <zone ana="hc:Column" xml:id="E_31v-b" n="b"/>
+            <zone ana="hc:MarginalZone" xml:id="E_31v_c" hei:placeRef="hc:PageBottom"></zone>
+        </surface>
+        <surface ana="hc:Page" xml:id="E_32r" n="32r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/sbb-pk_mgf1062_foll1-35/0063/image"></graphic>
+            <zone ana="hc:Column" xml:id="E_32r-a" n="a"/>
+            <zone ana="hc:Column" xml:id="E_32r-b" n="b"/>
+        </surface>
+        <surface ana="hc:Page" xml:id="E_32v" n="32v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/sbb-pk_mgf1062_foll1-35/0064/image"></graphic>
+            <zone ana="hc:Column" xml:id="E_32v-a" n="a"/>
+            <zone ana="hc:Column" xml:id="E_32v-b" n="b"/>
+        </surface>
+        <surface ana="hc:Page" xml:id="E_33r" n="33r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/sbb-pk_mgf1062_foll1-35/0065/image"></graphic>
+            <zone ana="hc:Column" xml:id="E_33r-a" n="a"/>
+            <zone ana="hc:Column" xml:id="E_33r-b" n="b"/>
+        </surface>
+        <surface ana="hc:Page" xml:id="E_33v" n="33v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/sbb-pk_mgf1062_foll1-35/0066/image"></graphic>
+            <zone ana="hc:Column" xml:id="E_33v-a" n="a"/>
+            <zone ana="hc:Column" xml:id="E_33v-b" n="b"/>
+        </surface>
+        <surface ana="hc:Page" xml:id="E_34r" n="34r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/sbb-pk_mgf1062_foll1-35/0067/image"></graphic>
+            <zone ana="hc:Column" xml:id="E_34r-a" n="a"/>
+            <zone ana="hc:Column" xml:id="E_34r-b" n="b"/>
+        </surface>
+        <surface ana="hc:Page" xml:id="E_34v" n="34v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/sbb-pk_mgf1062_foll1-35/0068/image"></graphic>
+            <zone ana="hc:Column" xml:id="E_34v-a" n="a"/>
+            <zone ana="hc:Column" xml:id="E_34v-b" n="b"/>
+        </surface>
+        <surface ana="hc:Page" xml:id="E_35r" n="35r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/sbb-pk_mgf1062_foll1-35/0069/image"></graphic>
+            <zone ana="hc:Column" xml:id="E_35r-a" n="a"/>
+            <zone ana="hc:Column" xml:id="E_35r-b" n="b"/>
+        </surface>
     </facsimile>
     <text>
         <body>
