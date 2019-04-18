@@ -872,7 +872,7 @@
                     <l n="400"><lb n="17"/><w>In</w><w>dem</w><w>walde</w><w>virborgen</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="401"><w>Ein</w><w>breitiz</w><w part="I">ge</w><metamark ana="hc:Hyphen ">-</metamark><lb n="18"/><w part="F">rute</w><pc>·</pc></l>
+                    <l n="401"><w>Ein</w><w>breitiz</w><w part="I">ge</w><metamark ana="hc:Hyphen ">‒</metamark><lb n="18"/><w part="F">rute</w><pc>·</pc></l>
                     <!--Yo transcribo gerute, pero debería ser geriute. Parece que el copista se comió la i . BUENO, O PARA ÉL ESA u ERA COMO UNA ü...  OJO!!!! OBSERVA QUE A MENUDO PONE UN GUIÓN DE SEPARACIÓN. LO MEJOR QUE PUEDES HACER, ES USAR LA FUNCIÓN DE "W+HYPHEN+LB+W" QUE HAY EN "FULL WORDS": INTRODUCE UN GUIÓN DOBLE OBLÍQUO, PERO LO CAMBIAS POR EL NORMAL (LARGO) Y LISTOS. ESA FUNCIÓN INTRODUCE TAMBIÉN EL ATRIBUTO @PART TANTO EL LA 1ª PARTE DE LA PALABRA COMO EN LA SEGUNDA.-->
                     <l n="402"><w>Ane</w><w>die</w><w>liute</w><pc>·</pc></l>
                 </lg>
@@ -1228,7 +1228,7 @@
                     <l n="582"><w>harde</w><w>zirlicher</w><w>ſtein</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="583"><w part="I"><choice><orig>v</orig><reg>u</reg></choice>nder</w><lb n="4"/><w part="F">ſart</w><w>mit</w><w><choice><orig>u</orig><reg>v</reg></choice>ieren</w><pc>·</pc></l>
+                    <l n="583"><w part="I"><choice><orig>v</orig><reg>u</reg></choice>nder</w><lb n="4"/><w part="F">ſazt</w><w>mit</w><w><choice><orig>u</orig><reg>v</reg></choice>ieren</w><pc>·</pc></l>
                     <!--YO DIRÍA QUE ES "fart" Y NO "fazt", PERO COMPRUÉBALO     -->
                     <l n="584"><w>Marmelinen</w><w>dieren</w><pc>·</pc></l>
                 </lg>
@@ -1295,84 +1295,86 @@
                 <lg> <l n="615"><w>Da</w><w>waren</w><w>niender</w><w>ſwenen</w><w>gelich</w><pc>·</pc></l> <pb n="9r"/><cb n="a"/><l n="616"><lb n="1"/><w>Ir</w><w>ſanc</w><w>waſ</w><w>ſo</w><w>miſlih</w><pc>·</pc></l>
                     <!--Revisado hasta aquí Victor 10/04/2019     --> </lg>
                 <lg>
-                    <l n="617"><w/><w/><w/><w/><w/><pc >·</pc></l>
-                    <l n="618"><w/><w/><w/><w/><w/><pc >·</pc></l>
+                    <l n="617"><w>hohe</w><pc>·</pc><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>nidere</w><pc>·</pc></l>
+                    <l n="618"><w>diu</w><lb n="2"/><w>ſtimme</w><w>gaf</w><w>in</w><w>widere</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="619"><w/><w/><w/><w/><w/><pc >·</pc></l>
-                    <l n="620"><w/><w/><w/><w/><w/><pc >·</pc></l>
+                    <l n="619"><w>Mit</w><w>gelichen</w><w>galme</w><lb n="3"/><w>der walt</w><w/><pc>·</pc></l>
+                    <l n="620"><w>wie</w><w>d</w><w>ſanc</w><w>ſange</w><w>galt</w><pc>·</pc></l>
+                    <!--después de la 'd' hay una rasura; Gärtner transcribe 'da', pero a mi me cuesta ver ahí una 'a'     -->
                 </lg>
                 <lg>
-                    <l n="621"><w/><w/><w/><w/><w/><pc >·</pc></l>
-                    <l n="622"><w/><w/><w/><w/><w/><pc >·</pc></l>
+                    <l n="621"><w>Den</w><w part="I">brun</w><lb n="4"/><w part="F">nen</w><w>ih</w><w>dar</w><w>under</w><w>ſah</w><pc>·</pc></l>
+                    <l n="622"><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>ſwes</w><w>mir</w><w>der</w><w part="I">walt</w><lb n="5"/><w part="F">man</w><w><choice><orig>i</orig><reg>j</reg></choice>ah</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="623"><w/><w/><w/><w/><w/><pc >·</pc></l>
-                    <l n="624"><w/><w/><w/><w/><w/><pc >·</pc></l>
+                    <l n="623"><w>Ein</w><w>ſmargdus</w><w>was</w><w>der</w><w>ſtein</w><pc>·</pc></l>
+                    <l n="624"><w><choice><orig>v</orig><reg>u</reg></choice>z</w><w part="I">ie</w><lb n="6"/><w part="F">gelichem</w><w>orte</w><w>ſcein</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="625"><w/><w/><w/><w/><w/><pc >·</pc></l>
-                    <l n="626"><w/><w/><w/><w/><w/><pc >·</pc></l>
+                    <l n="625"><w>Ein</w><w>alſo</w><w>gelfter</w><w>rubin</w><pc>·</pc></l>
+                    <l n="626"><lb n="7"/><w>daz</w><w>der</w><w>morgenſterre</w><w>mohte</w><w>ſin</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="627"><w/><w/><w/><w/><w/><pc >·</pc></l>
-                    <l n="628"><w/><w/><w/><w/><w/><pc >·</pc></l>
+                    <l n="627"><w>Niht</w><w>ſconer</w><lb n="8"/><w join="right">ſwann</w><w join="left">er</w><w>uf</w><w>gat</w><pc>·</pc></l>
+                    <l n="628"><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>deſ</w><w>luftes</w><w>trube</w><w>lat</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="629"><w/><w/><w/><w/><w/><pc >·</pc></l>
-                    <l n="630"><w/><w/><w/><w/><w/><pc >·</pc></l>
+                    <l n="629"><lb n="9"/><w><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">D</hei:initial>oͮ</w><w>ih daz beken</w><w>hangen</w><w>vant</w><pc>·</pc></l>
+                    <l n="630"><w>doͮ</w><w join="right">gedaht</w><w join="left">ih</w><lb n="10"/><w>deſ</w><w>ze hant</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="631"><w/><w/><w/><w/><w/><pc >·</pc></l>
-                    <l n="632"><w/><w/><w/><w/><w/><pc >·</pc></l>
+                    <l n="631"><w>Sit</w><w>ih</w><w>nah</w><w>a<choice><orig>u</orig><reg>v</reg></choice>enturen</w><w>reit</w><pc>·</pc></l>
+                    <l n="632"><lb n="11"/><w>Iz</w><w>were</w><w>ein</w><w>unmanheit</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="633"><w/><w/><w/><w/><w/><pc >·</pc></l>
-                    <l n="634"><w/><w/><w/><w/><w/><pc >·</pc></l>
+                    <l n="633"><w>of</w><w>ih</w><w>doͮ</w><w>daz</w><w>vorbare</w><pc>·</pc></l>
+                    <l n="634"><lb n="12"/><w>Ih</w><w>ne</w><w>verſohte</w><w>waſ</w><w>daz</w><w>ware</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="635"><w/><w/><w/><w/><w/><pc >·</pc></l>
-                    <l n="636"><w/><w/><w/><w/><w/><pc >·</pc></l>
+                    <l n="635"><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>riet</w><w>mir</w><lb n="13"/><w>min</w><w>un wiſe</w><w>moͮt</w><pc>·</pc></l>
+                    <l n="636"><w>de</w><w>mir</w><w>vil</w><w>dike</w><w>ſchaden</w><w>duͦt</w><pc>·</pc></l>
+                    <!--Entre 'dike' y 'schaden' hay una rasura     -->
                 </lg>
                 <lg>
-                    <l n="637"><w/><w/><w/><w/><w/><pc >·</pc></l>
-                    <l n="638"><w/><w/><w/><w/><w/><pc >·</pc></l>
+                    <l n="637"><lb n="14"/><w>Daz</w><w>ih</w><w>got</w><w>uffe</w><w>den</w><w>ſten</w><pc>·</pc></l>
+                    <l n="638"><w>doͮ</w><w>ir laſch</w><w>die</w><w part="I">ſun</w><lb n="15"/><w part="F">ne</w><w>die</w><w>e</w><w>ſcein</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="639"><w/><w/><w/><w/><w/><pc >·</pc></l>
-                    <l n="640"><w/><w/><w/><w/><w/><pc >·</pc></l>
+                    <l n="639"><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>zeginc</w><w>der</w><w><choice><orig>u</orig><reg>v</reg></choice>ogel</w><w>ſanc</w><pc>·</pc></l>
+                    <l n="640"><w join="right">Alſ</w><w join="left">iz</w><lb n="16"/><w>ein</w><w>ſwart</w><w>weder</w><w>twanc</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="641"><w/><w/><w/><w/><w/><pc >·</pc></l>
-                    <l n="642"><w/><w/><w/><w/><w/><pc >·</pc></l>
+                    <l n="641"><w>Die</w><w>wolken</w><w part="I">begun</w><metamark ana="hc:Hyphen">‒</metamark><lb break="no" n="17"/><w part="F">den</w><pc>·</pc></l>
+                    <l n="642"><w>In</w><w>den</w><w>ſelven</w><w>ſtunden</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="643"><w/><w/><w/><w/><w/><pc >·</pc></l>
-                    <l n="644"><w/><w/><w/><w/><w/><pc >·</pc></l>
+                    <l n="643"><w>von</w><w>vier</w><w>enden</w><lb n="18"/><w>uf</w><w>gan</w><pc>·</pc></l>
+                    <l n="644"><w>der</w><w>lihte</w><w>dah</w><w>wart</w><w>getan</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="645"><w/><w/><w/><w/><w/><pc >·</pc></l>
-                    <l n="646"><w/><w/><w/><w/><w/><pc >·</pc></l>
+                    <l n="645"><w>Daz</w><w>ih</w><lb n="19"/><w>die</w><w>linden</w><w>kume</w><w>geſah</w><pc>·</pc></l>
+                    <l n="646"><w>Groz</w><w><choice><orig>i</orig><reg>j</reg></choice>amer</w><w>da</w><w>geſcah</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="647"><w/><w/><w/><w/><w/><pc >·</pc></l>
-                    <l n="648"><w/><w/><w/><w/><w/><pc >·</pc></l>
+                    <l n="647"><lb n="20"/><w>vil</w><w>ſciere</w><w>doͮ</w><w>geſah</w><w>ih</w><pc>·</pc></l>
+                    <l n="648"><w>An</w><w join="right">allent</w><w join="left">halven</w><w part="I">umbe</w><metamark ana="hc:Hyphen">‒</metamark><lb break="no" n="21"/><w part="F">mih</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="649"><w/><w/><w/><w/><w/><pc >·</pc></l>
-                    <l n="650"><w/><w/><w/><w/><w/><pc >·</pc></l>
+                    <l n="649"><w>wol</w><w>duſent</w><w>duſent</w><w>blike</w><pc>·</pc></l>
+                    <l n="650"><w>dar</w><w>na</w><w>ſloͮh</w><lb n="22"/><w>alſo</w><w>dike</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="651"><w/><w/><w/><w/><w/><pc >·</pc></l>
-                    <l n="652"><w/><w/><w/><w/><w/><pc >·</pc></l>
+                    <l n="651"><w>Ein</w><w>alſo</w><w>creftiger</w><w>donreſlah</w><pc>·</pc></l>
+                    <l n="652"><w>daz</w><w>ih</w><lb n="23"/><w>uf</w><w>der</w><w>erde</w><w>gelah</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="653"><w/><w/><w/><w/><w/><pc >·</pc></l>
-                    <l n="654"><w/><w/><w/><w/><w/><pc >·</pc></l>
+                    <l n="653"><w>Sih</w><w>huͦf</w><w>ein</w><w>hagel</w><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>ein</w><lb n="24"/><w>regen</w><pc>·</pc></l>
+                    <l n="654"><w>wen</w><w>daz</w><w>mih</w><w>der</w><w>godeſ</w><w>ſegen</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="655"><w/><w/><w/><w/><w/><pc >·</pc></l>
-                    <l n="656"><w/><w/><w/><w/><w/><pc >·</pc></l>
+                    <l n="655"><w>vriſte</w><lb n="25"/><w>von</w><w>wedereſ</w><w>not</w><pc>·</pc></l>
+                    <l n="656"><w>Ih</w><w>were</w><w>der</w><w>wile</w><w>dike</w><w>dot</w><pc>·</pc></l>
                 </lg>
                 <lg>
                     <l n="657"><w/><w/><w/><w/><w/><pc >·</pc></l>
