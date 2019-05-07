@@ -138,8 +138,7 @@
                 </lg>
                 <lg>
                     <l n="51"><w>Sulche</w><w><choice><orig>u</orig><reg>v</reg></choice>rowede</w><w>niemer</w><lb n="8"/><w>werden</w><w>mah</w><pc>·</pc></l>
-                    <l n="52"><w>der</w><w join="right">man</w><w join="right">zoͮ</w><w join="left">den</w><w>ziten</w><w>pla</w><lb n="9"/><pc>·</pc></l>
-                    <!--pla: -das Ende des Wortes ist wohl im Einband verborgen-->
+                    <l n="52"><w>der</w><w join="right">man</w><w join="right">zoͮ</w><w join="left">den</w><w>ziten</w><w>plah</w><lb n="9"/><pc>·</pc></l>
                 </lg>
                 <lg>
                     <l n="53"><w>doh</w><w>muͦzen</w><w>wir</w><w>oh</w><w>nu</w><w>geneſen</w><pc>·</pc></l>
@@ -294,8 +293,7 @@
                 </lg>
                 <lg>
                     <l n="129"><w join="right">het</w><w join="left">er</w><w>diu</w><lb n="10"/><w>koningin</w><w>geſien</w><pc>·</pc></l>
-                    <l n="130"><w>Ime</w><w>were</w><w>diu</w><w>selve</w><w>zuc</w><lb n="11"/><w>geſcien</w><pc>·</pc></l>
-                    <!--Das letzte Wort in Zeile 10 unvollständig?-->
+                    <l n="130"><w>Ime</w><w>were</w><w>diu</w><w>selve</w><w>zucht</w><lb n="11"/><w>geſcien</w><pc>·</pc></l>
                 </lg>
                 <lg>
                     <l n="131"><w>die</w><w>da</w><w><choice><orig>v</orig><reg>u</reg></choice></w><w>eime</w><w>geſcah</w><pc>·</pc></l>
@@ -777,14 +775,20 @@
                 </lg>
                 <lg>
                     <l n="359"><lb n="14"/><w>die</w><w>mih</w><w>gewiſet</w><w>heten</w><w>dar</w><pc>·</pc></l>
-                    <l n="360"><w>hi</w><w>mide</w><w>ſo</w><w part="I"><choice><orig>v</orig><reg>u</reg></choice></w><lb n="15"/><w part="F" join="right">birgulder</w><w join="left">z</w><w>gar</w><pc>·</pc></l>
+                    <l n="360"><w>hi</w><w>mide</w><w>ſo</w><w part="I"
+                        ><choice><orig>v</orig><reg>u</reg></choice></w><metamark ana="hc:Hyphen "
+                        >-</metamark><lb n="15"/><w part="F" join="right">birgulder</w><w
+                        join="left">z</w><w>gar</w><pc>·</pc></l>
                 </lg>
                 <lg>
                     <l n="361"><w join="right">Daz</w><w join="left">er</w><w>mih</w><w>nirgen</w><w><choice><orig>u</orig><reg>v</reg></choice>or ſtiz</w><pc>·</pc></l>
                     <l n="362"><lb n="16"/><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>mih</w><w>ſo</w><w>guͦtliche</w><w>liez</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="363"><w>Mit</w><w>der</w><w part="I"><choice><orig>i</orig><reg>j</reg></choice>unc<choice><orig>u</orig><reg>v</reg></choice>ro</w><lb n="17"/><w part="F">wen</w><w>ezen</w><pc>·</pc></l>
+                    <l n="363"><w>Mit</w><w>der</w><w part="I"
+                        ><choice><orig>i</orig><reg>j</reg></choice>unc<choice><orig>u</orig><reg>v</reg></choice>ro</w><metamark
+                        ana="hc:Hyphen ">-</metamark><lb n="17"/><w part="F"
+                        >wen</w><w>ezen</w><pc>·</pc></l>
                     <l n="364"><w>Oh</w><w>ne</w><w>wart</w><w>da</w><w>niht</w><w><choice><orig>u</orig><reg>v</reg></choice>orgezen</w><pc>·</pc></l>
                 </lg>
                 <lg>
