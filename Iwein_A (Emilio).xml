@@ -1419,15 +1419,22 @@
                 </lg>
                 <lg>
                     <l n="677"><w>Ih</w><w>ne</w><w join="right">beguz</w><w join="left">en</w><w>nimer</w><w>mer</w><pc>·</pc></l>
-                    <l n="678"><lb n="14"/><w join="right">wand</w><w join="left">ih</w><w join="right">het</w><w join="left">iz</w><w>bat</w><w>gelazen</w><w>e</w><pc>·</pc></l>
+                    <l n="678"><lb n="14"/><w join="right">wand</w><w join="left">ih</w><w
+                        join="right">hett</w><w join="left"
+                        >z</w><w>bat</w><w>gelazen</w><w>e</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="679"><w>Die</w><w>vogele</w><w>q<add hei:placeRef="hc:AboveLine">u</add><choice><am>m̄</am><ex>men</ex></choice></w><lb n="15"/><w>widere</w><pc>·</pc></l>
+                    <l n="679"
+                        ><w>Die</w><w>vogele</w><w><choice><am>qᷓ</am><ex>qua</ex></choice><choice><am>m̄</am><ex>men</ex></choice></w><lb
+                        n="15"/><w>widere</w><pc>·</pc></l>
                     <l n="680"><w>Iz</w><w>wart</w><w>von</w><w>iren</w><w>gevidere</w><pc>·</pc></l>
                 </lg>
                 <lg>
                     <l n="681"><w>Diu</w><w>linde</w><lb n="16"/><w>ander</w><w>ſtunt</w><w>bedaht</w><pc>·</pc></l>
-                    <l n="682"><w>Sie</w><w>hoben</w><w>aber</w><w>ir</w><w>ſuͦze</w><lb n="17"/><w>braht</w><pc>·</pc></l>
+                    <l n="682"><w>Sie</w><w>hoben</w><w>aber</w><w>ir</w><w>ſuͦ<subst>
+                        <del rendition="hc:Adapted">t</del>
+                        <add rendition="hc:Adapted">z</add>
+                        </subst>e</w><lb n="17"/><w>braht</w><pc>·</pc></l>
                 </lg>
                 <lg>
                     <l n="683"><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>ſungen</w><w><choice><orig>u</orig><reg>v</reg></choice>erre</w><w>baz</w><w>dan</w><w>e</w><pc>·</pc></l>
@@ -1470,14 +1477,15 @@
                     <l n="702"><lb n="4"/><w>Ih</w><w>ſah</w><w>wol</w><w>eme</w><w>waſ</w><w>an</w><w>mih</w><w>zorn</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="703"><w>Iz</w><w>was</w><w>mir</w><lb n="5"/><w>vorthlih</w><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>ungemah</w><pc>·</pc></l>
-                    <l n="704"><w join="right">Alſ</w><w join="left">ih</w><w>aber</w><w>in</w><w>einin</w><lb n="6"/><w>ſah</w><pc>·</pc></l>
-                    <!--Estos dos versos parecen invertidos con respecto a la numeración de Lachmann,  pero el sentido del pareado no es el mismo.-->
+                    <l n="704"><w>Iz</w><w>was</w><w>mir</w><lb n="5"/><w>vorthlih</w><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>ungemah</w><pc>·</pc></l>
+                    <l n="703"><w join="right">Alſ</w><w join="left">ih</w><w>aber</w><w>in</w><w>einin</w><lb n="6"/><w>ſah</w><pc>·</pc></l>
+                    <!--Achtung, umgekehrte Reihung!-->
                 </lg>
                 <lg>
                     <l n="705"><w>doͮ</w><w join="right">getroſt</w><w join="left">ich</w><w>mih</w><w>idoh</w><pc>·</pc></l>
-                    <!--En 'getrost' no estoy seguro de que la primera letra sea una 'g'???-->
+                    <!--En 'getrost' no estoy seguro de que la primera letra sea una 'g'??? PARECE ADAPTADA DE ALGO, PERO NO SÉ DECIR DE QUÉ-->
                     <l n="706"><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>dahte</w><w>ze</w><lb n="7"/><w>lebene</w><w>noh</w><pc>·</pc></l>
+                    <!-- Revisado hasta aquí Victor 12/05/2019 -->
                 </lg>
                 <lg>
                     <l n="707"><w/><w/><w/><w/><w/><pc>·</pc></l>
