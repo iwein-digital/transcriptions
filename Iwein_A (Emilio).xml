@@ -1508,7 +1508,8 @@
                     <l n="716"><w>Nu</w><w join="right">wi</w><w join="left">ſe he</w><w>ih</w><w>minen</w><w>walt</w><lb n="14"/><w>ſtan</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="717"><w>den</w><w>habent</w><w>ir</w><w>mir</w><w>vir tebit</w><pc>·</pc></l>
+                    <l n="717"
+                        ><w>den</w><w>habent</w><w>ir</w><w>mir</w><w>virtebit</w><pc>·</pc></l>
                     <l n="718"><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>min</w><lb n="15"/><w>wilt</w><w>irſtev<subst><del rendition="hc:Underdotted">e</del><add hei:placeRef="hc:AboveLine">i</add></subst>t</w><pc>·</pc></l>
                 </lg>
                 <lg>
@@ -1524,7 +1525,9 @@
                     <l n="724"><w>daz</w><w>moͮz</w><w>wol</w><lb n="19"/><w>weinnen</w><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>clagen</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="725"><w>Alſuſ</w><w join="right">clag</w><w join="left">ih</w><w>van</w><w part="I">ſcul</w><lb n="20"/><w part="F">den</w><pc>·</pc></l>
+                    <l n="725"><w>Alſuſ</w><w join="right">clag</w><w join="left">ih</w><w>van</w><w
+                        part="I">ſcul</w><metamark ana="hc:Hyphen ">–</metamark><lb n="20"/><w
+                        part="F">den</w><pc>·</pc></l>
                     <l n="726"><w>Ih</w><w join="right">in</w><w join="left">have</w><w>wider</w><w>uwen</w><w>hulden</w><pc>·</pc></l>
                 </lg>
                 <lg>
@@ -1564,31 +1567,41 @@
                     <l n="744"><w>hinder</w><w>daz</w><w>ros</w><w>an</w><lb n="8"/><w>daz</w><w>lant</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="745"><w>Daz</w><w>ih</w><w>vil</w><w>gare</w><w><choice><orig>u</orig><reg>v</reg></choice>ir gaz</w><pc>·</pc></l>
+                    <l n="745"
+                        ><w>Daz</w><w>ih</w><w>vil</w><w>gare</w><w><choice><orig>u</orig><reg>v</reg></choice>irgaz</w><pc>·</pc></l>
                     <l n="746"><w>of</w><w>ih</w><w>uf</w><lb n="9"/><w>roſ</w><w>ie</w><w>geſaz</w><pc>·</pc></l>
                 </lg>
                 <lg>
                     <l n="747"><w>her</w><w>nam</w><w>min</w><w>ros</w><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>liez</w><w>mih</w><lb n="10"/><w>ligen</w><pc>·</pc></l>
-                    <l n="748"><w>Min</w><w>hate</w><w>gelukes</w><w>da</w><w><choice><orig>u</orig><reg>v</reg></choice>ir zigen</w><pc>·</pc></l>
+                    <l n="748"
+                        ><w>Min</w><w>hate</w><w>gelukes</w><w>da</w><w><choice><orig>u</orig><reg>v</reg></choice>irzigen</w><pc>·</pc></l>
                 </lg>
                 <lg>
                     <l n="749"><w>Doͮ</w><w>ne</w><lb n="11"/><w>motte</w><w>mih</w><w>niht</w><w>ſo</w><w>ſere</w><pc>·</pc></l>
                     <l n="750"><w>her</w><w>ne</w><w>bot</w><w>mir</w><w>nie</w><lb n="12"/><w>die</w><w>ere</w><pc>·</pc></l>
-                    <!--A continuación hay un borrado; el texto continúa en la siguiente línea-->
+                    <gap ana="hc:Erased" extent="1" unit="lines"/>
+                    <!-- Diesen Text vielleicht unter dem Mikroskop lesen? -->
                 </lg>
                 <lg>
-                    <l n="751"><lb n="13"/><w join="right">Daz</w><w join="left">er</w><w>mih</w><w>wolde</w><w>an<add hei:placeRef="hc:AboveLine">e</add>geſien</w><pc>·</pc></l>
-                    <!--No estoy seguro de haber hecho lo correcto en la última palabra; yo lo he interpretado como una 'e' añadida encima de la 'n';  además el copista añade entre la 'n' y la 'g' un signo como si fuese una especie de coma alargada; esto es un metamark???-->
+                    <l n="751"><lb n="13"/><w join="right">Daz</w><w join="left"
+                        >er</w><w>mih</w><w>wolde</w><w>an<add hei:placeRef="hc:AboveLine"
+                        >e</add></w><metamark ana="hc:TokenMarker "
+                        >,</metamark><w>geſien</w><pc>·</pc></l>
+                    <!--No estoy seguro de haber hecho lo correcto en la última palabra; yo lo he interpretado como una 'e' añadida encima de la 'n';  además el copista añade entre la 'n' y la 'g' un signo como si fuese una especie de coma alargada; esto es un metamark??? SI, CREO QUE TIENES RAZÓN EN QUE SÓLO PUEDE SER UNA E. LA COMA LA INTERPRETO COMO UN SIGNO DE QUE QUERÍA SEPARAR ESTAS DOS PALABRAS, PERO TAMPOCO ESTOY SEGURO.-->
                     <l n="752"><lb n="14"/><w>doͮ</w><w>eme</w><w>die</w><w>ere</w><w>waſ</w><w>geſcien</w><pc>·</pc></l>
                 </lg>
                 <lg>
                     <l n="753"><w>Doͮ</w><w join="right">gebart</w><w join="left">er</w><w>rehte</w><lb n="15"/><w join="right">al</w><w join="left">diu</w><w>gelih</w><pc>·</pc></l>
-                    <l n="754"><w/><w/><w/><w/><w/><pc>·</pc></l>
+                    <l n="754"><w join="right">Alſ</w><w join="left"><subst>
+                        <del rendition="hc:Underdotted">e</del>
+                        <add hei:placeRef="hc:AboveLine">i</add>
+                        </subst>me</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="755"><w/><w/><w/><w/><w/><pc>·</pc></l>
-                    <l n="756"><w join="right">Alſ</w><w join="left"><subst><del rendition="hc:Underdotted">e</del><add hei:placeRef="hc:AboveLine">i</add></subst>me</w><w>der</w><w>pris</w><w>waſ</w><w>ſin</w><pc>·</pc><w><choice><orig>v</orig><reg>u</reg></choice>nde</w><lb n="16"/><w>min</w><w>der</w><w>ſcame</w><pc>·</pc></l>
-                    <!--Faltan los vv. 754-755; la última palabra del v. 755 'alsame', pasa a primera del v. 756 'alsime'??     -->
+                    <l n="756"
+                        ><w>der</w><w>pris</w><w>waſ</w><w>ſin</w><pc>·</pc><w><choice><orig>v</orig><reg>u</reg></choice>nde</w><lb
+                        n="16"/><w>min</w><w>der</w><w>ſcame</w><pc>·</pc></l>
+                    <!--Faltan los vv. 754-755; la última palabra del v. 755 'alsame', pasa a primera del v. 756 'alsime'?? NO, YO CREO QUE 'ALS IME' SON LAS PRIMERAS PALABRAS DEL 754, QUE DEJO; EL 755 LO ELIMINO Y EL 756 QUEDA SÓLO. PERO MÁRCAME SIEMPRE QUE SE SALTE ALGÚN VERSO, VALE?    -->
                 </lg>
                 <lg>
                     <l n="757"><w>Swaz</w><w>ih</w><w>doh</w><w>laſters</w><w>da</w><w part="I">ge</w><metamark ana="hc:Hyphen">‒</metamark><lb break="no" n="17"/><w part="F">wan</w><pc>·</pc></l>
@@ -1605,19 +1618,20 @@
                 <lg>
                     <l n="763"><lb n="21"/><w><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">D</hei:initial>oͮ</w><w>mir</w><w>deſ</w><w>roſſes</w><w>wart</w><w><choice><orig>u</orig><reg>v</reg></choice>o<add hei:placeRef="hc:AboveLine">r</add>zigen</w><pc>·</pc></l>
                     <l n="764"><w>Ih</w><w>ne</w><lb n="22"/><w>mohte</w><w>niht</w><w>imer</w><w>da</w><w>geligen</w><pc>·</pc></l>
-                    <!--La palabra 'geligen' apenas se ve con claridad por el borrón?-->
+                    <!--'geligen' im Mikroskop prüfen!-->
                 </lg>
                 <lg>
                     <l n="765"><w>Des</w><w part="I">ge</w><lb n="23"/><w part="F" join="right">roht</w><w join="left">ih</w><w>gen</w><w><choice><orig>u</orig><reg>v</reg></choice>on</w><w>dan</w><pc>·</pc></l>
                     <l n="766"><w>Alſo</w><w>in</w><w>erloſer</w><w>man</w><pc>·</pc></l>
-                    <!--No tengo claro que diga 'also in', pero tampoco veo el 'alsein' que transcribe Gärtner-->
+                    <!--'also in' / 'alsein' am Mikroskop prüfen!-->
                 </lg>
                 <lg>
                     <l n="767"><lb n="24"/><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>geſaz</w><w>a<choice><orig>u</orig><reg>v</reg></choice>er</w><w>zoͮ</w><w>dem</w><w>brunnen</w><pc>·</pc></l>
                     <l n="768"><w/><w/><w/><w/><w/><pc>·</pc></l>
                     <!--Falta el v. 768!     -->
                 </lg>
-                <lg> <l n="769"><w>Swi</w><w>nu</w><lb n="25"/><w>wern</w><w>ih</w><w>anderſ</w><w>ſi</w><pc>·</pc></l> <l n="770"><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w join="right">ſaz</w><w join="left">ih</w><w>ime</w><w>me</w><w>da</w><w>bi</w><pc>·</pc></l><pb n="10r"/><cb n="a"/> </lg>
+                <lg> <l n="769"><w>Swi</w><w part="I">nu</w><lb n="25"/><w part="F"
+                        >wern</w><w>ih</w><w>anderſ</w><w>ſi</w><pc>·</pc></l> <l n="770"><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w join="right">ſaz</w><w join="left">ih</w><w>ime</w><w>me</w><w>da</w><w>bi</w><pc>·</pc></l><pb n="10r"/><cb n="a"/> </lg>
                 <lg>
                     <l n="771"><lb n="1"/><w>Ih</w><w>ne</w><w join="right">bezz</w><w join="left">en</w><w>nimer</w><w>mere</w><pc>·</pc></l>
                     <l n="772"><w>Ih</w><w>untgaldes</w><w>e</w><lb n="2"/><w>ſo</w><w>ſere</w><pc>·</pc></l>
@@ -1637,7 +1651,7 @@
                 </lg>
                 <lg>
                     <l n="779"><w join="right">wen</w><w join="left">ih</w><w join="right">ſcut</w><w join="left">iz</w><w>abe</w><w>unde</w><w>gint</w><w>dan</w><pc>·</pc></l>
-                    <l n="780"><w>Ih</w><lb n="7"/><w>gnade loſer</w><w>man</w><pc>·</pc></l>
+                    <l n="780"><w>Ih</w><lb n="7"/><w>gnadeloſer</w><w>man</w><pc>·</pc></l>
                 </lg>
                 <lg>
                     <l n="781"><w>Gedahte</w><w>wa</w><w>ih</w><w>kerte</w><pc>·</pc></l>
@@ -1656,8 +1670,9 @@
                     <l n="788"><w>daz</w><w>machete</w><w>gar</w><w>ſin</w><w>ho<choice><orig>u</orig><reg>v</reg></choice>eſheit</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="789"><w>Were</w><lb n="13"/><w>mir</w><w>d o</w><w>ere</w><w>geſce<add hei:placeRef="hc:AboveLine">i</add>n</w><pc>·</pc></l>
-                    <!--Entre la d y la o hay una separación, como si se hubiese borrado algo-->
+                    <l n="789"><w>Were</w><lb n="13"/><w>mir</w><w>do</w><w>ere</w><w>geſc<add
+                        hei:placeRef="hc:AboveLine">i</add>en</w><pc>·</pc></l>
+                    <!--'do' am Mikroskop prüfen-->
                     <l n="790"><w>Alſo</w><w>in</w><w>deme</w><w>laſtere</w><w>da</w><lb n="14"/><w>hi</w><w>ane</w><w>wart</w><w>geſien</w><pc>·</pc></l>
                 </lg>
                 <lg>
@@ -1665,7 +1680,8 @@
                     <l n="792"><w>Alſuſ</w><w>troſten</w><w>ſie</w><w>minen</w><w>muͦt</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="793"><w>her</w><metamark ana="hc:Hyphen">‒</metamark><lb break="no" n="16"/><w part="F">unde</w><w>mine</w><w><choice><orig>i</orig><reg>j</reg></choice>unc<choice><orig>u</orig><reg>v</reg></choice>rowe</w><pc>·</pc></l>
+                    <l n="793"><w>her</w><metamark ana="hc:Hyphen">‒</metamark><lb break="no" n="16"
+                        /><w>unde</w><w>mine</w><w><choice><orig>i</orig><reg>j</reg></choice>unc<choice><orig>u</orig><reg>v</reg></choice>rowe</w><pc>·</pc></l>
                     <l n="794"><w>daz</w><w>ſie</w><w>got</w><w>iemer</w><w part="I">ſco</w><lb n="17"/><w part="F">we</w><pc>·</pc></l>
                 </lg>
                 <lg>
@@ -1673,17 +1689,20 @@
                     <l n="796"><w>die</w><w>mere</w><lb n="18"/><w>der</w><w>ih</w><w>laſter</w><w>han</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="797"><w>Daz</w><w>ih</w><w>die</w><w join="right">nie</w><w join="left">ne</w><w>kunde</w><w part="I">da</w><metamark ana="hc:Hyphen">‒</metamark><lb break="no" n="19"/><w part="F">gen</w><pc>·</pc></l>
+                    <l n="797"><w>Daz</w><w>ih</w><w>die</w><w>niene</w><w>kunde</w><w part="I"
+                        >da</w><metamark ana="hc:Hyphen">‒</metamark><lb break="no" n="19"/><w
+                        part="F">gen</w><pc>·</pc></l>
                     <l n="798"><w>Ih</w><w>ne</w><w>wolde</w><w>ſie</w><w>oh</w><w>nie</w><w>geſagen</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="799"><w>were</w><w part="I">mir</w><metamark ana="hc:Hyphen">‒</metamark><lb break="no" n="20"/><w>iht</w><w>baz</w><w>geſcin</w><pc>·</pc></l>
+                    <l n="799"><w>were</w><w part="I">mir</w><lb break="no" n="20"
+                        /><w>iht</w><w>baz</w><w>geſcin</w><pc>·</pc></l>
                     <l n="800"><w>deſ</w><w join="right">hortent</w><w join="left">ir</w><w>mih</w><w>oh</w><w>nu</w><w>gen</w><pc>·</pc></l>
                 </lg>
                 <lg>
                     <l n="801"><lb n="21"/><w>Sie</w><w>uwer</w><w>ſo</w><w>henne</w><w>geſchien</w><w>baz</w><pc>·</pc></l>
                     <l n="802"><w>ob</w><w>her</w><w>nu</w><lb n="22"/><w>wille</w><w>der</w><w>ſa</w><w>daz</w><pc>·</pc></l>
-                    <!--En la penúltima palabra solo pude leer 'sa'; hay una rasura!     -->
+                    <!--'sa' am Mikroskop prüfen     -->
                 </lg>
                 <lg>
                     <l n="803"><w><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="1">D</hei:initial>oͮ</w><w>rechente</w><w>der</w><w>here</w><lb n="23"/><w><choice><orig>v</orig><reg>u</reg></choice>wan</w><pc>·</pc></l>
