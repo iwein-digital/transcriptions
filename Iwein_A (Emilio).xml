@@ -2398,7 +2398,7 @@
                     <l n="1114"><w>daz</w><w>roſ</w><w>zo</w><w>miten</w><w>dem</w><w>ſatel</w><w>abe</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="1115"><lb n="17"/><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>ſcriet</w><w>de</w><w>ſwert</w><w>ſcieden</w><pc>·</pc></l>
+                    <l n="1115"><lb n="17"/><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>ſcriet</w><w><choice><am>dc</am><ex>daz</ex></choice></w><w>ſwert</w><w>ſcieden</w><pc>·</pc></l>
                     <l n="1116"><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>de</w><w>ſporen</w><w>beide</w><pc>·</pc></l>
                 </lg>
                 <lg>
@@ -2647,7 +2647,7 @@
                     <l n="1236"><w>des</w><lb n="13"/><w>ſi</w><w>min</w><w>ſiele</w><w>uwer</w><w>pant</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="1237"><w>Daz</w><w>v</w><w>nith</w><w>leideſ</w><w part="I"><choice><orig>u</orig><reg>v</reg></choice>e</w><lb n="14"/><w part="F">ſciet</w><pc>·</pc></l>
+                    <l n="1237"><w>Daz</w><w><choice><orig>v</orig><reg>u</reg></choice></w><w>nith</w><w>leideſ</w><w part="I"><choice><orig>u</orig><reg>v</reg></choice>e</w><lb n="14"/><w part="F">ſciet</w><pc>·</pc></l>
                     <l n="1238"><w>wa<choice><am>n̄</am><ex>ne</ex></choice></w><w><choice><orig>v</orig><reg>u</reg></choice></w><w>nieman</w><w>ne</w><w>ſet</w><pc>·</pc></l>
                 </lg>
                 <lg>
@@ -2660,7 +2660,7 @@
                 </lg>
                 <lg>
                     <l n="1243"><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>ſi</w><w>doh</w><w>ſo</w><w>irblindent</w><pc>·</pc></l>
-                    <l n="1244"><w>daz</w><w>ſi</w><w>uwer</w><lb n="18"/><w>nie</w><w>ne</w><w>uind<choice><am>ē</am><ex>en</ex></choice>t</w><pc>·</pc></l>
+                    <l n="1244"><w>daz</w><w>ſi</w><w>uwer</w><lb n="18"/><w>nie</w><w>ne</w><w><choice><orig>u</orig><reg>v</reg></choice>ind<choice><am>ē</am><ex>en</ex></choice>t</w><pc>·</pc></l>
                 </lg>
                 <lg>
                     <l n="1245"><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>ſit</w><w>doh</w><w>rechte</w><w>under</w><w>in</w><pc>·</pc></l>
@@ -2886,47 +2886,49 @@
                 </lg>
                 <lg>
                     <l n="1359"><w join="right">Swi</w><w join="both">lang</w><w join="left">er</w><w>da</w><lb n="9"/><w><choice><orig>u</orig><reg>v</reg></choice>ore</w><w>were</w><w>gewnt</w><pc>·</pc></l>
-                    <l n="1360"><w>her</w><w>begunde</w><w>bloten</w><w join="right">an</w><w join="left">d<choice><am>͛</am><ex>er</ex></choice></w><lb n="10"/><w>ſtunt</w><pc>·</pc></l>
+                    <l n="1360"><w>her</w><w>begunde</w><w>bloten</w><w join="right">an</w><w join="left"><choice><am>d͛</am><ex>der</ex></choice></w><lb n="10"/><w>ſtunt</w><pc>·</pc></l>
+                    <!--En el caso de an-der hay que invertir también el orden de word y choice, como en daz-er??? En ese caso, tendría que corregirlo.-->
                 </lg>
                 <lg>
-                    <l n="1361"><w/><w/><w/><w/><w/><pc>·</pc></l>
-                    <l n="1362"><w/><w/><w/><w/><w/><pc>·</pc></l>
+                    <l n="1361"><w>Nu</w><w>ſiet</w><w>alſo</w><w>begunden</w><pc>·</pc></l>
+                    <l n="1362"><w>Im</w><w>bloͮten</w><w>ſine</w><lb n="11"/><w>wnden</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="1363"><w/><w/><w/><w/><w/><pc>·</pc></l>
-                    <l n="1364"><w/><w/><w/><w/><w/><pc>·</pc></l>
+                    <l n="1363"><w>Doͮ</w><w>man</w><w>in</w><w>in</w><w>daz</w><w>palaſ</w><w>druͦh</w><pc>·</pc></l>
+                    <l n="1364"><w>wand</w><w><choice><am>h͛</am><ex>her</ex></choice></w><lb n="12"/><w>waſ</w><w>bi</w><w>ime</w><w>der</w><w>in</w><w>ſluͦh</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="1365"><w/><w/><w/><w/><w/><pc>·</pc></l>
-                    <l n="1366"><w/><w/><w/><w/><w/><pc>·</pc></l>
+                    <l n="1365"><w>Doͮ</w><w>daz</w><w>die</w><w><choice><orig>u</orig><reg>v</reg></choice>rowe</w><w>geſah</w><pc>·</pc></l>
+                    <l n="1366"><w>Sie</w><w>rief</w><w>ſere</w><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>ſprah</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="1367"><w/><w/><w/><w/><w/><pc>·</pc></l>
-                    <l n="1368"><w/><w/><w/><w/><w/><pc>·</pc></l>
+                    <l n="1367"><w>her</w><w>iſt</w><w>zware</w><w>h<add hei:placeRef="hc:AboveLine">i</add><metamark ana="hc:InsertionMark ">,</metamark></w><w>inne</w><pc>·</pc></l>
+                    <l n="1368"><lb n="13"/><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>hat</w><w>unſ</w><w>der</w><w>ſinne</w><pc>·</pc></l>
+                    <!--En 'sinne' parece que primero trazó una 'm' y después la borró para dejar una 'n'???-->
                 </lg>
                 <lg>
-                    <l n="1369"><w/><w/><w/><w/><w/><pc>·</pc></l>
-                    <l n="1370"><w/><w/><w/><w/><w/><pc>·</pc></l>
+                    <l n="1369"><w>Mit</w><w>ſime</w><w>zoͮbere</w><w>ane</w><lb n="14"/><w>getan</w><pc>·</pc></l>
+                    <l n="1370"><w>die</w><w>e</w><w>daz</w><w>ſuochen</w><w>heten</w><w>gelan</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="1371"><w/><w/><w/><w/><w/><pc>·</pc></l>
-                    <l n="1372"><w/><w/><w/><w/><w/><pc>·</pc></l>
+                    <l n="1371"><w>Die</w><w part="I">be</w><lb n="15"/><w part="F">guͦnden</w><w>ſuochen</w><w join="right">an</w><w join="left">der</w><w>ſtunt</w><pc>·</pc></l>
+                    <l n="1372"><w>daz</w><w>bete</w><w>wart</w><lb n="16"/><w>ge wnt</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="1373"><w/><w/><w/><w/><w/><pc>·</pc></l>
-                    <l n="1374"><w/><w/><w/><w/><w/><pc>·</pc></l>
+                    <l n="1373"><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>durh</w><w>den</w><w>kulter</w><w><choice><am>dc</am><ex>daz</ex></choice></w><w join="right">da</w><w join="left">lah</w><pc>·</pc></l>
+                    <l n="1374"><w>Gienc</w><lb n="17"/><w>manih</w><w>stih</w><pc>·</pc><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>ſlah</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="1375"><w/><w/><w/><w/><w/><pc>·</pc></l>
-                    <l n="1376"><w/><w/><w/><w/><w/><pc>·</pc></l>
+                    <l n="1375"><w>Oh</w><w join="right">muͦſt</w><w join="left">er</w><w>dikke</w><w part="I">wen</w><lb n="18"/><w part="F">ken</w><pc>·</pc></l>
+                    <l n="1376"><w>In</w><w>winkelen</w><pc>·</pc><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>undir</w><w>benken</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="1377"><w/><w/><w/><w/><w/><pc>·</pc></l>
-                    <l n="1378"><w/><w/><w/><w/><w/><pc>·</pc></l>
+                    <l n="1377"><w>Suͦht<choice><am>ē</am><ex>en</ex></choice></w><lb n="19"/><w join="right">ſ</w><w join="left">ine</w><w>mit</w><w>ten</w><w>ſwerten</w><pc>·</pc></l>
+                    <l n="1378"><w>Wande</w><w>ſie</w><w>ſineſ</w><w>todes</w><lb n="20"/><w>gerten</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="1379"><w/><w/><w/><w/><w/><pc>·</pc></l>
-                    <l n="1380"><w/><w/><w/><w/><w/><pc>·</pc></l>
+                    <l n="1379"><w>Alſsam</w><w>der</w><w>wlf</w><w>der</w><w>ſcafe</w><w>doͮt</w><pc>·</pc></l>
+                    <l n="1380"><w>vor</w><w part="I">zor</w><metamark ana="hc:Hyphen">‒</metamark><lb break="no" n="21"/><w part="F">ne</w><w>tobete</w><w>in</w><w>der</w><w>muͦt</w><pc>·</pc></l>
                 </lg>
                 <lg>
                     <l n="1381"><w/><w/><w/><w/><w/><pc>·</pc></l>
