@@ -3789,8 +3789,8 @@
                 </lg>
                 <lg>
                     <l n="1813"><w>N<choice><am>ī</am><ex>im</ex></choice>mer</w><lb n="14"/><w><choice><orig>u</orig><reg>v</reg></choice>ol enden</w><pc>·</pc></l>
-                    <l n="1814"><w>Got</w><w>ſal</w><w>mir</w><w>dot</w><w>den</w><w>ſenden</w><pc>·</pc></l>
-                    <!--Esos dos signos que aparecen a un lado y al otro de 'dot' no sé lo que significan. ¿Son acaso marcas de eliminación de la palabra o algo así?-->
+                    <l n="1814"><w>Got</w><w>ſal</w><w>mir</w><w>⸗dot⸗</w><w>den</w><w>ſenden</w><pc>·</pc></l>
+                    <!--Esos dos signos que aparecen a un lado y al otro de 'dot' no sé lo que indican el orden inverso de las palabras, no? Y eso se codifica de alguna manera?-->
                 </lg>
                 <lg>
                     <l n="1815"><w>Daz</w><lb n="15"/><w>ih</w><w>na</w><w>mime</w><w>heren</w><w>vare</w><pc>·</pc></l>
@@ -3991,87 +3991,88 @@
                 </lg>
                 <lg> <l n="1915"><w>Guͦten</w><lb n="27"/><w><choice><orig>u</orig><reg>v</reg></choice>ride</w><w>bere</w><pc>·</pc></l> <l n="1916"><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>min</w><w>man</w><w>doh</w><w>niene</w><w>were</w><pc>·</pc></l> <pb n="23v"/><cb n="a"/></lg>
                 <lg>
-                    <l n="1917"><lb n="1"/><w/><w/><w/><w/><w/><pc>·</pc></l>
-                    <l n="1918"><w/><w/><w/><w/><w/><pc>·</pc></l>
+                    <l n="1917"><lb n="1"/><w><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="1">S</hei:initial>ie</w><w>ſprah</w><w>daz</w><w>ſi</w><w><choice><orig>v</orig><reg>u</reg></choice></w><w>wider ſeit</w><pc>·</pc></l>
+                    <l n="1918"><w>Wer</w><w>were</w><lb n="2"/><w>der</w><w>ſih</w><w>ſo</w><w>groz</w><w>arbeit</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="1919"><w/><w/><w/><w/><w/><pc>·</pc></l>
-                    <l n="1920"><w/><w/><w/><w/><w/><pc>·</pc></l>
+                    <l n="1919"><w>Iemer</w><w>geneme</w><w>dur</w><w><choice><orig>v</orig><reg>u</reg></choice></w><w>an</w><pc>·</pc></l>
+                    <l n="1920"><lb n="3"/><w>her</w><w>ne</w><w>were</w><w>uwer</w><w>man</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="1921"><w/><w/><w/><w/><w/><pc>·</pc></l>
-                    <l n="1922"><w/><w/><w/><w/><w/><pc>·</pc></l>
+                    <l n="1921"><w>Ir</w><w>ſprechet</w><w join="right">alſ</w><w join="left">ein</w><w>wib</w><pc>·</pc></l>
+                    <l n="1922"><lb n="4"/><w>Gebit</w><w>ir</w><w>em</w><w>guͦt</w><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>lib</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="1923"><w/><w/><w/><w/><w/><pc>·</pc></l>
-                    <l n="1924"><w/><w/><w/><w/><w/><pc>·</pc></l>
+                    <l n="1923"><w>Ir</w><w join="right">moͮget</w><w join="left">iz</w><w>dan</w><w>noh</w><lb n="5"/><w>heizen</w><w>guͦt</w><pc>·</pc></l>
+                    <l n="1924"><w join="right">Ob</w><w join="both">er</w><w join="left">z</w><w>willichen</w><w>duͦt</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="1925"><w/><w/><w/><w/><w/><pc>·</pc></l>
-                    <l n="1926"><w/><w/><w/><w/><w/><pc>·</pc></l>
+                    <l n="1925"><w>Nu</w><w part="I">habin</w><lb n="6"/><w part="F" join="right">t</w><w join="left">ir</w><pc>·</pc><w>ſcone</w><pc>·</pc><w>u<choice><am>n̄</am><ex>nd</ex></choice></w><w><choice><orig>i</orig><reg>j</reg></choice><choice><am>ū</am><ex>un</ex></choice>gent</w><pc>·</pc></l>
+                    <l n="1926"><w>Geburt</w><pc>·</pc><w>richeit</w><pc>·</pc><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w part="I">tuͦ</w><lb n="7"/><w part="F">gent</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="1927"><w/><w/><w/><w/><w/><pc>·</pc></l>
-                    <l n="1928"><w/><w/><w/><w/><w/><pc>·</pc></l>
+                    <l n="1927"><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>mogit</w><w>einen</w><w>alſo</w><w>biderben</w><w>man</w><pc>·</pc></l>
+                    <l n="1928"><lb n="8"/><w>wol</w><w>gewinnen</w><w>ob</w><w>iſ</w><w><choice><orig>v</orig><reg>u</reg></choice></w><w>⸗gan⸗</w><w>got</w><pc>·</pc></l>
+                    <!--De nuevo aparecen aquí esas comillas para señalar que el orden de palabras es incorrecto.      -->
                 </lg>
                 <lg>
-                    <l n="1929"><w/><w/><w/><w/><w/><pc>·</pc></l>
-                    <l n="1930"><w/><w/><w/><w/><w/><pc>·</pc></l>
+                    <l n="1929"><w>Nu</w><w>ne</w><w>weinet</w><lb n="9"/><w>nit</w><w>mere</w><pc>·</pc></l>
+                    <l n="1930"><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>gedenket</w><w>an</w><w><choice><orig>v</orig><reg>u</reg></choice>wer</w><w>ere</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="1931"><w/><w/><w/><w/><w/><pc>·</pc></l>
-                    <l n="1932"><w/><w/><w/><w/><w/><pc>·</pc></l>
+                    <l n="1931"><w>Zwaren</w><lb n="10"/><w><choice><orig>u</orig><reg>v</reg></choice>rowe</w><w>deſ</w><w>iſt</w><w>not</w><pc>·</pc></l>
+                    <l n="1932"><w>Min</w><w>here</w><w>der</w><w>iſt</w><w><choice><orig>u</orig><reg>v</reg></choice>or</w><w>ſih</w><lb n="11"/><w>einin</w><w>dot</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="1933"><w/><w/><w/><w/><w/><pc>·</pc></l>
-                    <l n="1934"><w/><w/><w/><w/><w/><pc>·</pc></l>
+                    <l n="1933"><w join="right">wenet</w><w join="left">ir</w><w>daz</w><w>alle</w><w><choice><orig>u</orig><reg>v</reg></choice>romecheit</w><pc>·</pc></l>
+                    <l n="1934"><w>Mit</w><lb n="12"/><w>im</w><w join="right">ze</w><w join="left">grabe</w><w>geleit</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="1935"><w/><w/><w/><w/><w/><pc>·</pc></l>
-                    <l n="1936"><w/><w/><w/><w/><w/><pc>·</pc></l>
+                    <l n="1935"><w>Zwaren</w><w>deſ</w><w>ne</w><w>ſint</w><w>ſie</w><lb n="13"/><w>nith</w><pc>·</pc></l>
+                    <l n="1936"><w>wa<choice><am>n̄</am><ex>nne</ex></choice></w><w>man</w><w>noh</w><w>hundert</w><w>rittere</w><w>ſiht</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="1937"><w/><w/><w/><w/><w/><pc>·</pc></l>
-                    <l n="1938"><w/><w/><w/><w/><w/><pc>·</pc></l>
+                    <l n="1937"><lb n="14"/><w>Die</w><w>alle</w><w>turer</w><w>ſint</w><w>dan</w><w>her</w><pc>·</pc></l>
+                    <l n="1938"><w join="right">Ze</w><w join="left">ſwert</w><pc>·</pc><lb n="15"/><w join="right">ze</w><w join="left">ſcilte</w><pc>·</pc><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>ſper</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="1939"><w/><w/><w/><w/><w/><pc>·</pc></l>
-                    <l n="1940"><w/><w/><w/><w/><w/><pc>·</pc></l>
+                    <l n="1939"><w>Du</w><w>has</w><w>zware</w><w>miſſeit</w><pc>·</pc></l>
+                    <l n="1940"><lb n="16"/><w>vrowe</w><w>ih</w><w>ſage</w><w>die</w><w>warheit</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="1941"><w/><w/><w/><w/><w/><pc>·</pc></l>
-                    <l n="1942"><w/><w/><w/><w/><w/><pc>·</pc></l>
+                    <l n="1941"><w>Der</w><w>zeige</w><w>mir</w><lb n="17"/><w>doh</w><w>einin</w><pc>·</pc></l>
+                    <l n="1942"><w>vrowe</w><w join="right">liezet</w><w join="left">ir</w><w><choice><orig>v</orig><reg>u</reg></choice>wer</w><w>weinen</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="1943"><w/><w/><w/><w/><w/><pc>·</pc></l>
-                    <l n="1944"><w/><w/><w/><w/><w/><pc>·</pc></l>
+                    <l n="1943"><lb n="18"/><w>Daz</w><w>iſt</w><w>war</w><pc>·</pc><w>Ih</w><w join="right"><choice><orig>u</orig><reg>v</reg></choice><choice><orig>v</orig><reg>u</reg></choice>nd</w><w join="left">en</w><w>wol</w><pc>·</pc></l>
+                    <l n="1944"><w>Ih</w><w join="right">ne</w><w join="left">weiz</w><lb n="19"/><w>waz</w><w>ih</w><w>dir</w><w>don</w><w>ſal</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="1945"><w/><w/><w/><w/><w/><pc>·</pc></l>
-                    <l n="1946"><w/><w/><w/><w/><w/><pc>·</pc></l>
+                    <l n="1945"><w join="right">wand</w><w join="left">iz</w><w>duket</w><w>mir</w><lb n="20"/><w>un mugelih</w><pc>·</pc></l>
+                    <l n="1946"><w>Sih</w><w>got</w><w>der</w><w>gebezere</w><w>dih</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="1947"><w/><w/><w/><w/><w/><pc>·</pc></l>
-                    <l n="1948"><w/><w/><w/><w/><w/><pc>·</pc></l>
+                    <l n="1947"><w>ob</w><lb n="21"/><w>du</w><w>mir</w><w>nu</w><w>liegeſt</w><pc>·</pc></l>
+                    <l n="1948"><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>mih</w><w>gerne</w><w>driegeſt</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="1949"><w/><w/><w/><w/><w/><pc>·</pc></l>
-                    <l n="1950"><w/><w/><w/><w/><w/><pc>·</pc></l>
+                    <l n="1949"><lb n="22"/><w>vrowe</w><w>ih</w><w>han</w><w>u</w><w>ie</w><w>gelogen</w><pc>·</pc></l>
+                    <l n="1950"><w>So</w><w>bin</w><w><add hei:placeRef="hc:AboveLine">ih</add></w><w>ſel<choice><orig>u</orig><reg>v</reg></choice>e</w><lb n="23"/><w>betrogen</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="1951"><w/><w/><w/><w/><w/><pc>·</pc></l>
-                    <l n="1952"><w/><w/><w/><w/><w/><pc>·</pc></l>
+                    <l n="1951"><w join="right">Nu</w><w join="left">bin</w><w>ih</w><w>ie</w><w>mir</w><w><choice><orig>v</orig><reg>u</reg></choice></w><w>geweſen</w><pc>·</pc></l>
+                    <l n="1952"><lb n="24"/><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>ſal</w><w>oh</w><w>mit</w><w><choice><orig>v</orig><reg>u</reg></choice></w><w>geneſen</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="1953"><w/><w/><w/><w/><w/><pc>·</pc></l>
-                    <l n="1954"><w/><w/><w/><w/><w/><pc>·</pc></l>
+                    <l n="1953"><w join="right">vir riet</w><w join="left">ih</w><w><choice><orig>v</orig><reg>u</reg></choice></w><w>waz</w><lb n="25"/><w>wurde</w><w>min</w><pc>·</pc></l>
+                    <l n="1954"><w>Nu</w><w join="right">mozͮet</w><w join="left">ir</w><w>rihtere</w><w>ſin</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="1955"><w/><w/><w/><w/><w/><pc>·</pc></l>
-                    <l n="1956"><w/><w/><w/><w/><w/><pc>·</pc></l>
+                    <l n="1955"><w>Nu</w><lb n="26"/><w>irtellet</w><w>mir</w><w>ir</w><w>ſit</w><w>ein</w><w>wip</w><pc>·</pc></l>
+                    <l n="1956"><w>Swa</w><w>zwene</w><w part="I"><choice><orig>u</orig><reg>v</reg></choice>eh</w><lb n="27"/><w part="F">tent</w><w>umbe</w><w>den</w><w>lip</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="1957"><w/><w/><w/><w/><w/><pc>·</pc></l>
+                    <l n="1957"><w>weder</w><w>ti<choice><orig>v</orig><reg>u</reg></choice>rre</w><w>ſi</w><w>der</w><w>da</w><w>ge</w><w/><pc>·</pc></l>
                     <l n="1958"><w/><w/><w/><w/><w/><pc>·</pc></l>
                 </lg>
                 <lg>
