@@ -5468,7 +5468,7 @@
                 </lg>
                 <lg>
                     <l n="3837"><lb n="3"/><w><hi rendition="hc:Versal">d</hi>o</w><w>er</w><w>eine</w><w>blozze</w><w>erſach</w></l>
-                    <l><lb n="4"/><supplied><gap/></supplied></l>
+                    <l><lb n="4"/><supplied><gap extent="1" unit="lines"/></supplied></l>
                 </lg>
                 <lg>
                     <l n="3839"><lb n="5"/><w><hi rendition="hc:Versal">D</hi>a</w><w>mit</w><w><choice><orig>v</orig><reg>u</reg></choice>nverzagten</w><w>ſiten</w><pc>·</pc></l>
@@ -9753,7 +9753,7 @@
                     <l n="5952"><lb n="48"/><w>er</w><w>ſ<choice><am>pᷓ</am><ex>pra</ex></choice>ch</w><w><choice><am>d ͛</am><ex>der</ex></choice></w><w>hat</w><w join="right">an</w><w join="left">dirre</w><w>vriſt</w></l>
                 </lg>
                 <fw ana="hc:QuireSignature"><lb facs="#E_24v-c" n="1"/><num value="4"><w xml:id="w_E_24v-c_1"><choice><abbr><am>ııııꝰ</am></abbr><expan><ex>quartus</ex></expan></choice></w></num><metamark ana="hc:TokenMarker" join="left">·</metamark></fw>
-                <gap ana="hc:Lost" extent="192" unit="lines"/>
+                <gap ana="hc:Lost" extent="1" unit="page"/>
                 <pb n="25r"/>
                 <cb n="a"/>
                 <lg>
