@@ -36,11 +36,283 @@
             </listPrefixDef>
         </encodingDesc>
     </teiHeader>
+    <facsimile>
+        <surface ana="hc:Page" xml:id="J_46r" n="46r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/onb_cod_2779_foll46-68/0001/image"/>
+            <zone ana="hc:Column" xml:id="J_46r-a" n="a"/>
+            <zone ana="hc:Column" xml:id="J_46r-b" n="b"></zone>
+            <zone ana="hc:Column" xml:id="J_46r-c" n="c"></zone>
+        </surface>
+        <surface ana="hc:Page" xml:id="J_46v" n="46v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/onb_cod_2779_foll46-68/0002/image"></graphic>
+            <zone ana="hc:Column" xml:id="J_46v-a" n="a"></zone>
+            <zone ana="hc:Column" xml:id="J_46v-b" n="b"></zone>
+            <zone ana="hc:Column" xml:id="J_46v-c" n="c"></zone>
+        </surface>
+        <surface ana="hc:Page" xml:id="J_47r" n="47r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/onb_cod_2779_foll46-68/0003/image"></graphic>
+            <zone ana="hc:Column" xml:id="J_47r-a" n="a"></zone>
+            <zone ana="hc:Column" xml:id="J_47r-b" n="b"></zone>
+            <zone ana="hc:Column" xml:id="J_47r-c" n="c"></zone>
+        </surface>
+        <surface ana="hc:Page" xml:id="J_47v" n="47v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/onb_cod_2779_foll46-68/0004/image"/>
+            <zone ana="hc:Column" xml:id="J_47v-a" n="a"/>
+            <zone ana="hc:Column" xml:id="J_47v-b" n="b"></zone>
+            <zone ana="hc:Column" xml:id="J_47v-c" n="c"></zone>
+        </surface>
+        <surface ana="hc:Page" xml:id="J_48r" n="48r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/onb_cod_2779_foll46-68/0005/image"></graphic>
+            <zone ana="hc:Column" xml:id="J_48r-a" n="a"></zone>
+            <zone ana="hc:Column" xml:id="J_48r-b" n="b"></zone>
+            <zone ana="hc:Column" xml:id="J_48r-c" n="c"></zone>
+        </surface>
+        <surface ana="hc:Page" xml:id="J_48v" n="48v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/onb_cod_2779_foll46-68/0006/image"></graphic>
+            <zone ana="hc:Column" xml:id="J_48v-a" n="a"></zone>
+            <zone ana="hc:Column" xml:id="J_48v-b" n="b"></zone>
+            <zone ana="hc:Column" xml:id="J_48v-c" n="c"></zone>
+        </surface>
+        <surface ana="hc:Page" xml:id="J_49r" n="49r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/onb_cod_2779_foll46-68/0007/image"/>
+            <zone ana="hc:Column" xml:id="J_49r-a" n="a"/>
+            <zone ana="hc:Column" xml:id="J_49r-b" n="b"></zone>
+            <zone ana="hc:Column" xml:id="J_49r-c" n="c"></zone>
+        </surface>
+        <surface ana="hc:Page" xml:id="J_49v" n="49v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/onb_cod_2779_foll46-68/0008/image"></graphic>
+            <zone ana="hc:Column" xml:id="J_49v-a" n="a"></zone>
+            <zone ana="hc:Column" xml:id="J_49v-b" n="b"></zone>
+            <zone ana="hc:Column" xml:id="J_49v-c" n="c"></zone>
+        </surface>
+        <surface ana="hc:Page" xml:id="J_50r" n="50r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/onb_cod_2779_foll46-68/0009/image"></graphic>
+            <zone ana="hc:Column" xml:id="J_50r-a" n="a"></zone>
+            <zone ana="hc:Column" xml:id="J_50r-b" n="b"></zone>
+            <zone ana="hc:Column" xml:id="J_50r-c" n="c"></zone>
+        </surface>
+        <surface ana="hc:Page" xml:id="J_50v" n="50v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/onb_cod_2779_foll46-68/0010/image"/>
+            <zone ana="hc:Column" xml:id="J_50v-a" n="a"/>
+            <zone ana="hc:Column" xml:id="J_50v-b" n="b"></zone>
+            <zone ana="hc:Column" xml:id="J_50v-c" n="c"></zone>
+        </surface>
+        <surface ana="hc:Page" xml:id="J_51r" n="51r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/onb_cod_2779_foll46-68/0011/image"></graphic>
+            <zone ana="hc:Column" xml:id="J_51r-a" n="a"></zone>
+            <zone ana="hc:Column" xml:id="J_51r-b" n="b"></zone>
+            <zone ana="hc:Column" xml:id="J_51r-c" n="c"></zone>
+        </surface>
+        <surface ana="hc:Page" xml:id="J_51v" n="51v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/onb_cod_2779_foll46-68/0012/image"></graphic>
+            <zone ana="hc:Column" xml:id="J_51v-a" n="a"></zone>
+            <zone ana="hc:Column" xml:id="J_51v-b" n="b"></zone>
+            <zone ana="hc:Column" xml:id="J_51v-c" n="c"></zone>
+        </surface>
+        <surface ana="hc:Page" xml:id="J_52r" n="52r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/onb_cod_2779_foll46-68/0013/image"/>
+            <zone ana="hc:Column" xml:id="J_52r-a" n="a"/>
+            <zone ana="hc:Column" xml:id="J_52r-b" n="b"></zone>
+            <zone ana="hc:Column" xml:id="J_52r-c" n="c"></zone>
+        </surface>
+        <surface ana="hc:Page" xml:id="J_52v" n="52v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/onb_cod_2779_foll46-68/0014/image"></graphic>
+            <zone ana="hc:Column" xml:id="J_52v-a" n="a"></zone>
+            <zone ana="hc:Column" xml:id="J_52v-b" n="b"></zone>
+            <zone ana="hc:Column" xml:id="J_52v-c" n="c"></zone>
+        </surface>
+        <surface ana="hc:Page" xml:id="J_53r" n="53r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/onb_cod_2779_foll46-68/0015/image"></graphic>
+            <zone ana="hc:Column" xml:id="J_53r-a" n="a"></zone>
+            <zone ana="hc:Column" xml:id="J_53r-b" n="b"></zone>
+            <zone ana="hc:Column" xml:id="J_53r-c" n="c"></zone>
+        </surface>
+        <surface ana="hc:Page" xml:id="J_53v" n="53v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/onb_cod_2779_foll46-68/0016/image"/>
+            <zone ana="hc:Column" xml:id="J_53v-a" n="a"/>
+            <zone ana="hc:Column" xml:id="J_53v-b" n="b"></zone>
+            <zone ana="hc:Column" xml:id="J_53v-c" n="c"></zone>
+        </surface>
+        <surface ana="hc:Page" xml:id="J_54r" n="54r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/onb_cod_2779_foll46-68/0017/image"></graphic>
+            <zone ana="hc:Column" xml:id="J_54r-a" n="a"></zone>
+            <zone ana="hc:Column" xml:id="J_54r-b" n="b"></zone>
+            <zone ana="hc:Column" xml:id="J_54r-c" n="c"></zone>
+        </surface>
+        <surface ana="hc:Page" xml:id="J_54v" n="54v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/onb_cod_2779_foll46-68/0018/image"></graphic>
+            <zone ana="hc:Column" xml:id="J_54v-a" n="a"></zone>
+            <zone ana="hc:Column" xml:id="J_54vr-b" n="b"></zone>
+            <zone ana="hc:Column" xml:id="J_54v-c" n="c"></zone>
+        </surface>
+        <surface ana="hc:Page" xml:id="J_55r" n="55r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/onb_cod_2779_foll46-68/0019/image"/>
+            <zone ana="hc:Column" xml:id="J_55r-a" n="a"/>
+            <zone ana="hc:Column" xml:id="J_55r-b" n="b"></zone>
+            <zone ana="hc:Column" xml:id="J_55r-c" n="c"></zone>
+        </surface>
+        <surface ana="hc:Page" xml:id="J_55v" n="55v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/onb_cod_2779_foll46-68/0020/image"></graphic>
+            <zone ana="hc:Column" xml:id="J_55v-a" n="a"></zone>
+            <zone ana="hc:Column" xml:id="J_55v-b" n="b"></zone>
+            <zone ana="hc:Column" xml:id="J_55v-c" n="c"></zone>
+        </surface>
+        <surface ana="hc:Page" xml:id="J_56r" n="56r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/onb_cod_2779_foll46-68/0021/image"></graphic>
+            <zone ana="hc:Column" xml:id="J_56r-a" n="a"></zone>
+            <zone ana="hc:Column" xml:id="J_56r-b" n="b"></zone>
+            <zone ana="hc:Column" xml:id="J_56r-c" n="c"></zone>
+        </surface>
+        <surface ana="hc:Page" xml:id="J_56v" n="56v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/onb_cod_2779_foll46-68/0022/image"/>
+            <zone ana="hc:Column" xml:id="J_56v-a" n="a"/>
+            <zone ana="hc:Column" xml:id="J_56v-b" n="b"></zone>
+            <zone ana="hc:Column" xml:id="J_56v-c" n="c"></zone>
+        </surface>
+        <surface ana="hc:Page" xml:id="J_57r" n="57r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/onb_cod_2779_foll46-68/0023/image"></graphic>
+            <zone ana="hc:Column" xml:id="J_57r-a" n="a"></zone>
+            <zone ana="hc:Column" xml:id="J_57r-b" n="b"></zone>
+            <zone ana="hc:Column" xml:id="J_57r-c" n="c"></zone>
+        </surface>
+        <surface ana="hc:Page" xml:id="J_57v" n="57v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/onb_cod_2779_foll46-68/0024/image"></graphic>
+            <zone ana="hc:Column" xml:id="J_57v-a" n="a"></zone>
+            <zone ana="hc:Column" xml:id="J_57v-b" n="b"></zone>
+            <zone ana="hc:Column" xml:id="J_57v-c" n="c"></zone>
+        </surface>
+        <surface ana="hc:Page" xml:id="J_58r" n="58r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/onb_cod_2779_foll46-68/0025/image"/>
+            <zone ana="hc:Column" xml:id="J_58r-a" n="a"/>
+            <zone ana="hc:Column" xml:id="J_58r-b" n="b"></zone>
+            <zone ana="hc:Column" xml:id="J_58r-c" n="c"></zone>
+        </surface>
+        <surface ana="hc:Page" xml:id="J_58v" n="58v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/onb_cod_2779_foll46-68/0026/image"></graphic>
+            <zone ana="hc:Column" xml:id="J_58v-a" n="a"></zone>
+            <zone ana="hc:Column" xml:id="J_58v-b" n="b"></zone>
+            <zone ana="hc:Column" xml:id="J_58v-c" n="c"></zone>
+        </surface>
+        <surface ana="hc:Page" xml:id="J_59r" n="59r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/onb_cod_2779_foll46-68/0027/image"></graphic>
+            <zone ana="hc:Column" xml:id="J_59r-a" n="a"></zone>
+            <zone ana="hc:Column" xml:id="J_59r-b" n="b"></zone>
+            <zone ana="hc:Column" xml:id="J_59r-c" n="c"></zone>
+        </surface>
+        <surface ana="hc:Page" xml:id="J_59v" n="59v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/onb_cod_2779_foll46-68/0028/image"/>
+            <zone ana="hc:Column" xml:id="J_59v-a" n="a"/>
+            <zone ana="hc:Column" xml:id="J_59v-b" n="b"></zone>
+            <zone ana="hc:Column" xml:id="J_59v-c" n="c"></zone>
+        </surface>
+        <surface ana="hc:Page" xml:id="J_60r" n="60r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/onb_cod_2779_foll46-68/0029/image"></graphic>
+            <zone ana="hc:Column" xml:id="J_60r-a" n="a"></zone>
+            <zone ana="hc:Column" xml:id="J_60r-b" n="b"></zone>
+            <zone ana="hc:Column" xml:id="J_60r-c" n="c"></zone>
+        </surface>
+        <surface ana="hc:Page" xml:id="J_60v" n="60v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/onb_cod_2779_foll46-68/0030/image"></graphic>
+            <zone ana="hc:Column" xml:id="J_60v-a" n="a"></zone>
+            <zone ana="hc:Column" xml:id="J_60v-b" n="b"></zone>
+            <zone ana="hc:Column" xml:id="J_60v-c" n="c"></zone>
+        </surface>
+        <surface ana="hc:Page" xml:id="J_61r" n="61r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/onb_cod_2779_foll46-68/0031/image"/>
+            <zone ana="hc:Column" xml:id="J_61r-a" n="a"/>
+            <zone ana="hc:Column" xml:id="J_61r-b" n="b"></zone>
+            <zone ana="hc:Column" xml:id="J_61r-c" n="c"></zone>
+        </surface>
+        <surface ana="hc:Page" xml:id="J_61v" n="61v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/onb_cod_2779_foll46-68/0032/image"></graphic>
+            <zone ana="hc:Column" xml:id="J_61v-a" n="a"></zone>
+            <zone ana="hc:Column" xml:id="J_61v-b" n="b"></zone>
+            <zone ana="hc:Column" xml:id="J_61v-c" n="c"></zone>
+        </surface>
+        <surface ana="hc:Page" xml:id="J_62r" n="62r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/onb_cod_2779_foll46-68/0033/image"></graphic>
+            <zone ana="hc:Column" xml:id="J_62r-a" n="a"></zone>
+            <zone ana="hc:Column" xml:id="J_62r-b" n="b"></zone>
+            <zone ana="hc:Column" xml:id="J_62r-c" n="c"></zone>
+        </surface>
+        <surface ana="hc:Page" xml:id="J_62v" n="62v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/onb_cod_2779_foll46-68/0034/image"/>
+            <zone ana="hc:Column" xml:id="J_62v-a" n="a"/>
+            <zone ana="hc:Column" xml:id="J_62v-b" n="b"></zone>
+            <zone ana="hc:Column" xml:id="J_62v-c" n="c"></zone>
+        </surface>
+        <surface ana="hc:Page" xml:id="J_63r" n="63r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/onb_cod_2779_foll46-68/0035/image"></graphic>
+            <zone ana="hc:Column" xml:id="J_63r-a" n="a"></zone>
+            <zone ana="hc:Column" xml:id="J_63r-b" n="b"></zone>
+            <zone ana="hc:Column" xml:id="J_63r-c" n="c"></zone>
+        </surface>
+        <surface ana="hc:Page" xml:id="J_63v" n="63v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/onb_cod_2779_foll46-68/0036/image"></graphic>
+            <zone ana="hc:Column" xml:id="J_63v-a" n="a"></zone>
+            <zone ana="hc:Column" xml:id="J_63v-b" n="b"></zone>
+            <zone ana="hc:Column" xml:id="J_63v-c" n="c"></zone>
+        </surface>
+        <surface ana="hc:Page" xml:id="J_64r" n="64r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/onb_cod_2779_foll46-68/0037/image"/>
+            <zone ana="hc:Column" xml:id="J_64r-a" n="a"/>
+            <zone ana="hc:Column" xml:id="J_64r-b" n="b"></zone>
+            <zone ana="hc:Column" xml:id="J_64r-c" n="c"></zone>
+        </surface>
+        <surface ana="hc:Page" xml:id="J_64v" n="64v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/onb_cod_2779_foll46-68/0038/image"></graphic>
+            <zone ana="hc:Column" xml:id="J_64v-a" n="a"></zone>
+            <zone ana="hc:Column" xml:id="J_64v-b" n="b"></zone>
+            <zone ana="hc:Column" xml:id="J_64v-c" n="c"></zone>
+        </surface>
+        <surface ana="hc:Page" xml:id="J_65r" n="65r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/onb_cod_2779_foll46-68/0039/image"></graphic>
+            <zone ana="hc:Column" xml:id="J_65r-a" n="a"></zone>
+            <zone ana="hc:Column" xml:id="J_65rr-b" n="b"></zone>
+            <zone ana="hc:Column" xml:id="J_65r-c" n="c"></zone>
+        </surface>
+        <surface ana="hc:Page" xml:id="J_65v" n="65v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/onb_cod_2779_foll46-68/0040/image"/>
+            <zone ana="hc:Column" xml:id="J_65v-a" n="a"/>
+            <zone ana="hc:Column" xml:id="J_65v-b" n="b"></zone>
+            <zone ana="hc:Column" xml:id="J_65v-c" n="c"></zone>
+        </surface>
+        <surface ana="hc:Page" xml:id="J_66r" n="66r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/onb_cod_2779_foll46-68/0041/image"></graphic>
+            <zone ana="hc:Column" xml:id="J_66r-a" n="a"></zone>
+            <zone ana="hc:Column" xml:id="J_66r-b" n="b"></zone>
+            <zone ana="hc:Column" xml:id="J_66r-c" n="c"></zone>
+        </surface>
+        <surface ana="hc:Page" xml:id="J_66v" n="66v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/onb_cod_2779_foll46-68/0042/image"></graphic>
+            <zone ana="hc:Column" xml:id="J_66v-a" n="a"></zone>
+            <zone ana="hc:Column" xml:id="J_66v-b" n="b"></zone>
+            <zone ana="hc:Column" xml:id="J_66v-c" n="c"></zone>
+        </surface>
+        <surface ana="hc:Page" xml:id="J_67r" n="67r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/onb_cod_2779_foll46-68/0043/image"/>
+            <zone ana="hc:Column" xml:id="J_67r-a" n="a"/>
+            <zone ana="hc:Column" xml:id="J_67r-b" n="b"></zone>
+            <zone ana="hc:Column" xml:id="J_67r-c" n="c"></zone>
+        </surface>
+        <surface ana="hc:Page" xml:id="J_67v" n="67v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/onb_cod_2779_foll46-68/0044/image"></graphic>
+            <zone ana="hc:Column" xml:id="J_67v-a" n="a"></zone>
+            <zone ana="hc:Column" xml:id="J_67v-b" n="b"></zone>
+            <zone ana="hc:Column" xml:id="J_67v-c" n="c"></zone>
+        </surface>
+        <surface ana="hc:Page" xml:id="J_68r" n="68r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/onb_cod_2779_foll46-68/0045/image"></graphic>
+            <zone ana="hc:Column" xml:id="J_68r-a" n="a"></zone>
+            <zone ana="hc:Column" xml:id="J_68r-b" n="b"></zone>
+            <zone ana="hc:Column" xml:id="J_68r-c" n="c"></zone>
+        </surface>
+    </facsimile>
     <text>
         <body> <div>
                 <pb n="46r"/>
                 <cb n="a"/>
-                <head><lb n="20"/><hi hei:color="Red"><w>hie</w><w>hebet</w><w>ſich</w><w>an</w><w>daz</w></hi> <lb n="21"/><hi hei:color="Red"><w>Bvͦch</w><w>daz</w><w>da</w><w>haiſet</w><w>der</w></hi> <lb n="22"/><hi hei:color="Red"><w>ritter</w><w>mit</w><w>dem</w><w>leben</w></hi> </head>
+                <head><lb n="20"/><hi hei:color="Red"><w>hie</w><w>hebet</w><w>ſich</w><w>an</w><w>daz</w></hi><lb n="21"/><hi hei:color="Red"><w>B<choice><orig>vͦ</orig><reg>uͦ</reg></choice>ch</w><w>daz</w><w>da</w><w>haiſet</w><w>der</w></hi> <lb n="22"/><hi hei:color="Red"><w>ritter</w><w>mit</w><w>dem</w><w>leben</w></hi> </head>
                 <lg>
                     <l n="0,1"><lb n="23"/><w><hei:initial ana="hc:FlourishInitial" hei:color="Red" hei:heightLines="5">S</hei:initial>wenn</w><w>ein</w><w>wol</w><w>beſchaiden</w><w>man</w><pc>·</pc></l>
                     <l n="0,2"><lb n="24"/><w>Der</w><w>beſchaidenleichen</w><w>dienen</w><w>chan</w><pc>·</pc></l>
@@ -119,7 +391,7 @@
                 </lg>
                 <cb n="b"/>
                 <lg>
-                    <l n="1"><lb n="1"/><w><hei:initial hei:color="Blue" hei:heightLines="2">S</hei:initial>wer</w><w>an</w><w>rechte</w><w>gvͦte</w><pc>·</pc></l>
+                    <l n="1"><lb n="1"/><w><hei:initial hei:color="Blue" hei:heightLines="2">S</hei:initial>wer</w><w>an</w><w>rechte</w><w>g<choice><orig>vͦ</orig><reg>uͦ</reg></choice>te</w><pc>·</pc></l>
                     <l n="2"><lb n="2"/><w>wendet</w><w>ſein</w><w>gem<choice><orig>v</orig><reg>u</reg></choice>te</w><pc>·</pc></l>
                 </lg>
                 <lg>
@@ -1605,7 +1877,7 @@
                 </lg>
                 <lg>
                     <l n="735"><lb n="18"/><w>wan</w><w>daz</w><w>ich</w><w>mich</w><w>werte</w><pc>·</pc></l>
-                    <l n="736"><lb n="19"/><w>Ob</w><w>ich</w><w>des</w><w>leibes</w><w>gerte</w><w/><pc>·</pc></l>
+                    <l n="736"><lb n="19"/><w>Ob</w><w>ich</w><w>des</w><w>leibes</w><w>gerte</w><pc>·</pc></l>
                 </lg>
                 <lg>
                     <l n="737"><lb n="20"/><w>Do</w><w>tet</w><w>ich</w><w>als</w><w>ich</w><w>mochte</w><pc>·</pc></l>
@@ -5038,7 +5310,7 @@
                 </lg>
                 <lg>
                     <l n="2463"><lb n="36"/><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>wer</w><w>im</w><w>ein</w><w>trinch<choice><am>ē</am><ex>en</ex></choice></w><w><choice><am>m͛</am><ex>mer</ex></choice></w><w>ge<choice><am>tᷓ</am><ex>tra</ex></choice>gen</w><pc>·</pc></l>
-                    <l n="2464"><lb n="37"/><w>Er</w><w>hiet</w><w>zweilf</w><w>riſen</w><w>erſlagen</w><w/><pc>·</pc></l>
+                    <l n="2464"><lb n="37"/><w>Er</w><w>hiet</w><w>zweilf</w><w>riſen</w><w>erſlagen</w><pc>·</pc></l>
                 </lg>
                 <lg>
                     <l n="2465"><lb n="38"/><w>Seiner</w><w>manhait</w><w>der</w><w>waz</w><w>vil</w><pc>·</pc></l>
@@ -7832,7 +8104,7 @@
                     <l n="3860"><lb n="41"/><w>Dem</w><w>waz</w><w>ditz</w><w>wol</w><w>geleiche</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="3861"><lb n="42"/><w>Doch</w><w>waget</w><w join="right">er</w><w join="left">z</w><w>als</w><w>ein</w><w/><w>fr<choice><orig><choice><am>v̄</am><ex>vm</ex></choice></orig><reg>um</reg></choice><w>man</w></w><pc>·</pc></l>
+                    <l n="3861"><lb n="42"/><w>Doch</w><w>waget</w><w join="right">er</w><w join="left">z</w><w>als</w><w>ein</w><w>fr<choice><orig><choice><am>v̄</am><ex>vm</ex></choice></orig><reg>um</reg></choice><w>man</w></w><pc>·</pc></l>
                     <l n="3862"><lb n="43"/><w>Er</w><w>erpaizſt</w><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>lief</w><w>den</w><w><choice><orig>w</orig><reg>wu</reg></choice>rm</w><w>an</w><pc>·</pc></l>
                 </lg>
                 <lg>
@@ -8548,7 +8820,7 @@
                     <l n="4214"><lb n="34"/><w>Das</w><w>iz</w><w>got</w><w>erparme</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="4215"><lb n="35"/><w>Daz</w><w>ich</w><w>ie</w><w>wart</w><w>geporn</w><w/><pc>·</pc></l>
+                    <l n="4215"><lb n="35"/><w>Daz</w><w>ich</w><w>ie</w><w>wart</w><w>geporn</w><pc>·</pc></l>
                     <l n="4216"><lb n="36"/><w>Nu</w><w>we</w><w>han</w><w>ich</w><w><choice><am>v͛</am><ex>ver</ex></choice>lorn</w><pc>·</pc></l>
                 </lg>
                 <lg>
@@ -8842,7 +9114,7 @@
                 <lg>
                     <l n="4359"><lb n="59"/><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>rait</w><w><choice><orig>v</orig><reg>u</reg></choice>ntz</w><w>er</w><w>ein</w><w>haus</w><w>ſach</w><pc>·</pc></l>
                     <cb n="b"/>
-                    <l n="4360"><lb n="1"/><w>Da</w><w>waz</w><w>gut</w><w>ritters</w><w>gemach</w><w/><pc>·</pc></l>
+                    <l n="4360"><lb n="1"/><w>Da</w><w>waz</w><w>gut</w><w>ritters</w><w>gemach</w><pc>·</pc></l>
                 </lg>
                 <lg>
                     <l n="4361"><lb n="2"/><w>Di<choice><orig>v</orig><reg>u</reg></choice></w><w>p<choice><orig>v</orig><reg>u</reg></choice>rch</w><w>waz</w><w>harte</w><w>veſte</w><pc>·</pc></l>
@@ -8917,7 +9189,7 @@
                     <l n="4396"><lb n="37"/><w>wan</w><w>er</w><w>allez</w><w>pei</w><w>im</w><w>ſaz</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="4397"><lb n="38"/><w><choice><orig>v</orig><reg>u</reg></choice>ntz</w><w>daz</w><w>er</w><w>entwafent</w><w>wart</w><w/><pc>·</pc></l>
+                    <l n="4397"><lb n="38"/><w><choice><orig>v</orig><reg>u</reg></choice>ntz</w><w>daz</w><w>er</w><w>entwafent</w><w>wart</w><pc>·</pc></l>
                     <l n="4398"><lb n="39"/><w>Der</w><w>wille</w><w>wart</w><w>da</w><w>nicht</w><w>geſpart</w><pc>·</pc></l>
                 </lg>
                 <lg>
@@ -8963,7 +9235,7 @@
                 <cb n="c"/>
                 <lg>
                     <l n="4419"><lb n="1"/><w><choice><orig>J</orig><reg>I</reg></choice>z</w><w>chieſe</w><w>liſte</w><w>vreude</w><w>ein</w><w>man</w><pc>·</pc></l>
-                    <l n="4420"><lb n="2"/><w>Der</w><w>ſich</w><w>icht</w><w>verſinnen</w><w>chan</w><w/><pc>·</pc></l>
+                    <l n="4420"><lb n="2"/><w>Der</w><w>ſich</w><w>icht</w><w>verſinnen</w><w>chan</w><pc>·</pc></l>
                 </lg>
                 <lg>
                     <l n="4421"><lb n="3"/><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>ſwelh</w><w>vreude</w><w>nicht</w><w><choice><am>d’</am><ex>de</ex></choice>s</w><w><choice><am>h͛</am><ex>her</ex></choice>tzen</w><w>iſt</w><pc>·</pc></l>
@@ -10717,7 +10989,7 @@
                     <l n="5300"><lb n="34"/><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>er</w><w>m<choice><orig>v</orig><reg>u</reg></choice>ſt</w><w>a<choice><orig>v</orig><reg>u</reg></choice>ch</w><w>zeware</w><w>ſ</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="5301"><lb n="35"/><w/><w>Die</w><w><choice><orig>i</orig><reg>j</reg></choice><choice><orig>v</orig><reg>u</reg></choice>nchvrowen</w><w>prinn<choice><am>ē</am><ex>en</ex></choice></w><w>ſehen</w><pc>·</pc></l>
+                    <l n="5301"><lb n="35"/><w>Die</w><w><choice><orig>i</orig><reg>j</reg></choice><choice><orig>v</orig><reg>u</reg></choice>nchvrowen</w><w>prinn<choice><am>ē</am><ex>en</ex></choice></w><w>ſehen</w><pc>·</pc></l>
                     <l n="5302"><lb n="36"/><w>Er</w><w>ſprach</w><w>des</w><w>ſol</w><w>nicht</w><w>geſchehen</w><pc>·</pc></l>
                 </lg>
                 <lg>
@@ -11943,7 +12215,7 @@
                 </lg>
                 <lg>
                     <l n="5923"><lb n="41"/><w>von</w><w>i<choice><orig>v</orig><reg>u</reg></choice></w><w>vernim</w><w>der</w><w>vre<choice><orig>v</orig><reg>u</reg></choice></w><w>ich</w><w>mich</w><pc>·</pc></l>
-                    <l n="5924"><lb n="42"/><w>Hie</w><w>mit</w><w>ſchieden</w><w>ſi</w><w>ſich</w><w/><pc>·</pc></l>
+                    <l n="5924"><lb n="42"/><w>Hie</w><w>mit</w><w>ſchieden</w><w>ſi</w><w>ſich</w><pc>·</pc></l>
                 </lg>
                 <lg>
                     <l n="5925"><lb n="43"/><w><hei:initial ana="hc:Lombard" hei:color="Blue" hei:heightLines="2">D</hei:initial>i<choice><orig>v</orig><reg>u</reg></choice></w><w>da</w><w>ſ<choice><orig>v</orig><reg>u</reg></choice>chte</w><w>der</w><w>waz</w><w>gach</w><pc>·</pc></l>
@@ -13367,7 +13639,7 @@
                 </lg>
                 <lg>
                     <l n="6627"><lb n="25"/><w>auch</w><w>vind</w><w>ich</w><w>ein</w><w>weip</w><w>wol</w><pc>·</pc></l>
-                    <l n="6628"><lb n="26"/><w>Swenne</w><w>ich</w><w>weip</w><w>nemen</w><w>ſol</w><w/><pc>·</pc></l>
+                    <l n="6628"><lb n="26"/><w>Swenne</w><w>ich</w><w>weip</w><w>nemen</w><w>ſol</w><pc>·</pc></l>
                 </lg>
                 <lg>
                     <l n="6629"><lb n="27"/><w>Da</w><w>mir</w><w>mein</w><w>maze</w><w>an</w><w>geſchicht</w><pc>·</pc></l>
