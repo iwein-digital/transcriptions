@@ -102,6 +102,7 @@
             <zone ana="hc:Column" xml:id="J_51r-a" n="a"></zone>
             <zone ana="hc:Column" xml:id="J_51r-b" n="b"></zone>
             <zone ana="hc:Column" xml:id="J_51r-c" n="c"></zone>
+            <zone ana="hc:MarginalZone" xml:id="J_51r_d" hei:placeRef="hc:PageBottom"></zone>
         </surface>
         <surface ana="hc:Page" xml:id="J_51v" n="51v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/onb_cod_2779_foll46-68/0012/image"></graphic>
@@ -222,6 +223,7 @@
             <zone ana="hc:Column" xml:id="J_61r-a" n="a"/>
             <zone ana="hc:Column" xml:id="J_61r-b" n="b"></zone>
             <zone ana="hc:Column" xml:id="J_61r-c" n="c"></zone>
+            <zone ana="hc:MarginalZone" xml:id="J_61r_d" hei:placeRef="hc:PageBottom"></zone>
         </surface>
         <surface ana="hc:Page" xml:id="J_61v" n="61v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/onb_cod_2779_foll46-68/0032/image"></graphic>
@@ -4145,7 +4147,7 @@
                 <lg>
                     <l n="1867"><lb n="59"/><w>Si</w><w>wider</w><w>re<choice><am>t̄</am><ex>ten</ex></choice></w><w>d<choice><orig>v</orig><reg>u</reg></choice>rch</w><w>ir</w><w>m<choice><orig>vͦ</orig><reg>uͦ</reg></choice>t</w><pc>·</pc></l>
                     <l n="1868"><lb n="60"/><w>Daz</w><w>ſi</w><w>ofte</w><w>d<choice><orig>v</orig><reg>u</reg></choice>nchet</w><w>g<choice><orig>v</orig><reg>u</reg></choice>et</w><pc>·</pc></l>
-                    <!--Lagensignatur!! II' → secundus     -->
+                   <fw ana="hc:QuireSignature"><lb facs="#J_51r-d" n="1"/><metamark ana="hc:TokenMarker">·</metamark><num value="2"><am>IIꝰ</am><ex>secundus</ex></num><metamark ana="hc:TokenMarker">·</metamark></fw>
                 </lg>
                 <cb n="c"/>
                 <lg>
@@ -11403,7 +11405,7 @@
                 <lg>
                     <l n="5505"><lb n="59"/><w>Des</w><w>gevert</w><w>ein</w><w>lewe</w><w>ſei</w><pc>·</pc></l>
                     <l n="5506"><lb n="60"/><w>Da</w><w>erchennet</w><w>ir</w><w>mich</w><w>pei</w><pc>·</pc></l>
-                    <!--Lagensignatur "IIIº" = tertius-->
+                    <fw ana="hc:QuireSignature"><lb facs="#J_61r-d" n="1"/><metamark ana="hc:TokenMarker">·</metamark><num value="3"><am>IIIꝰ</am><ex>tertius</ex></num><metamark ana="hc:TokenMarker">·</metamark></fw>
                 </lg>
                 <cb n="c"/>
                 <lg>
