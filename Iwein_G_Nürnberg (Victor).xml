@@ -1,0 +1,362 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://digi.ub.uni-heidelberg.de/schema/tei/heiEDITIONS/tei_hes.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://digi.ub.uni-heidelberg.de/schema/tei/heiEDITIONS/tei_hes.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:hei="https://digi.ub.uni-heidelberg.de/schema/tei/heiEDITIONS" type="reimpaar_frame">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Iwein-Fragm. G</title>
+                <author>Hartmann von Aue</author>
+                <respStmt>
+                    <resp>transcription</resp>
+                    <persName>Victor Millet</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>UB Heidelberg</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="F">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Nürnberg</settlement>
+                                <repository>Germanisches Nationalmuseum</repository>
+                                <idno>Hs. 34017</idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <listPrefixDef>
+                <prefixDef ident="hc" matchPattern="(.+)" replacementPattern="https://lod.ub.uni-heidelberg.de/ontologies/heieditions/hc/current/$1"/>
+            </listPrefixDef>
+        </encodingDesc>
+    </teiHeader>
+    <facsimile>
+        <surface ana="hc:Page" xml:id="F_1r" n="1r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/oolb_hs599/0002/image"/>
+            <zone ana="hc:Column" xml:id="F_1r-a" n="1r-a"/>
+            <zone ana="hc:Column" xml:id="F_1r-b" n="1r-b"/>
+        </surface>
+        <surface ana="hc:Page" xml:id="F_1v" n="1v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/oolb_hs599/0003/image"/>
+            <zone ana="hc:Column" xml:id="F_1v-a" n="1v-a"/>
+            <zone ana="hc:Column" xml:id="F_1v-b" n="1v-b"/>
+        </surface>
+    </facsimile>
+    <text>
+        <body>
+            <div>
+                <pb n="1r"/>
+                <cb n="1r-a"/>
+                <lg>
+                    <l n="3211"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="3212"><lb/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="3213"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="3214"><lb/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="3215"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="3216"><lb/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="3217"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="3218"><lb/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="3219"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="3220"><lb/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="3221"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="3222"><lb/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="3223"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="3224"><lb/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="3225"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="3226"><lb/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="3227"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="3228"><lb/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="3229"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="3230"><lb/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="3231"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="3232"><lb/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="3233"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="3234"><lb/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="3235"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="3236"><lb/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="3237"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="3238"><lb/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="3239"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="3240"><lb/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="3241"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="3242"><lb/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="3243"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="3244"><lb/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="3245"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="3246"><lb/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="3247"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="3248"><lb/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="3249"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="3250"><lb/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="3251"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="3252"><lb/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="3253"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="3254"><lb/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="3255"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="3256"><lb/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="3257"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="3258"><lb/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="3259"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="3260"><lb/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="3261"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="3262"><lb/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="3263"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="3264"><lb/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="3265"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="3266"><lb/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="3267"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="3268"><lb/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="3269"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="3270"><lb/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="3271"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="3272"><lb/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="3273"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="3274"><lb/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="3275"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="3276"><lb/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="3277"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="3278"><lb/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="3279"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="3280"><lb/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="3281"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="3282"><lb/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="3283"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="3284"><lb/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="3285"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="3286"><lb/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="3287"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="3288"><lb/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="3289"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="3290"><lb/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="3291"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="3292"><lb/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="3293"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="3294"><lb/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="3295"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="3296"><lb/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="3297"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="3298"><lb/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="3299"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="3300"><lb/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="3301"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="3302"><lb/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="3303"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="3304"><lb/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="3305"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="3306"><lb/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="3307"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="3308"><lb/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="3309"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="3310"><lb/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="3311"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="3312"><lb/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="3313"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="3314"><lb/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="3315"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="3316"><lb/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="3317"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="3318"><lb/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="3319"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="3320"><lb/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="3321"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="3322"><lb/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="3323"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="3324"><lb/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="3325"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="3326"><lb/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="3327"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="3328"><lb/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="3329"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="3330"><lb/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="3331"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="3332"><lb/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="3333"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="3334"><lb/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="3335"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="3336"><lb/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="3337"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="3338"><lb/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="3339"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="3340"><lb/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="3341"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="3342"><lb/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="3343"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="3344"><lb/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="3345"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="3346"><lb/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="3347"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="3348"><lb/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="3349"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="3350"><lb/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="3351"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="3352"><lb/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="3353"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="3354"><lb/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="3355"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="3356"><lb/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="3357"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="3358"><lb/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="3359"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="3360"><lb/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="3361"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="3362"><lb/><w/><w/><w/><w/><w/></l>
+                </lg>
+            </div>
+        </body>
+    </text>
+</TEI>
