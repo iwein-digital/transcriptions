@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://digi.ub.uni-heidelberg.de/schema/tei/heiEDITIONS/tei_hes.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://digi.ub.uni-heidelberg.de/schema/tei/heiEDITIONS/tei_hes.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:hei="https://digi.ub.uni-heidelberg.de/schema/tei/heiEDITIONS" type="reimpaar_frame">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:hei="https://digi.ub.uni-heidelberg.de/schema/tei/heiEDITIONS" ana="hc:IWDDocument">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -239,12 +239,18 @@
             <zone ana="hc:Column" xml:id="d_22r-c" n="c"></zone>
         </surface>
     </facsimile>
-    <text>
+    <text ana="hc:CompleteExpression">
+        <front>
+            <pb n="5v"/>
+            <cb n="c"/>
+            <lb n="49"/><hi hei:color="Red"><w>Von</w><w>künig</w><w>Artus</w><w>hochzeit</w><pc>·</pc><w>auch</w></hi>
+            <lb n="50"/><hi hei:color="Red"><w>von</w><w>ſeinem</w><w>Recht</w><pc>·</pc><w>deſgleichen</w><w part="I">hofge</w><metamark ana="hc:Hyphen">⸗</metamark></hi>
+            <lb n="51" break="no"/><hi hei:color="Red"><w part="F">ſind</w><pc>·</pc><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>geſchäfften</w><pc>·</pc><w>als</w><w>von</w><w part="I">Ca</w><metamark ana="hc:Hyphen">⸗</metamark></hi>
+            <lb n="52" break="no"/><hi hei:color="Red"><w part="F">logriant</w><pc>·</pc><w>Chaÿ</w><pc>·</pc><w>he<choice><am>r͛</am><ex>rre</ex></choice></w><w>Yban</w><pc>·</pc><w><choice><orig>v</orig><reg>u</reg></choice>nd</w></hi>
+            <lb n="53"/><hi hei:color="Red"><w>anndern</w><metamark>&amp;</metamark></hi>
+        </front>
         <body>
             <div>
-                <pb n="5v"/>
-                <cb n="c"/>
-                <head ana="hc:WorkHeading"> <lb n="49"/><hi hei:color="Red"><w>Von</w><w>künig</w><w>Artus</w><w>hochzeit</w><pc>·</pc><w>auch</w></hi> <lb n="50"/><hi hei:color="Red"><w>von</w><w>ſeinem</w><w>Recht</w><pc>·</pc><w>deſgleichen</w><w part="I">hofge</w><metamark ana="hc:Hyphen">⸗</metamark></hi> <lb n="51" break="no"/><hi hei:color="Red"><w part="F">ſind</w><pc>·</pc><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>geſchäfften</w><pc>·</pc><w>als</w><w>von</w><w part="I">Ca</w><metamark ana="hc:Hyphen">⸗</metamark></hi> <lb n="52" break="no"/><hi hei:color="Red"><w part="F">logriant</w><pc>·</pc><w>Chaÿ</w><pc>·</pc><w>he<choice><am>r͛</am><ex>rre</ex></choice></w><w>Yban</w><pc>·</pc><w><choice><orig>v</orig><reg>u</reg></choice>nd</w></hi> <lb n="53"/><hi hei:color="Red"><w>anndern</w><metamark>&amp;</metamark></hi> </head>
                 <pb n="6r"/>
                 <cb n="a"/>
                 <lg>
@@ -16481,8 +16487,12 @@
                     <l n="8165"><w>nicht</w><lb n="34"/><w>geſagen</w><w>mere</w><pc>·</pc></l>
                     <l n="8166"><w>Wann</w><w>got</w><w>geb</w><w><choice><orig>v</orig><reg>u</reg></choice>nns</w><lb n="35"/><w>ſäld</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>Eere</w><pc>·</pc></l>
                 </lg>
-                <trailer ana="hc:Colophon"><metamark ana="hc:DecorativeMarker"><hi rendition="hc:RedRetrace">~</hi></metamark><w>Amen</w><metamark ana="hc:DecorativeMarker">~</metamark></trailer>
             </div>
         </body>
+        <back>
+            <trailer ana="hc:Colophon">
+                <metamark ana="hc:DecorativeMarker"><hi rendition="hc:RedRetrace">~</hi></metamark><w>Amen</w><metamark ana="hc:DecorativeMarker">~</metamark>
+            </trailer>
+        </back>
     </text>
 </TEI>
