@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://digi.ub.uni-heidelberg.de/schema/tei/heiEDITIONS/tei_hes.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://digi.ub.uni-heidelberg.de/schema/tei/heiEDITIONS/tei_hes.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:hei="https://digi.ub.uni-heidelberg.de/schema/tei/heiEDITIONS" type="reimpaar_frame">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:hei="https://digi.ub.uni-heidelberg.de/schema/tei/heiEDITIONS" ana="IWDDocument">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -310,11 +310,17 @@
             <zone ana="hc:Column" xml:id="J_68r-c" n="c"></zone>
         </surface>
     </facsimile>
-    <text>
-        <body> <div>
+    <text ana="hc:CompleteExpression hc:CourtlyRomance">
+        <front>
+            <lb n="20"/><hi hei:color="Red"><w>hie</w><w>hebet</w><w>ſich</w><w>an</w><w>daz</w></hi>
+            <lb n="21"/><hi hei:color="Red"><w>B<choice><orig>vͦ</orig><reg>uͦ</reg></choice>ch</w><w>daz</w><w>da</w><w>haiſet</w><w>der</w></hi>
+            <lb n="22"/><hi hei:color="Red"><w>ritter</w><w>mit</w><w>dem</w><w>leben</w></hi>
+        </front>
+        <body>
+            <div>
                 <pb n="46r"/>
                 <cb n="a"/>
-                <head><lb n="20"/><hi hei:color="Red"><w>hie</w><w>hebet</w><w>ſich</w><w>an</w><w>daz</w></hi><lb n="21"/><hi hei:color="Red"><w>B<choice><orig>vͦ</orig><reg>uͦ</reg></choice>ch</w><w>daz</w><w>da</w><w>haiſet</w><w>der</w></hi> <lb n="22"/><hi hei:color="Red"><w>ritter</w><w>mit</w><w>dem</w><w>leben</w></hi> </head>
+                <head> </head>
                 <lg>
                     <l n="0,1"><lb n="23"/><w><hei:initial ana="hc:FlourishInitial" hei:color="Red" hei:heightLines="5">S</hei:initial>wenn</w><w>ein</w><w>wol</w><w>beſchaiden</w><w>man</w><pc>·</pc></l>
                     <l n="0,2"><lb n="24"/><w>Der</w><w>beſchaidenleichen</w><w>dienen</w><w>chan</w><pc>·</pc></l>
