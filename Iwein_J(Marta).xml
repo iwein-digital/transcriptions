@@ -312,15 +312,18 @@
     </facsimile>
     <text ana="hc:CompleteExpression hc:CourtlyRomance">
         <front>
-            <lb n="20"/><hi hei:color="Red"><w>hie</w><w>hebet</w><w>ſich</w><w>an</w><w>daz</w></hi>
-            <lb n="21"/><hi hei:color="Red"><w>B<choice><orig>vͦ</orig><reg>uͦ</reg></choice>ch</w><w>daz</w><w>da</w><w>haiſet</w><w>der</w></hi>
-            <lb n="22"/><hi hei:color="Red"><w>ritter</w><w>mit</w><w>dem</w><w>leben</w></hi>
+            <pb n="46r"/>
+            <cb n="a"/>
+            <docTitle>
+                <titlePart>
+                <lb n="20"/><hi hei:color="Red"><w>hie</w><w>hebet</w><w>ſich</w><w>an</w><w>daz</w></hi>
+                <lb n="21"/><hi hei:color="Red"><w>B<choice><orig>vͦ</orig><reg>uͦ</reg></choice>ch</w><w>daz</w><w>da</w><w>haiſet</w><w>der</w></hi>
+                <lb n="22"/><hi hei:color="Red"><w>ritter</w><w>mit</w><w>dem</w><w>leben</w></hi>
+                </titlePart>
+            </docTitle>
         </front>
         <body>
             <div>
-                <pb n="46r"/>
-                <cb n="a"/>
-                <head> </head>
                 <lg>
                     <l n="0,1"><lb n="23"/><w><hei:initial ana="hc:FlourishInitial" hei:color="Red" hei:heightLines="5">S</hei:initial>wenn</w><w>ein</w><w>wol</w><w>beſchaiden</w><w>man</w><pc>·</pc></l>
                     <l n="0,2"><lb n="24"/><w>Der</w><w>beſchaidenleichen</w><w>dienen</w><w>chan</w><pc>·</pc></l>
@@ -16509,8 +16512,10 @@
                     <l n="8163"><lb n="20"/><w>Nicht</w><w>geſagen</w><w>mere</w><pc>·</pc></l>
                     <l n="8164"><lb n="21"/><w>wan</w><w>got</w><w>geb</w><w><choice><orig>v</orig><reg>u</reg></choice>ns</w><w>ſæl<choice><am>d’</am><ex>de</ex></choice></w><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>ere</w><pc>·</pc></l>
                 </lg>
-            <trailer ana="hc:Colophon"><w>A<metamark ana="hc:DecorativeMarker">-</metamark>M<metamark ana="hc:DecorativeMarker">-</metamark>E<metamark ana="hc:DecorativeMarker">-</metamark>N</w><metamark ana="hc:DecorativeMarker">~~</metamark></trailer>
             </div>
         </body>
+        <back>
+            <trailer ana="hc:Colophon"><w>A<metamark ana="hc:DecorativeMarker">-</metamark>M<metamark ana="hc:DecorativeMarker">-</metamark>E<metamark ana="hc:DecorativeMarker">-</metamark>N</w><metamark ana="hc:DecorativeMarker">~~</metamark></trailer>
+        </back>
     </text>
 </TEI>
