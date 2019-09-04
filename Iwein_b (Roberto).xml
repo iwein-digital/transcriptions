@@ -36,13 +36,17 @@
         </encodingDesc>
     </teiHeader>
     <text ana="hc:CompleteExpression hc:CourtlyRomance">
+        <front>
+            <pb n="1r"/>
+            <cb n="a"/>
+            <docTitle>
+                <titlePart>
+                    <w>Ein</w><w>gedicht</w><w>von</w><w>Ritter</w><w>Hartm<gap ana="hc:CutOff"/></w>
+                </titlePart>
+            </docTitle>
+        </front>
         <body>
             <div>
-                <pb n="1r"/>
-                <cb n="a"/>
-                <head>
-                    <lb n="0"/><w>Ein</w><w>gedicht</w><w>von</w><w>Ritter</w><w>Hartm<gap reason="cut_off" extent="2" unit="chars"/></w>
-                </head>
                 <lg>
                     <l n="1"><lb n="1"/><w><hei:initial hei:color="Red" hei:heightLines="6">W</hei:initial><hi rendition="hc:RedStroke">E</hi>re</w><w>an</w><w>rechte</w><w>güte</w></l>
                     <l n="2"><lb n="2"/><w><hi rendition="hc:RedStroke">W</hi>endet</w><w>ſin</w><w>gemüte</w></l>
