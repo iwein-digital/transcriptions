@@ -35,7 +35,69 @@
             </listPrefixDef>
         </encodingDesc>
     </teiHeader>
-    <text ana="hc:ExpressionFragmentThroughLoss">
+    <facsimile>
+        <surface ana="hc:Page" xml:id="H_1r" n="1r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/tnb_codxxiv_c_4_c_16/0001/image"/>
+            <zone ana="hc:Column" xml:id="H_1r-a" n="1r-a"/>
+            <zone ana="hc:Column" xml:id="H_1r-b" n="1r-b"/>
+        </surface>
+        <surface ana="hc:Page" xml:id="H_1v" n="1v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/tnb_codxxiv_c_4_c_16/0002/image"/>
+            <zone ana="hc:Column" xml:id="H_1v-a" n="1v-a"/>
+            <zone ana="hc:Column" xml:id="H_1v-b" n="1v-b"/>
+        </surface>
+        <surface ana="hc:Page" xml:id="H_2r" n="2r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/tnb_codxxiv_c_4_c_16/0003/image"/>
+            <zone ana="hc:Column" xml:id="H_2r-a" n="2r-a"/>
+            <zone ana="hc:Column" xml:id="H_2r-b" n="2r-b"/>
+        </surface>
+        <surface ana="hc:Page" xml:id="H_2v" n="2v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/tnb_codxxiv_c_4_c_16/0004/image"/>
+            <zone ana="hc:Column" xml:id="H_2v-a" n="2v-a"/>
+            <zone ana="hc:Column" xml:id="H_2v-b" n="2v-b"/>
+        </surface>
+        <surface ana="hc:Page" xml:id="H_3r" n="3r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/tnb_codxxiv_c_4_c_16/0005/image"/>
+            <zone ana="hc:Column" xml:id="H_3r-a" n="3r-a"/>
+            <zone ana="hc:Column" xml:id="H_3r-b" n="3r-b"/>
+        </surface>
+        <surface ana="hc:Page" xml:id="H_3v" n="3v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/tnb_codxxiv_c_4_c_16/0006/image"/>
+            <zone ana="hc:Column" xml:id="H_3v-a" n="3v-a"/>
+            <zone ana="hc:Column" xml:id="H_3v-b" n="3v-b"/>
+        </surface>
+        <surface ana="hc:Page" xml:id="H_4r" n="4r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/tnb_codxxiv_c_4_c_16/0007/image"/>
+            <zone ana="hc:Column" xml:id="H_4r-a" n="4r-a"/>
+            <zone ana="hc:Column" xml:id="H_4r-b" n="4r-b"/>
+        </surface>
+        <surface ana="hc:Page" xml:id="H_4v" n="4v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/tnb_codxxiv_c_4_c_16/0008/image"/>
+            <zone ana="hc:Column" xml:id="H_4v-a" n="4v-a"/>
+            <zone ana="hc:Column" xml:id="H_4v-b" n="4v-b"/>
+        </surface>
+        <surface ana="hc:Page" xml:id="H_5r" n="5r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/tnb_codxxiv_c_4_c_16/0009/image"/>
+            <zone ana="hc:Column" xml:id="H_5r-a" n="5r-a"/>
+            <zone ana="hc:Column" xml:id="H_5r-b" n="5r-b"/>
+        </surface>
+        <surface ana="hc:Page" xml:id="H_5v" n="5v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/tnb_codxxiv_c_4_c_16/0010/image"/>
+            <zone ana="hc:Column" xml:id="H_5v-a" n="5v-a"/>
+            <zone ana="hc:Column" xml:id="H_5v-b" n="5v-b"/>
+        </surface>
+        <surface ana="hc:Page" xml:id="H_6r" n="6r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/tnb_codxxiv_c_4_c_16/0011/image"/>
+            <zone ana="hc:Column" xml:id="H_6r-a" n="6r-a"/>
+            <zone ana="hc:Column" xml:id="H_6r-b" n="6r-b"/>
+        </surface>
+        <surface ana="hc:Page" xml:id="H_6v" n="6v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/tnb_codxxiv_c_4_c_16/0012/image"/>
+            <zone ana="hc:Column" xml:id="H_6v-a" n="6v-a"/>
+            <zone ana="hc:Column" xml:id="H_6v-b" n="6v-b"/>
+        </surface>
+    </facsimile>
+    <text ana="hc:ExpressionFragmentThroughLoss hc:CourtlyRomance">
         <body>
             <div>
                 <pb n="1r"/>
