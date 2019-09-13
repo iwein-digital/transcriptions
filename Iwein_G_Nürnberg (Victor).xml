@@ -1,0 +1,366 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://digi.ub.uni-heidelberg.de/schema/tei/heiEDITIONS/tei_hes.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://digi.ub.uni-heidelberg.de/schema/tei/heiEDITIONS/tei_hes.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:hei="https://digi.ub.uni-heidelberg.de/schema/tei/heiEDITIONS" ana="hc:IWDDocument">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Iwein-Fragm. G</title>
+                <author>Hartmann von Aue</author>
+                <respStmt>
+                    <resp>transcription</resp>
+                    <persName>Victor Millet</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>UB Heidelberg</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="G">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Nürnberg</settlement>
+                                <repository>Germanisches Nationalmuseum</repository>
+                                <idno>Hs. 34017</idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <listPrefixDef>
+                <prefixDef ident="hc" matchPattern="(.+)" replacementPattern="https://lod.ub.uni-heidelberg.de/ontologies/heieditions/hc/current/$1"/>
+            </listPrefixDef>
+        </encodingDesc>
+    </teiHeader>
+    <facsimile>
+        <surface ana="hc:Page" xml:id="F_1r" n="1r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/oolb_hs599/0002/image"/>
+            <zone ana="hc:Column" xml:id="F_1r-a" n="1r-a"/>
+            <zone ana="hc:Column" xml:id="F_1r-b" n="1r-b"/>
+        </surface>
+        <surface ana="hc:Page" xml:id="F_1v" n="1v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/oolb_hs599/0003/image"/>
+            <zone ana="hc:Column" xml:id="F_1v-a" n="1v-a"/>
+            <zone ana="hc:Column" xml:id="F_1v-b" n="1v-b"/>
+        </surface>
+    </facsimile>
+    <text ana="hc:ExpressionFragmentThroughLoss hc:CourtlyRomance">
+        <body>
+            <div>
+                <pb n="1r"/>
+                <cb n="a"/>
+                <lg>
+                    <l n="3211"><lb n="1"/><w><hi rendition="hc:RedStroke">S</hi>in<damage ana="hc:TornOff">e</damage><gap ana="hc:CutOff" n="1" unit="chars"/></w><w>ſteten</w><w>mutes</w></l>
+                    <l n="3212"><lb n="2"/><w>di</w><w>vor luſt</w><w>des</w><w>gutes</w></l>
+                </lg>
+                <lg>
+                    <l n="3213"><lb n="3"/><w><choice><am>D͛</am><ex>Der</ex></choice></w><w>iamir</w><w>nach</w><w>dem</w><w>wibe</w></l>
+                    <l n="3214"><lb n="4"/><w>di</w><w>benamen</w><w>ſinem</w><w>libe</w></l>
+                </lg>
+                <lg>
+                    <l n="3215"><lb n="5"/><w>vil</w><w>gar</w><w>di</w><w>vreude</w><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>den</w><w>ſin</w></l>
+                    <l n="3216"><lb n="6"/><w>nach</w><w>ein<choice><am>ē</am><ex>em</ex></choice></w><w>dinge</w><w>iamir</w><w>in</w></l>
+                </lg>
+                <lg>
+                    <l n="3217"><lb n="7"/><w>Daz</w><w>er</w><w>were</w><w>eteſwa</w></l>
+                    <l n="3218"><lb n="8"/><w>daz</w><w>man</w><w>noch</w><w>wip</w><w><choice><am>ē</am><ex>en</ex></choice>weſte</w><w>wa</w></l>
+                </lg>
+                <lg>
+                    <l n="3219"><lb n="9"/><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>nimir</w><w>gehorte</w><w>mere</w></l>
+                    <l n="3220"><lb n="10"/><w>war</w><w>er</w><w>cumen</w><w>were</w></l>
+                </lg>
+                <lg>
+                    <l n="3221"><lb n="11"/><w>Er</w><w><choice><am>v͛</am><ex>ver</ex></choice>los</w><w>ſin</w><w>ſelbes</w><w>hulde</w></l>
+                    <l n="3222"><lb n="12"/><w>wan</w><w>er</w><w join="right">en</w><w join="left">mochte</w><w>di</w><w>ſchulde</w></l>
+                </lg>
+                <lg>
+                    <l n="3223"><lb n="13"/><w><choice><orig>v</orig><reg>u</reg></choice>f</w><w>niman</w><w>anders</w><w>geſagen</w></l>
+                    <l n="3224"><lb n="14"/><w>in</w><w>het</w><w>ſin</w><w>ſelbiſ</w><w>ſ<choice><am>w͛</am><ex>wer</ex></choice>t</w><w>irslagen</w></l>
+                </lg>
+                <lg>
+                    <l n="3225"><lb n="15"/><w join="right">er</w><w join="left">n</w><w>achte</w><w>uf</w><w>man</w><w>noch</w><w>uf</w><w>wip</w></l>
+                    <l n="3226"><lb n="16"/><w>niwan</w><w>uf</w><w>ſin</w><w>ſelbes</w><w>lip</w></l>
+                </lg>
+                <lg>
+                    <l n="3227"><lb n="17"/><w>er</w><w>ſtal</w><w>ſich</w><w>ſwigende</w><w>dan</w></l>
+                    <l n="3228"><lb n="18"/><w>daz</w><w>irſach</w><w>da</w><w>niman</w></l>
+                </lg>
+                <lg>
+                    <l n="3229"><lb n="19"/><w><choice><orig>v</orig><reg>u</reg></choice>nz</w><w>daz</w><w>er</w><w>qu<choice><am>ā</am><ex>am</ex></choice></w><w><choice><orig>u</orig><reg>v</reg></choice>or</w><w>die</w><w>gezelt</w></l>
+                    <l n="3230"><lb n="20"/><w><choice><orig>v</orig><reg>u</reg></choice>z</w><w>ir</w><w>geſichte</w><w>an</w><w>daz</w><w>velt</w></l>
+                </lg>
+                <lg>
+                    <l n="3231"><lb n="21"/><w>Do</w><w>wart</w><w>ſin</w><w>ruwe</w><w>alſo</w><w>groz</w></l>
+                    <l n="3232"><lb n="22"/><w>daz</w><w>im</w><w>in</w><w>daz</w><w>hirne</w><w>ſchoz</w></l>
+                </lg>
+                <lg>
+                    <l n="3233"><lb n="23"/><w>Ein</w><w>zorn</w><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>ein</w><w>tobeſucht</w></l>
+                    <l n="3234"><lb n="24"/><w>er</w><w>brach</w><w>ſin</w><w>ſit<choice><am>ē</am><ex>en</ex></choice></w><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>ſin</w><w>z<choice><orig>v</orig><reg>u</reg></choice>cht</w></l>
+                </lg>
+                <lg>
+                    <l n="3235"><lb n="25"/><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>zarrete</w><w>abe</w><w>ſin</w><w>gewant</w></l>
+                    <l n="3236"><lb n="26"/><w>daz</w><w>er</w><w>wart</w><w>bloz</w><w>ſam</w><w>ein</w><w>hant</w></l>
+                </lg>
+                <lg>
+                    <l n="3237"><lb n="27"/><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>lif</w><w>ouch</w><w><choice><orig>v</orig><reg>u</reg></choice>bir</w><w>ge<choice><orig>uͦ</orig><reg>vͦ</reg></choice>ilde</w></l>
+                    <l n="3238"><lb n="28"/><w><gap ana="hc:CutOff" unit="chars" n="1"/>acket</w><w>nach</w><w>der</w><w>wilde</w></l>
+                </lg>
+                <lg>
+                    <l n="3239"><lb n="29"/><w>D<gap ana="hc:CutOff" unit="chars" n="1"/></w><w>di</w><w><choice><orig>i</orig><reg>j</reg></choice><choice><am>ū</am><ex>un</ex></choice>cvrowe</w><w>gereit</w></l>
+                    <l n="3240"><lb n="30"/><w><gap ana="hc:CutOff" unit="chars" n="1"/><choice><orig>v</orig><reg>u</reg></choice></w><w>waſ</w><w>d<choice><am>ē</am><ex>em</ex></choice></w><w>k<choice><orig>v</orig><reg>u</reg></choice>nige</w><w>ſtarke</w><w>leit</w></l>
+                </lg>
+                <lg>
+                    <l n="3241"><lb n="31"/><w>D<gap ana="hc:CutOff" unit="chars" n="1"/>ſ</w><w>h<choice><am>r͛</am><ex>err</ex></choice>en</w><w>ẏweines</w><w>ſwere</w></l>
+                    <l n="3242"><lb n="32"/><w><gap ana="hc:CutOff" unit="chars" n="1"/><choice><am>n̄</am><ex>nd</ex></choice></w><w>vragete</w><w>wa</w><w>er</w><w>were</w></l>
+                </lg>
+                <lg>
+                    <l n="3243"><lb n="33"/><w>Er</w><w>wolte</w><w>in</w><w>getroſtet</w><w>han</w></l>
+                    <l n="3244"><lb n="34"/><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>bat</w><w>nach</w><w>im</w><w>gan</w></l>
+                </lg>
+                <lg>
+                    <l n="3245"><lb n="35"/><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>als</w><w>in</w><w>da</w><w>niman</w><w>vant</w></l>
+                    <l n="3246"><lb n="36"/><w>nu</w><w>waſ</w><w>daz</w><w><choice><orig>u</orig><reg>v</reg></choice>il</w><w><choice><orig>v</orig><reg>u</reg></choice>nbewant</w></l>
+                </lg>
+                <lg>
+                    <l n="3247"><lb n="37"/><w>Swaz</w><w>man</w><w>im</w><w>da</w><w>gerief</w></l>
+                    <l n="3248"><lb n="38"/><w>wan<choice><am>d͛</am><ex>der</ex></choice></w><w>gegen</w><w>walde</w><w>lif</w></l>
+                </lg>
+                <cb n="b"/>
+                <lg>
+                    <l n="3249"><lb n="1"/><w><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">E</hei:initial>R</w><w>was</w><w>ein</w><w>degin</w><w>beweret</w></l>
+                    <l n="3250"><lb n="2"/><w>ein</w><w>helt</w><w><choice><orig>v</orig><reg>u</reg></choice>n erveret</w></l>
+                </lg>
+                <lg>
+                    <l n="3251"><lb n="3"/><w>Swi</w><w>manhaft</w><w>er</w><w>doch</w><w>were</w></l>
+                    <l n="3252"><lb n="4"/><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>ſwi</w><w><choice><orig>v</orig><reg>u</reg></choice>nwandelbere</w></l>
+                </lg>
+                <lg>
+                    <l n="3253"><lb n="5"/><w>an</w><w>libe</w><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>an</w><w>ſinne</w></l>
+                    <l n="3254"><lb n="6"/><w>doch</w><w>meiſ<choice><am>t͛</am><ex>ter</ex></choice>te</w><w>in</w><w>vrowe</w><w>m<choice><am>ī</am><ex>in</ex></choice>ne</w></l>
+                </lg>
+                <lg>
+                    <l n="3255"><lb n="7"/><w>Daz</w><w>im</w><w>ein</w><w>crankiz</w><w>wip</w></l>
+                    <l n="3256"><lb n="8"/><w>vor kerte</w><w>ſinne</w><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>lip</w></l>
+                </lg>
+                <lg>
+                    <l n="3257"><lb n="9"/><w><choice><am>D͛</am><ex>Der</ex></choice></w><w>e</w><w>ein</w><w>rechter</w><w>adamas</w></l>
+                    <l n="3258"><lb n="10"/><w>ritterlic<choice><am>h͛</am><ex>her</ex></choice></w><w>tugende</w><w>was</w></l>
+                </lg>
+                <lg>
+                    <l n="3259"><lb n="11"/><w>Der</w><w>lief</w><w>n<choice><orig>v</orig><reg>u</reg></choice></w><w>alſo</w><w>balde</w></l>
+                    <l n="3260"><lb n="12"/><w>ein</w><w>tore</w><w>in</w><w>dem</w><w>walde</w></l>
+                </lg>
+                <lg>
+                    <l n="3261"><lb n="13"/><w>N<choice><orig>v</orig><reg>u</reg></choice></w><w>gap</w><w>im</w><w>got</w><w>der</w><w>gute</w></l>
+                    <l n="3262"><lb n="14"/><w>der</w><w>in</w><w>uz</w><w>ſinir</w><w>huete</w></l>
+                </lg>
+                <lg>
+                    <l n="3263"><lb n="15"/><w>D<choice><am>ā</am><ex>an</ex></choice>noch</w><w>nicht</w><w>gar</w><w join="right">en</w><w join="left">liz</w></l>
+                    <l n="3264"><lb n="16"/><w>daz</w><w>im</w><w>ein</w><w>garz<choice><am>ū</am><ex>un</ex></choice></w><w>wi<choice><am>d͛</am><ex>der</ex></choice>ſtiz</w></l>
+                </lg>
+                <lg>
+                    <l n="3265"><lb n="17"/><w><choice><am>D͛</am><ex>Der</ex></choice></w><w>einen</w><w>guten</w><w>bogen</w><w>truc</w></l>
+                    <l n="3266"><lb n="18"/><w>den</w><w>n<choice><am>ā</am><ex>am</ex></choice></w><w>er</w><w>im</w><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>ſtralen</w><w>gnuc</w></l>
+                </lg>
+                <lg>
+                    <l n="3267"><lb n="19"/><w>als</w><w>in</w><w>der</w><w>hunger</w><w>beſtunt</w></l>
+                    <l n="3268"><lb n="20"/><w>ſo</w><w>tet</w><w>er</w><w>ſam</w><w>di</w><w>toren</w><w>tunt</w></l>
+                </lg>
+                <lg>
+                    <l n="3269"><lb n="21"/><w>In</w><w>iſt</w><w>nicht</w><w>mer</w><w>witze</w><w>kunt</w></l>
+                    <l n="3270"><lb n="22"/><w>niwan</w><w>di</w><w>eine</w><w><choice><orig><choice><am>v̄</am><ex>vm</ex></choice></orig><reg>um</reg></choice>me</w><w>den</w><w>munt</w></l>
+                </lg>
+                <lg>
+                    <l n="3271"><lb n="23"/><w>Er</w><w>ſchoz</w><w>priſlichen</w><w>wol</w></l>
+                    <l n="3272"><lb n="24"/><w>ouch</w><w>ginc</w><w><choice><am>d͛</am><ex>der</ex></choice></w><w>walt</w><w>wildeſ</w><w>vol</w></l>
+                </lg>
+                <lg>
+                    <l n="3273"><lb n="25"/><w>Swa</w><w>daz</w><w>geſtunt</w><w>an</w><w>ſin</w><w>zil</w></l>
+                    <l n="3274"><lb n="26"/><w>deſ</w><w>ſchoz</w><w>er</w><w>uz</w><w><choice><am>d͛</am><ex>der</ex></choice></w><w>maze</w><w>vil</w></l>
+                </lg>
+                <lg>
+                    <l n="3275"><lb n="27"/><w>Ouch</w><w join="right">muſt</w><w join="both">er</w><w join="left">z</w><w>ſelbe</w><w>irgahen</w></l>
+                    <l n="3276"><lb n="28"/><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>ane</w><w>bracken</w><w>vahen</w></l>
+                </lg>
+                <lg>
+                    <l n="3277"><lb n="29"/><w>Do</w><w join="right">en</w><w join="left">het</w><w>er</w><w>kezzel</w><w>noch</w><w>ſalz</w></l>
+                    <l n="3278"><lb n="30"/><w>we<choice><am>d͛</am><ex>der</ex></choice></w><w>pheffir</w><w>noch</w><w>ſmalz</w></l>
+                </lg>
+                <lg>
+                    <l n="3279"><lb n="31"/><w>Sin</w><w>ſalſe</w><w>waſ</w><w>die</w><w>hungir</w><w>not</w></l>
+                    <l n="3280"><lb n="32"/><w>di</w><w>iz</w><w>im</w><w>brit</w><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>ſot</w></l>
+                </lg>
+                <lg>
+                    <l n="3281"><lb n="33"/><w>Daz</w><w>iz</w><w>ein</w><w>ſuze</w><w>ſpiſe</w><w>was</w></l>
+                    <l n="3282"><lb n="34"/><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>wol</w><w><choice><orig>u</orig><reg>v</reg></choice>or</w><w>h<choice><am>ū</am><ex>un</ex></choice>ger</w><w>genas</w></l>
+                </lg>
+                <lg>
+                    <l n="3283"><lb n="35"/><w><hei:initial ana="hc:AnthropomorphicInitial" hei:color="Red" hei:heightLines="2">D</hei:initial>o</w><w>er</w><w>deſ</w><w>alleſ</w><w><choice><orig>u</orig><reg>v</reg></choice>il</w><w>gephlac</w></l>
+                    <l n="3284"><lb n="36"/><w>n<choice><orig>v</orig><reg>u</reg></choice></w><w>lif</w><w>er</w><w><choice><orig><choice><am>v̄</am><ex>vm</ex></choice></orig><reg>um</reg></choice>me</w><w>ein<choice><am>ē</am><ex>en</ex></choice></w><w>mitt<choice><am>ē</am><ex>en</ex></choice>tac</w></l>
+                </lg>
+                <lg>
+                    <l n="3285"><lb n="37"/><w>an</w><w>ein</w><w>n<choice><orig>v</orig><reg>u</reg></choice>wez</w><w>geruete</w></l>
+                    <l n="3286"><lb n="38"/><w>do</w><w><choice><orig>u</orig><reg>v</reg></choice>ant</w><w>er</w><w>nicht</w><w>me</w><w>luete</w></l>
+                </lg>
+                <pb n="1v"/>
+                <cb n="a"/>
+                <lg>
+                    <l n="3287"><lb n="1"/><w><hi rendition="hc:RedStroke">N</hi>iwan</w><w>ein</w><w>einegen</w><w>man</w></l>
+                    <l n="3288"><lb n="2"/><w><choice><am>d͛</am><ex>der</ex></choice></w><w>ſelbe</w><w>ſach</w><w>im</w><w>daz</w><w>wol</w><w>an</w></l>
+                </lg>
+                <lg>
+                    <l n="3289"><lb n="3"/><w>Daz</w><w>er</w><w>nicht</w><w>rech<choice><am>t͛</am><ex>ter</ex></choice></w><w>ſinne</w><w>was</w></l>
+                    <l n="3290"><lb n="4"/><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>vloch</w><w>hin</w><w>da</w><w>er</w><w>genas</w></l>
+                </lg>
+                <lg>
+                    <l n="3291"><lb n="5"/><w>Da</w><w>nahen</w><w>in</w><w>ſin</w><w>huſelin</w></l>
+                    <l n="3292"><lb n="6"/><w>da</w><w>inne</w><w join="right">want</w><w join="left">er</w><w>ſic<choice><am>h͛</am><ex>her</ex></choice></w><w>ſin</w></l>
+                </lg>
+                <lg>
+                    <l n="3293"><lb n="7"/><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w><choice><am>v͛</am><ex>ver</ex></choice>rigelte</w><w><choice><orig>u</orig><reg>v</reg></choice>aſte</w><w>ſin</w><w>tuer</w></l>
+                    <l n="3294"><lb n="8"/><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>ſtunt</w><w>innen</w><w>da</w><w>fuer</w></l>
+                </lg>
+                <lg>
+                    <l n="3295"><lb n="9"/><w><choice><am>D͛</am><ex>Der</ex></choice></w><w>tore</w><w>duchte</w><w>in</w><w>alzu</w><w>groz</w></l>
+                    <l n="3296"><lb n="10"/><w>er</w><w>gedachte</w><w>tut</w><w>er</w><w>einen</w><w>ſtoz</w></l>
+                </lg>
+                <lg>
+                    <l n="3297"><lb n="11"/><w>Di</w><w>tur</w><w>vert</w><w>uz</w><w>dem</w><w>angen</w></l>
+                    <l n="3298"><lb n="12"/><w>ſo</w><w>iſt</w><w>min</w><w>lebin</w><w>irgangen</w></l>
+                </lg>
+                <lg>
+                    <l n="3299"><lb n="13"/><w>Ich</w><w>ar<choice><am>m͛</am><ex>mer</ex></choice></w><w>wi</w><w>ir nere</w><w>ich</w><w>mich</w></l>
+                    <l n="3300"><lb n="14"/><w>z<choice><orig>v</orig><reg>u</reg></choice></w><w><choice><orig>i</orig><reg>j</reg></choice><choice><am>ū</am><ex>un</ex></choice>geſt</w><w>da</w><choice><abbr>bedach<am>t͛</am></abbr><expan><w join="right">bedacht</w><w><ex>er</ex></w></expan></choice><w>ſich</w></l>
+                </lg>
+                <lg>
+                    <l n="3301"><lb n="15"/><w>Ich</w><w>wil</w><w>im</w><w>mineſ</w><w>broteſ</w><w>gebn</w></l>
+                    <l n="3302"><lb n="16"/><w>ſo</w><w>let</w><w>er</w><w>mich</w><w><choice><orig>u</orig><reg>v</reg></choice>il</w><w>lichte</w><w>lebn</w></l>
+                </lg>
+                <lg>
+                    <l n="3303"><lb n="17"/><w>N<choice><orig>v</orig><reg>u</reg></choice></w><w>gi</w><w>ein</w><w>venſtir</w><w><choice><am>dᷣ</am><ex>dur</ex></choice>ch</w><w>di</w><w>want</w></l>
+                    <l n="3304"><lb n="18"/><w>da</w><w><choice><am>dᷣ</am><ex>dur</ex></choice>ch</w><w join="right">ract</w><w join="left">er</w><w>im</w><w>di</w><w>hant</w></l>
+                </lg>
+                <lg>
+                    <l n="3305"><lb n="19"/><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>leite</w><w>im</w><w>uf</w><w>ein</w><w>bret</w><w>brot</w></l>
+                    <l n="3306"><lb n="20"/><w>daz</w><w>ſuzet</w><w>im</w><w>di</w><w>h<choice><am>ū</am><ex>un</ex></choice>girs</w><w>not</w></l>
+                </lg>
+                <lg>
+                    <l n="3307"><lb n="21"/><w>wan</w><w>er</w><w>da</w><w><choice><orig>u</orig><reg>v</reg></choice>or</w><w>daz</w><w>got</w><w>wol</w><w>weiz</w></l>
+                    <l n="3308"><lb n="22"/><w>ſo</w><w><choice><orig>i</orig><reg>j</reg></choice>e<choice><am>m͛</am><ex>mer</ex></choice>lichiz</w><w>nie</w><w>enpeiz</w></l>
+                </lg>
+                <lg>
+                    <l n="3309"><lb n="23"/><w>waz</w><w>wold</w><w>ir</w><w>daz</w><w><add hei:placeRef="hc:AboveLine">d</add>er</w><w>tore</w><w>tu</w></l>
+                    <l n="3310"><lb n="24"/><w>er</w><w>az</w><w>daz</w><w>brot</w><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>tranc</w><w>dar</w><w>z<choice><orig>v</orig><reg>u</reg></choice></w></l>
+                </lg>
+                <lg>
+                    <l n="3311"><lb n="25"/><w>Eine</w><w>br<choice><am>ū</am><ex>un</ex></choice>n<choice><am>ē</am><ex>en</ex></choice></w><w>d<choice><am>ē</am><ex>en</ex></choice></w><w>er</w><w>da</w><w>h<choice><am>ā</am><ex>an</ex></choice>gen</w><w>vant</w></l>
+                    <l n="3312"><lb n="26"/><w>in</w><w>eime</w><w>eimir</w><w>an</w><w>der</w><w>want</w></l>
+                </lg>
+                <lg>
+                    <l n="3313"><lb n="27"/><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w join="right">rumet</w><w join="left">iz</w><w>im</w><w>ouch</w><w>ſa</w></l>
+                    <l n="3314"><lb n="28"/><w><choice><am>d͛</am><ex>der</ex></choice></w><w>einſidel</w><w>ſach</w><w>im</w><w>na</w></l>
+                </lg>
+                <lg>
+                    <l n="3315"><lb n="29"/><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>bat</w><w>gote</w><w>vil</w><w>ſere</w></l>
+                    <l n="3316"><lb n="30"/><w>daz</w><w>er</w><w>in</w><w>immir</w><w>mere</w></l>
+                </lg>
+                <lg>
+                    <l n="3317"><lb n="31"/><w>Erlize</w><w>ſulchir</w><w>geſte</w></l>
+                    <l n="3318"><lb n="32"/><w>wand</w><w>er</w><w><choice><orig>u</orig><reg>v</reg></choice>il</w><w>lutzel</w><w>weſte</w></l>
+                </lg>
+                <lg>
+                    <l n="3319"><lb n="33"/><w>wi</w><w>iz</w><w><choice><orig><choice><am>v̄</am><ex>vm</ex></choice></orig><reg>um</reg></choice>me</w><w>den</w><w>tor<choice><am>ē</am><ex>en</ex></choice></w><w>waſ</w><w>gewant</w></l>
+                    <l n="3320"><lb n="34"/><w>n<choice><orig>v</orig><reg>u</reg></choice></w><w>tet</w><w><choice><am>d͛</am><ex>der</ex></choice></w><w>tore</w><w>im</w><w>dar</w><w>irkant</w></l>
+                </lg>
+                <lg>
+                    <l n="3321"><lb n="35"/><w>Daz</w><w><choice><am>d͛</am><ex>der</ex></choice></w><w>tore</w><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>di</w><w>kint</w></l>
+                    <l n="3322"><lb n="36"/><w>vil</w><w>lichte</w><w>zu</w><w>wenen</w><w>ſint</w></l>
+                </lg>
+                <lg>
+                    <l n="3323"><lb n="37"/><w>Er</w><w>waſ</w><w>dar</w><w>z<choice><orig>v</orig><reg>u</reg></choice></w><w>gnuc</w><w>wiſe</w></l>
+                    <l n="3324"><lb n="38"/><w>daz</w><w>er</w><w>nach</w><w>diſer</w><w>ſpiſe</w></l>
+                </lg>
+                <cb n="b"/>
+                <lg>
+                    <l n="3325"><lb n="1"/><w><hi rendition="hc:RedStroke">D</hi>ar</w><w>wi<choice><am>d͛</am><ex>der</ex></choice></w><w>qu<choice><am>ā</am><ex>am</ex></choice></w><w>in</w><w>drin</w><w>tagen</w></l>
+                    <l n="3326"><lb n="2"/><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>brachte</w><w>uf</w><w>im</w><w>ein</w><w>tir</w><w>get<choice><am>gᷓ</am><ex>rag</ex></choice>en</w></l>
+                </lg>
+                <lg>
+                    <l n="3327"><lb n="3"/><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>warf</w><w>im</w><w>daz</w><w>an</w><w>di</w><w>tuer</w></l>
+                    <l n="3328"><lb n="4"/><w>er</w><w>machte</w><w>daz</w><w>er</w><w>im</w><w>hin</w><w>vu<gap ana="hc:Perforated" unit="chars" n="2"/></w></l>
+                </lg>
+                <lg>
+                    <l n="3329"><lb n="5"/><w>Deſte</w><w>willeclichir</w><w>bot</w></l>
+                    <l n="3330"><lb n="6"/><w>beide</w><w>ſin</w><w>wazzer</w><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>ſin</w><w>brot</w></l>
+                </lg>
+                <lg>
+                    <l n="3331"><lb n="7"/><w>Er</w><w><choice><orig>u</orig><reg>v</reg></choice>orchte</w><w>in</w><w>do</w><w>nicht</w><w>me</w></l>
+                    <l n="3332"><lb n="8"/><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>waſ</w><w>im</w><w>bez<choice><am>z͛</am><ex>zer</ex></choice></w><w>denne</w><w>e</w></l>
+                </lg>
+                <lg>
+                    <l n="3333"><lb n="9"/><w>Er</w><w>vant</w><w>ie</w><w>daz</w><w>bereite</w></l>
+                    <l n="3334"><lb n="10"/><w>ouch</w><w>galt</w><w>er</w><w>im</w><w>di</w><w>arbeite</w></l>
+                </lg>
+                <lg>
+                    <l n="3335"><lb n="11"/><w>Mit</w><w>ſinem</w><w>wilprete</w></l>
+                    <l n="3336"><lb n="12"/><w>daz</w><w>wart</w><w>mit</w><w><choice><orig>v</orig><reg>u</reg></choice>ngerete</w></l>
+                </lg>
+                <lg>
+                    <l n="3337"><lb n="13"/><w>Gegerwet</w><w>bi</w><w>dem</w><w>fuere</w></l>
+                    <l n="3338"><lb n="14"/><w>im</w><w>waſ</w><w>der</w><w>kezzel</w><w>tuere</w></l>
+                </lg>
+                <lg>
+                    <l n="3339"><lb n="15"/><w>Daz</w><w>ſalz</w><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>der</w><w>ezzich</w></l>
+                    <l n="3340"><lb n="16"/><w>ze</w><w><choice><orig>i</orig><reg>j</reg></choice><choice><am>ū</am><ex>un</ex></choice>ngeſt</w><w>went</w><w>er</w><w>ſich</w></l>
+                </lg>
+                <lg>
+                    <l n="3341"><lb n="17"/><w>Daz</w><w>er</w><w>di</w><w>huete</w><w>veile</w><w>truc</w></l>
+                    <l n="3342"><lb n="18"/><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>coufte</w><w>in</w><w>beiden</w><w>gnuc</w></l>
+                </lg>
+                <lg>
+                    <l n="3343"><lb n="19"/><w>Deſ</w><w>in</w><w>z<choice><orig>v</orig><reg>u</reg></choice></w><w>dem</w><w>libe</w><w>waſ</w><w>not</w></l>
+                    <l n="3344"><lb n="20"/><w>ſalz</w><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>bezzer</w><w>brot</w></l>
+                </lg>
+                <lg>
+                    <l n="3345"><lb n="21"/><w><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">S</hei:initial><choice><orig>v</orig><reg>u</reg></choice>ſ</w><w>wonte</w><w><choice><am>d͛</am><ex>der</ex></choice></w><w><choice><orig>v</orig><reg>u</reg></choice>nwiſe</w></l>
+                    <l n="3346"><lb n="22"/><w>z<choice><orig>v</orig><reg>u</reg></choice></w><w>walde</w><w>mit</w><w>der</w><w>ſpiſe</w></l>
+                </lg>
+                <lg>
+                    <l n="3347"><lb n="23"/><w><choice><orig>v</orig><reg>u</reg></choice>nz</w><w>daz</w><w>der</w><w>edele</w><w>tore</w></l>
+                    <l n="3348"><lb n="24"/><w>glich</w><w>wart</w><w>eime</w><w>more</w></l>
+                </lg>
+                <lg>
+                    <l n="3349"><lb n="25"/><w>an</w><w>allem</w><w>ſime</w><w>libe</w></l>
+                    <l n="3350"><lb n="26"/><w>ob</w><w>im</w><w>von</w><w>gutem</w><w>wibe</w></l>
+                </lg>
+                <lg>
+                    <l n="3351"><lb n="27"/><w>Ie</w><w>dechein</w><w>lip</w><w>geſchach</w></l>
+                    <l n="3352"><lb n="28"/><w join="right">ab</w><w join="left">er</w><w join="right">ie</w><w join="left">hund<choice><am>t͛</am><ex>ert</ex></choice></w><w>ſper</w><w>z<choice><orig>v</orig><reg>u</reg></choice> brach</w></l>
+                </lg>
+                <lg>
+                    <l n="3353"><lb n="29"/><w>Gesluc</w><w>er</w><w>fuer</w><w>uz</w><w>helme</w><w>ie</w></l>
+                    <l n="3354"><lb n="30"/><w>ob</w><w>er</w><w>mit</w><w>m<choice><am>ā</am><ex>an</ex></choice>heit</w><w>ie</w><w>begie</w></l>
+                </lg>
+                <lg>
+                    <l n="3355"><lb n="31"/><w>Decheinen</w><w>lobelichen</w><w>pris</w></l>
+                    <l n="3356"><lb n="32"/><w>wart</w><w>er</w><w>ie</w><w>hubiſch</w><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>wis</w></l>
+                </lg>
+                <lg>
+                    <l n="3357"><lb n="33"/><w>wart</w><w>er</w><w>ie</w><w>edel</w><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>rich</w></l>
+                    <l n="3358"><lb n="34"/><w>dem</w><w>iſt</w><w>er</w><w>n<choice><orig>v</orig><reg>u</reg></choice></w><w>vil</w><w><choice><orig>v</orig><reg>u</reg></choice>ngelich</w></l>
+                </lg>
+                <lg>
+                    <l n="3359"><lb n="35"/><w>Er</w><w>leufet</w><w>n<choice><orig>v</orig><reg>u</reg></choice></w><w>nacket</w><w>beider</w></l>
+                    <l n="3360"><lb n="36"/><w><choice><am>d͛</am><ex>der</ex></choice></w><w>ſinne</w><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>ouch</w><w><choice><am>d͛</am><ex>der</ex></choice></w><w>cleider</w></l>
+                </lg>
+                <lg>
+                    <l n="3361"><lb n="37"/><w><choice><orig>v</orig><reg>u</reg></choice>nz</w><w>daz</w><w>in</w><w>z<choice><orig>v</orig><reg>u</reg></choice></w><w>einen</w><w>ſtund<choice><am>ē</am><ex>en</ex></choice></w></l>
+                    <l n="3362"><lb n="38"/><w>nacket</w><w>slafende</w><w>vunden</w></l>
+                </lg>
+            </div>
+        </body>
+    </text>
+</TEI>
