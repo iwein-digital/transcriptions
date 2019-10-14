@@ -1724,10 +1724,10 @@
                     <l n="820"><lb n="17"/><w><hi rendition="hc:RedStroke">M</hi>ere</w><w>rede</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>manhait</w></l>
                 </lg>
                 <lg>
-                    <l n="821"><lb n="18"/><w><hi rendition="hc:RedStroke">D</hi>en</w><w>es</w><w>tún</w><w xml:id="w_c_821_4">vier</w><metamark ana="hc:TranspositionMark" hei:placeRef="hc:AboveLine" target="#w_c_821_4">2</metamark><w xml:id="w_c_821_5">oede</w><metamark ana="hc:TranspositionMark" hei:placeRef="hc:AboveLine" target="#w_c_821_5">1</metamark><listTranspose>
-                        <transpose corresp="#w_c_821_4 #w_c_821_5">
-                            <ptr target="#w_c_821_5"/>
-                            <ptr target="#w_c_821_4"/>
+                    <l n="821"><lb n="18"/><w><hi rendition="hc:RedStroke">D</hi>en</w><w>es</w><w>tún</w><w xml:id="c_w_821_4">vier</w><metamark ana="hc:TranspositionMark" hei:placeRef="hc:AboveLine" target="#c_w_821_4">2</metamark><w xml:id="c_w_821_5">oede</w><metamark ana="hc:TranspositionMark" hei:placeRef="hc:AboveLine" target="#c_w_821_5">1</metamark><listTranspose>
+                        <transpose corresp="#c_w_821_4 #c_w_821_5">
+                            <ptr target="#c_w_821_5"/>
+                            <ptr target="#c_w_821_4"/>
                         </transpose>
                         </listTranspose></l>
                     <l n="822"><lb n="19"/><w><hi rendition="hc:RedStroke">M</hi>it</w><w>mete</w><w>oder</w><w>mit</w><w>piere</w></l>
