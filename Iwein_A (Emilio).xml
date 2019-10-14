@@ -3790,8 +3790,7 @@
                 </lg>
                 <lg>
                     <l n="1813"><w>N<choice><am>ī</am><ex>im</ex></choice>mer</w><lb n="14"/><w><choice><orig>u</orig><reg>v</reg></choice>olenden</w><pc>·</pc></l>
-                    <l n="1814"><w>Got</w><w>ſal</w><w>mir</w><metamark ana="hc:TranspositionMark" hei:placeRef="hc:AboveLine" target="#w_A_1814_4">″</metamark><w xml:id="w_A_1814_4">dot</w><metamark ana="hc:TranspositionMark" hei:placeRef="hc:AboveLine" target="#w_A_1814_5">″</metamark><w xml:id="w_A_1814_5">den</w><w>ſenden</w><pc>·</pc><listTranspose><transpose corresp="#w_A_1814_4 #w_A_1814_5"><ptr target="#w_A_1814_5"></ptr><ptr target="#w_A_1814_4"></ptr></transpose></listTranspose></l>
-                    <!--Esos dos signos que aparecen a un lado y al otro de 'dot' no sé lo que indican el orden inverso de las palabras, no? Y eso se codifica de alguna manera? SÍ, SON SIGNOS DE TRASPOSICIÓN DE PALABRAS. LA CODIFICACIÓN ES TAN COMPLEJA QUE NO LA PUSE EN LA GUÍA.-->
+                    <l n="1814"><w>Got</w><w>ſal</w><w>mir</w><metamark ana="hc:TranspositionMark" hei:placeRef="hc:AboveLine" target="#A_w_1814_4">″</metamark><w xml:id="A_w_1814_4">dot</w><metamark ana="hc:TranspositionMark" hei:placeRef="hc:AboveLine" target="#A_w_1814_5">″</metamark><w xml:id="A_w_1814_5">den</w><w>ſenden</w><pc>·</pc><listTranspose><transpose corresp="#A_w_1814_4 #A_w_1814_5"><ptr target="#A_w_1814_5"></ptr><ptr target="#A_w_1814_4"></ptr></transpose></listTranspose></l>
                 </lg>
                 <lg>
                     <l n="1815"><w>Daz</w><lb n="15"/><w>ih</w><w>na</w><w>mime</w><w>heren</w><w>vare</w><pc>·</pc></l>
@@ -4019,8 +4018,7 @@
                 </lg>
                 <lg>
                     <l n="1927"><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>mogit</w><w>einen</w><w>alſo</w><w>biderben</w><w>man</w><pc>·</pc></l>
-                    <l n="1928"><lb n="8"/><w>wol</w><w>gewinnen</w><w>ob</w><w>iſ</w><w><choice><orig>v</orig><reg>u</reg></choice></w><metamark ana="hc:TranspositionMark" hei:placeRef="hc:AboveLine" target="#w_A_1928_5">″</metamark><w xml:id="w_A_1928_5">gan</w><metamark ana="hc:TranspositionMark" hei:placeRef="hc:AboveLine" target="#w_A_1928_6">″</metamark><w xml:id="w_A_1928_6">got</w><pc>·</pc><listTranspose><transpose corresp="#w_A_1928_5 #w_A_1928_6"><ptr target="#w_A_1928_6"></ptr><ptr target="#w_A_1928_5"></ptr></transpose></listTranspose></l>
-                    <!--De nuevo aparecen aquí esas comillas para señalar que el orden de palabras es incorrecto. HECHO!  -->
+                    <l n="1928"><lb n="8"/><w>wol</w><w>gewinnen</w><w>ob</w><w>iſ</w><w><choice><orig>v</orig><reg>u</reg></choice></w><metamark ana="hc:TranspositionMark" hei:placeRef="hc:AboveLine" target="#A_w_1928_5">″</metamark><w xml:id="A_w_1928_5">gan</w><metamark ana="hc:TranspositionMark" hei:placeRef="hc:AboveLine" target="#A_w_1928_6">″</metamark><w xml:id="A_w_1928_6">got</w><pc>·</pc><listTranspose><transpose corresp="#A_w_1928_5 #A_w_1928_6"><ptr target="#A_w_1928_6"></ptr><ptr target="#A_w_1928_5"></ptr></transpose></listTranspose></l>
                 </lg>
                 <lg>
                     <l n="1929"><w>Nu</w><w>ne</w><w>weinet</w><lb n="9"/><w>nit</w><w>mere</w><pc>·</pc></l>
