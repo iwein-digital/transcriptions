@@ -7183,8 +7183,8 @@
                     <l n="2842"><lb n="4"/><w><hi rendition="hc:Versal">i</hi>ch</w><w>wære</w><w>wol</w><w>enbroſten</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="2843"><lb n="5"/><w><del rendition="hc:Erased"><hi rendition="hc:Versal">d</hi>er</del></w><w><del rendition="hc:Erased">werlde</del></w><w><del rendition="hc:Erased">an</del></w><w><del rendition="hc:Erased">andern</del></w><w><del rendition="hc:Erased">dingen</del></w><del rendition="hc:Erased"><pc>·</pc></del><lb n="6"/><w><hi rendition="hc:Versal">d</hi>er</w><w>werlde</w><w>an</w><w>andern</w><w>dingen</w><pc>·</pc></l>
-                    <!--este verso está borrado, non sei se o marquei ben. A min paréceme que é o 2843, e polo que vin a partir de aquí os pareados rematarán na seguinte páxina do ms. SI, DEBEU DE REPETIR O VERSO POR ERROR E BORROU O PRIMEIRO. PERO SE É O MESMO VERSO, NON PODEMOS FACER DOUS VERSOS...      -->
+                    <l n="2842,1" hei:replicates="#xpath(//l[n='2843'])" xml:id="B_l_2842-1"><lb n="5"/><del rendition="hc:Erased"><w><hi rendition="hc:Versal">d</hi>er</w><w>werlde</w><w>an</w><w>andern</w><w>dingen</w><pc>·</pc></del><note ana="hc:TranscriptionNote" target="#B_l_2842-1">Der Vers wurde zweimal abgeschrieben und danach die erste Zeile rasuriert</note></l>
+                    <l n="2843"><lb n="6"/><w><hi rendition="hc:Versal">d</hi>er</w><w>werlde</w><w>an</w><w>andern</w><w>dingen</w><pc>·</pc></l>
                     <l n="2844"><lb n="7"/><w><hi rendition="hc:Versal">M</hi>oht</w><w>ich</w><w>dem</w><w>h<choice><orig>v</orig><reg>u</reg></choice>ſe</w><w>geringen</w><pc>·</pc></l>
                 </lg>
                 <lg>
@@ -8339,9 +8339,14 @@
                     <l n="3398"><lb n="15"/><w><hi rendition="hc:Versal">f</hi>roͮwe</w><w>ir</w><w>m<choice><orig>v</orig><reg>u</reg></choice>gt</w><w>wol</w><w>ſchoͮwen</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="3400"><lb n="16"/><w><add hei:placeRef="hc:PageMarginLeft">b</add><hi rendition="hc:Versal">v</hi>on</w><w>bezzern</w><w>z<choice><orig>v</orig><reg>u</reg></choice>hten</w><w>wart</w><w>geborn</w><pc>·</pc></l>
-                    <l n="3399"><lb n="17"/><w><add hei:placeRef="hc:PageMarginLeft">a</add><hi rendition="hc:Versal">d</hi>az</w><w>er</w><w>den</w><w>ſin</w><w>hat</w><w>verlorn</w></l>
-                    <!--versos cambiados, parece que tamén se quixo indicar na marxe  SÍ, PERO PARA CASOS COMA ESTE AÍNDA NON ME DERON UNHA SOLUCIÓN...-->
+                    <l n="3399"><lb n="17"/><w><metamark ana="hc:TranspositionMark" hei:placeRef="hc:ColumnMarginLeft">a</metamark><hi rendition="hc:Versal">d</hi>az</w><w>er</w><w>den</w><w>ſin</w><w>hat</w><w>verlorn</w></l>
+                    <l n="3400"><lb n="16"/><w><metamark ana="hc:TranspositionMark" hei:placeRef="hc:ColumnMarginLeft">b</metamark><hi rendition="hc:Versal">v</hi>on</w><w>bezzern</w><w>z<choice><orig>v</orig><reg>u</reg></choice>hten</w><w>wart</w><w>geborn</w><pc>·</pc></l>
+                    <listTranspose>
+                        <transpose>
+                            <ptr target="#xpath(//l[@n='3399'])"></ptr>
+                            <ptr target="#xpath(//l[@n='3400'])"></ptr>
+                        </transpose>
+                    </listTranspose>
                 </lg>
                 <lg>
                     <l n="3401"><lb n="18"/><w><hi rendition="hc:Versal">n</hi>iê</w><w>riter</w><w>deheîn</w><pc>·</pc></l>
