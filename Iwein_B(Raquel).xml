@@ -387,6 +387,7 @@
         <surface ana="hc:Page" xml:id="B_44r" n="44r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubgi_hs97/0091/image"/>
             <zone ana="hc:Column" xml:id="B_44r-a" n="a"/>
+            <zone ana="hc:MarginalZone" xml:id="B_44r_b" hei:placeRef="hc:PageBottom"></zone>
         </surface>
         <surface ana="hc:Page" xml:id="B_44v" n="44v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubgi_hs97/0092/image"/>
@@ -5982,7 +5983,8 @@
                 <lg>
                     <l n="2263"><lb n="25"/><w><hi rendition="hc:Versal">d</hi>er</w><w>ane</w><w>ſinen</w><w>danch</w><w>deheînen</w><w>man</w><pc>·</pc></l>
                     <l n="2264"><lb n="26"/><w><hi rendition="hc:Versal">d</hi>er</w><w>ſelbe</w><w>wol</w><w>geſprechen</w><w>chan</w><pc>·</pc></l>
-                    <!-- Ein Falke am Fuß der Seite -->
+                    <milestone ana="hc:ZoneBeginning" facs="#B_44r_b"/>
+                    <figure><figDesc>Zeichnung eines Falken in roter Tinte</figDesc></figure>
                 </lg>
                 <pb n="44v"/>
                 <cb n="a"/>
