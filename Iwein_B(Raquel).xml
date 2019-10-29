@@ -7927,7 +7927,6 @@
                 </lg>
                 <lg>
                     <l n="3201"><lb n="26"/><w><hi rendition="hc:Versal"><add hei:placeRef="hc:Inline">d</add></hi>az</w><w>ſmæhen</w><w>daz</w><w>fro<choice><orig>v̂</orig><reg>û</reg></choice></w><w>L<choice><orig>v</orig><reg>u</reg></choice>net</w><pc>·</pc></l>
-                    <!--a primeira letra marqueina como engadida. -->
                     <pb n="62v"/>
                     <cb n="a"/>
                     <l n="3202"><lb n="1"/><w><hi rendition="hc:Versal">d</hi>en</w><w>herren</w><w><choice><orig>J</orig><reg>I</reg></choice>weîn</w><w>tet</w><pc>·</pc></l>
@@ -9935,8 +9934,8 @@
                     <l n="4164"><lb n="24"/><w><hi rendition="hc:Versal">d</hi>az</w><w>ich</w><w>ir</w><w>deweder<subst><del rendition=" hc:Overwritten">z</del><add hei:placeRef="hc:Superimposed">n</add></subst></w><w>vant</w><pc>·</pc></l>
                 </lg>
                 <lg xml:id="B_lg_4164-1">
-                    <l n="4164,1" corresp="#xpath(//l[@n='5763'])"><lb n="25"/><w><hi rendition="hc:Versal">d</hi>en</w><w>man</w><w>noch</w><w>di<choice><orig>v</orig><reg>u</reg></choice></w><w>mære</w><pc>·</pc></l>
-                    <l n="4164,2" corresp="#xpath(//l[@n='5764'])"><lb n="26"/><w><choice><orig><hi rendition="hc:Versal">v</hi>v</orig><reg><hi rendition="hc:Versal">w</hi></reg></choice>a</w><w>er</w><w join="right">ze</w><w join="left">vinden</w><w>wære</w><pc>·</pc><note ana="hc:TranscriptionNote" target="#B_lg_4164-1">Verspaar von anderer Hand unterstrichen; Verspaar entspricht V. 5763-4</note></l>
+                    <l n="4164,1" hei:replicates="#xpath(//l[@n='5763'])"><lb n="25"/><w><hi rendition="hc:Versal">d</hi>en</w><w>man</w><w>noch</w><w>di<choice><orig>v</orig><reg>u</reg></choice></w><w>mære</w><pc>·</pc></l>
+                    <l n="4164,2" hei:replicates="#xpath(//l[@n='5764'])"><lb n="26"/><w><choice><orig><hi rendition="hc:Versal">v</hi>v</orig><reg><hi rendition="hc:Versal">w</hi></reg></choice>a</w><w>er</w><w join="right">ze</w><w join="left">vinden</w><w>wære</w><pc>·</pc><note ana="hc:TranscriptionNote" target="#B_lg_4164-1">Verspaar von anderer Hand unterstrichen; Verspaar entspricht V. 5763-4</note></l>
                 </lg>
                 <pb n="81r"/>
                 <cb n="a"/>
