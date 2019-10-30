@@ -35,6 +35,49 @@
             </listPrefixDef>
         </encodingDesc>
     </teiHeader>
+    <facsimile>
+        <surface ana="hc:Page" xml:id="e_90r" n="90r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubgi_hs97/0183/image"/>
+            <zone ana="hc:Column" xml:id="e_90r-a" n="90r-a"/>
+        </surface>
+        <surface ana="hc:Page" xml:id="e_90v" n="90v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubgi_hs97/0184/image"/>
+            <zone ana="hc:Column" xml:id="e_90v-a" n="90v-a"/>
+        </surface>
+        <surface ana="hc:Page" xml:id="e_90ar" n="90ar">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubgi_hs97/0185/image"/>
+            <zone ana="hc:Column" xml:id="e_90ar-a" n="90ar-a"/>
+        </surface>
+        <surface ana="hc:Page" xml:id="e_90av" n="90av">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubgi_hs97/0186/image"/>
+            <zone ana="hc:Column" xml:id="e_90av-a" n="90av-a"/>
+        </surface>
+        <surface ana="hc:Page" xml:id="e_91r" n="91r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubgi_hs97/0187/image"/>
+            <zone ana="hc:Column" xml:id="e_91r-a" n="91r-a"/>
+        </surface>
+        <surface ana="hc:Page" xml:id="e_91v" n="91v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubgi_hs97/0188/image"/>
+            <zone ana="hc:Column" xml:id="e_91v-a" n="91v-a"/>
+        </surface>
+        <surface ana="hc:Page" xml:id="e_92r" n="92r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubgi_hs97/0189/image"/>
+            <zone ana="hc:Column" xml:id="e_92r-a" n="92r-a"/>
+        </surface>
+        <surface ana="hc:Page" xml:id="e_92v" n="92v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubgi_hs97/0190/image"/>
+            <zone ana="hc:Column" xml:id="e_92v-a" n="92v-a"/>
+            <zone ana="hc:MarginalZone" xml:id="e_92v-b"></zone>
+        </surface>
+        <surface ana="hc:Page" xml:id="e_131r" n="131r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubgi_hs97/0267/image"/>
+            <zone ana="hc:Column" xml:id="e_131r-a" n="131r-a"/>
+        </surface>
+        <surface ana="hc:Page" xml:id="e_131v" n="131v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubgi_hs97/0268/image"/>
+            <zone ana="hc:Column" xml:id="e_131v-a" n="131v-a"/>
+        </surface>
+    </facsimile>
     <text ana=" hc:ExpressionPart hc:CourtlyRomance">
         <body>
             <div>
@@ -360,8 +403,9 @@
                     <l n="4790"><lb n="14"/><w>Durch</w><w>her</w><w>Gaweins</w><w>ere</w></l>
                 </lg>
                 <lg>
-                    <l n="4791"><lb n="15"/><w>Mich armen</w><w>man</w><w>erlaſze</w><w>ir̃</w><note ana="hc:Comment"><lb n="16"/><date><num>1531</num><num>11</num><w>ſept<choice><am>ē</am><ex>embris</ex></choice></w></date><pc>·</pc><w>hab</w><w>ich</w><lb n="17"/><w>den</w><w>defect</w><w>erfilt</w><w>auſ</w><w>aim</w><lb n="18"/><w>alten</w><w>buͦch</w><pc>·</pc><w>vileicht</w><w>vil</w><w>falſch</w></note></l>
+                    <l n="4791"><lb n="15"/><w>Mich armen</w><w>man</w><w>erlaſze</w><w>ir̃</w></l>
                 </lg>
+                <milestone ana="hc:ZoneShift"/><note ana="hc:Comment"><lb n="16"/><date><num>1531</num><num>11</num><w>ſept<choice><am>ē</am><ex>embris</ex></choice></w></date><pc>·</pc><w>hab</w><w>ich</w><lb n="17"/><w>den</w><w>defect</w><w>erfilt</w><w>auſ</w><w>aim</w><lb n="18"/><w>alten</w><w>buͦch</w><pc>·</pc><w>vileicht</w><w>vil</w><w>falſch</w></note>
                 <pb n="131r"/>
                 <cb n="a"/>
                 <lg>
@@ -443,8 +487,14 @@
                     <l n="6814"><lb n="16"/><w>Eſ</w><w>iſt</w><w>ew</w><w>wol</w><w>ergange</w></l>
                 </lg>
                 <lg>
-                    <l n="6815"><lb n="18"/><metamark ana="hc:TranspositionMark ">//</metamark><w>Das</w><w>ich</w><w>ew</w><w>ſo</w><w>gunſtig</w><w>bin</w></l>
                     <l n="6816"><lb n="17"/><metamark ana="hc:TranspositionMark ">//</metamark><w>Hatt<choice><orig>v</orig><reg>u</reg></choice>nd</w><w>ir</w><w>ſolde</w><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>ſin</w></l>
+                    <l n="6815"><lb n="18"/><metamark ana="hc:TranspositionMark ">//</metamark><w>Das</w><w>ich</w><w>ew</w><w>ſo</w><w>gunſtig</w><w>bin</w></l>
+                    <listTranspose>
+                        <transpose>
+                            <ptr target="#xpath(//l[@n='6815'])"></ptr>
+                            <ptr target="#xpath(//l[@n='6816'])"></ptr>
+                        </transpose>
+                    </listTranspose>
                 </lg>
                 <lg>
                     <l n="6817"><lb n="18"/><w>Ir</w><w>betent</w><w>mich</w><w>das</w><w>ich</w><w>ew</w><w>bite</w></l>
