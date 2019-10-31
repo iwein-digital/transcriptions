@@ -1,0 +1,416 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://digi.ub.uni-heidelberg.de/schema/tei/heiEDITIONS/tei_hes.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://digi.ub.uni-heidelberg.de/schema/tei/heiEDITIONS/tei_hes.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" ana="hc:IWDDocument">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Iwein-Fragm. Q</title>
+                <author>Hartmann von Aue</author>
+                <respStmt>
+                    <resp>transcription</resp>
+                    <persName>Victor Millet</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>UB Heidelberg</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="Q"><msDesc>
+                        <msIdentifier>
+                            <settlement>Paderborn</settlement>
+                            <repository>Archiv der Deutschen Franziskanerprovinz</repository>
+                            <idno>6050, V / 7 k, Nr. 3</idno>
+                        </msIdentifier>
+                        </msDesc></witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text ana="hc:CourtlyRomance hc:ExpressionFragmentThroughLoss">
+        <body>
+            <div>
+                <pb n="1r"/>
+                <cb n="a"/>
+                <lg>
+                    <l n="4913"><lb n="1"/><w>d<choice><am>z</am><ex>az</ex></choice></w><w>ich</w><w>dez</w><w>libez</w><w>si</w><w>ain</w><w>zage</w></l>
+                    <l n="4914"><lb n="2"/><w>Nun</w><w>ſchied</w><w>den</w><w>zwifel</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>die</w><w>clage</w></l>
+                </lg>
+                <lg>
+                    <l n="4915"><lb n="3"/><w>der</w><w>groz</w><w>riſed</w><w>dez</w><w>si</w><w>da</w><w>biten</w></l>
+                    <l n="4916"><lb n="4"/><w>der</w><w>kam</w><w>dort</w><w>her</w><w>gritten</w></l>
+                </lg>
+                <lg>
+                    <l n="4917"><lb n="5"/><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>fuͦrt</w><w>sine</w><w>ge<choice><orig>u</orig><reg>v</reg></choice>angen</w></l>
+                    <l n="4918"><lb n="6"/><w>an</w><w>den</w><w>het</w><w>er</w><w>begangen</w></l>
+                </lg>
+                <lg>
+                    <l n="4919"><lb n="7"/><w>groz</w><w><choice><orig>v</orig><reg>u</reg></choice>nhubſchait</w></l>
+                    <l n="4920"><lb n="8"/><w>In</w><w>warent</w><w>aller</w><w>hande</w><w>clait</w></l>
+                </lg>
+                <lg>
+                    <l n="4921"><lb n="9"/><w>In</w><w>den</w><w>ziten</w><w>froͤmde</w></l>
+                    <l n="4922"><lb n="10"/><w>Nun</w><w>die</w><w>buͦzen</w><w>hemde</w></l>
+                </lg>
+                <lg>
+                    <l n="4923"><lb n="11"/><w>diz</w><w>waz</w><w>erbarmclich</w><w>genuͦg</w></l>
+                    <l n="4924"><lb n="12"/><w>Si</w><w>traib</w><w>ein</w><w>twerg</w><w>d<choice><am>z</am><ex>az</ex></choice></w><w>ſi</w><w>ſcluͦg</w></l>
+                </lg>
+                <lg>
+                    <l n="4925"><lb n="13"/><w>Mit</w><w>ainer</w><w>gaiſel ruͦten</w></l>
+                    <l n="4926"><lb n="14"/><w>d<choice><am>z</am><ex>az</ex></choice></w><w>si</w><w><choice><orig>v</orig><reg>u</reg></choice>ber</w><w>al</w><w>bluten</w></l>
+                </lg>
+                <lg>
+                    <l n="4927"><lb n="15"/><w>Die</w><w>herr<choice><am>ē</am><ex>en</ex></choice></w><w>ritten</w><w><choice><orig>v</orig><reg>u</reg></choice>ngeſchuͦh</w></l>
+                    <l n="4928"><lb n="16"/><w>Ir</w><w>hemd</w><w>waz</w><w>ain</w><w>ſachtuͦch</w></l>
+                </lg>
+                <lg>
+                    <l n="4929"><lb n="17"/><w>gezerret</w><w>s<choice><orig>v</orig><reg>u</reg></choice>arz</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>groz</w></l>
+                    <l n="4930"><lb n="18"/><w>si</w><w>warent</w><w>nachend</w><w>und</w><w>bloz</w></l>
+                </lg>
+                <lg>
+                    <l n="4931"><lb n="19"/><w>an</w><w>bain</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>an</w><w>armen</w></l>
+                </lg>
+                <lg>
+                    <l n="4933"><lb n="20"/><w>Die</w><w>grozzen</w><w>not</w><w>die</w><w>si</w><w>littent</w></l>
+                    <l n="4934"><lb n="21"/><w>Ir</w><w>pfærit</w><w>warent</w><w>die</w><w>ſi</w><w>rit<choice><am>ē</am><ex>en</ex></choice>t</w></l>
+                </lg>
+                <lg>
+                    <l n="4935"><lb n="22"/><w>tot mager</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>vil</w><w>kranch</w></l>
+                    <l n="4936"><lb n="23"/><w>ietwederz</w><w>ſtruht</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>hanch</w></l>
+                </lg>
+                <lg>
+                    <l n="4937"><lb n="24"/><w>die</w><w>fuͦze</w><w>warent</w><w>in</w><w><choice><orig>v</orig><reg>u</reg></choice>nden</w></l>
+                    <l n="4938"><lb n="25"/><w>zeſam<choice><am>ē</am><ex>en</ex></choice>t</w><w>gebunden</w></l>
+                </lg>
+                <lg>
+                    <l n="4939"><lb n="26"/><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>die</w><w>hendes</w><w>vaſte</w></l>
+                    <l n="4940"><lb n="27"/><w join="right">ze</w><w join="left">ruge</w><w>mit</w><w>baſte</w></l>
+                </lg>
+                <lg>
+                    <l n="4941"><lb n="28"/><w>Die</w><w>gurr<choice><am>ē</am><ex>en</ex></choice></w><w>die</w><w>si</w><w>da</w><w>truͦg<choice><am>ē</am><ex>en</ex></choice>t</w><w>hin</w></l>
+                    <l n="4942"><lb n="29"/><w>den</w><w>war<choice><am>ē</am><ex>en</ex></choice>t</w><w>die</w><w>zægel</w><w><choice><orig>v</orig><reg>u</reg></choice>nder</w><w>in</w></l>
+                </lg>
+                <lg>
+                    <l n="4943"><lb n="30"/><w>zeſam<choice><am>ē</am><ex>en</ex></choice>t</w><w>geflo<subst><del rendition="hc:Adapted">z</del><add rendition="hc:Adapted">h</add></subst>ten</w></l>
+                    <l n="4944"><lb n="31"/><w>d<choice><am>z</am><ex>az</ex></choice></w><w>ſi</w><w>niena</w><w>mohtent</w></l>
+                </lg>
+                <lg>
+                    <l n="4945"><lb n="32"/><w>ain</w><w>ander</w><w>entwichen</w></l>
+                    <l n="4946"><lb n="33"/><w>di</w><w>si</w><w>ſo</w><w><choice><orig>i</orig><reg>j</reg></choice>æmerlichen</w></l>
+                </lg>
+                <lg>
+                    <l n="4947"><lb n="34"/><w>Ir</w><w>edel</w><w>vatter</w><w>riten</w><w>ſach</w></l>
+                    <l n="4948"><lb n="35"/><w>d<choice><am>z</am><ex>az</ex></choice></w><w>im</w><w>ſin</w><w>herz</w><w>nit</w><w>prach</w></l>
+                </lg>
+                <lg>
+                    <l n="4949"><lb n="36"/><w>von</w><w><choice><orig>i</orig><reg>j</reg></choice>amer</w><w>dez</w><w>wundert</w><w>mich</w></l>
+                    <l n="4950"><lb n="37"/><w>won</w><w>ez</w><w>w<choice><am>z</am><ex>az</ex></choice></w><w>wol</w><w>iæmerlich</w></l>
+                </lg>
+                <lg>
+                    <l n="4951"><lb n="38"/><w>Suſt</w><w>fuͦrt</w><w>er</w><w>si</w><w>fuͦr</w><w>d<choice><am>z</am><ex>az</ex></choice></w><w>burgtor</w></l>
+                    <l n="4952"><lb n="39"/><w>da</w><w>hort</w><w>er</w><w>in</w><w>ruͦffen</w><w>vor</w></l>
+                </lg>
+                <lg>
+                    <l n="4953"><lb n="40"/><w>Er</w><w>hieng</w><w>si</w><w>alle</w><w>viere</w></l>
+                    <l n="4954"><lb n="41"/><w>ob</w><w>man</w><w>si</w><w>nit</w><w>ſchiere</w></l>
+                </lg>
+                <cb n="b"/>
+                <lg>
+                    <l n="4955"><lb n="1"/><w>Mit</w><w>ir</w><w>sweſter</w><w>lozte</w></l>
+                    <l n="4956"><lb n="2"/><w>da</w><w>sprach</w><w>der</w><w>si</w><w>da</w><w>troſte</w></l>
+                </lg>
+                <lg>
+                    <l n="4957"><lb n="3"/><w>der</w><w>ritter</w><w>der</w><w>dez</w><w>lew<choice><am>ē</am><ex>en</ex></choice></w><w>phlag</w></l>
+                    <l n="4958"><lb n="4"/><w>ez</w><w>iz</w><w>war</w><w>ob</w><w>ich</w><w>mag</w></l>
+                </lg>
+                <lg>
+                    <l n="4959"><lb n="5"/><w>Ich</w><w><gap ana="hc:Illegible" n="2" unit="chars"/>dgen</w><w><choice><orig>v</orig><reg>u</reg></choice>nser</w><w>geſellen</w></l>
+                    <l n="4960"><lb n="6"/><w>got</w><w>soll</w><w>diſſen</w><w>vellen</w></l>
+                </lg>
+                <lg>
+                    <l n="4961"><lb n="7"/><w>Er</w><w>iſt</w><w>ain</w><w><choice><orig>v</orig><reg>u</reg></choice>ngſchaiden</w><w>man</w></l>
+                    <l n="4962"><lb n="8"/><w>o<choice><orig>v</orig><reg>u</reg></choice>ch</w><w>ſterket</w><w>vaſt</w><w>dar</w><w>an</w></l>
+                </lg>
+                <lg>
+                    <l n="4963"><lb n="9"/><w><choice><orig>v</orig><reg>u</reg></choice>wr</w><w/><w/><w/><w/><w/></l>
+                    <l n="4964"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="4965"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="4966"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="4967"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="4968"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="4969"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="4970"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="4971"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="4972"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="4973"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="4974"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="4975"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="4976"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="4977"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="4978"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="4979"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="4980"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="4981"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="4982"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="4983"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="4984"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="4985"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="4986"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="4987"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="4988"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="4989"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="4990"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="4991"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="4992"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="4993"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="4994"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="4995"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="4996"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="4997"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="4998"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="4999"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="5000"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="5001"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="5002"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="5003"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="5004"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="5005"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="5006"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="5007"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="5008"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="5009"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="5010"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="5011"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="5012"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="5013"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="5014"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="5015"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="5016"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="5017"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="5018"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="5019"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="5020"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="5021"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="5022"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="5023"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="5024"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="5025"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="5026"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="5027"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="5028"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="5029"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="5030"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="5031"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="5032"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="5033"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="5034"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="5035"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="5036"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="5037"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="5038"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="5039"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="5040"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="5041"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="5042"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="5043"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="5044"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="5045"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="5046"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="5047"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="5048"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="5049"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="5050"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="5051"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="5052"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="5053"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="5054"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="5055"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="5056"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="5057"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="5058"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="5059"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="5060"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="5061"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="5062"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="5063"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="5064"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="5065"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="5066"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="5067"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="5068"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="5069"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="5070"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="5071"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="5072"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="5073"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="5074"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="5075"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="5076"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="5077"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="5078"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="5079"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="5080"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="5081"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="5082"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="5083"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="5084"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="5085"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="5086"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="5087"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="5088"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="5089"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="5090"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="5091"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="5092"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="5093"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="5094"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="5095"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="5096"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="5097"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="5098"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="5099"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="5100"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+            </div>
+        </body>
+    </text>
+</TEI>
