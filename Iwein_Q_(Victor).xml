@@ -1,8 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://digi.ub.uni-heidelberg.de/schema/tei/heiEDITIONS/tei_hes.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://digi.ub.uni-heidelberg.de/schema/tei/heiEDITIONS/tei_hes.rng" type="application/xml"
-	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" ana="hc:IWDDocument">
+<?xml-model href="https://digi.ub.uni-heidelberg.de/schema/tei/heiEDITIONS/tei_hes.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:hei="https://digi.ub.uni-heidelberg.de/schema/tei/heiEDITIONS" ana="hc:IWDDocument">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -29,6 +28,11 @@
             </sourceDesc>
         </fileDesc>
     </teiHeader>
+    <facsimile>
+        <surface ana="hc:Page">
+            <zone ana="hc:Column"></zone>
+        </surface>
+    </facsimile>
     <text ana="hc:CourtlyRomance hc:ExpressionFragmentThroughLoss">
         <body>
             <div>
@@ -39,7 +43,7 @@
                     <l n="4914"><lb n="2"/><w>Nun</w><w>ſchied</w><w>den</w><w>zwifel</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>die</w><w>clage</w></l>
                 </lg>
                 <lg>
-                    <l n="4915"><lb n="3"/><w>der</w><w>groz</w><w>riſed</w><w>dez</w><w>si</w><w>da</w><w>biten</w></l>
+                    <l n="4915"><lb n="3"/><w>der</w><w>groz</w><w>riſe</w><w>dez</w><w>si</w><w>da</w><w>biten</w></l>
                     <l n="4916"><lb n="4"/><w>der</w><w>kam</w><w>dort</w><w>her</w><w>gritten</w></l>
                 </lg>
                 <lg>
@@ -144,271 +148,241 @@
                 </lg>
                 <lg>
                     <l n="4967"><lb n="13"/><w>Nit</w><w>wil</w><w>geniezzen</w><w>lan</w></l>
-                    <l n="4968"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="4968"><lb n="14"/><w>w<gap ana="hc:Illegible" n="2" unit="chars"/></w><w>si</w><w>im</w><w><choice><orig>i</orig><reg>j</reg></choice>och</w><w>hettint</w><w>getan</w></l>
                 </lg>
                 <lg>
-                    <l n="4969"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4970"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="4969"><lb n="15"/><w>Ich</w><gap ana="hc:Illegible" n="2" unit="chars"/><w>ſol</w><w>keinen</w><w>man</w><w>ſchelten</w></l>
+                    <l n="4970"><lb n="16"/><w>doch</w><gap ana="hc:Illegible" n="1" unit="words"/><w>er</w><w>engelt<choice><am>ē</am><ex>en</ex></choice></w></l>
                 </lg>
                 <lg>
-                    <l n="4971"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4972"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="4971"><lb n="17"/><w>Siner</w><w><choice><orig>v</orig><reg>u</reg></choice>ngewizz<choice><am>ē</am><ex>en</ex></choice>hait</w></l>
                 </lg>
                 <lg>
-                    <l n="4973"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4974"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="4973"><lb n="18"/><w>Er</w><w>het</w><w>in</w><w>kurz<choice><am>ē</am><ex>en</ex></choice></w><w>ſtunden</w></l>
+                    <l n="4974"><lb n="19"/><w>den</w><w>helm</w><w><choice><orig>v</orig><reg>u</reg></choice>f</w><w>gebunden</w></l>
                 </lg>
                 <lg>
-                    <l n="4975"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4976"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="4975"><lb n="20"/><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>w<choice><am>z</am><ex>az</ex></choice></w><w>vil</w><w>ſchier</w><w>berait</w></l>
+                    <l n="4976"><lb n="21"/><w>d<choice><am>z</am><ex>az</ex></choice></w><w>lert</w><w>in</w><w>die</w><w>gewonhait</w></l>
                 </lg>
                 <lg>
-                    <l n="4977"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4978"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="4977"><lb n="22"/><w>Sin</w><w>ros</w><w>ſah</w><w>er</w><w>bi</w><w>im</w><w>ſtan</w></l>
+                    <l n="4978"><lb n="23"/><w>er</w><w>hiez</w><w>die</w><w>burg</w><w>nider</w><w>lan</w></l>
                 </lg>
                 <lg>
-                    <l n="4979"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4980"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="4979"><lb n="24"/><w>Er</w><w>sprach</w><w>ez</w><w>ſol</w><w>ſich</w><w>schaid<choice><am>ē</am><ex>en</ex></choice></w></l>
+                    <l n="4980"><lb n="25"/><w><choice><orig>v</orig><reg>u</reg></choice>nſer</w><w>ain<choice><am>ē</am><ex>em</ex></choice></w><w>ald</w><w>baiden</w></l>
                 </lg>
                 <lg>
-                    <l n="4981"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4982"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="4981"><lb n="26"/><w>Na<gap ana="hc:Illegible" n="2" unit="chars"/></w><w>ſchaden</w><w>ald</w><w>nach</w><w>ſchanden</w></l>
+                    <l n="4982"><lb n="27"/><w>I<gap ana="hc:Illegible" n="2" unit="chars"/></w><w>getruw</w><w>ez</w><w>min<choice><am>ē</am><ex>en</ex></choice></w><w>handen</w></l>
                 </lg>
                 <lg>
-                    <l n="4983"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4984"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="4983"><lb n="28"/><w>d<choice><am>z</am><ex>az</ex></choice></w><gap ana="hc:Illegible" n="1" unit="words"/><w>sin</w><w>dro</w><w>genider</w></l>
+                    <l n="4984"><lb n="29"/><w>d<choice><am>z</am><ex>az</ex></choice></w><gap ana="hc:Illegible" n="2" unit="words"/><w>er</w><w>müz</w><w>ẇ</w><w>wider</w></l>
                 </lg>
                 <lg>
-                    <l n="4985"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4986"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="4985"><lb n="30"/><w>ẇer</w><w>kint</w><w>geſunt</w><w>geben</w></l>
+                    <l n="4986"><lb n="31"/><w>a<gap ana="hc:Illegible" n="4" unit="chars"/></w><w>nimt</w><w>mir</w><w>d<choice><am>z</am><ex>az</ex></choice></w><w>leben</w></l>
                 </lg>
                 <lg>
-                    <l n="4987"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4988"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="4989"><lb n="32"/><w>Su<gap ana="hc:Illegible" n="2" unit="chars"/></w><w>waz</w><w>im</w><w>an</w><w>d<choice><am>ē</am><ex>em</ex></choice></w><w>riſen</w><w>gach</w></l>
+                    <l n="4990"><lb n="33"/><w>Sin</w><gap ana="hc:Illegible" n="1" unit="words"/><w><choice><orig>u</orig><reg>v</reg></choice>olget</w><w>im</w><w>allez</w><w>nach</w></l>
                 </lg>
                 <lg>
-                    <l n="4989"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4990"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="4991"><lb n="34"/><w>Do</w><w>in</w><w>der</w><w>riſe</w><w>kom<choice><am>ē</am><ex>en</ex></choice></w><w>sah</w></l>
+                    <l n="4992"><lb n="35"/><w>D<choice><am>z</am><ex>az</ex></choice></w><w>w<choice><am>z</am><ex>az</ex></choice></w><w>ſin</w><w>ſpot</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>s<choice><am>pᷓ</am><ex>pra</ex></choice>ch</w></l>
                 </lg>
                 <lg>
-                    <l n="4991"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4992"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="4993"><lb n="36"/><w>owe</w><w>ir</w><w>vil</w><w>t<choice><am>ū</am><ex>um</ex></choice>mer</w><w>man</w></l>
+                    <l n="4994"><lb n="37"/><w>we<gap ana="hc:Perforated" n="1" unit="chars"/></w><w>welt</w><w>ir</w><w>w</w><w>nem<choice><am>ē</am><ex>en</ex></choice></w><w>an</w></l>
                 </lg>
                 <lg>
-                    <l n="4993"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4994"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="4995"><lb n="38"/><w>d<choice><am>z</am><ex>az</ex></choice></w><gap ana="hc:Perforated" n="1" unit="words"/><w>als</w><w><choice><orig>v</orig><reg>u</reg></choice>n<choice><am>g͛</am><ex>ger</ex></choice>n</w><w>lebent</w></l>
+                    <l n="4996"><lb n="39"/><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>suſt</w><w>nach</w><w>dem</w><w>tot</w><w>ſtrebet</w></l>
                 </lg>
                 <lg>
-                    <l n="4995"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4996"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="4997"><lb n="40"/><w>d<choice><am>z</am><ex>az</ex></choice></w><gap ana="hc:Perforated" n="1" unit="words"/><w>ain</w><w><choice><orig>v</orig><reg>u</reg></choice>nwiſer</w><w>rat</w></l>
+                    <l n="4998"><lb n="41"/><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w><gap ana="hc:Perforated" n="1" unit="chars"/>er</w><w>w</w><w>d<choice><am>z</am><ex>az</ex></choice></w><w>geraten</w><w>hat</w></l>
                 </lg>
+                <pb n="1v"/>
+                <cb n="a"/>
                 <lg>
-                    <l n="4997"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4998"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="4999"><lb n="1"/><w>dem</w><w>iſt</w><w>vwer</w><w>leben</w><w>lait</w></l>
+                    <l n="5000"><lb n="2"/><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>wil</w><w>hich</w><w>mit</w><w>der</w><w>warhait</w></l>
                 </lg>
                 <lg>
-                    <l n="4999"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="5000"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="5001"><lb n="3"/><w>sich</w><w>wol</w><w>an</w><w>w</w><w>rerochen</w><w>han</w></l>
+                    <l n="5002"><lb n="4"/><w>waz</w><w>ir</w><w>im</w><w>laidez</w><w>habt</w><w>getan</w></l>
                 </lg>
                 <lg>
-                    <l n="5001"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="5002"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="5003"><lb n="5"/><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>hat</w><w>ſich</w><w>och</w><w>geroch<choice><am>ē</am><ex>en</ex></choice></w><w>wol</w></l>
+                    <l n="5004"><lb n="6"/><w>wan</w><w>ich</w><w>d<choice><am>z</am><ex>az</ex></choice></w><w>ſhier</w><w>chaffen</w><w>ſoll</w></l>
                 </lg>
                 <lg>
-                    <l n="5003"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="5004"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="5005"><lb n="7"/><w>d<choice><am>z</am><ex>az</ex></choice></w><w>ir</w><w>nimmer</w><w>me</w><w>getuͦt</w></l>
+                    <l n="5006"><lb n="8"/><w join="right">en</w><w join="left">weder</w><w><choice><orig>v</orig><reg>u</reg></choice>bel</w><w>noch</w><w>guͦt</w></l>
                 </lg>
                 <lg>
-                    <l n="5005"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="5006"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="5007"><lb n="9"/><w><supplied><hei:initial ana="hc:Lombard" hei:heightLines="2">D</hei:initial></supplied>ez</w><w>antwurt</w><w>im</w><w>her</w><w>ywein</w><w>so</w></l>
+                    <l n="5008"><lb n="10"/><w>herre</w><w>waz</w><w>duͦht</w><w>diſe</w><w>dro</w></l>
                 </lg>
                 <lg>
-                    <l n="5007"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="5008"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="5009"><lb n="11"/><w>lat</w><w>die</w><w>red</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>tuͦt</w><w>dw</w><w>werch</w></l>
+                    <l n="5010"><lb n="12"/><w>oder</w><w>ich</w><w>entſizz</w><w>ain</w><w>twerch</w></l>
                 </lg>
                 <lg>
-                    <l n="5009"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="5010"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="5011"><lb n="13"/><w>harter</w><w>danne</w><w>wer</w><w>grozzen</w><w>lip</w></l>
+                    <l n="5012"><lb n="14"/><w>lat</w><w>ſchelten</w><w><choice><orig>v</orig><reg>u</reg></choice>ngezogenw</w><w>wip</w></l>
                 </lg>
                 <lg>
-                    <l n="5011"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="5012"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="5013"><lb n="15"/><w>Die</w><w>mug<choice><am>ē</am><ex>en</ex></choice>t</w><w>nit</w><w>gevehten</w></l>
+                    <l n="5014"><lb n="16"/><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>wil</w><w>sin</w><w><choice><orig>v</orig><reg>u</reg></choice>nſer</w><w>træhtin</w></l>
                 </lg>
                 <lg>
-                    <l n="5013"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="5014"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="5015"><lb n="17"/><w>Nach</w><w>reht<choice><am>ē</am><ex>em</ex></choice></w><w>gerihte</w><w>phlegen</w></l>
+                    <l n="5016"><lb n="18"/><w>So</w><w>ſind</w><w>ir</w><w>ſchier</w><w>gelegen</w></l>
                 </lg>
                 <lg>
-                    <l n="5015"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="5016"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="5017"><lb n="19"/><w>Nun</w><w>het</w><w>dem</w><w>riſen</w><w>geſait</w></l>
+                    <l n="5018"><lb n="20"/><w>Sin</w><w>ſterk</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>sin</w><w>manhait</w></l>
                 </lg>
                 <lg>
-                    <l n="5017"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="5018"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="5019"><lb n="21"/><w>waz</w><w>gewæffen</w><w>im</w><w>solte</w></l>
+                    <l n="5020"><lb n="22"/><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>wer</w><w>im</w><w>geſchaden</w><w>mohte</w></l>
                 </lg>
                 <lg>
-                    <l n="5019"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="5020"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="5021"><lb n="23"/><w>In</w><w>duht</w><w>er</w><w>hetti</w><w>gewæffenz</w><w>gnuͦg</w></l>
+                    <l n="5022"><lb n="24"/><w>an</w><w>ainer</w><w>ſtang</w><w>die</w><w>er</w><w>truͦg</w></l>
                 </lg>
                 <lg>
-                    <l n="5021"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="5022"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="5023"><lb n="25"/><w>dez</w><w>vrout</w><w>ſich</w><w>her</w><w>ywein</w></l>
+                    <l n="5024"><lb n="26"/><w>d<choice><am>z</am><ex>az</ex></choice></w><w>er</w><w>az</w><w><choice><orig>v</orig><reg>u</reg></choice>ngewaffent</w><w>ſchain</w></l>
                 </lg>
                 <lg>
-                    <l n="5023"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="5024"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="5025"><lb n="27"/><w><choice><orig>v</orig><reg>u</reg></choice>nder</w><w>den</w><w>arm</w><w>ſcluͦg</w><w>er</w></l>
+                    <l n="5026"><lb n="28"/><w>Mit</w><w>guͦtem</w><w>willez</w><w>d<choice><am>z</am><ex>az</ex></choice></w><w>ſper</w></l>
                 </lg>
                 <lg>
-                    <l n="5025"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="5026"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="5027"><lb n="29"/><w>Er</w><w>nam</w><w>d<choice><am>z</am><ex>az</ex></choice></w><w>ors</w><w>mit</w><w>sporn</w></l>
+                    <l n="5028"><lb n="30"/><w>d<choice><am>z</am><ex>az</ex></choice></w><w>het</w><w>er</w><w><choice><orig>v</orig><reg>u</reg></choice>f</w><w>die</w><w><choice><orig>i</orig><reg>j</reg></choice>uſt</w><w>erkorn</w></l>
                 </lg>
                 <lg>
-                    <l n="5027"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="5028"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="5029"><lb n="31"/><w>er</w><w>ſtach</w><w>ir</w><w>ainen</w><w>ſölchen</w><w>ſtich</w></l>
+                    <l n="5030"><lb n="32"/><w>d<choice><am>z</am><ex>az</ex></choice></w><w>die</w><w>iſnin</w><w>gle<choice><orig>u</orig><reg>v</reg></choice>e</w><w>sich</w></l>
                 </lg>
                 <lg>
-                    <l n="5029"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="5030"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="5031"><lb n="33"/><w>lozte</w><w>von</w><w>dem</w><w>ſchafte</w></l>
+                    <l n="5032"><lb n="34"/><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>im</w><w>in</w><w>den</w><w>lip</w><w>hafte</w></l>
                 </lg>
                 <lg>
-                    <l n="5031"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="5032"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="5033"><lb n="35"/><w>och</w><w>ſcluͦg</w><w>im</w><w>der</w><w>riſe</w><w>ainen</w><w>ſclag</w></l>
+                    <l n="5034"><lb n="36"/><w>d<choice><am>z</am><ex>az</ex></choice></w><w>ich</w><w>d<choice><am>z</am><ex>az</ex></choice></w><w>wol</w><w>sag<choice><am>ē</am><ex>en</ex></choice></w><w>mag</w></l>
                 </lg>
                 <lg>
-                    <l n="5033"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="5034"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="5035"><lb n="37"/><w>het</w><w>in</w><w>d<choice><am>z</am><ex>az</ex></choice></w><w>ros</w><w>nit</w><w>fu̇r</w><w>getragen</w></l>
+                    <l n="5036"><lb n="38"/><w>D<choice><am>z</am><ex>az</ex></choice></w><w>er</w><w>im</w><w>het</w><w>geſclagen</w></l>
                 </lg>
                 <lg>
-                    <l n="5035"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="5036"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="5037"><lb n="39"/><w>ainen</w><w>ſclag</w><w>als</w><w>er</w><w>da</w><w>ſcluͦg</w></l>
+                    <l n="5038"><lb n="40"/><w>d<choice><am>z</am><ex>az</ex></choice></w><w>er</w><w>ſin</w><w><choice><am>ȳ</am><ex>ym</ex></choice>mer</w><w>het</w><w>genuͦg</w></l>
                 </lg>
                 <lg>
-                    <l n="5037"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="5038"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="5039"><lb n="41"/><w>do</w><w>truͦg</w><w>in</w><w>d<choice><am>z</am><ex>az</ex></choice></w><w>ros</w><w>dan</w></l>
+                    <l n="5040"><lb n="42"/><w><choice><orig>v</orig><reg>u</reg></choice>nz</w><w>d<choice><am>z</am><ex>az</ex></choice></w><w>er</w><w>d<choice><am>z</am><ex>az</ex></choice></w><w>swert</w><w>gewan</w></l>
                 </lg>
                 <lg>
-                    <l n="5039"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="5040"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="5041"><lb n="43"/><w>suſt</w><w>kert</w><w>er</w><w>g<choice><am>ē</am><ex>en</ex></choice></w><w>im</w><w>hin</w></l>
+                    <l n="5042"><lb n="44"/><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>geſtu̇rt</w><w>in</w><w>dez</w><gap ana="hc:Illegible" n="2" unit="chars"/><w>sin</w></l>
                 </lg>
+                <cb n="b"/>
                 <lg>
-                    <l n="5041"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="5042"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="5043"><lb n="1"/><w>Si<gap ana="hc:Perforated" n="1" unit="chars"/></w><w>kraft</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>sin</w><w>manhait</w></l>
+                    <l n="5044"><lb n="2"/><w>d<choice><am>z</am><ex>az</ex></choice></w><w>er</w><w>wider</w><w><choice><orig>v</orig><reg>u</reg></choice>f</w><w>in</w><w>rait</w></l>
                 </lg>
                 <lg>
-                    <l n="5043"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="5044"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="5045"><lb n="3"/><w>d<choice><am>z</am><ex>az</ex></choice></w><w>er</w><w>im</w><w>ain</w><w>wunden</w><w>ſcluͦg</w></l>
+                    <l n="5046"><lb n="4"/><w>Do</w><w>in</w><w>d<choice><am>z</am><ex>az</ex></choice></w><w>ors</w><w>do</w><w>fu̇r</w><w>truͦg</w></l>
                 </lg>
                 <lg>
-                    <l n="5045"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="5046"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="5047"><lb n="5"/><w>do</w><w>ſclug</w><w>im</w><w>der</w><w>ris</w><w>ainen</w><w>slag</w></l>
+                    <l n="5048"><lb n="6"/><w>d<choice><am>z</am><ex>az</ex></choice></w><w>er</w><w>da</w><w>geſtrekt</w><w>lag</w></l>
                 </lg>
                 <lg>
-                    <l n="5047"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="5048"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="5049"><lb n="7"/><w>vor</w><w><choice><orig>v</orig><reg>u</reg></choice>f</w><w>dem</w><w>ros</w><w>fu̇r</w><w>tot</w></l>
+                    <l n="5050"><lb n="8"/><w>N<choice><orig>v</orig><reg>u</reg></choice>n</w><w>erſah</w><w>der</w><w>lewe</w><w>die</w><w>not</w></l>
                 </lg>
                 <lg>
-                    <l n="5049"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="5050"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="5051"><lb n="9"/><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>lief</w><w><choice><orig>v</orig><reg>u</reg></choice>ngefuͦgen</w><w>man</w></l>
+                    <l n="5052"><lb n="10"/><w>vil</w><w><choice><orig>v</orig><reg>u</reg></choice>nſitlichen</w><w>an</w></l>
                 </lg>
                 <lg>
-                    <l n="5051"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="5052"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="5053"><lb n="11"/><w>er</w><w>zarte</w><w>im</w><w>claider</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>brat</w></l>
+                    <l n="5054"><lb n="12"/><w>als</w><w>lang</w><w>so</w><w>der</w><w>ruge</w><w>gat</w></l>
                 </lg>
                 <lg>
-                    <l n="5053"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="5054"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="5055"><lb n="13"/><w>von</w><w>der</w><w>ahſeln</w><w>her</w><w>abe</w></l>
+                    <l n="5056"><lb n="14"/><w>d<choice><am>z</am><ex>az</ex></choice></w><w>der</w><w><choice><orig>v</orig><reg>u</reg></choice>ngefuͦge</w><w>knabe</w></l>
                 </lg>
                 <lg>
-                    <l n="5055"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="5056"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="5057"><lb n="15"/><w>als</w><w>ain</w><w>ohſe</w><w>erluͦte</w></l>
+                    <l n="5058"><lb n="16"/><w>N<choice><orig>v</orig><reg>u</reg></choice>n</w><w>zoh</w><w>er</w><w>die</w><w>Ruͦte</w></l>
                 </lg>
                 <lg>
-                    <l n="5057"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="5058"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="5059"><lb n="17"/><w>die</w><w>er</w><w join="right">ze</w><w join="left">wer</w><w>truͦg</w></l>
+                    <l n="5060"><lb n="18"/><w>nah</w><w>dem</w><w>lew<choice><am>ē</am><ex>en</ex></choice></w><w>er</w><w>ſcluͦg</w></l>
                 </lg>
                 <lg>
-                    <l n="5059"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="5060"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="5061"><lb n="19"/><w>Do</w><w>entwaich</w><w>im</w><w>der</w><w>lewe</w><w>dan</w></l>
+                    <l n="5062"><lb n="20"/><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w join="right">en</w><w join="left">traf</w><w>weder</w><w>lewen</w><w>noch</w><w>man</w></l>
                 </lg>
                 <lg>
-                    <l n="5061"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="5062"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="5063"><lb n="21"/><w>Im</w><w>wart</w><w>z<choice><orig>vͦ</orig><reg>uͦ</reg></choice></w><w>dem</w><w>ſclag</w><w>als</w><w>gach</w></l>
+                    <l n="5064"><lb n="22"/><w>d<choice><am>z</am><ex>az</ex></choice></w><w>er</w><w>ſich</w><w>naichte</w><w>dar</w><w>nach</w></l>
                 </lg>
                 <lg>
-                    <l n="5063"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="5064"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="5065"><lb n="23"/><w>d<choice><am>z</am><ex>az</ex></choice></w><w>er</w><w>vil</w><w>nach</w><w>da</w><w>nider</w><w>gelag</w></l>
+                    <l n="5066"><lb n="24"/><w>E</w><w>er</w><w>zug</w><w>den</w><w>andern</w><w>sclag</w></l>
                 </lg>
                 <lg>
-                    <l n="5065"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="5066"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="5067"><lb n="25"/><w>Do</w><w>het</w><w>sich</w><w>der</w><w>her</w><w>ywein</w></l>
+                    <l n="5068"><lb n="26"/><w>Mit</w><w>vil</w><w>grozz<choice><am>ē</am><ex>en</ex></choice></w><w>wunden</w><w>zwein</w></l>
                 </lg>
                 <lg>
-                    <l n="5067"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="5068"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="5069"><lb n="27"/><w>an</w><w>im</w><w>vil</w><w>wol</w><w>gerochen</w></l>
+                    <l n="5070"><lb n="28"/><w>och</w><w>het</w><w>er</w><w>d<choice><am>z</am><ex>az</ex></choice></w><w>sper</w><w>geſtoch<choice><am>ē</am><ex>en</ex></choice></w></l>
                 </lg>
                 <lg>
-                    <l n="5069"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="5070"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="5071"><lb n="29"/><w>da</w><w>engegen</w><w>dz</w><w>herz</w><w>lit</w></l>
+                    <l n="5072"><lb n="30"/><w>suſt</w><w>w<choice><am>z</am><ex>az</ex></choice></w><w>geendet</w><w>der</w><w>strit</w></l>
                 </lg>
                 <lg>
-                    <l n="5071"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="5072"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="5073"><lb n="31"/><w>er</w><w>viel</w><w>von</w><w>der</w><w>sware</w></l>
+                    <l n="5074"><lb n="32"/><w>als</w><w>er</w><w>ain</w><w>bom</w><w>wȧre</w></l>
                 </lg>
                 <lg>
-                    <l n="5073"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="5074"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="5075"><lb n="33"/><w>von</w><w>dez</w><w>riſen</w><w>valle</w></l>
+                    <l n="5076"><lb n="34"/><w>vrowtent</w><w>si</w><w>ſich</w><w>alle</w></l>
                 </lg>
                 <lg>
-                    <l n="5075"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="5076"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="5077"><lb n="35"/><w>Den</w><w>wol</w><w>dar</w><w>an</w><w>w<choice><am>z</am><ex>az</ex></choice></w><w>geſcheh<choice><am>ē</am><ex>en</ex></choice></w></l>
+                    <l n="5078"><lb n="36"/><w>si</w><w>hettent</w><w>gutes</w><w>hail</w><w>geſehen</w></l>
                 </lg>
                 <lg>
-                    <l n="5077"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="5078"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="5079"><lb n="37"/><w>den</w><w>ritter</w><w>der</w><w>dez</w><w>lewen</w><w>phlag</w></l>
+                    <l n="5080"><lb n="38"/><w>wan</w><w>ſi</w><w>lebt<choice><am>ē</am><ex>en</ex></choice>t</w><w>fur</w><w>d<damage ana="hc:Stained">e</damage>n</w><w>tag</w></l>
                 </lg>
                 <lg>
-                    <l n="5079"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="5080"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="5081"><lb n="39"/><w>ane</w><w>angſt</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>ane</w><w>not</w></l>
+                    <l n="5082"><lb n="40"/><w>Do</w><w>der</w><w>riſ</w><w>gelag</w><w>tot</w></l>
                 </lg>
                 <lg>
-                    <l n="5081"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="5082"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="5083"><lb n="41"/><w>dez</w><w>wart</w><w>im</w><w>gnaden</w><w>gn<damage ana="hc:Perforated">uͦ</damage>g</w></l>
+                    <l n="5084"><lb n="42"/><w>hern</w><w>ywein</w><w>der</w><w>in</w><w>da</w><w>ſcluͦg</w></l>
                 </lg>
                 <lg>
-                    <l n="5083"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="5084"><lb/><w/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="5085"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="5086"><lb/><w/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="5087"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="5088"><lb/><w/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="5089"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="5090"><lb/><w/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="5091"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="5092"><lb/><w/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="5093"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="5094"><lb/><w/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="5095"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="5096"><lb/><w/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="5097"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="5098"><lb/><w/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="5099"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="5100"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="5085"><lb n="43"/><w>N<choice><orig>v</orig><reg>u</reg></choice>n</w><w>gert</w><w>er</w><w><choice><orig>v</orig><reg>u</reg></choice>rlobez</w><w>sa</w></l>
+                    <l n="5086"><lb n="44"/><w>wan</w><w>er</w><w join="right">en</w><w join="left">he</w><w>da</w></l>
                 </lg>
             </div>
         </body>
