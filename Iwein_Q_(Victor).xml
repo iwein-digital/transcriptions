@@ -29,8 +29,15 @@
         </fileDesc>
     </teiHeader>
     <facsimile>
-        <surface ana="hc:Page">
-            <zone ana="hc:Column"></zone>
+        <surface ana="hc:Page" xml:id="Q_1r" n="1r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/adfp_6050_V_7_k_nr_3/0001/image"/>
+            <zone ana="hc:Column" xml:id="Q_1r-a" n="1r-a"/>
+            <zone ana="hc:Column" xml:id="Q_1r-b" n="1r-b"/>
+        </surface>
+        <surface ana="hc:Page" xml:id="Q_1v" n="1v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/adfp_6050_V_7_k_nr_3/0002/image"/>
+            <zone ana="hc:Column" xml:id="Q_1v-a" n="1v-a"/>
+            <zone ana="hc:Column" xml:id="Q_1v-b" n="1v-b"/>
         </surface>
     </facsimile>
     <text ana="hc:CourtlyRomance hc:ExpressionFragmentThroughLoss">
