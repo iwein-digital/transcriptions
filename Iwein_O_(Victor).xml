@@ -1,0 +1,754 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://digi.ub.uni-heidelberg.de/schema/tei/heiEDITIONS/tei_hes.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://digi.ub.uni-heidelberg.de/schema/tei/heiEDITIONS/tei_hes.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:hei="https://digi.ub.uni-heidelberg.de/schema/tei/heiEDITIONS"  ana="hc:IWDDocument">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Iwein-Fragm. O</title>
+                <author>Hartmann von Aue</author>
+                <respStmt>
+                    <resp>transcription</resp>
+                    <persName>Victor Millet</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>UB Heidelberg</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="O">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Wien</settlement>
+                                <repository>Österreichische Nationalbibliothek</repository>
+                                <idno>Cod. Ser. nova 316</idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <listPrefixDef>
+                <prefixDef ident="hc" matchPattern="(.+)" replacementPattern="https://lod.ub.uni-heidelberg.de/ontologies/heieditions/hc/current/$1"/>
+            </listPrefixDef>
+        </encodingDesc>
+    </teiHeader>
+    <text ana="hc:CourtlyRomance hc:ExpressionFragmentThroughLoss">
+        <body>
+            <div>
+                <pb n="1r"/>
+                <cb n="a"/>
+                <lg>
+                    <l n="6209"><lb n="1"/><gap ana="hc:CutOff" n="4" unit="chars"/><w>nger</w><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>vor</w><w>d<choice><orig>v</orig><reg>u</reg></choice>rſte</w><w>waſ</w></l>
+                    <l n="6210"><lb n="2"/><gap ana="hc:CutOff" n="4" unit="chars"/><w>z</w><w>in</w><w>ch<choice><orig>v</orig><reg>u</reg></choice>m</w><w>genaſ</w></l>
+                </lg>
+                <lg>
+                    <l n="6211"><lb n="3"/><gap ana="hc:CutOff" n="4" unit="chars"/><w>der</w><w>in</w><w>doch</w><w>nach</w><w>geſweich</w></l>
+                    <l n="6212"><lb n="4"/><gap ana="hc:CutOff" n="4" unit="chars"/><w>ren</w><w>mager</w><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>bleich</w><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6213"><lb n="5"/><gap ana="hc:CutOff" n="4" unit="chars"/><w>n</w><w>grozen</w><w><choice><orig>v</orig><reg>u</reg></choice>nrat</w><pc>·</pc></l>
+                    <l n="6214"><lb n="6"/><gap ana="hc:CutOff" n="4" unit="chars"/><w>n</w><w>libe</w><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w join="right">an</w><w join="left">der</w><w>wat</w><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6215"><lb n="7"/><gap ana="hc:CutOff" n="4" unit="chars"/><w>ren</w><w>bi</w><w>ir</w><w>fi<choice><orig>v</orig><reg>u</reg></choice>re</w><pc>·</pc></l>
+                    <l n="6216"><lb n="8"/><gap ana="hc:CutOff" n="4" unit="chars"/><w>r</w><w>wilen</w><w>ti<choice><orig>v</orig><reg>u</reg></choice>ere</w><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6217"><lb n="9"/><gap ana="hc:CutOff" n="4" unit="chars"/><w>ei<add hei:placeRef="hc:AboveLine">ſ</add>ch</w><w>z<choice><orig>vͦ</orig><reg>uͦ</reg></choice></w><w>den</w><w><subst><del rendition="hc:Adapted">w</del><add rendition="hc:Adapted">vi</add></subst>ſchen</w><pc>·</pc></l>
+                    <l n="6218"><lb n="10"/><gap ana="hc:CutOff" n="4" unit="chars"/><w>ſe</w><w>verwiſchen</w></l>
+                </lg>
+                <lg>
+                    <l n="6219"><lb n="11"/><gap ana="hc:CutOff" n="4" unit="chars"/><w>haft</w><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>ere</w><pc>·</pc></l>
+                    <l n="6220"><lb n="12"/><gap ana="hc:CutOff" n="4" unit="chars"/><w>gen</w><w>et</w><w>mit</w><w>ſere</w><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6221"><lb/><gap ana="hc:CutOff" n="4" unit="chars"/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6222"><lb/><gap ana="hc:CutOff" n="4" unit="chars"/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6223"><lb/><gap ana="hc:CutOff" n="4" unit="chars"/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6224"><lb/><gap ana="hc:CutOff" n="4" unit="chars"/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6225"><lb/><gap ana="hc:CutOff" n="4" unit="chars"/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6226"><lb/><gap ana="hc:CutOff" n="4" unit="chars"/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6227"><lb/><gap ana="hc:CutOff" n="4" unit="chars"/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6228"><lb/><gap ana="hc:CutOff" n="4" unit="chars"/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6229"><lb/><gap ana="hc:CutOff" n="4" unit="chars"/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6230"><lb/><gap ana="hc:CutOff" n="4" unit="chars"/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6231"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6232"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6233"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6234"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6235"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6236"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6237"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6238"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6239"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6240"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6241"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6242"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6243"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6244"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6245"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6246"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6247"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6248"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6249"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6250"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6251"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6252"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6253"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6254"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6255"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6256"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6257"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6258"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6259"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6260"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6261"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6262"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6263"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6264"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6265"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6266"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6267"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6268"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6269"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6270"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6271"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6272"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6273"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6274"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6275"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6276"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6277"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6278"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6279"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6280"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6281"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6282"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6283"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6284"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6285"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6286"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6287"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6288"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6289"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6290"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6291"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6292"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6293"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6294"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6295"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6296"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6297"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6298"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6299"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6300"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6301"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6302"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6303"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6304"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6305"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6306"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6307"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6308"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6309"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6310"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6311"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6312"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6313"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6314"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6315"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6316"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6317"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6318"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6319"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6320"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6321"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6322"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6323"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6324"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6325"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6326"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6327"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6328"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6329"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6330"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6331"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6332"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6333"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6334"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6335"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6336"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6337"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6338"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6339"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6340"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6341"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6342"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6343"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6344"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6345"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6346"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6347"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6348"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6349"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6350"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6351"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6352"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6353"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6354"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6355"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6356"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6357"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6358"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6359"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6360"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6361"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6362"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6363"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6364"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6365"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6366"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6367"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6368"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6369"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6370"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6371"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6372"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6373"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6374"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6375"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6376"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6377"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6378"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6379"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6380"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6381"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6382"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6383"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6384"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6385"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6386"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6387"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6388"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6389"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6390"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6391"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6392"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6393"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6394"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6395"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6396"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6397"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6398"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6399"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6400"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6401"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6402"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6403"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6404"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6405"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6406"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6407"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6408"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6409"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6410"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6411"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6412"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6413"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6414"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6415"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6416"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6417"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6418"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6419"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6420"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6421"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6422"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6423"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6424"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6425"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6426"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6427"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6428"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6429"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6430"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6431"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6432"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6433"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6434"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6435"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6436"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6437"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6438"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6439"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6440"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6441"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6442"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6443"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6444"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6445"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6446"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6447"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6448"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6449"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6450"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6451"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6452"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6453"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6454"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6455"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6456"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6457"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6458"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6459"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6460"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6461"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6462"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6463"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6464"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6465"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6466"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6467"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6468"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6469"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6470"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6471"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6472"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6473"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6474"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6475"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6476"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6477"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6478"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6479"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6480"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6481"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6482"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6483"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6484"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6485"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6486"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6487"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6488"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6489"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6490"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6491"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6492"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6493"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6494"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6495"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6496"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6497"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6498"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6499"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6500"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6501"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6502"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6503"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6504"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6505"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6506"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6507"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6508"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6509"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6510"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6511"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6512"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6513"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6514"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6515"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6516"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6517"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6518"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6519"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6520"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6521"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6522"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6523"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6524"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6525"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6526"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6527"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6528"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6529"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6530"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6531"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6532"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6533"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6534"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6535"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6536"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6537"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6538"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6539"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6540"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6541"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6542"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6543"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6544"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6545"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6546"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6547"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6548"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6549"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6550"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6551"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6552"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6553"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6554"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6555"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6556"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6557"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6558"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6559"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6560"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="6561"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                    <l n="6562"><lb/><w></w><w></w><w></w><w></w><w></w><w/><pc>·</pc></l>
+                </lg>
+            </div>
+        </body>
+    </text>
+</TEI>
