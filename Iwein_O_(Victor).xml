@@ -35,6 +35,30 @@
             </listPrefixDef>
         </encodingDesc>
     </teiHeader>
+    <facsimile>
+        <surface ana="hc:Page" xml:id="O_1r" n="1r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/onb_codsn_316/0005/image"/>
+            <zone ana="hc:Column" xml:id="O_1r-a" n="1r-a"/>
+            <zone ana="hc:Column" xml:id="O_1r-b" n="1r-b"/>
+        </surface>
+        <surface ana="hc:Page" xml:id="O_1v" n="1v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/onb_codsn_316/0006/image"/>
+            <zone ana="hc:Column" xml:id="O_1v-a" n="1v-a"/>
+            <zone ana="hc:Column" xml:id="O_1v-b" n="1v-b"/>
+        </surface>
+        <surface ana="hc:Page" xml:id="O_2r" n="2r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/onb_codsn_316/0007/image"/>
+            <zone ana="hc:Column" xml:id="O_2r-a" n="2r-a"/>
+            <zone ana="hc:Column" xml:id="O_2r-b" n="2r-b"/>
+            <zone ana="hc:MarginalZone" xml:id="O_2r-c"></zone>
+        </surface>
+        <surface ana="hc:Page" xml:id="O_2v" n="2v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/onb_codsn_316/0008/image"/>
+            <zone ana="hc:Column" xml:id="O_2v-a" n="2v-a"/>
+            <zone ana="hc:Column" xml:id="O_2v-b" n="2v-b"/>
+            <zone ana="hc:MarginalZone" xml:id="O_2v-c"></zone>
+        </surface>
+    </facsimile>
     <text ana="hc:CourtlyRomance hc:ExpressionFragmentThroughLoss">
         <body>
             <div>
@@ -224,7 +248,7 @@
                 <pb n="2r"/>
                 <cb n="a"/>
                 <lg>
-                <gap ana="hc:CutOff" n="1" unit="lines"/>
+                    <gap ana="hc:CutOff" n="1" unit="lines"/>
                     <l n="6476"><lb n="1"/><gap ana="hc:CutOff"/><w>wirt</w><w>den</w><w>gaſt</w><w>ſol</w></l>
                 </lg>
                 <lg>
@@ -269,7 +293,7 @@
                 </lg>
                 <cb n="b"/>
                 <lg>
-                    <gap ana="hc:CutOff" n="1" unit="lines"></gap>
+                    <gap ana="hc:CutOff" n="1" unit="lines"/>
                     <l n="6498"><lb n="1"/><w>nimer</w><w>mere</w><w>vinde</w><pc>·</pc></l>
                 </lg>
                 <lg>
@@ -312,9 +336,13 @@
                     <l n="6517"><lb n="20"/><w><hi rendition="hc:Versal">D</hi>o</w><w>ſich</w><w>ê</w><w>die</w><w>viere</w><pc>·</pc></l>
                     <l n="6518"><lb n="21"/><w>geſ<choice><orig>v</orig><reg>u</reg></choice>nderten</w><w>ſo</w><w>ſchiere</w><pc>·</pc></l>
                 </lg>
+                <milestone ana="hc:ZoneShift"/>
+                <p><w>Blaſiuͦs</w><w>feldegkher</w><w>eccleſiensus</w><w>pauper</w><lb/><w>et</w><w>humilis</w><w>multum</w><w>ſibi</w><w>imponunt</w><lb/><w>parvum</w><w>inuenit</w><w>et</w><w>habet</w></p>
+                <!-- Diese Notiz von späterer Hand und umgekehrt (von unten nach oben) -->
                 <pb n="2v"/>
+                <cb n="a"/>
+                <gap ana="hc:CutOff" n="1" unit="lines"/>
                 <lg>
-                    <gap ana="hc:CutOff" n="1" unit="lines"/>
                     <l n="6520"><lb n="1"/><w>geliche</w><w>ſin</w><w>geſcheiden</w><pc>·</pc></l>
                 </lg>
                 <lg>
@@ -358,50 +386,53 @@
                     <l n="6540"><lb n="21"/><w>ſi</w><w>ahten</w><w>et</w><w>ir</w><w>ſache</w><pc>·</pc></l>
                 </lg>
                 <cb n="b"/>
+                <gap ana="hc:CutOff" n="1" unit="lines"/>
                 <lg>
-                    <gap ana="hc:CutOff" n="1" unit="lines"></gap>
-                    <l n="6542"><lb/><w></w><w></w><w></w><w></w><w></w><w/><gap ana="hc:CutOff"/><pc>·</pc></l>
+                    <l n="6542"><lb n="1"/><w>n<choice><orig>v</orig><reg>u</reg></choice></w><w>waſ</w><w>ez</w><w>o<choice><orig>v</orig><reg>u</reg></choice>ch</w><w>ſo</w><w>ſpot</w><gap ana="hc:CutOff"/></l>
                 </lg>
                 <lg>
-                    <l n="6543"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><gap ana="hc:CutOff"/><pc>·</pc></l>
-                    <l n="6544"><lb/><w></w><w></w><w></w><w></w><w></w><w/><gap ana="hc:CutOff"/><pc>·</pc></l>
+                    <l n="6543"><lb n="2"/><w><hi rendition="hc:Versal"><damage ana="hc:Perforated">D</damage></hi>az</w><w>in</w><w>ein</w><w>bote</w><w>ſeite</w><pc>·</pc></l>
+                    <l n="6544"><lb n="3"/><w>daz</w><w>ezen</w><w>wart</w><w>gereite</w></l>
                 </lg>
                 <lg>
-                    <l n="6545"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><gap ana="hc:CutOff"/><pc>·</pc></l>
-                    <l n="6546"><lb/><w></w><w></w><w></w><w></w><w></w><w/><gap ana="hc:CutOff"/><pc>·</pc></l>
+                    <l n="6545"><lb n="4"/><w><choice><orig><hi rendition="hc:Versal"><choice><abbr><am>V</am></abbr><expan><ex><hi rendition="hc:Versal">V</hi>nd</ex></expan></choice></hi></orig><reg>und</reg></choice></w><w>giengen</w><w>ſi</w><w>o<choice><orig>v</orig><reg>u</reg></choice>ch</w><w>e</w><gap ana="hc:CutOff"/></l>
+                    <l n="6546"><lb n="5"/><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w join="right">en</w><w join="left">wart</w><w>deſ</w><w>niht</w><gap ana="hc:CutOff"/></l>
                 </lg>
                 <lg>
-                    <l n="6547"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><gap ana="hc:CutOff"/><pc>·</pc></l>
-                    <l n="6548"><lb/><w></w><w></w><w></w><w></w><w></w><w/><gap ana="hc:CutOff"/><pc>·</pc></l>
+                    <l n="6547"><lb n="6"/><w><hi rendition="hc:Versal">S</hi>i</w><w>b<choice><orig>v</orig><reg>u</reg></choice>ten</w><w>dem</w><w>gaſte</w><pc>·</pc></l>
+                    <l n="6548"><lb n="7"/><w>vollecklichen</w><w>vaſte</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="6549"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><gap ana="hc:CutOff"/><pc>·</pc></l>
-                    <l n="6550"><lb/><w></w><w></w><w></w><w></w><w></w><w/><gap ana="hc:CutOff"/><pc>·</pc></l>
+                    <l n="6549"><lb n="8"/><w><hi rendition="hc:Versal">A</hi>lſo</w><w>groze</w><w>ere</w><pc>·</pc></l>
+                    <l n="6550"><lb n="9"/><w>daz</w><w>er</w><w>nie</w><w>wirt</w><w>me</w><gap ana="hc:CutOff"/></l>
                 </lg>
                 <lg>
-                    <l n="6551"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><gap ana="hc:CutOff"/><pc>·</pc></l>
-                    <l n="6552"><lb/><w></w><w></w><w></w><w></w><w></w><w/><gap ana="hc:CutOff"/><pc>·</pc></l>
+                    <l n="6551"><lb n="10"/><w><hi rendition="hc:Versal">S</hi>inem</w><w>gaſte</w><w>baz</w><w>erb</w><gap ana="hc:CutOff"/></l>
+                    <l n="6552"><lb n="11"/><w>deſ</w><w>waſ</w><w>er</w><w>wert</w><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>w</w><gap ana="hc:CutOff"/></l>
                 </lg>
                 <lg>
-                    <l n="6553"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><gap ana="hc:CutOff"/><pc>·</pc></l>
-                    <l n="6554"><lb/><w></w><w></w><w></w><w></w><w></w><w/><gap ana="hc:CutOff"/><pc>·</pc></l>
+                    <l n="6553"><lb n="12"/><w><hi rendition="hc:Versal">D</hi>a</w><w>waſ</w><w>mir</w><w>volleklic</w><gap ana="hc:CutOff"/></l>
+                    <l n="6554"><lb n="13"/><w>wirde</w><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>wirt ſch</w><gap ana="hc:CutOff"/></l>
                 </lg>
                 <lg>
-                    <l n="6555"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><gap ana="hc:CutOff"/><pc>·</pc></l>
-                    <l n="6556"><lb/><w></w><w></w><w></w><w></w><w></w><w/><gap ana="hc:CutOff"/><pc>·</pc></l>
+                    <l n="6555"><lb n="14"/><w><hi rendition="hc:Versal">D</hi>ar</w><w><choice><orig>v</orig><reg>u</reg></choice>nder</w><w>gedaht</w><w>er</w><gap ana="hc:CutOff"/></l>
+                    <l n="6556"><lb n="15"/><w>ez</w><w>vert</w><w>allez</w><w>wol</w><w>n</w><gap ana="hc:CutOff"/></l>
                 </lg>
                 <lg>
-                    <l n="6557"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><gap ana="hc:CutOff"/><pc>·</pc></l>
-                    <l n="6558"><lb/><w></w><w></w><w></w><w></w><w></w><w/><gap ana="hc:CutOff"/><pc>·</pc></l>
+                    <l n="6557"><lb n="16"/><w><hi rendition="hc:Versal">N</hi><choice><orig>v</orig><reg>u</reg></choice></w><w>f<choice><orig>v</orig><reg>u</reg></choice>rchte</w><w>aber</w><w>ich</w><w>v</w><gap ana="hc:CutOff"/></l>
+                    <l n="6558"><lb n="17"/><w>daz</w><w>ich</w><w>diſe</w><w>groze</w><gap ana="hc:CutOff"/></l>
                 </lg>
                 <lg>
-                    <l n="6559"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><gap ana="hc:CutOff"/><pc>·</pc></l>
-                    <l n="6560"><lb/><w></w><w></w><w></w><w></w><w></w><w/><gap ana="hc:CutOff"/><pc>·</pc></l>
+                    <l n="6559"><lb n="18"/><w><hi rendition="hc:Versal">V</hi>il</w><w>tiwer</w><w>gælten</w><w>m<choice><orig>vͤ</orig><reg>uͤ</reg></choice>z</w><gap ana="hc:CutOff"/></l>
+                    <l n="6560"><lb n="19"/><w>der</w><w>antvanch</w><w>iſt</w><w>z</w><gap ana="hc:CutOff"/></l>
                 </lg>
                 <lg>
-                    <l n="6561"><lb/><w><hi rendition="hc:Versal"></hi></w><w></w><w></w><w></w><w></w><w/><gap ana="hc:CutOff"/><pc>·</pc></l>
-                    <l n="6562"><lb/><w></w><w></w><w></w><w></w><w></w><w/><gap ana="hc:CutOff"/><pc>·</pc></l>
+                    <l n="6561"><lb n="20"/><w><hi rendition="hc:Versal">A</hi>ls</w><w>mir</w><w><choice><am>d͛</am><ex>der</ex></choice></w><w>arge</w><w>ſchall</w><gap ana="hc:CutOff"/></l>
+                    <l n="6562"><lb n="21"/><w>der</w><w>mich</w><w>in</w><w>die</w><w>b<choice><orig>vͦ</orig><reg>uͦ</reg></choice>r</w><gap ana="hc:CutOff"/></l>
                 </lg>
+                <milestone ana="hc:ZoneShift"/>
+                <p><w>Non</w><w>meminit</w><w>dulcia</w><lb/><w>Qui</w><w>non</w><w>Gustauit</w><w>amara</w></p>
+                <!-- Diese Notiz von späterer Hand und umgekehrt (von unten nach oben) -->
             </div>
         </body>
     </text>
