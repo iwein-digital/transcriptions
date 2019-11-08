@@ -1,0 +1,260 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://digi.ub.uni-heidelberg.de/schema/tei/heiEDITIONS/tei_hes.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://digi.ub.uni-heidelberg.de/schema/tei/heiEDITIONS/tei_hes.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:hei="https://digi.ub.uni-heidelberg.de/schema/tei/heiEDITIONS" ana="hc:IWDDocument">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Iwein-Fragm. X1</title>
+                <author>Hartmann von Aue</author>
+                <respStmt>
+                    <resp>transcription</resp>
+                    <persName>Victor Millet</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>UB Heidelberg</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="X1"><msDesc>
+                        <msIdentifier>
+                            <settlement>Berlin</settlement>
+                            <repository>Staatsbibliothek zu Berlin – Preußischer Kulturbesitz</repository>
+                            <idno>Hs. 402</idno>
+                        </msIdentifier>
+                        </msDesc></witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text ana="hc:CourtlyRomance hc:ExpressionFragmentThroughLoss">
+        <body>
+            <div>
+                <pb n="1r"/>
+                <cb n="a"/>
+                <lg>
+                    <l n="3651"><lb n="1"/><w>harte</w><w>l<choice><orig>vͦ</orig><reg>uͦ</reg></choice>tzel</w><w>ane</w><w>ſchein</w><pc>·</pc></l>
+                    <l n="3652"><lb n="2"/><w>hie</w><w>hade</w><w>her</w><w><choice><orig>J</orig><reg>I</reg></choice>wein</w><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="3653"><lb n="3"/><w>Sine</w><w>not</w><w>uberwuͦnden</w><pc>·</pc></l>
+                    <l n="3654"><lb n="4"/><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>guͦden</w><w>wirt</w><w>fuͦnden</w><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="3655"><lb n="5"/><w><supplied><hei:initial ana="hc:Lombard" hei:heightLines="2">D</hei:initial></supplied>ie</w><w>frouͦwe</w><w>doch</w><w>nit</w><w>deſ</w><w><choice><am>v͛</am><ex>ver</ex></choice>gs</w></l>
+                </lg>
+                <gap ana="hc:CutOff" n="25" unit="lines"/>
+                <lg>
+                    <l n="3680"><lb n="6"/><gap ana="hc:CutOff"/><w>truͦ</w></l>
+                </lg>
+                <lg>
+                    <l n="3681"><lb n="7"/><w>doch</w><w>zornete</w><w>ſie</w><w>ein</w><w>deil</w><pc>·</pc></l>
+                    <l n="3682"><w>heil</w><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w><choice><orig>v</orig><reg>u</reg></choice>nheil</w><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="3683"><lb n="8"/><w>die</w><w>ſint</w><w>mir</w><w>geſchehen</w><pc>·</pc></l>
+                    <l n="3684"><lb n="9"/><w><choice><am>d͛</am><ex>der</ex></choice></w><w>mag</w><w>ich</w><w>wol</w><w>beider</w><w>i<add hei:placeRef="hc:AboveLine">e</add>hen</w><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="3685"><lb n="10"/><w>den</w><w>ſchaden</w><w>ſoln</w><w>wir</w><w><choice><am>v͛</am><ex>ver</ex></choice>klagen</w><pc>·</pc></l>
+                    <l n="3686"><lb n="11"/><w>deſ</w><w>frum<choice><am>ē</am><ex>en</ex></choice></w><w>gode</w><w>gnade</w><w>ſagen</w><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="3687"><lb n="12"/><w>Ich</w><w>han</w><w>in</w><w>kurtzen</w><w>ſtuͦnden</w><pc>·</pc></l>
+                    <l n="3688"><w>ein<choice><am>ē</am><ex>en</ex></choice></w><w>ritter</w><lb ana="hc:DependentLine hc:RunOverLineBelow" n="12a"/><metamark ana="hc:RunOverSign ">|</metamark><w>f<choice><am>ū</am><ex>un</ex></choice>d<choice><am>ē</am><ex>en</ex></choice></w></l>
+                </lg>
+                <lg>
+                    <l n="3689"><lb n="13"/><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>mine</w><w>ſalbe</w><w>verlorn</w><pc>·</pc></l>
+                </lg>
+                <gap ana="hc:CutOff" n="4" unit="lines"/>
+                <cb n="b"/>
+                <lg>
+                    <l n="3694"><lb n="1"/><w>hie</w><w>mitte</w><w>was</w><gap ana="hc:CutOff"/></l>
+                </lg>
+                <lg>
+                    <l n="3695"><lb n="2"/><metamark ana="hc:CueInitial ">ſ</metamark><w><supplied><hei:initial ana="hc:Lombard" hei:heightLines="1">S</hei:initial></supplied><choice><orig>v</orig><reg>u</reg></choice>ſ</w><w>twelte</w><w>m</w><gap ana="hc:CutOff"/></l>
+                    <l n="3696"><lb n="3"/><w>biz</w><w>in</w><w>die</w><w>wild</w><gap ana="hc:CutOff"/></l>
+                </lg>
+                <lg>
+                    <l n="3697"><lb n="4"/><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>wart</w><w>alſ</w><w>e</w><gap ana="hc:CutOff"/></l>
+                    <l n="3698"><lb n="5"/><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>bis</w><w>ſie</w><w>im</w><gap ana="hc:CutOff"/></l>
+                </lg>
+                <gap ana="hc:CutOff" n="21" unit="lines"/>
+                <lg>
+                    <l n="3719"><lb n="6"/><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>ſo</w><w>menlich</w><gap ana="hc:CutOff"/></l>
+                    <l n="3720"><lb n="7"/><w>die</w><metamark ana="hc:TokenMarker ">·</metamark><w>e</w><metamark ana="hc:TokenMarker ">·</metamark><w><choice><am>v͛</am><ex>ver</ex></choice>zaget</w><gap ana="hc:CutOff"/></l>
+                </lg>
+                <lg>
+                    <l n="3721"><lb n="8"/><w>die</w><w>ſahen</w><w>n<choice><orig>v</orig><reg>u</reg></choice></w><w>t</w><gap ana="hc:CutOff"/></l>
+                    <l n="3722"><lb n="9"/><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>fingen</w><w>me</w><gap ana="hc:CutOff"/></l>
+                </lg>
+                <lg>
+                    <l n="3723"><lb n="10"/><w>N<choice><orig>v</orig><reg>u</reg></choice></w><w>liez</w><w>er</w><w>ſine</w><gap ana="hc:CutOff"/></l>
+                    <l n="3724"><lb n="11"/><w>von</w><w>der</w><w>were</w><gap ana="hc:CutOff"/></l>
+                </lg>
+                <lg>
+                    <l n="3725"><lb n="12"/><w>d<choice><am>z</am><ex>az</ex></choice></w><w>dicke</w><w>k<choice><orig>vͦ</orig><reg>uͦ</reg></choice>me</w><gap ana="hc:CutOff"/></l>
+                    <l n="3726"><lb n="13"/><w>d<choice><am>z</am><ex>az</ex></choice></w><w>ſolich</w><w>guͦt</w><w>b</w><gap ana="hc:CutOff"/></l>
+                </lg>
+                <lg>
+                    <l n="3727"><lb n="14"/><w>daz</w><w>man</w><w>dem</w><gap ana="hc:CutOff"/></l>
+                </lg>
+                <gap ana="hc:CutOff" n="4" unit="lines"/>
+                <pb n="1v"/>
+                <cb n="a"/>
+                <lg>
+                    <l n="3732"><lb n="1"/><w/><w/><w/><w/><w/><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="3733"><lb/><w/><w/><w/><w/><w/><w/><pc>·</pc></l>
+                    <l n="3734"><lb/><w/><w/><w/><w/><w/><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="3735"><lb/><w/><w/><w/><w/><w/><w/><pc>·</pc></l>
+                    <l n="3736"><lb/><w/><w/><w/><w/><w/><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="3737"><lb/><w/><w/><w/><w/><w/><w/><pc>·</pc></l>
+                    <l n="3738"><lb/><w/><w/><w/><w/><w/><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="3739"><lb/><w/><w/><w/><w/><w/><w/><pc>·</pc></l>
+                    <l n="3740"><lb/><w/><w/><w/><w/><w/><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="3741"><lb/><w/><w/><w/><w/><w/><w/><pc>·</pc></l>
+                    <l n="3742"><lb/><w/><w/><w/><w/><w/><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="3743"><lb/><w/><w/><w/><w/><w/><w/><pc>·</pc></l>
+                    <l n="3744"><lb/><w/><w/><w/><w/><w/><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="3745"><lb/><w/><w/><w/><w/><w/><w/><pc>·</pc></l>
+                    <l n="3746"><lb/><w/><w/><w/><w/><w/><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="3747"><lb/><w/><w/><w/><w/><w/><w/><pc>·</pc></l>
+                    <l n="3748"><lb/><w/><w/><w/><w/><w/><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="3749"><lb/><w/><w/><w/><w/><w/><w/><pc>·</pc></l>
+                    <l n="3750"><lb/><w/><w/><w/><w/><w/><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="3751"><lb/><w/><w/><w/><w/><w/><w/><pc>·</pc></l>
+                    <l n="3752"><lb/><w/><w/><w/><w/><w/><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="3753"><lb/><w/><w/><w/><w/><w/><w/><pc>·</pc></l>
+                    <l n="3754"><lb/><w/><w/><w/><w/><w/><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="3755"><lb/><w/><w/><w/><w/><w/><w/><pc>·</pc></l>
+                    <l n="3756"><lb/><w/><w/><w/><w/><w/><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="3757"><lb/><w/><w/><w/><w/><w/><w/><pc>·</pc></l>
+                    <l n="3758"><lb/><w/><w/><w/><w/><w/><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="3759"><lb/><w/><w/><w/><w/><w/><w/><pc>·</pc></l>
+                    <l n="3760"><lb/><w/><w/><w/><w/><w/><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="3761"><lb/><w/><w/><w/><w/><w/><w/><pc>·</pc></l>
+                    <l n="3762"><lb/><w/><w/><w/><w/><w/><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="3763"><lb/><w/><w/><w/><w/><w/><w/><pc>·</pc></l>
+                    <l n="3764"><lb/><w/><w/><w/><w/><w/><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="3765"><lb/><w/><w/><w/><w/><w/><w/><pc>·</pc></l>
+                    <l n="3766"><lb/><w/><w/><w/><w/><w/><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="3767"><lb/><w/><w/><w/><w/><w/><w/><pc>·</pc></l>
+                    <l n="3768"><lb/><w/><w/><w/><w/><w/><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="3769"><lb/><w/><w/><w/><w/><w/><w/><pc>·</pc></l>
+                    <l n="3770"><lb/><w/><w/><w/><w/><w/><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="3771"><lb/><w/><w/><w/><w/><w/><w/><pc>·</pc></l>
+                    <l n="3772"><lb/><w/><w/><w/><w/><w/><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="3773"><lb/><w/><w/><w/><w/><w/><w/><pc>·</pc></l>
+                    <l n="3774"><lb/><w/><w/><w/><w/><w/><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="3775"><lb/><w/><w/><w/><w/><w/><w/><pc>·</pc></l>
+                    <l n="3776"><lb/><w/><w/><w/><w/><w/><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="3777"><lb/><w/><w/><w/><w/><w/><w/><pc>·</pc></l>
+                    <l n="3778"><lb/><w/><w/><w/><w/><w/><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="3779"><lb/><w/><w/><w/><w/><w/><w/><pc>·</pc></l>
+                    <l n="3780"><lb/><w/><w/><w/><w/><w/><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="3781"><lb/><w/><w/><w/><w/><w/><w/><pc>·</pc></l>
+                    <l n="3782"><lb/><w/><w/><w/><w/><w/><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="3783"><lb/><w/><w/><w/><w/><w/><w/><pc>·</pc></l>
+                    <l n="3784"><lb/><w/><w/><w/><w/><w/><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="3785"><lb/><w/><w/><w/><w/><w/><w/><pc>·</pc></l>
+                    <l n="3786"><lb/><w/><w/><w/><w/><w/><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="3787"><lb/><w/><w/><w/><w/><w/><w/><pc>·</pc></l>
+                    <l n="3788"><lb/><w/><w/><w/><w/><w/><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="3789"><lb/><w/><w/><w/><w/><w/><w/><pc>·</pc></l>
+                    <l n="3790"><lb/><w/><w/><w/><w/><w/><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="3791"><lb/><w/><w/><w/><w/><w/><w/><pc>·</pc></l>
+                    <l n="3792"><lb/><w/><w/><w/><w/><w/><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="3793"><lb/><w/><w/><w/><w/><w/><w/><pc>·</pc></l>
+                    <l n="3794"><lb/><w/><w/><w/><w/><w/><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="3795"><lb/><w/><w/><w/><w/><w/><w/><pc>·</pc></l>
+                    <l n="3796"><lb/><w/><w/><w/><w/><w/><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="3797"><lb/><w/><w/><w/><w/><w/><w/><pc>·</pc></l>
+                    <l n="3798"><lb/><w/><w/><w/><w/><w/><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="3799"><lb/><w/><w/><w/><w/><w/><w/><pc>·</pc></l>
+                    <l n="3800"><lb/><w/><w/><w/><w/><w/><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="3801"><lb/><w/><w/><w/><w/><w/><w/><pc>·</pc></l>
+                    <l n="3802"><lb/><w/><w/><w/><w/><w/><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="3803"><lb/><w/><w/><w/><w/><w/><w/><pc>·</pc></l>
+                    <l n="3804"><lb/><w/><w/><w/><w/><w/><w/><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="3805"><lb/><w/><w/><w/><w/><w/><w/><pc>·</pc></l>
+                    <l n="3806"><lb/><w/><w/><w/><w/><w/><w/><pc>·</pc></l>
+                </lg>
+            </div>
+        </body>
+    </text>
+</TEI>
