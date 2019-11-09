@@ -32,12 +32,20 @@
         <surface ana="hc:Page" xml:id="X1_1r" n="1r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/sbb-pk_hdschr402/0003/image"/>
             <zone ana="hc:Column" xml:id="X1_1r-a" n="1r-a"/>
+            <zone ana="hc:TextZone" xml:id="X1_1r-a_1"/>
+            <zone ana="hc:TextZone" xml:id="X1_1r-a_2"/>
             <zone ana="hc:Column" xml:id="X1_1r-b" n="1r-b"/>
+            <zone ana="hc:TextZone" xml:id="X1_1r-b_1"/>
+            <zone ana="hc:TextZone" xml:id="X1_1r-b_2"/>
         </surface>
         <surface ana="hc:Page" xml:id="X1_1v" n="1v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/sbb-pk_hdschr402/0004/image"/>
-            <zone ana="hc:Column" xml:id="X1_1v-a" n="1v-a"/>
+            <zone ana="hc:Column" xml:id="X1_1v-a" n="2v-a"/>
+            <zone ana="hc:TextZone" xml:id="X1_1v-a_1"/>
+            <zone ana="hc:TextZone" xml:id="X1_1v-a_2"/>
             <zone ana="hc:Column" xml:id="X1_1v-b" n="1v-b"/>
+            <zone ana="hc:TextZone" xml:id="X1_1v-b_1"/>
+            <zone ana="hc:TextZone" xml:id="X1_1v-b_2"/>
         </surface>
     </facsimile>
     <text ana="hc:CourtlyRomance hc:ExpressionFragmentThroughLoss">
@@ -45,6 +53,7 @@
             <div>
                 <pb n="1r"/>
                 <cb n="a"/>
+                <milestone ana="hc:ZoneBeginning" facs="#X1_1r-a_1"/>
                 <lg>
                     <l n="3651"><lb n="1"/><w>harte</w><w>l<choice><orig>vͦ</orig><reg>uͦ</reg></choice>tzel</w><w>ane</w><w>ſchein</w><pc>·</pc></l>
                     <l n="3652"><lb n="2"/><w>hie</w><w>hade</w><w>her</w><w><choice><orig>J</orig><reg>I</reg></choice>wein</w><pc>·</pc></l>
@@ -57,6 +66,7 @@
                     <l n="3655"><lb n="5"/><w><supplied><hei:initial ana="hc:Lombard" hei:heightLines="2">D</hei:initial></supplied>ie</w><w>frouͦwe</w><w>doch</w><w>nit</w><w>deſ</w><w><choice><am>v͛</am><ex>ver</ex></choice>gs</w></l>
                 </lg>
                 <gap ana="hc:CutOff" n="25" unit="lines"/>
+                <milestone ana="hc:ZoneShift" facs="#X1_1r-a_2"/>
                 <lg>
                     <l n="3680"><lb n="6"/><gap ana="hc:CutOff"/><w>truͦ</w></l>
                 </lg>
@@ -81,6 +91,7 @@
                 </lg>
                 <gap ana="hc:CutOff" n="4" unit="lines"/>
                 <cb n="b"/>
+                <milestone ana="hc:ZoneBeginning" facs="#X1_1r-b_1"/>
                 <lg>
                     <l n="3694"><lb n="1"/><w>hie</w><w>mitte</w><w>was</w><gap ana="hc:CutOff"/></l>
                 </lg>
@@ -93,6 +104,7 @@
                     <l n="3698"><lb n="5"/><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>bis</w><w>ſie</w><w>im</w><gap ana="hc:CutOff"/></l>
                 </lg>
                 <gap ana="hc:CutOff" n="21" unit="lines"/>
+                <milestone ana="hc:ZoneShift" facs="#X1_1r-b_2"/>
                 <lg>
                     <l n="3719"><lb n="6"/><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>ſo</w><w>menlich</w><gap ana="hc:CutOff"/></l>
                     <l n="3720"><lb n="7"/><w>die</w><metamark ana="hc:TokenMarker ">·</metamark><w>e</w><metamark ana="hc:TokenMarker ">·</metamark><w><choice><am>v͛</am><ex>ver</ex></choice>zaget</w><gap ana="hc:CutOff"/></l>
@@ -115,6 +127,7 @@
                 <gap ana="hc:CutOff" n="4" unit="lines"/>
                 <pb n="1v"/>
                 <cb n="a"/>
+                <milestone ana="hc:ZoneBeginning" facs="#X1_1v-a_1"/>
                 <lg>
                     <l n="3732"><lb n="1"/><gap ana="hc:CutOff"/><w>hen</w><pc>·</pc></l>
                 </lg>
@@ -134,6 +147,7 @@
                     <l n="3739"><w><choice><am>n̄</am><ex>nd</ex></choice></w><w>die</w><w>ſin<choice><am>ē</am><ex>en</ex></choice></w><w>alle</w><pc>·</pc></l>
                 </lg>
                 <gap ana="hc:CutOff" n="20" unit="lines"/>
+                <milestone ana="hc:ZoneShift" facs="#X1_1v-a_2"/>
                 <lg>
                     <l n="3760"><lb n="6"/><gap ana="hc:CutOff"/><w>chiere</w><pc>·</pc></l>
                 </lg>
@@ -154,6 +168,7 @@
                 </lg>
                 <gap ana="hc:CutOff" n="3" unit="lines"></gap>
                 <cb n="b"/>
+                <milestone ana="hc:ZoneBeginning" facs="#X1_1v-b_1"/>
                 <lg>
                     <l n="3772"><lb n="1"/><w>N<choice><orig>v</orig><reg>u</reg></choice></w><w>waſ</w><w>der</w><w>burg berg</w><w>ha<add hei:placeRef="hc:AboveLine">r</add>te</w><w>hoch</w><pc>·</pc></l>
                 </lg>
@@ -170,6 +185,7 @@
                     <l n="3778"><lb n="6"/><gap ana="hc:CutOff"/><w>g<choice><am>ē</am><ex>en</ex></choice></w><w join="right">wider</w><w join="left">reit</w><pc>·</pc></l>
                 </lg>
                 <gap ana="hc:CutOff" n="20" unit="lines"/>
+                <milestone ana="hc:ZoneShift" facs="#X1_1v-b_2"/>
                 <lg>
                     <l n="3798"><lb n="7"/><w>deſ</w><w>were</w><w>e</w><gap ana="hc:CutOff"/></l>
                 </lg>
