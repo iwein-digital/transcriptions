@@ -37,119 +37,100 @@
             </sourceDesc>
         </fileDesc>
     </teiHeader>
+    <facsimile>
+        <surface ana="hc:Page" xml:id="X2_1r" n="1r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubkl_perg_hs_63_sbs_os/0001/image"/>
+            <zone ana="hc:Column" xml:id="X2_1r-a" n="1r-a"/>
+            <zone ana="hc:TextZone" xml:id="X2_1r-a_1"/>
+            <zone ana="hc:TextZone" xml:id="X2_1r-a_2"/>
+            <zone ana="hc:Column" xml:id="X2_1r-b" n="1r-b"/>
+            <zone ana="hc:TextZone" xml:id="X2_1r-b_1"/>
+            <zone ana="hc:TextZone" xml:id="X2_1r-b_2"/>
+        </surface>
+        <surface ana="hc:Page" xml:id="X2_1v" n="1v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubkl_perg_hs_63_sbs_os/0002/image"/>
+            <zone ana="hc:Column" xml:id="X2_1v-a" n="2v-a"/>
+            <zone ana="hc:TextZone" xml:id="X2_1v-a_1"/>
+            <zone ana="hc:TextZone" xml:id="X2_1v-a_2"/>
+            <zone ana="hc:Column" xml:id="X2_1v-b" n="1v-b"/>
+            <zone ana="hc:TextZone" xml:id="X2_1v-b_1"/>
+            <zone ana="hc:TextZone" xml:id="X2_1v-b_2"/>
+        </surface>
+    </facsimile>
+    
     <text ana="hc:CourtlyRomance hc:ExpressionFragmentThroughLoss">
         <body>
             <div>
                 <pb n="1r"/>
                 <cb n="a"/>
+                <milestone ana="hc:ZoneBeginning" facs="#X2_1r-a_1"/>
                 <lg>
-                    <l n="2397"><lb/><w/><w/><w/><w/><w/></l>
-                    <l n="2398"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="2398"><lb n="1"/><gap ana="hc:CutOff"/><w>e</w><w>ir</w><w>wille</w><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>ir</w><w>heil</w></l>
                 </lg>
                 <lg>
-                    <l n="2399"><lb/><w/><w/><w/><w/><w/></l>
-                    <l n="2400"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="2399"><lb n="2"/><w><hi rendition="hc:Versal">v</hi>il</w><w>lichte</w><w>geraten</w></l>
+                    <l n="2400"><lb n="3"/><w>ich</w><w>wen</w><w>ſi</w><w>rechte</w><w>taten</w></l>
                 </lg>
                 <lg>
-                    <l n="2401"><lb/><w/><w/><w/><w/><w/></l>
-                    <l n="2402"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="2401"><lb n="4"/><w><hi rendition="hc:Versal">w</hi><choice><am>ē</am><ex>en</ex></choice></w><w>duchte</w><w join="right">ſir</w><w join="left">z</w><w>alle</w><w>miſſetan</w></l>
+                    <l n="2402"><lb n="5"/><w>ſi</w><w>wold</w><w>in</w><w>doch</w><w>genomen</w><w>han</w></l>
                 </lg>
                 <lg>
-                    <l n="2403"><lb/><w/><w/><w/><w/><w/></l>
-                    <l n="2404"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="2403"><lb n="6"/><w><hi rendition="hc:Versal">d</hi>o</w><w>der</w><w>truchtſez</w><w>getet</w></l>
+                    <l n="2404"><lb n="7"/><w><choice><am>d͛</am><ex>der</ex></choice></w><w>vrouu<choice><am>ē</am><ex>en</ex></choice></w><w>rede</w><w>noch</w><w>irre</w><w>bet</w></l>
                 </lg>
                 <lg>
-                    <l n="2405"><lb/><w/><w/><w/><w/><w/></l>
-                    <l n="2406"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="2405"><lb n="8"/><damage ana="hc:CutOff"><w><hi rendition="hc:Versal"><choice><orig>v</orig><reg>u</reg></choice></hi><choice><am>n̄</am><ex>nd</ex></choice></w><w>ſi</w></damage><gap ana="hc:CutOff"/><damage ana="hc:CutOff"><w>horten</w><w>ſagen</w></damage></l>
+                </lg>
+                <gap ana="hc:CutOff"/>
+                <milestone ana="hc:ZoneShift" facs="#X2_1r-a_2"/>
+                <lg>
+                    <l n="2417"><lb n="9"/><gap ana="hc:Illegible"/><w/><w/><w/><w/><w/></l>
+                    <l n="2418"><lb n="10"/><w>da</w><w>waren</w><w>p</w><gap ana="hc:Illegible hc:CutOff"/></l>
                 </lg>
                 <lg>
-                    <l n="2407"><lb/><w/><w/><w/><w/><w/></l>
-                    <l n="2408"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="2419"><lb n="11"/><w><hi rendition="hc:Versal">d</hi>i</w><w>taten</w><w>in</w><w>di</w><w>e</w><w>ze</w><gap ana="hc:Illegible hc:CutOff"></gap></l>
+                    <l n="2420"><lb n="12"/><w>ſi</w><w>gabin</w><w>ime</w><gap ana="hc:Illegible hc:CutOff"/></l>
                 </lg>
                 <lg>
-                    <l n="2409"><lb/><w/><w/><w/><w/><w/></l>
-                    <l n="2410"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="2421"><lb n="13"/><w><gap ana="hc:RubbedOff" n="1" unit="chars"/>rou</w><w>laudane</w><w>hies</w><w>ſi</w><gap ana="hc:CutOff"/></l>
+                    <l n="2422"><lb n="14"/><w>ſi</w><w>konde</w><w>im</w><w>leben</w><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><gap ana="hc:CutOff"/></l>
+                </lg>
+                <cb n="b"/>
+                <milestone ana="hc:ZoneBeginning" facs="#X2_1r-b_1"/>
+                <lg>
+                    <l n="2423"><lb n="1"/><gap ana="hc:CutOff"/><w><choice><am>n̄</am><ex>en</ex></choice></w><gap ana="hc:Illegible"/><w>tugent</w></l>
+                    <l n="2424"><lb n="2"/><gap ana="hc:CutOff"/><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>iugent</w></l>
                 </lg>
                 <lg>
-                    <l n="2411"><lb/><w/><w/><w/><w/><w/></l>
-                    <l n="2412"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="2425"><lb n="3"/><gap ana="hc:CutOff"/><w>ite</w></l>
+                    <l n="2426"><lb n="4"/><gap ana="hc:CutOff"/><w>et<add hei:placeRef="hc:AboveLine">e</add></w><w>geleit</w></l>
                 </lg>
                 <lg>
-                    <l n="2413"><lb/><w/><w/><w/><w/><w/></l>
-                    <l n="2414"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="2427"><lb n="5"/><gap ana="hc:CutOff"/><w>guͦten</w><w>ſin</w></l>
+                    <l n="2428"><lb n="6"/><gap ana="hc:CutOff"/><w>ſ</w><w>an</w><w><damage ana="hc:Perforated">in</damage></w></l>
                 </lg>
                 <lg>
-                    <l n="2415"><lb/><w/><w/><w/><w/><w/></l>
-                    <l n="2416"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="2429"><lb n="7"/><damage ana="hc:CutOff"><w><hi rendition="hc:Versal"><choice><am>d͛</am><ex>der</ex></choice></hi></w></damage><w>wer</w><w>eins</w><w>gut<choice><am>ē</am><ex>en</ex></choice></w><w>wibes</w><w>wert</w></l>
+                    <l n="2430"><lb n="8"/><w>di</w><w>nicht</w><w>wen</w><w>ſines</w><w>willen</w><w>gert</w></l>
                 </lg>
                 <lg>
-                    <l n="2417"><lb/><w/><w/><w/><w/><w/></l>
-                    <l n="2418"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="2431"><lb n="9"/><w><hi rendition="hc:Versal">S</hi>uln</w><w>di</w><w>mit</w><w>libe</w><w>lange</w><w>lebin</w></l>
+                    <l n="2432"><lb n="10"/><w>den</w><w>hat</w><w>her</w><w>vrouden</w><w>vil</w><w>gegebin</w></l>
                 </lg>
                 <lg>
-                    <l n="2419"><lb/><w/><w/><w/><w/><w/></l>
-                    <l n="2420"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="2433"><lb n="11"/><w>daz</w><w>waz</w><w>allis</w><w>vollen</w><w>da</w></l>
+                    <l n="2434"><lb n="12"/><w>nu</w><w>hub</w><w>ſich</w><w>di</w><w>brutlouft</w><w>ſa</w></l>
                 </lg>
                 <lg>
-                    <l n="2421"><lb/><w/><w/><w/><w/><w/></l>
-                    <l n="2422"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="2435"><lb n="13"/><w><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">D</hei:initial>ez</w><w>toten</w><w>iſt</w><w>virgeſſin</w></l>
+                    <l n="2436"><lb n="14"/><w>der</w><w>lebinde</w><w>hat</w><w>beſeſſin</w></l>
                 </lg>
                 <lg>
-                    <l n="2423"><lb/><w/><w/><w/><w/><w/></l>
-                    <l n="2424"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="2437"><lb n="15"/><gap ana="hc:CutOff"/><w>ſin</w><w>ere</w><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><gap ana="hc:CutOff"/></l>
                 </lg>
-                <lg>
-                    <l n="2425"><lb/><w/><w/><w/><w/><w/></l>
-                    <l n="2426"><lb/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="2427"><lb/><w/><w/><w/><w/><w/></l>
-                    <l n="2428"><lb/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="2429"><lb/><w/><w/><w/><w/><w/></l>
-                    <l n="2430"><lb/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="2431"><lb/><w/><w/><w/><w/><w/></l>
-                    <l n="2432"><lb/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="2433"><lb/><w/><w/><w/><w/><w/></l>
-                    <l n="2434"><lb/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="2435"><lb/><w/><w/><w/><w/><w/></l>
-                    <l n="2436"><lb/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="2437"><lb/><w/><w/><w/><w/><w/></l>
-                    <l n="2438"><lb/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="2439"><lb/><w/><w/><w/><w/><w/></l>
-                    <l n="2440"><lb/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="2441"><lb/><w/><w/><w/><w/><w/></l>
-                    <l n="2442"><lb/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="2443"><lb/><w/><w/><w/><w/><w/></l>
-                    <l n="2444"><lb/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="2445"><lb/><w/><w/><w/><w/><w/></l>
-                    <l n="2446"><lb/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="2447"><lb/><w/><w/><w/><w/><w/></l>
-                    <l n="2448"><lb/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="2449"><lb/><w/><w/><w/><w/><w/></l>
-                    <l n="2450"><lb/><w/><w/><w/><w/><w/></l>
-                </lg>
+                <gap ana="hc:CutOff"></gap>
+                <milestone ana="hc:ZoneShift" facs="#X2_1r-b_2"/>
                 <lg>
                     <l n="2451"><lb/><w/><w/><w/><w/><w/></l>
                     <l n="2452"><lb/><w/><w/><w/><w/><w/></l>
