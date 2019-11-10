@@ -45,11 +45,20 @@
         </surface>
         <surface ana="hc:Page" xml:id="X2_1v" n="1v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubkl_perg_hs_63_sbs_os/0002/image"/>
-            <zone ana="hc:Column" xml:id="X2_1v-a" n="2v-a"/>
+            <zone ana="hc:Column" xml:id="X2_1v-a" n="1v-a"/>
             <zone ana="hc:Column" xml:id="X2_1v-b" n="1v-b"/>
         </surface>
+        <surface ana="hc:Page" xml:id="X2_2r" n="2r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubkl_perg_hs_63_sbs_os/0003/image"/>
+            <zone ana="hc:Column" xml:id="X2_2r-a" n="2r-a"/>
+            <zone ana="hc:Column" xml:id="X2_2r-b" n="2r-b"/>
+        </surface>
+        <surface ana="hc:Page" xml:id="X2_2v" n="2v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubkl_perg_hs_63_sbs_os/0004/image"/>
+            <zone ana="hc:Column" xml:id="X2_2v-a" n="2v-a"/>
+            <zone ana="hc:Column" xml:id="X2_2v-b" n="2v-b"/>
+        </surface>
     </facsimile>
-    
     <text ana="hc:CourtlyRomance hc:ExpressionFragmentThroughLoss">
         <body>
             <div>
