@@ -10050,7 +10050,7 @@
                     <!--Revisado Victor 12/11/2019     -->
                 </lg>
                 <lg>
-                    <l n="4957"><lb n="9"/><w><hi rendition="hc:RedStroke">D</hi>er</w><w>ritter</w><w>des</w><w>lewen</w><w>pflag</w></l>
+                    <l n="4957"><lb n="9"/><w><hi rendition="hc:RedStroke">D</hi>er</w><w>ritter</w><w><add hei:placeRef="hc:AboveLine"><choice><am>d͛</am><ex>der</ex></choice></add></w><w>des</w><w>lewen</w><w>pflag</w></l>
                     <!--encima de ritter, do? tiene algo que ver con las e encima de ritter y Deszware?-->
                     <l n="4958"><lb n="10"/><w join="right"><hi rendition="hc:RedStroke">D</hi>e</w><w join="both">ſz</w><w join="left">ware</w><w>herre</w><w>ob</w><w>ich</w><w>mag</w></l>
                 </lg>
@@ -10093,7 +10093,7 @@
                     <l n="4976"><lb n="5"/><w><hi rendition="hc:RedStroke">d</hi>az</w><w>lert</w><w>yne</w><w>die</w><w>gewonheit</w></l>
                 </lg>
                 <lg>
-                    <l n="4977"><lb n="6"/><w><hi rendition="hc:RedStroke">S</hi>in</w><w>roſz</w><w>ſahe</w><w>er</w><w>bÿ</w><w><subst><del rendition="hc:Adapted">i</del><add rendition="hc:Adapted"><choice><orig>j</orig><reg>i</reg></choice></add></subst>m</w><w>ſtan</w></l>
+                    <l n="4977"><lb n="6"/><w><hi rendition="hc:RedStroke">S</hi>in</w><w>roſz</w><w>ſahe</w><w>er</w><w>bÿ</w><w><choice><orig>j</orig><reg>i</reg></choice>m</w><w>ſtan</w></l>
                     <l n="4978"><lb n="7"/><w><hi rendition="hc:RedStroke">D</hi>ie</w><w>brucke</w><w>hieſz</w><w>er</w><w>nyder</w><w>lan</w></l>
                 </lg>
                 <lg>
@@ -10156,7 +10156,6 @@
                 </lg>
                 <lg>
                     <l n="5007"><lb n="13"/><w><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">D</hei:initial>o</w><w>ſprach</w><w>der</w><w>ritter</w><w>mit</w><w>d<choice><am>ē</am><ex>em</ex></choice></w><w>lewen</w></l>
-                    <!--los versos que se corresponden con 5007 y 5008 en Lachmann son distintos     -->
                     <l n="5008"><lb n="14"/><w><hi rendition="hc:RedStroke">R</hi>itter</w><w>daz</w><w>dut</w><w>daz</w><w>trewen</w></l>
                 </lg>
                 <lg>
@@ -10262,7 +10261,7 @@
                 </lg>
                 <lg>
                     <l n="5057"><lb n="18"/><w><hi rendition="hc:RedStroke">A</hi>ls</w><w>eine</w><w>ochs</w><w>lüte</w></l>
-                    <l n="5058"><lb n="19"/><w><hi rendition="hc:RedStroke">N</hi>ü</w><w>wanckt</w><w>dẏ</w><w>r<subst><del rendition="hc:Adapted">uͦ</del><add rendition="hc:Adapted">ü</add></subst>te</w></l>
+                    <l n="5058"><lb n="19"/><w><hi rendition="hc:RedStroke">N</hi>ü</w><w>wanckt</w><w>dẏ</w><w>rüte</w></l>
                 </lg>
                 <lg>
                     <l n="5059"><lb n="20"/><w><hi rendition="hc:RedStroke">D</hi>ie</w><w>er</w><w>do</w><w>zü</w><w>were</w><w>trüg</w></l>
@@ -10271,6 +10270,7 @@
                 <lg>
                     <l n="5061"><lb n="22"/><w><hi rendition="hc:RedStroke">A</hi>üch</w><w>entweich</w><w>er</w><w>von</w><w>d<choice><am>ē</am><ex>em</ex></choice></w><w>ſlag</w><w>v<choice><am>ō</am><ex>on</ex></choice></w><w>dan</w></l>
                     <l n="5062"><lb n="23"/><w><hi rendition="hc:RedStroke"><choice><orig>v</orig><reg>u</reg></choice></hi>nd</w><w>entraff</w><w>den</w><w>lew<choice><am>ē</am><ex>en</ex></choice></w><w>noch</w><w>den</w><w>man</w></l>
+                    <!--Revisado Victor 13/11/2019     -->
                 </lg>
                 <pb n="107r"/>
                 <cb n="a"/>
