@@ -21,7 +21,12 @@
                         <msIdentifier>
                             <settlement>Privatbesitz – verbleib unbekannt</settlement>
                         </msIdentifier>
-                        </msDesc></witness>
+                        <additional>
+                            <adminInfo>
+                                <availability><ab>Lost</ab></availability>
+                            </adminInfo>
+                        </additional>
+                    </msDesc></witness>
                 </listWit>
             </sourceDesc>
         </fileDesc>
