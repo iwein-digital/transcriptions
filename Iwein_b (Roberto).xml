@@ -10047,11 +10047,9 @@
                 <lg>
                     <l n="4955"><lb n="7"/><w><hi rendition="hc:RedStroke">M</hi>it</w><w>ir</w><w>ſweſter</w><w>loſt</w></l>
                     <l n="4956"><lb n="8"/><w><hi rendition="hc:RedStroke">D</hi>a</w><w>ſprach</w><w>der</w><w>ſie</w><w>do</w><w>troſt</w></l>
-                    <!--Revisado Victor 12/11/2019     -->
                 </lg>
                 <lg>
                     <l n="4957"><lb n="9"/><w><hi rendition="hc:RedStroke">D</hi>er</w><w>ritter</w><w><add hei:placeRef="hc:AboveLine"><choice><am>d͛</am><ex>der</ex></choice></add></w><w>des</w><w>lewen</w><w>pflag</w></l>
-                    <!--encima de ritter, do? tiene algo que ver con las e encima de ritter y Deszware?-->
                     <l n="4958"><lb n="10"/><w join="right"><hi rendition="hc:RedStroke">D</hi>e</w><w join="both">ſz</w><w join="left">ware</w><w>herre</w><w>ob</w><w>ich</w><w>mag</w></l>
                 </lg>
                 <lg>
@@ -10190,7 +10188,6 @@
                 </lg>
                 <lg>
                     <l n="5024"><lb n="6"/><w><hi rendition="hc:RedStroke">D</hi>as</w><w>er</w><w>alſo</w><w>bloſzer</w><w>ſcheine</w></l>
-                    <!--verso 2023-24 están intercambiados     -->
                     <l n="5023"><lb n="7"/><w><hi rendition="hc:RedStroke">D</hi>es</w><w>frawte</w><w>ſich</w><w>her</w><w>ywein</w></l>
                 </lg>
                 <lg>
@@ -10270,7 +10267,6 @@
                 <lg>
                     <l n="5061"><lb n="22"/><w><hi rendition="hc:RedStroke">A</hi>üch</w><w>entweich</w><w>er</w><w>von</w><w>d<choice><am>ē</am><ex>em</ex></choice></w><w>ſlag</w><w>v<choice><am>ō</am><ex>on</ex></choice></w><w>dan</w></l>
                     <l n="5062"><lb n="23"/><w><hi rendition="hc:RedStroke"><choice><orig>v</orig><reg>u</reg></choice></hi>nd</w><w>entraff</w><w>den</w><w>lew<choice><am>ē</am><ex>en</ex></choice></w><w>noch</w><w>den</w><w>man</w></l>
-                    <!--Revisado Victor 13/11/2019     -->
                 </lg>
                 <pb n="107r"/>
                 <cb n="a"/>
@@ -10299,8 +10295,8 @@
                     <l n="5074"><lb n="12"/><w><hi rendition="hc:RedStroke">S</hi>am</w><w>er</w><w>ein</w><w>baüm</w><w>were</w></l>
                 </lg>
                 <lg>
-                    <l n="5075"><lb n="13"/><w><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">V</hei:initial>on</w><w>des</w><w>rieſen</w><w>valle</w></l>
-                    <!--la inicial del verso 5075 parece más bien una U, pero no hay en todo el texto ninguna otra U o V inicial con la que comparar esta. Por ahora dejo la V, pero no estoy seguro.-->
+                    <l n="5075"><lb n="13"/><w><choice><orig><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">U</hei:initial></orig><reg><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">V</hei:initial></reg></choice>on</w><w>des</w><w>rieſen</w><w>valle</w></l>
+                    <!--la inicial del verso 5075 parece más bien una U, pero no hay en todo el texto ninguna otra U o V inicial con la que comparar esta. Por ahora dejo la V, pero no estoy seguro. HAY QUE REGULARIZAR LA U A V, aunque es un poco complicado pq hay que poner la etiqueta <hei:initial> tanto dentro de la <orig> como dentro de la <reg>-->
                     <l n="5076"><lb n="14"/><w>frauwten</w><w>ſie</w><w>ſich</w><w>alle</w></l>
                 </lg>
                 <lg>
@@ -10374,7 +10370,6 @@
                     <pb n="108r"/>
                     <cb n="a"/>
                     <l n="5110"><lb n="1"/><w><hi rendition="hc:RedStroke">S</hi>o</w><w>warde</w><w>nÿ</w><w>gut</w><w>geſelſchafft</w></l>
-                    <!--verso 5111-12 no están en este manuscrito     -->
                 </lg>
                 <lg>
                     <l n="5113"><lb n="2"/><w><hi rendition="hc:RedStroke">h</hi>erre</w><w>zu̇</w><w>dem</w><w>rÿtent</w><w>ir</w></l>
@@ -10418,7 +10413,7 @@
                 </lg>
                 <lg>
                     <l n="5133"><lb n="22"/><w><hi rendition="hc:RedStroke">M</hi>ein</w><w>rÿten</w><w>das</w><w>iſt</w><w>miſzlich</w></l>
-                    <l n="5134"><lb n="23"/><w><hi rendition="hc:RedStroke"><choice><orig>j</orig><reg>i</reg></choice></hi>ch</w><w>kom</w><w><choice><orig>u</orig><reg>v</reg></choice>il</w><w><subst><del rendition="hc:Adapted">k</del><add rendition="hc:Adapted">g</add></subst>erne</w><w>lant</w><w>ſÿ</w><w>mich</w></l>
+                    <l n="5134"><lb n="23"/><w><hi rendition="hc:RedStroke"><choice><orig>j</orig><reg>i</reg></choice></hi>ch</w><w>kom</w><w><choice><orig>u</orig><reg>v</reg></choice>il</w><w><subst><del rendition="hc:Adapted">l</del><add rendition="hc:Adapted">g</add></subst>erne</w><w>lant</w><w>ſÿ</w><w>mich</w></l>
                 </lg>
                 <pb n="108v"/>
                 <cb n="a"/>
@@ -10427,7 +10422,7 @@
                     <l n="5136"><lb n="2"/><w><hi rendition="hc:RedStroke"><choice><orig>j</orig><reg>i</reg></choice></hi>ch</w><w>getrawe</w><w>aber</w><w>yne</w><w>des</w><w>wol</w></l>
                 </lg>
                 <lg>
-                    <l n="5137"><lb n="3"/><w><hi rendition="hc:RedStroke"><choice><orig>v</orig><reg>u</reg></choice></hi>nd</w><w>mugen</w><w>ſÿ</w><w>mirs</w><w>abe</w><w>erſtrÿten</w></l>
+                    <l n="5137"><lb n="3"/><w><hi rendition="hc:RedStroke"><choice><orig>v</orig><reg>u</reg></choice></hi>nd</w><w>mugen</w><w>ſÿ</w><w join="right">mir</w><w join="left">s</w><w>abe</w><w>erſtrÿten</w></l>
                     <l n="5138"><lb n="4"/><w><hi rendition="hc:RedStroke">S</hi>ie</w><w>lant</w><w>mich</w><w>nyndert</w><w>rÿten</w></l>
                 </lg>
                 <lg>
@@ -10453,19 +10448,18 @@
                 <lg>
                     <l n="5149"><lb n="15"/><w join="right"><hi rendition="hc:RedStroke">h</hi>er</w><w join="left">uſz</w><w>da</w><w>ſy</w><w>gefangen</w><w>lag</w></l>
                     <l n="5150"><lb n="16"/><w><hi rendition="hc:RedStroke">w</hi>ann</w><w>es</w><w>was</w><w>wol</w><w>mitter</w><w>tag</w></l>
-                    <!--verso 5151-52 no están en este manuscrito-->
                 </lg>
                 <lg>
                     <l n="5153"><lb n="17"/><w><hi rendition="hc:RedStroke"><choice><orig>j</orig><reg>i</reg></choice></hi>r</w><w>kleÿder</w><w>warn</w><w>von</w><w><choice><orig>j</orig><reg>i</reg></choice>r</w><w>gethan</w></l>
-                    <l n="5154"><lb n="18"/><w><hi rendition="hc:RedStroke"><choice><orig>v</orig><reg>u</reg></choice></hi>nd</w><w>nüre</w><w>eine</w><w><subst><del rendition="hc:Overpainted">hel</del><add hei:placeRef="hc:Inline">hemde</add></subst></w><w>angelan</w></l>
+                    <l n="5154"><lb n="18"/><w><hi rendition="hc:RedStroke"><choice><orig>v</orig><reg>u</reg></choice></hi>nd</w><w>nüre</w><w>eine</w><w><subst><del rendition="hc:Overpainted">hel</del><add hei:placeRef="hc:Inline">hemde</add></subst></w><w join="right">an</w><w join="left">gelan</w></l>
                 </lg>
                 <lg>
-                    <l n="5155"><lb n="19"/><w><hi rendition="hc:RedStroke">d</hi>uch</w><w>was</w><w>der</w><w>roſt</w><w>gereit</w></l>
+                    <l n="5155"><lb n="19"/><w><hi rendition="hc:RedStroke">d</hi>auch</w><w>was</w><w>der</w><w>roſt</w><w>gereit</w></l>
                     <l n="5156"><lb n="20"/><w><hi rendition="hc:RedStroke">D</hi>as</w><w>fuer</w><w join="right">dar</w><w join="left">ünder</w><w>geleit</w></l>
                 </lg>
                 <lg>
                     <l n="5157"><lb n="21"/><w><hi rendition="hc:RedStroke">S</hi>us</w><w>ſtünt</w><w>myn</w><w>frauw</w><w>lünet</w></l>
-                    <l n="5158"><lb n="22"/><w><hi rendition="hc:RedStroke">A</hi>n</w><w>ir</w><w>knien</w><w>an</w><w>ir</w><w>gebet</w></l>
+                    <l n="5158"><lb n="22"/><w><hi rendition="hc:RedStroke">A</hi>n</w><w>ir</w><w>keinen</w><w>an</w><w>ir</w><w>gebet</w></l>
                 </lg>
                 <lg>
                     <l n="5159"><lb n="23"/><w><hi rendition="hc:RedStroke"><choice><orig>v</orig><reg>u</reg></choice></hi>nd</w><w>bade</w><w>got</w><w>der</w><w>ſele</w><w>pflegen</w></l>
@@ -10475,8 +10469,8 @@
                 <cb n="a"/>
                 <lg>
                     <l n="5162"><lb n="1"/><w><hi rendition="hc:RedStroke">D</hi>as</w><w>ſie</w><w>nu̇</w><w>nymant</w><w>loſt</w></l>
-                    <!--verso 5162-61 están intercambiados     -->
                     <l n="5161"><lb n="2"/><w><hi rendition="hc:RedStroke">N</hi>u̇</w><w>kam</w><w>der</w><w>ſie</w><w>do</w><w>troſt</w></l>
+                    <!--Revisado Victor 14/11/2019 – Muy bien Roberto, una transcripción muy fiable, ánimo que ya casi alcanzas los dos tercios y a partir de ahí todo es cuesta abajo ;-)     -->
                 </lg>
                 <lg>
                     <l n="5163"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
