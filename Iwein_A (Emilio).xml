@@ -2643,7 +2643,6 @@
                 <lg>
                     <l n="1277"><w>Die</w><w>ougen</w><w>blint</w><pc>·</pc></l>
                     <l n="1278"><w>Iz</w><w>ſint</w><w>wol</w><w>alle</w><w>die</w><lb n="11"/><w>hi</w><w>inne</w><w>ſint</w><pc>·</pc></l>
-                    <!--Falta aquí la mayor parte del pareado V. 1275-1276 y el inicio del pareado V.1277-1278. El copista incluye la palabra 'blint' dentro del verso 1275. PERO COMO ES PALABRA DE RIMA, PASO LAS PALABRAS INICIALES DEL 1275 AL 1277 Y ELIMINO EL PAREADO 1275/76-->
                 </lg>
                 <lg>
                     <l n="1279"><w>Iz</w><w>ne</w><w>were</w><w>dan</w><w>cleine</w><w join="right">alſ</w><w join="left">ein</w><w>mus</w><pc>·</pc></l>
@@ -3142,7 +3141,6 @@
                 <lg>
                     <l n="1519"><lb n="25"/><w><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">S</hei:initial>we</w><w>eme</w><w>ſine</w><w>ſinne</w><pc>·</pc></l>
                     <l n="1520"><w join="right">von</w><w join="left">der</w><w>craft</w><del rendition="hc:Erased"><w>der</w><w>craft</w></del><lb n="26"/><w>der</w><w>minne</w><pc>·</pc></l>
-                    <!--Al final de la línea 25 copiaron dos veces 'der craft' para posteriormente borrarlo. EN ESTOS CASOS SE PONE UN <DEL>-->
                 </lg>
                 <lg>
                     <l n="1521"><w>vil</w><w>ſere</w><w>weten</w><w>ober</w><w>laden</w><pc>·</pc></l>
@@ -3158,9 +3156,7 @@
                 </lg>
                 <lg>
                     <l n="1527"><w>Nith</w><lb n="4"/><w>irzugen</w><w join="right">ne</w><w join="left">mohte</w><pc>·</pc><del rendition="hc:Erased"><w>Nith</w><w>irzugen</w><w join="right">ne</w><w join="left">mohte</w></del></l>
-                    <!--El verso fue copiado dos veces y después se borro la repetición.-->
-                    <l n="1528"><lb n="5"/><w>So</w><w>iz</w><w>eme</w><w join="right">z</w><w join="left">en</w><w>eren</w><w>dohte</w><pc>·</pc></l>
-                    <!--A continuación faltan los versos 1529-1534.-->                  
+                    <l n="1528"><lb n="5"/><w>So</w><w>iz</w><w>eme</w><w join="right">z</w><w join="left">en</w><w>eren</w><w>dohte</w><pc>·</pc></l>                  
                 </lg>
                 <lg>
                     <l n="1535"><w>Die</w><w>daden</w><w>eme</w><w part="I">ge</w><lb n="6"/><w part="F">liche</w><w>we</w><pc>·</pc></l>
@@ -3201,7 +3197,6 @@
                 <lg>
                     <l n="1553"><w>Iſt</w><w>her</w><lb n="18"/><w>ſinen</w><w>arzte</w><w>bi</w><pc>·</pc></l>
                     <l n="1554"><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>willent</w><w>daz</w><w>di<del rendition="hc:Erased">ſ</del>ſe</w><w><choice><orig>w</orig><reg>wu</reg></choice>nde</w><w>ſi</w><pc>·</pc></l>
-                    <!--dise aparece separado porque se borró una 's'.-->
                 </lg>
                 <lg>
                     <l n="1555"><lb n="19"/><w>Bi</w><w>irn</w><w>arzaten</w><w>der</w><w>dot</w><pc>·</pc></l>
@@ -3381,7 +3376,6 @@
                 </lg>
                 <lg>
                     <l n="1643"><w>So</w><w join="right"><choice><orig>w</orig><reg>wu</reg></choice>rd</w><w join="left">eſ</w><w>deſte</w><w>bezer</w><w>rat</w><pc>·</pc></l>
-                    <!--A continuación faltan los V. 1644-1647.     -->
                     <l n="1648"><w>Sih</w><w>min</w><lb n="19"/><w>undir <choice><orig>w</orig><reg>wu</reg></choice>nden</w><w>hat</w><pc>·</pc></l>
                 </lg>
                 <lg>
@@ -3499,7 +3493,6 @@
                 <lg>
                     <l n="1705"><w>Da</w><w>ſi</w><w>dur</w><w>was</w><pb n="21r"/><cb n="a"/><lb n="1"/><w>gegangen</w><pc>·</pc></l>
                     <l n="1706"><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>her</w><w>waſ</w><w>alſo</w><w>ge<choice><orig>u</orig><reg>v</reg></choice>angen</w><pc>·</pc></l>
-                    <!--Revisado hasta aquí Victor 12/06/2019     -->
                 </lg>
                 <lg>
                     <l n="1707"><w>Daz</w><lb n="2"/><w>em</w><w>abir</w><w>die</w><w>uz<choice><orig>u</orig><reg>v</reg></choice>art</w><pc>·</pc></l>
@@ -4003,7 +3996,6 @@
                 </lg>
                 <lg>
                     <l n="1957"><w>weder</w><w>ti<choice><orig>v</orig><reg>u</reg></choice>rre</w><w>ſi</w><w>der</w><w>da</w><w>ge</w><pc>·</pc></l>
-                    <!--Falta a continuación el verso 1958 OK!-->
                 </lg>
                 <pb n="40r"/>
                 <cb n="a"/>
@@ -4098,7 +4090,6 @@
                 </lg>
                 <lg>
                     <l n="2003"><w>Diu</w><w>maget</w><pb n="40v"/><cb n="a"/><lb n="1"/><w>u<choice><am>n̄</am><ex>nd</ex></choice></w><w>her</w><w>y wein</w><pc>·</pc></l>
-                    <!--A continuación falta el verso 2004! OK!-->
                 </lg>
                 <lg>
                     <l n="2005"><w>Daz</w><w join="right">ſie</w><w join="left">z</w><w>noh</w><w><choice><orig>u</orig><reg>v</reg></choice>irſuͦhten</w><w>baz</w><pc>·</pc></l>
@@ -4119,7 +4110,6 @@
                 <lg>
                     <l n="2013"><w>wider</w><w>ſie</w><w>ſo</w><w>ſere</w><w>untgalt</w><pc>·</pc></l>
                     <l n="2014"><w>wa<choice><am>n̄</am><ex>nd</ex></choice></w><lb n="6"/><w>ſie</w><w>ir</w><w><choice><orig>u</orig><reg>v</reg></choice>loͮhte</w><w>u<choice><am>n̄</am><ex>nd</ex></choice></w><w>ſie</w><w>ſcalt</w><pc>·</pc></l>
-                    <!--Revisado hasta aquí Victor 13/06/2019     -->
                 </lg>
                 <lg>
                     <l n="2015"><w>Sie</w><w>gedahte</w><w>waz</w><w>han</w><w>ih</w><lb n="7"/><w>getan</w><pc>·</pc></l>
@@ -4150,7 +4140,7 @@
                     <l n="2028"><w>wa<choice><am>n̄</am><ex>ne</ex></choice></w><w>da</w><w join="right">ne</w><w join="left">gewinnet</w><w>nieman</w><w>mite</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="2029"><w part="I">We</w><metamark ana="hc:Hyphen">‒</metamark><lb break="no" n="15"/><w>ne</w><w>ſcande</w><w>u<choice><am>n̄</am><ex>nd</ex></choice></w><w>ſca<del rendition="hc:Erased">n</del>den</w><pc>·</pc></l>
+                    <l n="2029"><w part="I">We</w><metamark ana="hc:Hyphen">‒</metamark><lb break="no" n="15"/><w>ne</w><w>ſcande</w><w>u<choice><am>n̄</am><ex>nd</ex></choice></w><w>ſca<del rendition="hc:Erased hc:Underdotted">n</del>den</w><pc>·</pc></l>
                     <l n="2030"><w>Ih</w><w>ſolte</w><w>ſie</w><w>her wider</w><w>laden</w><pc>·</pc></l>
                 </lg>
                 <lg>
@@ -4162,8 +4152,7 @@
                     <l n="2034"><w>der</w><w><choice><orig>i</orig><reg>j</reg></choice>ender</w><lb n="18"/><w>in</w><w>ſluͦh</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="2035"><w>Der</w><w>moͮ ſte</w><w>ti<choice><orig>v</orig><reg>u</reg></choice>rre</w><w>ſin</w><w>dan</w><w>her</w><pc>·</pc></l>
-                    <!--Una grieta en el ms. afecta a muoste-->
+                    <l n="2035"><w>Der</w><w>m<damage ana="hc:Perforated">oͮ</damage>ſte</w><w>ti<choice><orig>v</orig><reg>u</reg></choice>rre</w><w>ſin</w><w>dan</w><w>her</w><pc>·</pc></l>
                     <l n="2036"><w>her</w><w join="right">ne</w><w part="I" join="left">he</w><lb n="19"/><w part="F" join="right">t</w><w join="left">en</w><w>anderſ</w><w>her</w><pc>·</pc></l>
                 </lg>
                 <lg>
@@ -4184,7 +4173,7 @@
                 </lg>
                 <lg>
                     <l n="2045"><w>Min</w><w part="I">he</w><lb n="24"/><w part="F">re</w><w join="right">wolt</w><w join="left">in</w><w>han</w><w>ir ſlagen</w><pc>·</pc></l>
-                    <l n="2046"><w join="right">het</w><w join="both">er</w><w join="left">me</w><w>daz</w><w>dur</w><w>mih</w><lb n="25"/><w><choice><orig>u</orig><reg>v</reg></choice>ir dragen</w><pc>·</pc></l>
+                    <l n="2046"><w join="right">het</w><w join="both">er</w><w join="left">ine</w><w>daz</w><w>dur</w><w>mih</w><lb n="25"/><w><choice><orig>u</orig><reg>v</reg></choice>ir dragen</w><pc>·</pc></l>
                 </lg>
                 <lg>
                     <l n="2047"><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w join="right">het</w><w join="left">in</w><w>lazen</w><w>geneſen</w><pc>·</pc></l>
@@ -4192,7 +4181,7 @@
                 </lg>
                 <lg>
                     <l n="2049"><w>wa<choice><am>n̄</am><ex>nd</ex></choice></w><w>ſo</w><w join="right">wer</w><w join="left">er</w><w>ſelbe</w><w>tot</w><pc>·</pc></l>
-                    <l n="2050"><w join="right">daz</w><w join="left">er<metamark ana="hc:Hyphen ">‒</metamark><pb n="41r"/><cb n="a"/></w><lb n="1"/><w part="F">ne</w><w>ſluͦh</w><w>deſ</w><w>gie</w><w>em</w><w>not</w><pc>·</pc></l>
+                    <l n="2050"><w join="right">daz</w><w join="left">er</w><metamark ana="hc:Hyphen ">‒</metamark><pb n="41r"/><cb n="a"/><lb n="1"/><w>ne</w><w>ſluͦh</w><w>deſ</w><w>gie</w><w>em</w><w>not</w><pc>·</pc></l>
                 </lg>
                 <lg>
                     <l n="2051"><w>Suſ</w><w>brahte</w><w join="right">ſi</w><w join="left">ez</w><w join="right">an</w><w join="left">irn</w><lb n="2"/><w>muͦte</w><pc>·</pc></l>
@@ -4211,12 +4200,12 @@
                     <l n="2058"><w>Sie</w><w>gedahte</w><w>mit</w><w>mime</w><w>libe</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="2059"><w part="I">Ne</w><metamark ana="hc:Hyphen">‒</metamark><lb n="6"/><w>mah</w><w>ih</w><w>den</w><w>brunnen</w><w>niht</w><w>irwern</w><w><del rendition="hc:Erased">Mih</del></w><w><del rendition="hc:Erased">mah</del></w><lb n="7"/><w><del rendition="hc:Erased">ih</del></w><w><del rendition="hc:Erased">den</del></w><w><del rendition="hc:Erased">brunnen</del></w><w><del rendition="hc:Erased">niht</del></w><w><del rendition="hc:Erased">irwern</del></w><pc>·</pc></l>
-                    <!--A continuación se vuelve a repetir el v. 2059 con la variante al principio 'Mih mah'; además parece que han intentado borrarlo. ¿Cómo integramos la transcripción de esa repetición aquí?     -->
+                    <l n="2059"><w part="I">Ne</w><metamark ana="hc:Hyphen">‒</metamark><lb n="6"/><w>mah</w><w>ih</w><w>den</w><w>brunnen</w><w>niht</w><w>irwern</w><del rendition="hc:Erased"><w>Mih</w><w>mah</w><lb n="7"/><w>ih</w><w>den</w><w>brunnen</w><w>niht</w><w>irwern</w></del><pc>·</pc></l>
+                    <!--A continuación se vuelve a repetir el v. 2059 con la variante al principio 'Mih mah'; además parece que han intentado borrarlo. ¿Cómo integramos la transcripción de esa repetición aquí?  TAL Y COMO LO HAS HECHO: TRANSCRIBIRLO COMO <DEL> (ESO SÍ, SÓLO UN <DEL> POR FUERA DE TODAS LAS <W>).   -->
                     <l n="2060"><w>Mih</w><w>muͦz</w><w>ein</w><lb n="8"/><w>biderbe</w><w>man</w><w>ge nern</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="2061"><w>Oder</w><w>ih</w><w>bin</w><w>binamen</w><w part="I"><choice><orig>u</orig><reg>v</reg></choice>ir</w><metamark ana="hc:Hyphen">‒</metamark><lb break="no" n="9"/><w part="F">lorn</w><w/><pc>·</pc></l>
+                    <l n="2061"><w>Oder</w><w>ih</w><w>bin</w><w>binamen</w><w part="I"><choice><orig>u</orig><reg>v</reg></choice>ir</w><metamark ana="hc:Hyphen">‒</metamark><lb break="no" n="9"/><w part="F">lorn</w><pc>·</pc></l>
                     <l n="2062"><w>weiz</w><w>got</w><w>ih</w><w>laze</w><w>minen</w><w>zorn</w><pc>·</pc></l>
                 </lg>
                 <lg>
@@ -4269,7 +4258,7 @@
                 </lg>
                 <lg>
                     <l n="2087"><lb n="24"/><w join="right">Wand</w><w join="left">iz</w><w>ne</w><w>tohte</w><w>neheime</w><w>zagen</w><pc>·</pc></l>
-                    <l n="2088"><w join="right">Daz</w><w join="left">er</w><w part="I">mi</w><metamark ana="hc:Hyphen">‒</metamark><lb break="no" n="25"/><w part="F">nen</w><w>heren</w><w join="right">het</w><w join="left">ir ſlagen</w><pc>·</pc></l>
+                    <l n="2088"><w join="right">Daz</w><w join="left">er</w><w part="I">mi</w><metamark ana="hc:Hyphen">‒</metamark><lb break="no" n="25"/><w part="F">nen</w><w>heren</w><w join="right">het</w><w join="left">irſlagen</w><pc>·</pc></l>
                 </lg>
                 <lg>
                     <l n="2089"><w join="right">hat</w><w join="left">er</w><w>diu</w><w>diu</w><w>burt</w><lb n="26"/><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>di<choice><orig>v</orig><reg>u</reg></choice></w><w><choice><orig>i</orig><reg>j</reg></choice>uͦgent</w><pc>·</pc></l>
@@ -4301,7 +4290,7 @@
                 </lg>
                 <lg>
                     <l n="2103"><w>So</w><w>ſcone</w><w>hat</w><w><choice><orig>u</orig><reg>v</reg></choice>irkeret</w><pc>·</pc></l>
-                    <l n="2104"><w>Ir</w><w>ſit</w><w>mit</w><w>em</w><lb n="9"/><w>ge eret</w><pc>·</pc></l>
+                    <l n="2104"><w>Ir</w><w>ſit</w><w>mit</w><w>em</w><lb n="9"/><w>geeret</w><pc>·</pc></l>
                 </lg>
                 <lg>
                     <l n="2105"><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>ne</w><w>durfet</w><w>uh</w><w>ſin</w><w>niemer</w><w>geſcamen</w><pc>·</pc></l>
@@ -4329,7 +4318,6 @@
                 </lg>
                 <lg>
                     <l n="2117"><w>her</w><w>wolte</w><w join="right">war</w><w join="left">iz</w><w>nu</w><w part="I">ge</w><lb n="17"/><w part="F">ſcien</w><pc>·</pc></l>
-                    <!--A continuación falta el verso 2118!-->
                 </lg>
                 <lg>
                     <l n="2119"><w>vrowe</w><w join="right">in</w><w>diſen</w><w><choice><orig>u</orig><reg>v</reg></choice>ier</w><w>tagen</w><pc>·</pc></l>
@@ -4385,7 +4373,7 @@
                     <l n="2146"><lb n="8"/><w>Nu</w><w join="right">lieb</w><w join="left">ez</w><w>em</w><w>trut</w><w>geselle</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="2147"><w>Sie</w><w>ſprah</w><pc>·</pc><w><choice><orig>u</orig><reg>v</reg></choice>rowe</w><lb n="9"/><w>daz</w><w><add hei:placeRef="hc:AboveLine">ſi</add></w><w>ge tan</w><pc>·</pc></l>
+                    <l n="2147"><w>Sie</w><w>ſprah</w><pc>·</pc><w><choice><orig>u</orig><reg>v</reg></choice>rowe</w><lb n="9"/><w>daz</w><w><add hei:placeRef="hc:AboveLine">ſi</add></w><w>getan</w><pc>·</pc></l>
                     <l n="2148"><w>Oh</w><w join="right">n</w><w join="both">ſuld</w><w join="left">ir</w><w>ein</w><w>dinc</w><w>niwet</w><w>lan</w><pc>·</pc></l>
                 </lg>
                 <lg>
@@ -4407,6 +4395,7 @@
                 <lg>
                     <l n="2157"><w>So</w><w join="right">hat</w><w join="left">er</w><w>in</w><w>zwei</w><w>wis</w><w><choice><orig>u</orig><reg>v</reg></choice>ir lorn</w><pc>·</pc></l>
                     <l n="2158"><w>her</w><w>duldet</w><lb n="15"/><w>ſcaden</w><pc>·</pc><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>vrinde</w><w>zorn</w><pc>·</pc></l>
+                    <!--Revisado Victor 14/11/2019 – Muy bien Emilio, tu transcripción es muy fiable, muy cuidada, sobre todo en el asunto de la tokenización, que el más difícil.-->
                 </lg>
                 <lg>
                     <l n="2159"><w/><w/><w/><w/><w/><pc>·</pc></l>
