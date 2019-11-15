@@ -1,7 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://digi.ub.uni-heidelberg.de/schema/tei/heiEDITIONS/tei_hes.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://digi.ub.uni-heidelberg.de/schema/tei/heiEDITIONS/tei_hes.rng" type="application/xml"
-	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://digi.ub.uni-heidelberg.de/schema/tei/heiEDITIONS/tei_hes.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" ana="hc:IWDDocument">
     <teiHeader>
         <fileDesc>
@@ -22,7 +21,7 @@
                         <msIdentifier>
                             <settlement>Sigmaringen</settlement>
                             <repository>Fürstlich Hohenzollernsche Hofbibliothek</repository>
-                            <idno>Cod. 452</idno>
+                            <idno>Cod. 452 – verschollen</idno>
                         </msIdentifier>
                         <additional>
                             <adminInfo>
@@ -37,507 +36,372 @@
     <text ana="hc:CourtlyRomance hc:ExpressionFragmentThroughLoss">
         <body>
             <div>
-                <pb n="99"/>
-                <cb n="99-a"/>
+                <pb n="1r"/>
+                <cb n="a"/>
                 <lg>
-                    <l n="2369"><lb/><w/><w/><w/><w/><w/></l>
-                    <l n="2370"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="2369"><lb n="1"/><gap ana="hc:Illegible"/><w>war</w><w>es</w><w>f<choice><orig>v</orig><reg>u</reg></choice>get</w><w>sich</w><w>deste</w><w>b<choice><am>z</am><ex>az</ex></choice></w></l>
+                    <l n="2370"><lb n="2"/><w>N<choice><orig>v</orig><reg>u</reg></choice></w><w>taten</w><w>s<choice><orig>v́</orig><reg>ú</reg></choice></w><w>oͮch</w><w>d<choice><am>z</am><ex>az</ex></choice></w></l>
                 </lg>
                 <lg>
-                    <l n="2371"><lb/><w/><w/><w/><w/><w/></l>
-                    <l n="2372"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="2371"><lb n="3"/><w>do</w><w>s<choice><orig>v́</orig><reg>ú</reg></choice></w><w>sich</w><w>z<choice><orig>vͦ</orig><reg>uͦ</reg></choice></w><w>handen</w><w>gevi<choice><am>ē</am><ex>en</ex></choice>g<choice><am>ē</am><ex>en</ex></choice></w></l>
+                    <l n="2372"><lb n="4"/><w><choice><orig>V</orig><reg>U</reg></choice>nd</w><w>in</w><w>den</w><w>palas</w><w>giengen</w></l>
                 </lg>
                 <lg>
-                    <l n="2373"><lb/><w/><w/><w/><w/><w/></l>
-                    <l n="2374"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="2373"><lb n="5"/><w><choice><orig>V</orig><reg>U</reg></choice>nd</w><w>s<choice><orig>v́</orig><reg>ú</reg></choice></w><w>den</w><w><choice><am>h͛</am><ex>hern</ex></choice></w><w>ywein</w><w>gesachen</w></l>
+                    <l n="2374"><lb n="6"/><w>Benam<choice><am>ē</am><ex>en</ex></choice></w><w>s<choice><orig>v́</orig><reg>ú</reg></choice></w><w>des</w><w><choice><orig>i</orig><reg>j</reg></choice>ahen</w></l>
                 </lg>
                 <lg>
-                    <l n="2375"><lb/><w/><w/><w/><w/><w/></l>
-                    <l n="2376"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="2375"><lb n="7"/><w>Sie</w><w>gesehen</w><w>nie</w><w>so</w><w>schon<choice><am>ē</am><ex>en</ex></choice></w><w>man</w></l>
+                    <l n="2376"><lb n="8"/><w>Da</w><w join="right">en</w><w join="left">lugen</w><w>s<choice><orig>v́</orig><reg>ú</reg></choice></w><w>niht</w><w>an</w></l>
                 </lg>
                 <lg>
-                    <l n="2377"><lb/><w/><w/><w/><w/><w/></l>
-                    <l n="2378"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="2377"><lb n="9"/><w>Oͮch</w><w join="right">en</w><w join="left">wart</w><w>nie</w><w>ritter</w><w>anderswa</w></l>
+                    <l n="2378"><lb n="10"/><w>Baz</w><w>enpfang<choice><am>ē</am><ex>en</ex></choice></w><w>dan</w><w>er</w><w>du</w></l>
                 </lg>
                 <lg>
-                    <l n="2379"><lb/><w/><w/><w/><w/><w/></l>
-                    <l n="2380"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="2379"><lb n="11"/><w>S<choice><orig>v́</orig><reg>ú</reg></choice></w><w>besahen</w><w>in</w><w>als</w><w>ein</w><w>wonder</w></l>
+                    <l n="2380"><lb n="12"/><w><choice><orig>V</orig><reg>U</reg></choice>nd</w><w>sprahen</w><w>alle</w><w>besonder</w></l>
                 </lg>
                 <lg>
-                    <l n="2381"><lb/><w/><w/><w/><w/><w/></l>
-                    <l n="2382"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="2381"><lb n="13"/><w>Wer</w><w>braht</w><w>disen</w><w>ritter</w><w>her</w></l>
+                    <l n="2382"><lb n="14"/><w>Ob</w><w>got</w><w>wil</w><w>es</w><w>ist</w><w>der</w></l>
                 </lg>
                 <lg>
-                    <l n="2383"><lb/><w/><w/><w/><w/><w/></l>
-                    <l n="2384"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="2383"><lb n="15"/><w>Den</w><w>min</w><w>vroͮwe</w><w>niemen</w><w>sol</w></l>
+                    <l n="2384"><lb n="16"/><w>In</w><w>geviel</w><w>nie</w><w>kein</w><w>ritter</w><w>so</w><w>wol</w></l>
                 </lg>
+                <gap ana="hc:CutOff"/>
+                <cb n="b"/>
+                <gap ana="hc:CutOff"/>
                 <lg>
-                    <l n="2385"><lb/><w/><w/><w/><w/><w/></l>
-                    <l n="2386"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="2404"><lb n="1"/><w>Sin</w><w>vroͮwen</w><w>red</w><w>nach</w><w>ir</w><w>bet</w></l>
                 </lg>
                 <lg>
-                    <l n="2387"><lb/><w/><w/><w/><w/><w/></l>
-                    <l n="2388"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="2405"><lb n="2"/><w>Vnd</w><w>do</w><w>s<choice><orig>v́</orig><reg>ú</reg></choice></w><w>oͮch</w><w>hortin</w><w>sagin</w></l>
+                    <l n="2406"><lb n="3"/><w>D<choice><am>z</am><ex>az</ex></choice></w><w>keme</w><w>in</w><w>vierzich</w><w>tagin</w></l>
                 </lg>
                 <lg>
-                    <l n="2389"><lb/><w/><w/><w/><w/><w/></l>
-                    <l n="2390"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="2407"><lb n="4"/><w>Der</w><w>k<choice><orig>v́</orig><reg>ú</reg></choice>nic</w><w>artus</w><w>mit</w><w>her</w></l>
+                    <l n="2408"><lb n="5"/><w>Fund</w><w>er</w><w>da</w><w>den</w><w>brunnen</w><w>an</w><w>wer</w></l>
                 </lg>
                 <lg>
-                    <l n="2391"><lb/><w/><w/><w/><w/><w/></l>
-                    <l n="2392"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="2409"><lb n="6"/><w join="right">De</w><w join="both">s</w><w join="left">war</w><w>es</w><w>f<choice><orig>vͦ</orig><reg>uͦ</reg></choice>get</w><w>sich</w><w>noch</w><w>b<choice><am>z</am><ex>az</ex></choice></w></l>
+                    <l n="2410"><lb n="7"/><gap ana="hc:Illegible"/></l>
                 </lg>
                 <lg>
-                    <l n="2393"><lb/><w/><w/><w/><w/><w/></l>
-                    <l n="2394"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="2411"><lb n="8"/><w>So</w><w>wer</w><w>er</w><w>binamen</w><w>verlorn</w></l>
+                    <l n="2412"><lb n="9"/><w>Wen</w><w>er</w><w>hat</w><w>der</w><w>verte</w><w>gesworn</w></l>
                 </lg>
                 <lg>
-                    <l n="2395"><lb/><w/><w/><w/><w/><w/></l>
-                    <l n="2396"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="2413"><lb n="10"/><w><choice><orig>V</orig><reg>U</reg></choice>nd</w><w>als</w><w>in</w><w>reht</w><w>wart</w><w>geseit</w></l>
+                    <l n="2414"><lb n="11"/><w>Des</w><w>ritters</w><w>art</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>sin</w><w>manheit</w></l>
                 </lg>
                 <lg>
-                    <l n="2397"><lb/><w/><w/><w/><w/><w/></l>
-                    <l n="2398"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="2415"><lb n="12"/><w>Z<choice><orig>vͦ</orig><reg>uͦ</reg></choice></w><w>der</w><w>schone</w><w>d<choice><orig>v́</orig><reg>ú</reg></choice></w><w>s<choice><orig>v́</orig><reg>ú</reg></choice></w><w><choice><orig>i</orig><reg>j</reg></choice>ahin</w></l>
+                    <l n="2416"><lb n="13"/><w>Von</w><w>reht</w><w>s<choice><orig>v́</orig><reg>ú</reg></choice></w><w>des</w><w><choice><orig>i</orig><reg>j</reg></choice>ahin</w></l>
                 </lg>
                 <lg>
-                    <l n="2399"><lb/><w/><w/><w/><w/><w/></l>
-                    <l n="2400"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="2417"><lb n="14"/><w>Es</w><w>wer</w><w>fr</w></l>
                 </lg>
+                <gap ana="hc:CutOff"/>
+                <pb n="1v"/>
+                <cb n="a"/>
+                <gap ana="hc:CutOff"/>
                 <lg>
-                    <l n="2401"><lb/><w/><w/><w/><w/><w/></l>
-                    <l n="2402"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="2435"><lb n="1"/><w>Des</w><w>toten</w><w>ist</w><w>vergeszen</w></l>
+                    <l n="2436"><lb n="2"/><w>Der</w><w>lebende</w><w>hat</w><w>beseszen</w></l>
                 </lg>
                 <lg>
-                    <l n="2403"><lb/><w/><w/><w/><w/><w/></l>
-                    <l n="2404"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="2437"><lb n="3"/><w>Beide</w><w>sin</w><w>ere</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>sin</w><w>lant</w></l>
+                    <l n="2438"><lb n="4"/><w>D<choice><am>z</am><ex>az</ex></choice></w><w>w<choice><am>z</am><ex>az</ex></choice></w><w>vil</w><w>wol</w><w join="right">z</w><w join="left">im</w><w>bewant</w></l>
                 </lg>
                 <lg>
-                    <l n="2405"><lb/><w/><w/><w/><w/><w/></l>
-                    <l n="2406"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="2439"><lb n="5"/><w>Ez</w><w>w<choice><am>z</am><ex>az</ex></choice></w><w>da</w><w>vor</w><w>noch</w><w>sith</w></l>
+                    <l n="2440"><lb n="6"/><w>So</w><w>volleclich</w><w>hogezith</w></l>
                 </lg>
                 <lg>
-                    <l n="2407"><lb/><w/><w/><w/><w/><w/></l>
-                    <l n="2408"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="2441"><lb n="7"/><w>I<gap ana="hc:Illegible"></gap></w><w>dem</w><w>lande</w><gap ana="hc:Illegible"></gap><w>mere</w></l>
+                    <l n="2442"><lb n="8"/><w>Da</w><w>w<choice><am>z</am><ex>az</ex></choice></w><w>wonne</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>ere</w></l>
                 </lg>
                 <lg>
-                    <l n="2409"><lb/><w/><w/><w/><w/><w/></l>
-                    <l n="2410"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="2443"><lb n="9"/><w>Vroͮde</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>michel</w><w>riterschaft</w></l>
+                    <l n="2444"><lb n="10"/><w><choice><orig>V</orig><reg>U</reg></choice>nd</w><w>alliz</w><w>des</w><w>d<choice><orig>v́</orig><reg>ú</reg></choice></w><w><choice><orig>v́</orig><reg>ú</reg></choice>birkraft</w></l>
                 </lg>
                 <lg>
-                    <l n="2411"><lb/><w/><w/><w/><w/><w/></l>
-                    <l n="2412"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="2445"><lb n="11"/><w>Des</w><w>man</w><w>z<choice><orig>vͦ</orig><reg>uͦ</reg></choice></w><w>d<choice><am>ē</am><ex>em</ex></choice></w><w>libe</w><w>gerte</w></l>
+                    <l n="2446"><lb n="12"/><w>Ir</w><w>riterschaft</w><w>d<choice><orig>v́</orig><reg>ú</reg></choice></w><w>werte</w></l>
                 </lg>
                 <lg>
-                    <l n="2413"><lb/><w/><w/><w/><w/><w/></l>
-                    <l n="2414"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="2447"><lb n="13"/><w><choice><orig>V</orig><reg>U</reg></choice>ntz</w><w>d<choice><am>z</am><ex>az</ex></choice></w><w>in</w><w>d<choice><am>z</am><ex>az</ex></choice></w><w>lant</w><w>f<choice><orig>vͦ</orig><reg>uͦ</reg></choice>r</w></l>
+                    <l n="2448"><lb n="14"/><w>Der</w><w>k<choice><orig>v́</orig><reg>ú</reg></choice>nic</w><w>artus</w><w>als</w><w>er</w><w>sw<choice><orig>vͦ</orig><reg>uͦ</reg></choice>r</w></l>
                 </lg>
                 <lg>
-                    <l n="2415"><lb/><w/><w/><w/><w/><w/></l>
-                    <l n="2416"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="2449"><lb n="15"/><w>Z<choice><orig>vͦ</orig><reg>uͦ</reg></choice></w><w>d</w><gap ana="hc:Illegible"></gap><w>nen</w><w>mit</w><w>her</w></l>
                 </lg>
+                <gap ana="hc:CutOff"/>
+                <cb n="b"/>
+                <gap ana="hc:CutOff"/>
                 <lg>
-                    <l n="2417"><lb/><w/><w/><w/><w/><w/></l>
-                    <l n="2418"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="2467"><lb n="1"/><w>So</w><w>s<choice><orig>v</orig><reg>u</reg></choice>me</w><gap ana="hc:Illegible"/><w>sere</w><w>sich</w></l>
+                    <l n="2468"><lb n="2"/><w>Der</w><w><choice><orig>v́</orig><reg>ú</reg></choice></w><w>da</w><w>richet</w><w>d<choice><am>z</am><ex>az</ex></choice></w><w>bin</w><w>ich</w></l>
                 </lg>
                 <lg>
-                    <l n="2419"><lb/><w/><w/><w/><w/><w/></l>
-                    <l n="2420"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="2469"><lb n="3"/><w>Ich</w><w>m<choice><orig>vͦ</orig><reg>uͦ</reg></choice>z</w><w>eht</w><w>ein</w><w>d<choice><orig>v́</orig><reg>ú</reg></choice></w><w>not</w><w>bestan</w></l>
+                    <l n="2470"><lb n="4"/><w>Als</w><w>ich</w><w>vil</w><w>dicke</w><w>han</w><w>getan</w></l>
                 </lg>
                 <lg>
-                    <l n="2421"><lb/><w/><w/><w/><w/><w/></l>
-                    <l n="2422"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="2471"><lb n="5"/><w>Do</w><w>ich</w><w>f<choice><orig>vͦ</orig><reg>uͦ</reg></choice>r</w><w>mine</w><w>fr<choice><orig>v́</orig><reg>ú</reg></choice>nt</w><w>st<choice><orig>vͦ</orig><reg>uͦ</reg></choice>nt</w></l>
+                    <l n="2472"><lb n="6"/><w>Ich</w><w join="right">en</w><w join="left">weis</w><w>war</w><w><choice><orig>v</orig><reg>u</reg></choice>mb</w><w>s<choice><orig>v́</orig><reg>ú</reg></choice></w><w>es</w><w>t<choice><orig>vͦ</orig><reg>uͦ</reg></choice>nt</w></l>
                 </lg>
                 <lg>
-                    <l n="2423"><lb/><w/><w/><w/><w/><w/></l>
-                    <l n="2424"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="2473"><lb n="7"/><w>Oder</w><w>w<choice><am>z</am><ex>az</ex></choice></w><w>s<choice><orig>v́</orig><reg>ú</reg></choice></w><w>an</w><w>in</w><w>selbin</w><w>rechint</w></l>
+                    <l n="2474"><lb n="8"/><w>D<choice><orig>v́</orig><reg>ú</reg></choice></w><w>al</w><gap ana="hc:Illegible"/><w>vil</w><w>gesprechint</w></l>
                 </lg>
                 <lg>
-                    <l n="2425"><lb/><w/><w/><w/><w/><w/></l>
-                    <l n="2426"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="2475"><lb n="9"/><w>Von</w><w>ir</w><w>selb<choice><orig>v</orig><reg>u</reg></choice>n</w><w>getat</w></l>
+                    <l n="2476"><lb n="10"/><w>So</w><w join="right">in</w><w join="left">s</w><w>niman</w><w>gestat</w></l>
                 </lg>
                 <lg>
-                    <l n="2427"><lb/><w/><w/><w/><w/><w/></l>
-                    <l n="2428"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="2477"><lb n="11"/><w>Es</w><w>ist</w><w>veitinne</w><w>g<choice><orig>vͦ</orig><reg>uͦ</reg></choice>t</w></l>
                 </lg>
+                <gap ana="hc:CutOff"/>
+                <pb n="2r"/>
+                <cb n="a"/>
+                <gap ana="hc:CutOff"/>
                 <lg>
-                    <l n="2429"><lb/><w/><w/><w/><w/><w/></l>
-                    <l n="2430"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="2502"><lb/><w/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="2431"><lb/><w/><w/><w/><w/><w/></l>
-                    <l n="2432"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="2503"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="2504"><lb/><w/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="2433"><lb/><w/><w/><w/><w/><w/></l>
-                    <l n="2434"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="2505"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="2506"><lb/><w/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="2435"><lb/><w/><w/><w/><w/><w/></l>
-                    <l n="2436"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="2507"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="2508"><lb/><w/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="2437"><lb/><w/><w/><w/><w/><w/></l>
-                    <l n="2438"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="2509"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="2510"><lb/><w/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="2439"><lb/><w/><w/><w/><w/><w/></l>
-                    <l n="2440"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="2511"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="2512"><lb/><w/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="2441"><lb/><w/><w/><w/><w/><w/></l>
-                    <l n="2442"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="2513"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="2514"><lb/><w/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="2443"><lb/><w/><w/><w/><w/><w/></l>
-                    <l n="2444"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="2515"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="2516"><lb/><w/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="2445"><lb/><w/><w/><w/><w/><w/></l>
-                    <l n="2446"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="2517"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="2518"><lb/><w/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="2447"><lb/><w/><w/><w/><w/><w/></l>
-                    <l n="2448"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="2519"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="2520"><lb/><w/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="2449"><lb/><w/><w/><w/><w/><w/></l>
-                    <l n="2450"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="2521"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="2522"><lb/><w/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="2451"><lb/><w/><w/><w/><w/><w/></l>
-                    <l n="2452"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="2523"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="2524"><lb/><w/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="2453"><lb/><w/><w/><w/><w/><w/></l>
-                    <l n="2454"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="2525"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="2526"><lb/><w/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="2455"><lb/><w/><w/><w/><w/><w/></l>
-                    <l n="2456"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="2527"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="2528"><lb/><w/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="2457"><lb/><w/><w/><w/><w/><w/></l>
-                    <l n="2458"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="2529"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="2530"><lb/><w/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="2459"><lb/><w/><w/><w/><w/><w/></l>
-                    <l n="2460"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="2531"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="2532"><lb/><w/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="2461"><lb/><w/><w/><w/><w/><w/></l>
-                    <l n="2462"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="2533"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="2534"><lb/><w/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="2463"><lb/><w/><w/><w/><w/><w/></l>
-                    <l n="2464"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="2535"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="2536"><lb/><w/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="2465"><lb/><w/><w/><w/><w/><w/></l>
-                    <l n="2466"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="2537"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="2538"><lb/><w/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="2467"><lb/><w/><w/><w/><w/><w/></l>
-                    <l n="2468"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="2539"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="2540"><lb/><w/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="2469"><lb/><w/><w/><w/><w/><w/></l>
-                    <l n="2470"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="2541"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="2542"><lb/><w/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="2471"><lb/><w/><w/><w/><w/><w/></l>
-                    <l n="2472"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="2543"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="2544"><lb/><w/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="2473"><lb/><w/><w/><w/><w/><w/></l>
-                    <l n="2474"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="2545"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="2546"><lb/><w/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="2475"><lb/><w/><w/><w/><w/><w/></l>
-                    <l n="2476"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="2547"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="2548"><lb/><w/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="2477"><lb/><w/><w/><w/><w/><w/></l>
-                    <l n="2478"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="2549"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="2550"><lb/><w/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="2479"><lb/><w/><w/><w/><w/><w/></l>
-                    <l n="2480"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="2551"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="2552"><lb/><w/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="2481"><lb/><w/><w/><w/><w/><w/></l>
-                    <l n="2482"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="2553"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="2554"><lb/><w/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="2483"><lb/><w/><w/><w/><w/><w/></l>
-                    <l n="2484"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="2555"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="2556"><lb/><w/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="2485"><lb/><w/><w/><w/><w/><w/></l>
-                    <l n="2486"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="2557"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="2558"><lb/><w/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="2487"><lb/><w/><w/><w/><w/><w/></l>
-                    <l n="2488"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="2559"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="2560"><lb/><w/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="2489"><lb/><w/><w/><w/><w/><w/></l>
-                    <l n="2490"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="2561"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="2562"><lb/><w/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="2491"><lb/><w/><w/><w/><w/><w/></l>
-                    <l n="2492"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="2563"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="2564"><lb/><w/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="2493"><lb/><w/><w/><w/><w/><w/></l>
-                    <l n="2494"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="2565"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="2566"><lb/><w/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="2495"><lb/><w/><w/><w/><w/><w/></l>
-                    <l n="2496"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="2567"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="2568"><lb/><w/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="2497"><lb/><w/><w/><w/><w/><w/></l>
-                    <l n="2498"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="2569"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="2570"><lb/><w/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="2499"><lb/><w/><w/><w/><w/><w/></l>
-                    <l n="2500"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="2571"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="2572"><lb/><w/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="2501"><lb/><w/><w/><w/><w/><w/></l>
-                    <l n="2502"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="2573"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="2574"><lb/><w/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="2503"><lb/><w/><w/><w/><w/><w/></l>
-                    <l n="2504"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="2575"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="2576"><lb/><w/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="2505"><lb/><w/><w/><w/><w/><w/></l>
-                    <l n="2506"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="2577"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="2578"><lb/><w/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="2507"><lb/><w/><w/><w/><w/><w/></l>
-                    <l n="2508"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="2579"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="2580"><lb/><w/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="2509"><lb/><w/><w/><w/><w/><w/></l>
-                    <l n="2510"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="2581"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="2582"><lb/><w/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="2511"><lb/><w/><w/><w/><w/><w/></l>
-                    <l n="2512"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="2583"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="2584"><lb/><w/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="2513"><lb/><w/><w/><w/><w/><w/></l>
-                    <l n="2514"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="2585"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="2586"><lb/><w/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="2515"><lb/><w/><w/><w/><w/><w/></l>
-                    <l n="2516"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="2587"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="2588"><lb/><w/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="2517"><lb/><w/><w/><w/><w/><w/></l>
-                    <l n="2518"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="2589"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="2590"><lb/><w/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="2519"><lb/><w/><w/><w/><w/><w/></l>
-                    <l n="2520"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="2591"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="2592"><lb/><w/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="2521"><lb/><w/><w/><w/><w/><w/></l>
-                    <l n="2522"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="2593"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="2594"><lb/><w/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="2523"><lb/><w/><w/><w/><w/><w/></l>
-                    <l n="2524"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="2595"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="2596"><lb/><w/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="2525"><lb/><w/><w/><w/><w/><w/></l>
-                    <l n="2526"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="2597"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="2598"><lb/><w/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="2527"><lb/><w/><w/><w/><w/><w/></l>
-                    <l n="2528"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="2599"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="2600"><lb/><w/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="2529"><lb/><w/><w/><w/><w/><w/></l>
-                    <l n="2530"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="2601"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="2602"><lb/><w/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="2531"><lb/><w/><w/><w/><w/><w/></l>
-                    <l n="2532"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="2603"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="2604"><lb/><w/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="2533"><lb/><w/><w/><w/><w/><w/></l>
-                    <l n="2534"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="2605"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="2606"><lb/><w/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="2535"><lb/><w/><w/><w/><w/><w/></l>
-                    <l n="2536"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="2607"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="2608"><lb/><w/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="2537"><lb/><w/><w/><w/><w/><w/></l>
-                    <l n="2538"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="2609"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="2610"><lb/><w/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="2539"><lb/><w/><w/><w/><w/><w/></l>
-                    <l n="2540"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="2611"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="2612"><lb/><w/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="2541"><lb/><w/><w/><w/><w/><w/></l>
-                    <l n="2542"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="2613"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="2614"><lb/><w/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="2543"><lb/><w/><w/><w/><w/><w/></l>
-                    <l n="2544"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="2615"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="2616"><lb/><w/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="2545"><lb/><w/><w/><w/><w/><w/></l>
-                    <l n="2546"><lb/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="2547"><lb/><w/><w/><w/><w/><w/></l>
-                    <l n="2548"><lb/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="2549"><lb/><w/><w/><w/><w/><w/></l>
-                    <l n="2550"><lb/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="2551"><lb/><w/><w/><w/><w/><w/></l>
-                    <l n="2552"><lb/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="2553"><lb/><w/><w/><w/><w/><w/></l>
-                    <l n="2554"><lb/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="2555"><lb/><w/><w/><w/><w/><w/></l>
-                    <l n="2556"><lb/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="2557"><lb/><w/><w/><w/><w/><w/></l>
-                    <l n="2558"><lb/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="2559"><lb/><w/><w/><w/><w/><w/></l>
-                    <l n="2560"><lb/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="2561"><lb/><w/><w/><w/><w/><w/></l>
-                    <l n="2562"><lb/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="2563"><lb/><w/><w/><w/><w/><w/></l>
-                    <l n="2564"><lb/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="2565"><lb/><w/><w/><w/><w/><w/></l>
-                    <l n="2566"><lb/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="2567"><lb/><w/><w/><w/><w/><w/></l>
-                    <l n="2568"><lb/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="2569"><lb/><w/><w/><w/><w/><w/></l>
-                    <l n="2570"><lb/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="2571"><lb/><w/><w/><w/><w/><w/></l>
-                    <l n="2572"><lb/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="2573"><lb/><w/><w/><w/><w/><w/></l>
-                    <l n="2574"><lb/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="2575"><lb/><w/><w/><w/><w/><w/></l>
-                    <l n="2576"><lb/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="2577"><lb/><w/><w/><w/><w/><w/></l>
-                    <l n="2578"><lb/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="2579"><lb/><w/><w/><w/><w/><w/></l>
-                    <l n="2580"><lb/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="2581"><lb/><w/><w/><w/><w/><w/></l>
-                    <l n="2582"><lb/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="2583"><lb/><w/><w/><w/><w/><w/></l>
-                    <l n="2584"><lb/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="2585"><lb/><w/><w/><w/><w/><w/></l>
-                    <l n="2586"><lb/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="2587"><lb/><w/><w/><w/><w/><w/></l>
-                    <l n="2588"><lb/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="2589"><lb/><w/><w/><w/><w/><w/></l>
-                    <l n="2590"><lb/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="2591"><lb/><w/><w/><w/><w/><w/></l>
-                    <l n="2592"><lb/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="2593"><lb/><w/><w/><w/><w/><w/></l>
-                    <l n="2594"><lb/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="2595"><lb/><w/><w/><w/><w/><w/></l>
-                    <l n="2596"><lb/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="2597"><lb/><w/><w/><w/><w/><w/></l>
-                    <l n="2598"><lb/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="2599"><lb/><w/><w/><w/><w/><w/></l>
-                    <l n="2600"><lb/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="2601"><lb/><w/><w/><w/><w/><w/></l>
-                    <l n="2602"><lb/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="2603"><lb/><w/><w/><w/><w/><w/></l>
-                    <l n="2604"><lb/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="2605"><lb/><w/><w/><w/><w/><w/></l>
-                    <l n="2606"><lb/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="2607"><lb/><w/><w/><w/><w/><w/></l>
-                    <l n="2608"><lb/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="2609"><lb/><w/><w/><w/><w/><w/></l>
-                    <l n="2610"><lb/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="2611"><lb/><w/><w/><w/><w/><w/></l>
-                    <l n="2612"><lb/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="2613"><lb/><w/><w/><w/><w/><w/></l>
-                    <l n="2614"><lb/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="2615"><lb/><w/><w/><w/><w/><w/></l>
-                    <l n="2616"><lb/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="2617"><lb/><w/><w/><w/><w/><w/></l>
-                    <l n="2618"><lb/><w/><w/><w/><w/><w/></l>
+                    <l n="2617"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="2618"><lb/><w/><w/><w/><w/><w/><w/></l>
                 </lg>
             </div>
         </body>
