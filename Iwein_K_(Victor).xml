@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://digi.ub.uni-heidelberg.de/schema/tei/heiEDITIONS/tei_hes.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://digi.ub.uni-heidelberg.de/schema/tei/heiEDITIONS/tei_hes.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" ana="hc:IWDDocument">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:hei="https://digi.ub.uni-heidelberg.de/schema/tei/heiEDITIONS" ana="hc:IWDDocument">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -178,7 +178,7 @@
                 </lg>
                 <lg>
                     <l n="2503"><lb n="2"/><w>Er</w><w>mohte</w><w>swigen</w><w>als</w><w>ich</w></l>
-                    <l n="2504"><lb n="3"/><w>D<choice><orig>v́</orig><reg>ú</reg></choice></w><w>rede</w><w>t<choice><orig>vͦ</orig><reg>uͦ</reg></choice>ht</w><w>s<choice><orig>v́</orig><reg>ú</reg></choice></w><w><add>ge</add>m<choice><orig>vͤ</orig><reg>uͤ</reg></choice>gelich</w></l>
+                    <l n="2504"><lb n="3"/><w>D<choice><orig>v́</orig><reg>ú</reg></choice></w><w>rede</w><w>t<choice><orig>vͦ</orig><reg>uͦ</reg></choice>ht</w><w>s<choice><orig>v́</orig><reg>ú</reg></choice></w><w><add hei:placeRef="hc:AboveLine">ge</add>m<choice><orig>vͤ</orig><reg>uͤ</reg></choice>gelich</w></l>
                 </lg>
                 <lg>
                     <l n="2505"><lb n="4"/><w>D<choice><am>z</am><ex>az</ex></choice></w><w>er</w><w>sich</w><w>tuhte</w><w>also</w><w>g<choice><orig>vͦ</orig><reg>uͦ</reg></choice>t</w></l>
@@ -228,7 +228,7 @@
                 </lg>
                 <lg>
                     <l n="2545"><lb n="10"/><w join="right">Er</w><w join="left">n</w><w>beschirmede</w><w>sinen</w><w>br<choice><orig>v</orig><reg>u</reg></choice>nnen</w></l>
-                    <l n="2546"><lb n="11"/><w join="right">Er</w><add><w join="left">n</w></add><w>worde</w><w>im</w><w>an</w><w>gewonnen</w></l>
+                    <l n="2546"><lb n="11"/><w join="right">Er</w><add hei:placeRef="hc:AboveLine"><w join="left">n</w></add><w>worde</w><w>im</w><w>an</w><w>gewonnen</w></l>
                 </lg>
                 <lg>
                     <l n="2547"><lb n="12"/><w>Oͮch</w><w>hielt</w><w>her</w><w>chey</w></l>
