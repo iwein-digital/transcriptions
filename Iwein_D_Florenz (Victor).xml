@@ -7795,8 +7795,7 @@
                 <lg>
                     <l n="3801"><lb n="11"/><w join="right"><hi rendition="hc:Versal">E</hi>r</w><w join="left">n</w><w>wolde</w><w>dehein</w><w>andern</w><w>lon</w></l>
                     <l n="3802"><lb n="12"/><w><hei:initial ana="hc:Lombard" hei:color="Blue" hei:heightLines="2">D</hei:initial>i</w><w>frowe</w><w>von</w><w>Ari<del rendition="hc:Underdotted">b</del>on</w></l>
-                    <!--É una tachadura la 'b' enteira ou so dunha parte da 'b' (da barriga) para deixálo en 'l' (é que con l rima, sen 'l' non; e outras versións teñen 'Nariſon
-Revisado Victor 23/11/2019  -->
+                    <!--É una tachadura la 'b' enteira ou so dunha parte da 'b' (da barriga) para deixálo en 'l' (é que con l rima, sen 'l' non; e outras versións teñen 'Nariſon')?? Non o teño claro, ti cómo o ves??-->
                 </lg>
                 <lg>
                     <l n="3803"><lb n="13"/><w>alle</w><w>ir</w><w>not</w><w><choice><orig>v</orig><reg>u</reg></choice>berwant</w></l>
@@ -7853,9 +7852,8 @@ Revisado Victor 23/11/2019  -->
                 <lg>
                     <l n="3829"><lb n="39"/><w><hi rendition="hc:Versal">H</hi>ort</w><w>er</w><w>eine</w><w>ſtymme</w></l>
                     <l n="3830"><lb n="40"/><w><choice><orig>i</orig><reg>j</reg></choice>amerlich</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>doch</w><w>mit</w><w>grimme</w></l>
-                    <!--marca prego             -->
                 </lg>
-                <fw ana="hc:QuireSignature"><lb facs="#D_330-c" n="1"/><num value="3">ııı</num></fw>
+                <fw ana="hc:QuireSignature"><lb facs="#D_330-c" n="1"/><num value="3"><choice><abbr>ııı<am>ꝰ</am></abbr><expan>ter<ex>tius</ex></expan></choice></num></fw>
                 <pb n="331"/>
                 <cb n="a"/>
                 <lg>
@@ -8194,7 +8192,7 @@ Revisado Victor 23/11/2019  -->
                     <l n="3992"><lb n="4"/><w>dem</w><w>pin</w><w>ich</w><w>worden</w><w>gaſt</w></l>
                 </lg>
                 <lg>
-                    <l n="3993"><lb n="5"/><w><hi rendition="hc:Versal">I</hi>ch</w><w>mach</w><w>wol</w><w>chlagen</w><w>min</w><w join="right">ſo</w><w join="left">ne</w><lb ana="hc:DependentLine hc:RunOverLineAbove" n="5a"/><w>wip</w></l>
+                    <l n="3993"><lb n="5"/><w><hi rendition="hc:Versal">I</hi>ch</w><w>mach</w><w>wol</w><w>chlagen</w><w>min</w><w>ſone</w><lb ana="hc:DependentLine hc:RunOverLineAbove" n="5a"/><w>wip</w></l>
                     <l n="3994"><lb n="6"/><w join="right">war</w><w join="left"><choice><orig>v</orig><reg>u</reg></choice>mbe</w><w>ſpar</w><w>ich</w><w>den</w><w>lip</w></l>
                 </lg>
                 <lg>
@@ -8231,7 +8229,7 @@ Revisado Victor 23/11/2019  -->
                 </lg>
                 <lg>
                     <l n="4011"><lb n="23"/><w><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">D</hei:initial>o</w><w>dize</w><w>groze</w><w>chlage</w><w>geſchach</w></l>
-                    <l n="4012"><lb n="24"/><w>daz</w><w>er</w><w>horte</w><w><choice><orig>v</orig><reg>u</reg></choice>nde</w><w>ſach</w></l>
+                    <l n="4012"><lb n="24"/><w>daz</w><w>er horte</w><w><choice><orig>v</orig><reg>u</reg></choice>nde</w><w>ſach</w></l>
                 </lg>
                 <lg>
                     <l n="4013"><lb n="25"/><w><hi rendition="hc:Versal">E</hi>in</w><w><choice><orig>i</orig><reg>j</reg></choice><choice><orig>v</orig><reg>u</reg></choice>nchfrowe</w><w>di</w><w>leit</w></l>
@@ -8267,7 +8265,7 @@ Revisado Victor 23/11/2019  -->
                 </lg>
                 <cb n="b"/>
                 <lg>
-                    <l n="4027"><lb n="1"/><w><hi rendition="hc:Versal">M</hi>ohte</w><w>dehein</w><del rendition="hc:Strikethrough"><w><choice><orig>v</orig><reg>u</reg></choice>nſaligeri<choice><orig>v</orig><reg>u</reg></choice></w><w>werden</w></del><add hei:placeRef="hc:AboveLine"><w>ſo</w><w>armi<choice><orig>v</orig><reg>u</reg></choice></w><w>leben</w></add></l>
+                    <l n="4027"><lb n="1"/><w><hi rendition="hc:Versal">M</hi>ohte</w><w>dehein</w><subst><del rendition="hc:Strikethrough"><w><choice><orig>v</orig><reg>u</reg></choice>nſaligeri<choice><orig>v</orig><reg>u</reg></choice></w><w>werden</w></del><add hei:placeRef="hc:AboveLine"><w>ſo</w><w>armi<choice><orig>v</orig><reg>u</reg></choice></w><w>leben</w></add></subst></l>
                     <l n="4028"><lb n="2"/><w>er</w><w>ſprach</w><w>wer</w><w>mohte</w><w><choice><orig>v</orig><reg>u</reg></choice>ch</w><w>gegeben</w></l>
                 </lg>
                 <lg>
@@ -8345,6 +8343,7 @@ Revisado Victor 23/11/2019  -->
                 <lg>
                     <l n="4065"><lb n="39"/><w><hi rendition="hc:Versal">W</hi>an</w><w>er</w><w>waz</w><w>benamen</w><w>der</w><w>beſte</w></l>
                     <l n="4066"><lb n="40"/><w>den</w><w>ich</w><w>lebendich</w><w>weſte</w></l>
+                    <!--Revisado 23/11/2019 Muy bien!     -->
                 </lg>
                 <pb n="334"/>
                 <cb n="a"/>
