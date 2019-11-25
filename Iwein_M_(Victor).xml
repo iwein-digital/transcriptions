@@ -239,172 +239,81 @@
                 <cb n="a"/>
                 <gap ana="hc:Lost"/>
                 <lg>
-                    <l n="2539"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>··</pc></l>
-                    <l n="2540"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>··</pc></l>
+                    <l n="2564"><lb n="1"/><damage><w>Des</w><w>lobt</w><w>er</w><w>got</w><pc>·</pc></damage><note ana="hc:TranscriptionNote" target="#xpath(//l[@n='2564'])">Das obere rechte Außenteil des Blattes mit den Versen 2539–2563 ist so stark vermodert, dass eine Transkription nicht möglich ist</note></l>
                 </lg>
                 <lg>
-                    <l n="2541"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>··</pc></l>
-                    <l n="2542"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>··</pc></l>
+                    <l n="2565"><damage><w><hi rendition="hc:RedStroke">O</hi>uch</w><w>sag</w><w>ich</w><w>u</w><w>ein</w><w>me</w></damage><gap ana="hc:Mould"/><pc>·</pc></l>
+                    <l n="2566"><lb n="2"/><w><hi rendition="hc:RedStroke">W</hi>ie</w><damage><w>ſchalcaft</w></damage><w>chei</w><w>were</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="2543"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>··</pc></l>
-                    <l n="2544"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>··</pc></l>
+                    <l n="2567"><lb n="3"/><w><hi rendition="hc:RedStroke">E</hi>r</w><w>was</w><damage><w>doch</w></damage><w>une<choice><orig>u</orig><reg>v</reg></choice>rocht</w><pc>·</pc></l>
+                    <l n="2568"><w join="right"><hi rendition="hc:RedStroke">E</hi>n</w><w join="left">het</w><w>in</w><w>ſine</w><w>z<gap ana="hc:Mould"/>ge</w><lb ana="hc:DependentLine hc:RunOverLineAbove" n="3a"/><metamark ana="hc:Hyphen "><hi hei:color="Red">|</hi></metamark><w>niht</w><w>uerwo<gap ana="hc:Mould"/></w></l>
                 </lg>
                 <lg>
-                    <l n="2545"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>··</pc></l>
-                    <l n="2546"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>··</pc></l>
+                    <l n="2569"><lb n="4"/><w><hi rendition="hc:RedStroke">S</hi>o</w><w join="right">ne</w><w join="left">wan</w><w>die</w><w>hof</w><damage><w>ne</w><w>turern</w><w>helt</w></damage><pc>·</pc></l>
+                    <l n="2570"><lb n="5"/><w><hi rendition="hc:RedStroke">D</hi>az</w><w>cheſet</w><w>ob</w><w>ir</w><w>welt</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="2547"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>··</pc></l>
-                    <l n="2548"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>··</pc></l>
+                    <l n="2571"><w><hi rendition="hc:RedStroke">B</hi>i</w><w>ſinem</w><w>am</w><gap ana="hc:Mould"/></l>
+                    <l n="2572"><lb n="6"/><w><hi rendition="hc:RedStroke">S</hi>in</w><w join="right">en</w><w join="left">het</w><w>anders</w><w>niht</w><w>ein</w><w>tac</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="2549"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>··</pc></l>
-                    <l n="2550"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>··</pc></l>
+                    <l n="2573"><lb n="7"/><damage><w><hi rendition="hc:RedStroke">G</hi>erochet</w></damage><w>chunec</w><w>artus</w></l>
+                    <l n="2574"><w><hi rendition="hc:RedStroke">C</hi>e</w><w>trutsazen</w><damage><w>in</w></damage><lb ana="hc:DependentLine hc:RunOverLineAbove" n="7a"/><metamark ana="hc:Hyphen "><hi hei:color="Red">|</hi></metamark><damage><w>ſinem</w><w>hus</w></damage><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="2551"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>··</pc></l>
-                    <l n="2552"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>··</pc></l>
+                    <l n="2575"><lb n="8"/><w><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">N</hei:initial><hi rendition="hc:RedStroke">u</hi></w><w>waren</w><w>ſie</w><w>un<choice><am>d͛</am><ex>der</ex></choice></w><w>in</w><w>beiden</w><pc>·</pc></l>
+                    <l n="2576"><lb n="9"/><w><hi rendition="hc:RedStroke">D</hi>es</w><w>willen</w><w>unuerſcheiden</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="2553"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>··</pc></l>
-                    <l n="2554"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>··</pc></l>
+                    <l n="2577"><lb n="10"/><w><hi rendition="hc:RedStroke">I</hi>r</w><w>ieweder</w><w>dahte</w><w>ſere</w><pc>·</pc></l>
+                    <l n="2578"><w><hi rendition="hc:RedStroke"><choice><orig>V</orig><reg>U</reg></choice></hi>f</w><w>des</w><w>and</w><gap ana="hc:Mould"/></l>
                 </lg>
                 <lg>
-                    <l n="2555"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>··</pc></l>
-                    <l n="2556"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>··</pc></l>
+                    <l n="2579"><lb n="11"/><w><hi rendition="hc:RedStroke">I</hi>r</w><damage><w>gelinge</w></damage><w>w<gap ana="hc:Mould"/></w><w>aber</w><w><gap ana="hc:Mould"/>lich</w></l>
+                    <l n="2580"><lb n="12"/><w><hi rendition="hc:RedStroke">D</hi>ie</w><w>zoſt</w><w>wart</w><w>got</w><w>u<choice><am>n̄</am><ex>nd</ex></choice></w><w>rich</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="2557"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>··</pc></l>
-                    <l n="2558"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>··</pc></l>
+                    <l n="2581"><w><hi rendition="hc:RedStroke"><choice><orig>V</orig><reg>U</reg></choice></hi><choice><am>n̄</am><ex>nd</ex></choice></w><w>d</w><gap ana="hc:Mould"/></l>
+                </lg>
+                <pb n="2v"/>
+                <cb n="a"/>
+                <gap ana="hc:CutOff"></gap>
+                <lg>
+                    <l n="2605"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>·</pc><note ana="hc:TranscriptionNote" target="#xpath(//l[@n='2605'])">Das obere rechte Außenteil des Blattes mit den Versen 2582–2604 ist so stark vermodert, dass eine Transkription nicht möglich ist</note></l>
+                    <l n="2606"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="2559"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>··</pc></l>
-                    <l n="2560"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>··</pc></l>
+                    <l n="2607"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>·</pc></l>
+                    <l n="2608"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="2561"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>··</pc></l>
-                    <l n="2562"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>··</pc></l>
+                    <l n="2609"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>·</pc></l>
+                    <l n="2610"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="2563"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>··</pc></l>
-                    <l n="2564"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>··</pc></l>
+                    <l n="2611"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>·</pc></l>
+                    <l n="2612"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="2565"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>··</pc></l>
-                    <l n="2566"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>··</pc></l>
+                    <l n="2613"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>·</pc></l>
+                    <l n="2614"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="2567"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>··</pc></l>
-                    <l n="2568"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>··</pc></l>
+                    <l n="2615"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>·</pc></l>
+                    <l n="2616"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="2569"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>··</pc></l>
-                    <l n="2570"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>··</pc></l>
+                    <l n="2617"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>·</pc></l>
+                    <l n="2618"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="2571"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>··</pc></l>
-                    <l n="2572"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>··</pc></l>
+                    <l n="2619"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>·</pc></l>
+                    <l n="2620"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="2573"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>··</pc></l>
-                    <l n="2574"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>··</pc></l>
-                </lg>
-                <lg>
-                    <l n="2575"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>··</pc></l>
-                    <l n="2576"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>··</pc></l>
-                </lg>
-                <lg>
-                    <l n="2577"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>··</pc></l>
-                    <l n="2578"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>··</pc></l>
-                </lg>
-                <lg>
-                    <l n="2579"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>··</pc></l>
-                    <l n="2580"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>··</pc></l>
-                </lg>
-                <lg>
-                    <l n="2581"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>··</pc></l>
-                    <l n="2582"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>··</pc></l>
-                </lg>
-                <lg>
-                    <l n="2583"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>··</pc></l>
-                    <l n="2584"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>··</pc></l>
-                </lg>
-                <lg>
-                    <l n="2585"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>··</pc></l>
-                    <l n="2586"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>··</pc></l>
-                </lg>
-                <lg>
-                    <l n="2587"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>··</pc></l>
-                    <l n="2588"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>··</pc></l>
-                </lg>
-                <lg>
-                    <l n="2589"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>··</pc></l>
-                    <l n="2590"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>··</pc></l>
-                </lg>
-                <lg>
-                    <l n="2591"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>··</pc></l>
-                    <l n="2592"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>··</pc></l>
-                </lg>
-                <lg>
-                    <l n="2593"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>··</pc></l>
-                    <l n="2594"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>··</pc></l>
-                </lg>
-                <lg>
-                    <l n="2595"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>··</pc></l>
-                    <l n="2596"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>··</pc></l>
-                </lg>
-                <lg>
-                    <l n="2597"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>··</pc></l>
-                    <l n="2598"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>··</pc></l>
-                </lg>
-                <lg>
-                    <l n="2599"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>··</pc></l>
-                    <l n="2600"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>··</pc></l>
-                </lg>
-                <lg>
-                    <l n="2601"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>··</pc></l>
-                    <l n="2602"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>··</pc></l>
-                </lg>
-                <lg>
-                    <l n="2603"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>··</pc></l>
-                    <l n="2604"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>··</pc></l>
-                </lg>
-                <lg>
-                    <l n="2605"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>··</pc></l>
-                    <l n="2606"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>··</pc></l>
-                </lg>
-                <lg>
-                    <l n="2607"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>··</pc></l>
-                    <l n="2608"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>··</pc></l>
-                </lg>
-                <lg>
-                    <l n="2609"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>··</pc></l>
-                    <l n="2610"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>··</pc></l>
-                </lg>
-                <lg>
-                    <l n="2611"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>··</pc></l>
-                    <l n="2612"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>··</pc></l>
-                </lg>
-                <lg>
-                    <l n="2613"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>··</pc></l>
-                    <l n="2614"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>··</pc></l>
-                </lg>
-                <lg>
-                    <l n="2615"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>··</pc></l>
-                    <l n="2616"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>··</pc></l>
-                </lg>
-                <lg>
-                    <l n="2617"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>··</pc></l>
-                    <l n="2618"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>··</pc></l>
-                </lg>
-                <lg>
-                    <l n="2619"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>··</pc></l>
-                    <l n="2620"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>··</pc></l>
-                </lg>
-                <lg>
-                    <l n="2621"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>··</pc></l>
-                    <l n="2622"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>··</pc></l>
+                    <l n="2621"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>·</pc></l>
+                    <l n="2622"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>·</pc></l>
                 </lg>
                 <gap ana="hc:Lost"/>
                 <pb n="3r"/>
@@ -422,7 +331,7 @@
                 </lg>
                 <lg>
                     <l n="2711"><lb n="5"/><damage><w><hi rendition="hc:RedStroke">W</hi>arn</w><w>ein</w><w>ander</w></damage><w>liep</w><w>gnoch</w><pc>·</pc></l>
-                    <l n="2712"><w><hi rendition="hc:RedStroke">S</hi>o</w><w>daz</w><w>ir</w><metamark ana="hc:Hyphen ">⸗</metamark><lb ana="hc:DependentLine hc:RunOverLineAbove" n="5a"/><metamark ana="hc:Hyphen "><hi hei:color="Red">|</hi></metamark><w>ieweder</w><lb ana="hc:DependentLine hc:RunOverLineAbove" n="5b"/><metamark ana="hc:Hyphen "><hi hei:color="Red">|</hi></metamark><w><damage>t</damage>roch</w><pc>··</pc></l>
+                    <l n="2712"><w><hi rendition="hc:RedStroke">S</hi>o</w><w>daz</w><w>ir</w><metamark ana="hc:Hyphen ">⸗</metamark><lb ana="hc:DependentLine hc:RunOverLineAbove" n="5a"/><metamark ana="hc:Hyphen "><hi hei:color="Red">|</hi></metamark><w>ieweder</w><lb ana="hc:DependentLine hc:RunOverLineAbove" n="5b"/><metamark ana="hc:Hyphen "><hi hei:color="Red">|</hi></metamark><w><damage>t</damage>roch</w><pc>·</pc></l>
                 </lg>
                 <lg>
                     <l n="2713"><lb n="6"/><damage ana="hc:Faded"><w><hi rendition="hc:RedStroke">D</hi>es</w><w>andern</w><w>liep</w><w>unde</w><w>leit</w><pc>·</pc></damage></l>
@@ -449,12 +358,12 @@
                     <l n="2724"><lb n="14"/><w><hi rendition="hc:RedStroke">D</hi>az</w><w>ſi</w><w>ſo</w><w>manige</w><w>ere</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="2725"><lb n="15"/><w><hi rendition="hc:RedStroke">D</hi>em</w><w>heren</w><w>ywen</w><w>ſinem</w><w>ſellen</w><damage ana="hc:Faded"><w>bot</w></damage><pc>··</pc></l>
+                    <l n="2725"><lb n="15"/><w><hi rendition="hc:RedStroke">D</hi>em</w><w>heren</w><w>ywen</w><w>ſinem</w><w>ſellen</w><damage ana="hc:Faded"><w>bot</w></damage><pc>·</pc></l>
                     <l n="2726"><lb n="16"/><w><hi rendition="hc:RedStroke">W</hi>an</w><w>daz</w><w>er</w><w>miſlic<choice><am>h͛</am><ex>her</ex></choice></w><w>not</w><pc>·</pc></l>
                 </lg>
                 <lg>
                     <l n="2727"><lb n="17"/><w><hi rendition="hc:RedStroke">A</hi>ne</w><w>chumber</w><w>g<damage ana="hc:Perforated">nas</damage></w><pc>·</pc></l>
-                    <l n="2728"><w><hi rendition="hc:RedStroke"><choice><orig>V</orig><reg>U</reg></choice></hi><choice><am>n̄</am><ex>nd</ex></choice></w><w>da</w><w join="right">ce</w><w join="left">lande</w><w>here</w><lb ana="hc:DependentLine hc:RunOverLineAbove" n="17a"/><metamark ana="hc:Hyphen "><hi hei:color="Red">|</hi></metamark><w>wa<damage>s</damage></w><pc>··</pc></l>
+                    <l n="2728"><w><hi rendition="hc:RedStroke"><choice><orig>V</orig><reg>U</reg></choice></hi><choice><am>n̄</am><ex>nd</ex></choice></w><w>da</w><w join="right">ce</w><w join="left">lande</w><w>here</w><lb ana="hc:DependentLine hc:RunOverLineAbove" n="17a"/><metamark ana="hc:Hyphen "><hi hei:color="Red">|</hi></metamark><w>wa<damage>s</damage></w><pc>·</pc></l>
                 </lg>
                 <lg>
                     <l n="2729"><lb n="18"/><w><hi rendition="hc:RedStroke">D</hi>az</w><gap ana="hc:CutOff"/><w><choice><orig>u</orig><reg>v</reg></choice>on</w><gap ana="hc:TornOff"/></l>
@@ -542,7 +451,7 @@
                 </lg>
                 <lg>
                     <l n="6109"><lb n="8"/><w><hi rendition="hc:RedStroke">D</hi>o</w><w>ſprach</w><w>die</w><w>rittar</w><w>mit</w><w>dem</w><w>leun </w><pc>·</pc></l>
-                    <l n="6110"><lb n="9"/><w><hi rendition="hc:RedStroke">W</hi>az</w><w>du<damage>tet</damage></w><damage><w>dit</w><w>schelden</w></damage><w><damage><choice><orig>v</orig><reg>u</reg></choice>n</damage>de</w><w>dreun</w><pc>·</pc></l>
+                    <l n="6110"><lb n="9"/><w><hi rendition="hc:RedStroke">W</hi>az</w><w>du<damage>tet</damage></w><damage><w>diz</w><w>schelten</w></damage><w><damage><choice><orig>v</orig><reg>u</reg></choice>n</damage>de</w><w>dreun</w><pc>·</pc></l>
                 </lg>
                 <lg>
                     <l n="6111"><lb n="10"/><w><hi rendition="hc:RedStroke">W</hi>ar</w><damage><w>an</w></damage><w join="right"><choice><orig>u</orig><reg>v</reg></choice>erſchuld</w><damage><w join="left">ich</w><w>daz</w></damage><pc>·</pc></l>
@@ -623,15 +532,15 @@
                 </lg>
                 <lg>
                     <l n="6151"><lb n="11"/><w><hi rendition="hc:RedStroke">D</hi>az</w><w>iz</w><w>u</w><w>an</w><w>den</w><damage><w>lip</w></damage><w>gat</w><pc>·</pc></l>
-                    <l n="6152"><damage><w><hi rendition="hc:RedStroke">W</hi>i<choice><am>d͛</am><ex>der</ex></choice>wendet</w><w>mir</w></damage><lb ana="hc:DependentLine hc:RunOverLineAbove" n="11a"/><metamark ana="hc:Hyphen "><hi hei:color="Red">|</hi></metamark><w>daz</w><w>ist</w><lb ana="hc:DependentLine hc:RunOverLineAbove" n="11b"/><metamark ana="hc:Hyphen "><hi hei:color="Red">|</hi></metamark><w>min</w><w>rat</w><pc>·</pc></l>
+                    <l n="6152"><damage><w><hi rendition="hc:RedStroke">W</hi>i<choice><am>d͛</am><ex>der</ex></choice>wendet</w><w>noch</w></damage><lb ana="hc:DependentLine hc:RunOverLineAbove" n="11a"/><metamark ana="hc:Hyphen "><hi hei:color="Red">|</hi></metamark><w>daz</w><w>ist</w><lb ana="hc:DependentLine hc:RunOverLineAbove" n="11b"/><metamark ana="hc:Hyphen "><hi hei:color="Red">|</hi></metamark><w>min</w><w>rat</w><pc>·</pc></l>
                 </lg>
                 <lg>
                     <l n="6153"><lb n="12"/><w><hi rendition="hc:RedStroke"><choice><orig>V</orig><reg>U</reg></choice></hi><choice><am>n̄</am><ex>nd</ex></choice></w><w>ritet</w><w>forbaz</w><pc>·</pc></l>
                     <l n="6154"><lb n="13"/><w><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">E</hei:initial><damage>r</damage></w><damage><w>sprach</w><w>mic</w><w>hulfe</w><w>lihte</w><w>daz</w><pc>·</pc></damage></l>
                 </lg>
                 <lg>
-                    <l n="6155"><damage><w><hi rendition="hc:RedStroke">V</hi>olgete</w><w>ich</w><w>uwem</w><w>rade</w><pc>·</pc></damage></l>
-                    <l n="6156"><lb n="14"/><w><hi rendition="hc:RedStroke">N</hi>u</w><w>iſt</w><w>aber</w><w>iz</w><w join="right">ce</w><w join="left">ſpade</w><pc>·</pc></l>
+                    <l n="6155"><damage><w><hi rendition="hc:RedStroke">V</hi>olgete</w><w>ich</w><w>uwem</w><w>rate</w><pc>·</pc></damage></l>
+                    <l n="6156"><lb n="14"/><w><hi rendition="hc:RedStroke">N</hi>u</w><w>iſt</w><w>aber</w><w>iz</w><w join="right">ce</w><w join="left">ſpate</w><pc>·</pc></l>
                 </lg>
                 <lg>
                     <l n="6157"><lb n="15"/><w><hi rendition="hc:RedStroke">W</hi>a</w><w>moht</w><w>ich</w><w>nu</w><w>geriten</w><pc>·</pc></l>
@@ -667,212 +576,217 @@
                 <pb n="5r"/>
                 <cb n="a"/>
                 <lg>
-                    <l n="6631"><lb n="1"/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>·</pc></l>
-                    <l n="6632"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>·</pc></l>
+                    <l n="6631"><lb n="1"/><w><gap ana="hc:CutOff"/>uch</w><w join="right">en</w><w join="left">wil</w><w>ich</w><w>nem<choice><am>b͛</am><ex>ber</ex></choice></w><w>minen</w><w>lip</w><pc>·</pc></l>
+                    <l n="6632"><lb n="2"/><w><gap ana="hc:CutOff"/>ewagen</w><w>umbe</w><w>ein</w><w>wip</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="6633"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>·</pc></l>
-                    <l n="6634"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>·</pc></l>
+                    <l n="6633"><lb n="3"/><w><gap ana="hc:CutOff"/>o</w><w>gar</w><w>uz</w><w>der</w><w>maze</w><pc>·</pc></l>
+                    <l n="6634"><w><hi rendition="hc:RedStroke">D</hi>az</w><w>ich</w><w>m</w><gap ana="hc:Mould"/><lb ana="hc:DependentLine hc:RunOverLineAbove" n="3a"/><metamark ana="hc:Hyphen "><hi hei:color="Red">|</hi></metamark><w>laze</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="6635"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>·</pc></l>
-                    <l n="6636"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>·</pc></l>
+                    <l n="6635"><lb n="4"/><w>o</w><w>laſterlichen</w><w>ane</w><w>wer</w><pc>·</pc></l>
+                    <l n="6636"><lb n="5"/><w><damage ana="hc:CutOff">w</damage>an</w><w>zweine</w><w>waren</w><w>ie</w><w>eines</w><w>her</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="6637"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>·</pc></l>
-                    <l n="6638"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>·</pc></l>
+                    <l n="6637"><lb n="6"/><w><gap ana="hc:CutOff"/>olt</w><w>ich</w><w>noch</w><w>einen</w><w>beſtan</w><pc>·</pc></l>
+                    <l n="6638"><lb n="7"/><w><gap ana="hc:CutOff"/>a</w><w>moſt</w><w>ich</w><w>angeſt</w><w>um</w><gap ana="hc:Perforated"/><w>n</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="6639"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>·</pc></l>
-                    <l n="6640"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>·</pc></l>
+                    <l n="6639"><lb n="8"/><gap ana="hc:CutOff"/><w><damage ana="hc:CutOff">ſ</damage></w><gap ana="hc:CutOff"/><damage ana="hc:CutOff"><w>die</w></damage><w>wirt</w><w>ir</w><w>ſi</w><gap ana="hc:Perforated"/><w>zag</w><gap ana="hc:Mould"/></l>
+                </lg>
+                <gap ana="hc:CutOff"/>
+                <pb n="5v"/>
+                <cb n="a"/>
+                <lg>
+                    <l n="6664"><lb n="1"/><gap ana="hc:TornOff"/><w>in</w><w>den</w><w>anderm</w><w>ſchaden</w><w>wil</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="6663"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>·</pc></l>
-                    <l n="6664"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>·</pc></l>
+                    <l n="6665"><lb n="2"/><gap ana="hc:TornOff"/><w>dicke</w><w>gar</w><w>gefrumet</w><pc>·</pc></l>
+                    <l n="6666"><lb n="3"/><gap ana="hc:TornOff"/><w>h</w><w>deneſt</w><w join="right">ce</w><w join="left">ſtaten</w><w>chumet</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="6665"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>·</pc></l>
-                    <l n="6666"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>·</pc></l>
+                    <l n="6667"><lb n="4"/><gap ana="hc:TornOff"/><damage><w>er</w><w>im</w></damage><w>liep</w><w>unde</w><w>got</w><pc>·</pc></l>
+                    <l n="6668"><lb n="5"/><gap ana="hc:TornOff"/><w>ider</w><w>ſinem</w><w>willen</w><w>tot</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="6667"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>·</pc></l>
-                    <l n="6668"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>·</pc></l>
+                    <l n="6669"><lb n="6"/><gap ana="hc:TornOff"/><w>lon</w><w>wirt</w><w><choice><orig>u</orig><reg>v</reg></choice>on</w><w>rehte</w><w>chranc</w><pc>·</pc></l>
+                    <l n="6670"><lb n="7"/><gap ana="hc:TornOff"/><damage><w join="right">en</w><w join="left">darf</w><w>im</w></damage><w>nember</w><w>ſagen</w><w>danc</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="6669"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>·</pc></l>
-                    <l n="6670"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>·</pc></l>
+                    <l n="6671"><lb n="8"/><gap ana="hc:TornOff"/><damage><w>be</w><w>ſin</w></damage><w>roſſes</w><w>gan</w><gap ana="hc:TornOff"/></l>
+                </lg>
+                <gap ana="hc:Lost"/>
+                <pb n="6r"/>
+                <cb n="a"/>
+                <lg>
+                    <l n="7821"><lb n="1"/><w><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">D</hei:initial>az</w><w>walt ge<damage>v</damage></w><gap ana="hc:Perforated"/><w><damage ana="hc:Perforated">w</damage>art</w><w>ſo</w><w>groz</w><pc>·</pc></l>
+                    <l n="7822"><lb n="2"/><w><hi rendition="hc:RedStroke">D</hi>er</w><w>ſus</w><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>d</w><gap ana="hc:Perforated"/><w>oz</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="6671"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>·</pc></l>
-                    <l n="6672"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>·</pc></l>
+                    <l n="7823"><w><hi rendition="hc:RedStroke">G</hi>rande</w><w>m</w><gap ana="hc:CutOff"/></l>
+                    <l n="7824"><lb n="3"/><w><hi rendition="hc:RedStroke">D</hi>az</w><w>er</w><w join="right">de</w><w join="left">lute</w><w>all<gap ana="hc:Perforated"/></w></l>
                 </lg>
                 <lg>
-                    <l n="7821"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>·</pc></l>
-                    <l n="7822"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>·</pc></l>
+                    <l n="7825"><lb n="4"/><w><hi rendition="hc:RedStroke">G</hi>ar</w><w><choice><am>v͛</am><ex>ver</ex></choice>zwi<choice><orig>u</orig><reg>v</reg></choice>elen</w><w><gap ana="hc:Perforated"/>t</w><pc>·</pc></l>
+                    <l n="7826"><w><hi rendition="hc:RedStroke">D</hi>o</w><w>ſprach</w><w>d<gap ana="hc:Perforated"/></w><lb ana="hc:DependentLine hc:RunOverLineAbove" n="4a"/><metamark ana="hc:Hyphen "><hi hei:color="Red">|</hi></metamark><w>frowe</w><w>lun<gap ana="hc:CutOff"/></w></l>
                 </lg>
                 <lg>
-                    <l n="7823"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>·</pc></l>
-                    <l n="7824"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>·</pc></l>
+                    <l n="7827"><lb n="5"/><w><hi rendition="hc:RedStroke">V</hi>rowe</w><w>chomet</w><w><choice><orig>u</orig><reg>v</reg></choice>il</w><w>drate</w><pc>·</pc></l>
+                    <l n="7828"><lb n="6"/><w><choice><abbr><am><hi rendition="hc:RedStroke">D͛</hi></am></abbr><expan><ex><hi rendition="hc:RedStroke">D</hi>er</ex></expan></choice></w><w>dinge</w><w join="right">ce</w><w join="left">rate</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="7825"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>·</pc></l>
-                    <l n="7826"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>·</pc></l>
+                    <l n="7829"><w><hi rendition="hc:RedStroke">S</hi>o</w><w>war</w><w>daz</w><w>ir</w><w>n</w><gap ana="hc:CutOff"/><lb ana="hc:DependentLine hc:RunOverLineAbove" n="6a"/><metamark ana="hc:Hyphen "><hi hei:color="Red">|</hi></metamark><w>man</w><w>v<gap ana="hc:CutOff"/></w></l>
+                    <l n="7830"><lb n="7"/><w><hi rendition="hc:RedStroke">M</hi>it</w><w>dem</w><w>ir</w><w>uberwindet</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="7827"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>·</pc></l>
-                    <l n="7828"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>·</pc></l>
+                    <l n="7831"><lb n="8"/><w><hi rendition="hc:RedStroke">D</hi>iſen</w><w>ſcaden</w><w><choice><orig>v</orig><reg>u</reg></choice>nde</w><w>leit</w><pc>·</pc></l>
+                    <l n="7832"><w><hi rendition="hc:RedStroke">D</hi><choice><am>e͛</am><ex>er</ex></choice></w><w>iſt</w><w>u</w><w>w<gap ana="hc:CutOff"/></w><lb ana="hc:DependentLine hc:RunOverLineAbove" n="8a"/><metamark ana="hc:Hyphen "><hi hei:color="Red">|</hi></metamark><w><choice><orig>v</orig><reg>u</reg></choice>nger<gap ana="hc:CutOff"/></w></l>
                 </lg>
                 <lg>
-                    <l n="7829"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>·</pc></l>
-                    <l n="7830"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>·</pc></l>
+                    <l n="7833"><lb n="9"/><w><hi rendition="hc:RedStroke">M</hi>en</w><w join="right">en</w><w join="both">ſoch</w><w join="left">en</w><w>in</w><w>den</w><w>vere</w><pc>·</pc></l>
+                    <l n="7834"><lb n="10"/><w><hi rendition="hc:RedStroke">I</hi>r</w><w join="right">ne</w><w join="left">mohten</w><w>ſcande</w><w>mere</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="7831"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>·</pc></l>
-                    <l n="7832"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>·</pc></l>
+                    <l n="7835"><w><hi rendition="hc:RedStroke">N</hi>emb<gap ana="hc:CutOff"/></w><lb ana="hc:DependentLine hc:RunOverLineAbove" n="10a"/><metamark ana="hc:Hyphen "><hi hei:color="Red">|</hi></metamark><w>win</w><gap ana="hc:CutOff"/></l>
+                    <l n="7836"><lb n="11"/><w join="right"><hi rendition="hc:RedStroke">S</hi>wenn</w><w join="left">er</w><w>nu</w><w>ſcheidet</w><w>hinnen</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="7833"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>·</pc></l>
-                    <l n="7834"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>·</pc></l>
+                    <l n="7837"><lb n="12"/><w><hi rendition="hc:RedStroke">A</hi>lles</w><w>ſtrites</w><w>erlan</w><pc>·</pc></l>
+                    <l n="7838"><w><choice><abbr><am><hi rendition="hc:RedStroke">D͛</hi></am></abbr><expan><ex><hi rendition="hc:RedStroke">D</hi>er</ex></expan></choice></w><w><choice><orig>v</orig><reg>u</reg></choice></w><w>diz</w><w>laſter</w><gap ana="hc:CutOff"/></l>
                 </lg>
                 <lg>
-                    <l n="7835"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>·</pc></l>
-                    <l n="7836"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>·</pc></l>
+                    <l n="7839"><lb n="13"/><w><hi rendition="hc:RedStroke">D</hi>iz</w><w>geſchiht</w><w>u</w><w>aber</w><w>morgen</w><pc>·</pc></l>
+                    <l n="7840"><lb n="14"/><w><hi rendition="hc:RedStroke">I</hi>r</w><w join="right">ne</w><w join="left">willen</w><w>baz</w><w>beſorgen</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="7837"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>·</pc></l>
-                    <l n="7838"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>·</pc></l>
+                    <l n="7841"><w><hi rendition="hc:RedStroke">D</hi>iſe</w><gap ana="hc:CutOff"/><lb ana="hc:DependentLine hc:RunOverLineAbove" n="14a"/><metamark ana="hc:Hyphen "><hi hei:color="Red">|</hi></metamark><w>ſ<damage>a</damage></w><gap ana="hc:CutOff"/></l>
+                    <l n="7842"><lb n="15"/><w><hi rendition="hc:RedStroke">M</hi>en</w><w join="right">en</w><w join="left">lat</w><w>uch</w><w>mit</w><w>gemache</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="7839"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>·</pc></l>
-                    <l n="7840"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>·</pc></l>
+                    <l n="7843"><lb n="16"/><w><hi rendition="hc:RedStroke">N</hi>em<choice><am>b͛</am><ex>ber</ex></choice></w><w>me</w><w>tac</w><w>geleben</w><pc>·</pc></l>
+                    <l n="7844"><lb n="17"/><w><hi rendition="hc:RedStroke">M</hi>aht</w><w>tu</w><gap ana="hc:CutOff"/><lb ana="hc:DependentLine hc:RunOverLineAbove" n="17a"/><metamark ana="hc:Hyphen "><hi hei:color="Red">|</hi></metamark><w>ra</w><gap ana="hc:CutOff"/></l>
                 </lg>
                 <lg>
-                    <l n="7841"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>·</pc></l>
-                    <l n="7842"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>·</pc></l>
+                    <l n="7845"><lb n="18"/><w><gap ana="hc:CutOff"/><choice><am>pᷓ</am><ex>pra</ex></choice>c</w><w>d<gap ana="hc:Mould"/></w><w><damage ana="hc:Mould">f</damage></w><gap ana="hc:CutOff"/><w><choice><am>d͛</am><ex>der</ex></choice></w><w>maget</w><pc>·</pc></l>
+                    <l n="7846"><lb n="19"/><w><hi rendition="hc:RedStroke">D</hi>i</w><w>ſi</w><w>min</w><w>not</w><w>geclaget</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="7843"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>·</pc></l>
-                    <l n="7844"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>·</pc></l>
+                    <l n="7847"><w><hi rendition="hc:RedStroke">W</hi>an</w><w><damage ana="hc:Mould">d</damage><gap ana="hc:Mould hc:CutOff"/></w><lb ana="hc:DependentLine hc:RunOverLineAbove" n="19a"/><metamark ana="hc:Hyphen "><hi hei:color="Red">|</hi></metamark><w>dinges</w><gap ana="hc:CutOff"/></l>
+                    <l n="7848"><lb n="20"/><w><hi rendition="hc:RedStroke">S</hi>o</w><w><choice><orig>u</orig><reg>v</reg></choice>il</w><w>ſo</w><w>ieman</w><w>meist</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="7845"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>·</pc></l>
-                    <l n="7846"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>·</pc></l>
+                    <l n="7849"><lb n="21"/><w><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">S</hei:initial>i</w><w>ſ<choice><am>pᷓ</am><ex>pra</ex></choice>c</w><w>frowe</w><w>ir</w><w>habt</w><w>den</w><w>rat</w><pc>·</pc></l>
+                    <l n="7850"><w><hi rendition="hc:RedStroke">D</hi></w><gap ana="hc:Mould"/><lb ana="hc:DependentLine hc:RunOverLineAbove" n="21a"/><metamark ana="hc:Hyphen "><hi hei:color="Red">|</hi></metamark><w join="right">ce</w><w join="left">ſtate</w><gap ana="hc:Mould"/></l>
                 </lg>
                 <lg>
-                    <l n="7847"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>·</pc></l>
-                    <l n="7848"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>·</pc></l>
+                    <l n="7851"><lb n="22"/><w><hi rendition="hc:RedStroke">I</hi>c</w><w>bin</w><w>ein</w><w>wip</w><w>neme</w><w>ic</w><w>mic</w><w>an</w></l>
+                    <l n="7852"><lb n="23"/><w><hi rendition="hc:RedStroke">R</hi>aten</w><w>ſam</w><w>ein</w><w>wiſe</w><w>man</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="7849"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>·</pc></l>
-                    <l n="7850"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>·</pc></l>
+                    <l n="7853"><lb n="24"/><w><hi rendition="hc:RedStroke">S</hi>o</w><w>wer</w><w>ic</w><w>tumb<choice><am>e͛</am><ex>er</ex></choice></w><w>den</w><w>ein</w><w>chint</w><pc>·</pc></l>
+                    <l n="7854"><lb n="25"/><w><hi rendition="hc:RedStroke">Ic</hi></w><w>lide</w><w>mit</w><w>den</w><w>de</w><w>hir</w><w>ſint</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="7851"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>·</pc></l>
-                    <l n="7852"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>·</pc></l>
+                    <l n="7855"><w><hi rendition="hc:RedStroke">D</hi>az</w><w>m</w><gap ana="hc:Mould"/><lb ana="hc:DependentLine hc:RunOverLineAbove" n="25a"/><metamark ana="hc:Hyphen "><hi hei:color="Red">|</hi></metamark><gap ana="hc:Mould"/><lb ana="hc:DependentLine hc:RunOverLineAbove" n="25b"/><w>ge</w><gap ana="hc:Mould"/></l>
+                    <l n="7856"><lb n="26"/><w><hi rendition="hc:RedStroke"><choice><orig>V</orig><reg>U</reg></choice></hi>nce</w><w>men</w><w join="right">an</w><w join="left">einem</w><w>tag</w><w>geſiht</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="7853"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>·</pc></l>
-                    <l n="7854"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>·</pc></l>
+                    <l n="7857"><lb n="27"/><w><hi rendition="hc:RedStroke">W</hi>en</w><w>uwer</w><w>rat</w><w>vinde</w><pc>·</pc></l>
+                    <l n="7858"><w><hi rendition="hc:RedStroke">V</hi>on</w><w>uw</w><gap ana="hc:Mould"/></l>
                 </lg>
                 <lg>
-                    <l n="7855"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>·</pc></l>
-                    <l n="7856"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>·</pc></l>
+                    <l n="7859"><lb n="28"/><w><choice><abbr><am><hi rendition="hc:RedStroke">D͛</hi></am></abbr><expan><ex><hi rendition="hc:RedStroke">D</hi>er</ex></expan></choice></w><w>diſe</w><w>borde</w><w join="right">an</w><w join="left">ſich</w><w>neme</w><pc>·</pc></l>
+                    <l n="7860"><lb n="29"/><w><choice><abbr><am><hi rendition="hc:RedStroke">D͛</hi></am></abbr><expan><ex><hi rendition="hc:RedStroke">D</hi>er</ex></expan></choice></w><w><choice><orig>v</orig><reg>u</reg></choice>ns</w><w join="right">ce</w><w join="left">ſchermere</w><w>ceme</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="7857"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>·</pc></l>
-                    <l n="7858"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>·</pc></l>
+                    <l n="7861"><lb n="30"/><w><hi rendition="hc:RedStroke">I</hi>z</w><w>wol</w><w>mach</w><w>ſin</w><w>daz</w><w>iz</w><w>geſchih<gap ana="hc:Mould"/></w></l>
+                </lg>
+                <gap ana="hc:CutOff"/>
+                <pb n="6v"/>
+                <cb n="a"/>
+                <lg>
+                    <l n="7863"><lb n="1"/><gap ana="hc:CutOff"/><w>u</w><w>ſolt</w><w>die</w><w>rede</w><w>l<gap ana="hc:Perforated"/></w></l>
+                    <l n="7864"><lb n="2"/><gap ana="hc:CutOff"/><w>an</w><w>louven</w><w>no</w><gap ana="hc:Perforated"/><w>an</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="7859"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>·</pc></l>
-                    <l n="7860"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>·</pc></l>
+                    <l n="7865"><w><hi rendition="hc:RedStroke">D</hi>az</w><w>ir</w><w>in</w><lb ana="hc:DependentLine hc:RunOverLineAbove" n="2a"/><metamark ana="hc:Hyphen "><hi hei:color="Red">|</hi></metamark><w><gap ana="hc:Perforated"/>mb<choice><am>e͛</am><ex>er</ex></choice></w><w>vinde</w><pc>·</pc></l>
+                    <l n="7866"><lb n="3"/><gap ana="hc:CutOff"/><w>m</w><w>geſinde</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="7861"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>·</pc></l>
-                    <l n="7862"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>·</pc></l>
+                    <l n="7867"><lb n="4"/><gap ana="hc:CutOff"/><w>nach</w><w>daz</w><w>beſ<gap ana="hc:CutOff"/></w></l>
+                    <l n="7868"><w><hi rendition="hc:RedStroke">S</hi>i</w><w>ſprac</w><w>der</w><lb ana="hc:DependentLine hc:RunOverLineAbove" n="4a"/><metamark ana="hc:Hyphen "><hi hei:color="Red">|</hi></metamark><w><gap ana="hc:CutOff"/>ne</w><w>weſte</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="7863"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>·</pc></l>
-                    <l n="7864"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>·</pc></l>
+                    <l n="7869"><lb n="5"/><gap ana="hc:CutOff"/><w>ar</w><w>der</w><w>den</w><w>riſen</w><w>ſluͦc</w><pc>·</pc></l>
+                    <l n="7870"><lb n="6"/><gap ana="hc:CutOff"/><w>aſteres</w><w>ubertruͦc</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="7865"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>·</pc></l>
-                    <l n="7866"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>·</pc></l>
+                    <l n="7871"><w><hi rendition="hc:RedStroke">D</hi>az</w><w>er</w><w><choice><orig>v</orig><reg>u</reg></choice>ns</w><w>nu</w><lb ana="hc:DependentLine hc:RunOverLineAbove" n="6a"/><metamark ana="hc:Hyphen "><hi hei:color="Red">|</hi></metamark><w>troſte</w><pc>·</pc></l>
+                    <l n="7872"><lb n="7"/><gap ana="hc:CutOff"/><w>iamere</w><w>erloſte</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="7867"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>·</pc></l>
-                    <l n="7868"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>·</pc></l>
+                    <l n="7873"><lb n="8"/><gap ana="hc:CutOff"/><w>n</w><w>ſelben</w><w>ſohte</w><pc>·</pc></l>
+                    <l n="7874"><w><hi rendition="hc:RedStroke">O</hi>b</w><w>er</w><w>hir</w><w>chom<choice><am>ē</am><ex>en</ex></choice></w><lb ana="hc:DependentLine hc:RunOverLineAbove" n="8a"/><metamark ana="hc:Hyphen "><hi hei:color="Red">|</hi></metamark><w>rohte</w><pc>–</pc></l>
                 </lg>
                 <lg>
-                    <l n="7869"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>·</pc></l>
-                    <l n="7870"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>·</pc></l>
+                    <l n="7875"><lb n="9"/><gap ana="hc:CutOff"/><w>r</w><w>iz</w><w>nend<choice><am>e͛</am><ex>er</ex></choice></w><w>baz</w><w>bewant</w><pc>·</pc></l>
+                    <l n="7876"><lb n="10"/><gap ana="hc:CutOff"/><w>mir</w><w>ein</w><w>dinc</w><w>wol</w><w>erchant</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="7871"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>·</pc></l>
-                    <l n="7872"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>·</pc></l>
+                    <l n="7877"><lb n="11"/><gap ana="hc:CutOff"/><w>fe</w><w>nemannes</w><w>liſt</w><pc>·</pc></l>
+                    <l n="7878"><lb n="12"/><gap ana="hc:CutOff"/><w>ſin</w><w>frowe</w><w><choice><orig>v</orig><reg>u</reg></choice>ngnedic</w><w>iſt</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="7873"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>·</pc></l>
-                    <l n="7874"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>·</pc></l>
+                    <l n="7879"><w><hi rendition="hc:RedStroke">D</hi>az</w><w>er</w><lb ana="hc:DependentLine hc:RunOverLineAbove" n="12a"/><metamark ana="hc:Hyphen "><hi hei:color="Red">|</hi></metamark><w>fore</w><w>nu</w><lb ana="hc:DependentLine hc:RunOverLineAbove" n="a"/><metamark ana="hc:Hyphen "><hi hei:color="Red">|</hi></metamark><w>durch</w><w>in</w><pc>·</pc></l>
+                    <l n="7880"><lb n="13"/><gap ana="hc:CutOff"/><w>ere</w><w>ode</w><w>hin</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="7875"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>·</pc></l>
-                    <l n="7876"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>·</pc></l>
+                    <l n="7881"><lb n="14"/><gap ana="hc:CutOff"/><w>e</w><w>im</w><w>eine</w><w>ſichercheit</w><pc>·</pc></l>
+                    <l n="7882"><w><hi rendition="hc:RedStroke">D</hi>az</w><w>er</w><w>nach</w><lb ana="hc:DependentLine hc:RunOverLineAbove" n="14a"/><metamark ana="hc:Hyphen "><hi hei:color="Red">|</hi></metamark><w>rehter</w><w>arbeit</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="7877"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>·</pc></l>
-                    <l n="7878"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>·</pc></l>
+                    <l n="7883"><lb n="15"/><gap ana="hc:CutOff"/><w>ſinen</w><w>ſinnen</w><pc>·</pc></l>
+                    <l n="7884"><lb n="16"/><gap ana="hc:CutOff"/><w>h</w><w>hulfe</w><w>ringen</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="7879"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>·</pc></l>
-                    <l n="7880"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>·</pc></l>
+                    <l n="7885"><w><hi rendition="hc:RedStroke">O</hi>b</w><w>er</w><w>durch</w><lb ana="hc:DependentLine hc:RunOverLineAbove" n="16a"/><metamark ana="hc:Hyphen "><hi hei:color="Red">|</hi></metamark><w>in</w><w>icht</w><w>tete</w><pc>·</pc></l>
+                    <l n="7886"><lb n="17"/><gap ana="hc:CutOff"/><w><damage>w</damage>ider</w><w>hete</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="7881"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>·</pc></l>
-                    <l n="7882"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>·</pc></l>
+                    <l n="7887"><w><hi rendition="hc:RedStroke">S</hi>iner</w><w>f</w><gap ana="hc:CutOff"/><w>inne</w><pc>·</pc></l>
+                    <l n="7888"><lb n="18"/><gap ana="hc:CutOff"/><w>ſ<choice><am>pᷓ</am><ex>pra</ex></choice>c</w><w>de</w><w>ſinne</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="7883"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>·</pc></l>
-                    <l n="7884"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>·</pc></l>
+                    <l n="7889"><lb n="19"/><gap ana="hc:Mould"/><w>nſer</w><w>here</w><w>gan</w><pc>·</pc></l>
+                    <l n="7890"><w><hi rendition="hc:RedStroke">D</hi>ie</w><w>kere</w><w>ich</w><lb ana="hc:DependentLine hc:RunOverLineAbove" n="19a"/><metamark ana="hc:Hyphen "><hi hei:color="Red">|</hi></metamark><w>alle</w><w>dar</w><w>an</w></l>
                 </lg>
                 <lg>
-                    <l n="7885"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>·</pc></l>
-                    <l n="7886"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>·</pc></l>
+                    <l n="7891"><lb n="20"/><gap ana="hc:Mould"/><w><choice><orig>v</orig><reg>u</reg></choice>nde</w><w>got</w><pc>·</pc></l>
+                    <l n="7892"><lb n="21"/><gap ana="hc:Mould"/><w>m</w><w>irn</w><w>zornmot</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="7887"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>·</pc></l>
-                    <l n="7888"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>·</pc></l>
+                    <l n="7893"><w><choice><abbr><am><hi rendition="hc:RedStroke">v͛</hi></am></abbr><expan><ex><hi rendition="hc:RedStroke">v</hi>er</ex></expan></choice>tribe</w><w>ob</w><w>ich</w><lb ana="hc:DependentLine hc:RunOverLineAbove" n="21a"/><metamark ana="hc:Hyphen "><hi hei:color="Red">|</hi></metamark><w>iember</w><w>mac</w><pc>·</pc></l>
+                    <l n="7894"><lb n="22"/><gap ana="hc:Mould"/><w>ntf<gap ana="hc:Mould"/></w><w>er</w><w>minen</w><w>hantſlac</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="7889"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>·</pc></l>
-                    <l n="7890"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>·</pc></l>
+                    <l n="7895"><lb n="23"/><gap ana="hc:Mould"/><w>aber</w><w>frowe</w><w>lunet</w><pc>·</pc></l>
+                    <l n="7896"><lb n="24"/><gap ana="hc:Mould"/><w>t</w><w>ſoze</w><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>uwer</w><w>gebet</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="7891"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>·</pc></l>
-                    <l n="7892"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>·</pc></l>
+                    <l n="7897"><w><hi rendition="hc:RedStroke">W</hi>elic</w><w>wip</w><lb ana="hc:DependentLine hc:RunOverLineAbove" n="24a"/><metamark ana="hc:Hyphen "><hi hei:color="Red">|</hi></metamark><w>were</w><w>von</w><lb ana="hc:DependentLine hc:RunOverLineAbove" n="24b"/><metamark ana="hc:Hyphen "><hi hei:color="Red">|</hi></metamark><w>den</w><w>ſiten</w><pc>·</pc></l>
+                    <l n="7898"><lb n="25"/><gap ana="hc:Mould"/><w><damage ana="hc:Mould">fl</damage>ize</w><w>wolden</w><w>biten</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="7893"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>·</pc></l>
-                    <l n="7894"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>·</pc></l>
+                    <l n="7899"><lb n="26"/><gap ana="hc:Mould"/><w>gen</w><w>chunde</w><pc>·</pc></l>
+                    <l n="7900"><w><hi rendition="hc:RedStroke">E</hi>ineme</w><w>alſo</w><lb ana="hc:DependentLine hc:RunOverLineAbove" n="26a"/><metamark ana="hc:Hyphen "><hi hei:color="Red">|</hi></metamark><w>ſozem</w><w>munde</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="7895"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>·</pc></l>
-                    <l n="7896"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>·</pc></l>
+                    <l n="7901"><lb n="27"/><gap ana="hc:Mould"/><w>e</w><gap ana="hc:Mould"/><w>alſche</w><w>liſt</w><pc>·</pc></l>
+                    <l n="7902"><lb n="28"/><gap ana="hc:Mould"/><damage><w>ode</w></damage><w>ernſt</w><w>iſt</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="7897"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>·</pc></l>
-                    <l n="7898"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>·</pc></l>
-                </lg>
-                <lg>
-                    <l n="7899"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>·</pc></l>
-                    <l n="7900"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>·</pc></l>
-                </lg>
-                <lg>
-                    <l n="7901"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>·</pc></l>
-                    <l n="7902"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>·</pc></l>
-                </lg>
-                <lg>
-                    <l n="7903"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>·</pc></l>
-                    <l n="7904"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/><pc>·</pc></l>
+                    <l n="7903"><w><hi rendition="hc:RedStroke">S</hi>o</w><w>moz</w><w>er</w><damage><w>wol</w></damage><lb ana="hc:DependentLine hc:RunOverLineAbove" n="28a"/><metamark ana="hc:Hyphen "><hi hei:color="Red">|</hi></metamark><w>ir</w><w>hulde</w><w>han</w><pc>·</pc></l>
+                    <l n="7904"><lb n="29"/><gap ana="hc:Mould"/><w>c</w><w>u</w><w>des</w><w>niht</w><w>vorlan</w><pc>·</pc></l>
                 </lg>
             </div>
         </body>
