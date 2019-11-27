@@ -4878,108 +4878,109 @@
                     <!--Revisado Victor 24/11/2019 – Dejé algunas notas. Recuerda que las 'w' que son 'wu' las regularizamos; hay una función para ello en el menú 'Regularization'. Y cuando el copista corrije una letra o palabra por otra, utilizamos <subst> en 'Insert Tags'. Por otro lado, procuramos no meter dentro de la <w> código que pueda ir fuera; por eso, cuando se añade una palabra entera la etiqueta <add> la ponemos fuera de la <w>; hay que hacerlo en modo Text. Fuera de esos detalles, muy bien!    -->
                 </lg>
                 <lg>
-                    <l n="2403"><w/><w/><w/><w/><w/><pc>·</pc></l>
-                    <l n="2404"><w/><w/><w/><w/><w/><pc>·</pc></l>
+                    <l n="2403"><w><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="1">D</hei:initial>er</w><w>truhzeze</w><w part="I">ge</w><lb n="4"/><w part="F">tete</w><pc>·</pc></l>
+                    <l n="2404"><w>Siner</w><w><choice><orig>u</orig><reg>v</reg></choice>rowen</w><w>rede</w><w>na</w><w>irre</w><w>bete</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="2405"><w/><w/><w/><w/><w/><pc>·</pc></l>
-                    <l n="2406"><w/><w/><w/><w/><w/><pc>·</pc></l>
+                    <l n="2405"><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>do</w><w>ſie</w><lb n="5"/><w>ouh</w><w>horten</w><w>ſagen</w><pc>·</pc></l>
+                    <l n="2406"><w>Iz</w><w>queme</w><w>an</w><w><choice><orig>u</orig><reg>v</reg></choice>ierzen</w><w>tagen</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="2407"><w/><w/><w/><w/><w/><pc>·</pc></l>
-                    <l n="2408"><w/><w/><w/><w/><w/><pc>·</pc></l>
+                    <l n="2407"><lb n="6"/><w>Der</w><w>koninc</w><w>artus</w><w>da</w><w>mit</w><w>here</w><pc>·</pc></l>
+                    <l n="2408"><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w join="right"><choice><orig>u</orig><reg>v</reg></choice><choice><orig>v</orig><reg>u</reg></choice>nd</w><w join="left">er</w><w>den</w><w part="I">br<choice><am>ū</am><ex>un</ex></choice></w><lb n="7"/><w part="F">nen</w><w>ane</w><w>were</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="2409"><w/><w/><w/><w/><w/><pc>·</pc></l>
-                    <l n="2410"><w/><w/><w/><w/><w/><pc>·</pc></l>
+                    <l n="2409"><w>So</w><w join="right">war</w><w join="left">ir</w><w>binamin</w><w><choice><orig>u</orig><reg>v</reg></choice>ir lorn</w><pc>·</pc></l>
+                    <l n="2410"><choice><abbr>wan<am>d͛</am></abbr><expan><w join="right">wand</w><w join="left"><ex>er</ex></w></expan></choice><lb n="8"/><w>hete</w><w>diu</w><w><choice><orig>u</orig><reg>v</reg></choice>art</w><w>geſworn</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="2411"><w/><w/><w/><w/><w/><pc>·</pc></l>
-                    <l n="2412"><w/><w/><w/><w/><w/><pc>·</pc></l>
+                    <l n="2411"><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w join="right">alſ</w><w join="left">in</w><w>rehte</w><w>wart</w><w part="I" join="right">ge</w><lb n="9"/><w part="F">ſeit</w><pc>·</pc></l>
+                    <l n="2412"><w>deſ</w><w>ritereſ</w><w>geburt</w><w>u<choice><am>n̄</am><ex>nd</ex></choice></w><w>ur</w><w><choice><orig>u</orig><reg>v</reg></choice>romecheit</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="2413"><w/><w/><w/><w/><w/><pc>·</pc></l>
-                    <l n="2414"><w/><w/><w/><w/><w/><pc>·</pc></l>
+                    <l n="2413"><w>Zo</w><w>der</w><lb n="10"/><w>ſcone</w><w>die</w><w>ſagen</w><pc>·</pc></l>
+                    <l n="2414"><w>van</w><w>rehte</w><w>ſie</w><w>deſ</w><w><choice><orig>i</orig><reg>j</reg></choice>ahen</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="2415"><w/><w/><w/><w/><w/><pc>·</pc></l>
-                    <l n="2416"><w/><w/><w/><w/><w/><pc>·</pc></l>
+                    <l n="2415"><w>Iz</w><w>were</w><lb n="11"/><w><choice><orig>u</orig><reg>v</reg></choice>roͮme</w><w>u<choice><am>n̄</am><ex>nd</ex></choice></w><w>ere</w><pc>·</pc></l>
+                    <l n="2416"><w>waz</w><w>ſal</w><w>der</w><w>reden</w><w>mere</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="2417"><w/><w/><w/><w/><w/><pc>·</pc></l>
-                    <l n="2418"><w/><w/><w/><w/><w/><pc>·</pc></l>
+                    <l n="2417"><w join="right">wand</w><w join="left">iz</w><lb n="12"/><w>waſ</w><w>michel</w><w><choice><orig>u</orig><reg>v</reg></choice>oͮge</w><pc>·</pc></l>
+                    <l n="2418"><w>da</w><w>waren</w><w>paffen</w><w>gnuͦge</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="2419"><w/><w/><w/><w/><w/><pc>·</pc></l>
-                    <l n="2420"><w/><w/><w/><w/><w/><pc>·</pc></l>
+                    <l n="2419"><w>Die</w><w part="I">ta</w><metamark ana="hc:Hyphen">‒</metamark><lb break="no" n="13"/><w part="F">ten</w><w>in</w><w join="right">di<choice><orig>v</orig><reg>u</reg></choice></w><w join="left">e</w><w>zehant</w><pc>·</pc></l>
+                    <l n="2420"><w>Sie</w><w>gabin</w><w>im</w><w>beide</w><w><choice><orig>u</orig><reg>v</reg></choice>rowen</w><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><lb n="14"/><w>lant</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="2421"><w/><w/><w/><w/><w/><pc>·</pc></l>
-                    <l n="2422"><w/><w/><w/><w/><w/><pc>·</pc></l>
+                    <l n="2421"><w>Vrowe</w><w>laudine</w><w>heiz</w><w>ſin</w><w>wip</w><pc>·</pc></l>
+                    <l n="2422"><w>Sie</w><w join="right">kund</w><w join="left">eme</w><lb n="15"/><w>leben</w><w>u<choice><am>n̄</am><ex>nd</ex></choice></w><w>lip</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="2423"><w/><w/><w/><w/><w/><pc>·</pc></l>
-                    <l n="2424"><w/><w/><w/><w/><w/><pc>·</pc></l>
+                    <l n="2423"><w>wol</w><w>gelieben</w><w>mit</w><w>irre</w><w>tuget</w><pc>·</pc></l>
+                    <l n="2424"><w>da</w><w>was</w><lb n="16"/><w>diu</w><w>burt</w><pc>·</pc><w>unti</w><w><choice><orig>v</orig><reg>u</reg></choice></w><w>iuget</w><pc>·</pc></l>
+                    <!--No creo que esté bien transcrito 'unti v' porque parece que es la conjunción y el artículo. En ese caso habría que hacer un "join"?-->
                 </lg>
                 <lg>
-                    <l n="2425"><w/><w/><w/><w/><w/><pc>·</pc></l>
-                    <l n="2426"><w/><w/><w/><w/><w/><pc>·</pc></l>
+                    <l n="2425"><w>Scone</w><pc>·</pc><w>u<choice><am>n̄</am><ex>nd</ex></choice></w><w>richeit</w><pc>·</pc></l>
+                    <l n="2426"><w>An</w><w>wen</w><lb n="17"/><w>ſo</w><w>got</w><w>hat</w><w>ge leit</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="2427"><w/><w/><w/><w/><w/><pc>·</pc></l>
-                    <l n="2428"><w/><w/><w/><w/><w/><pc>·</pc></l>
+                    <l n="2427"><w>Truwe</w><w>u<choice><am>n̄</am><ex>nd</ex></choice></w><w>anderen</w><w>guten</w><w>ſin</w><pc>·</pc></l>
+                    <l n="2428"><lb n="18"/><w>volle</w><w>tuget</w><w>alſe</w><w>an</w><w>in</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="2429"><w/><w/><w/><w/><w/><pc>·</pc></l>
-                    <l n="2430"><w/><w/><w/><w/><w/><pc>·</pc></l>
+                    <l n="2429"><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>iſt</w><w>dan</w><w>eines</w><w>goͮten</w><w part="I">wi</w><metamark ana="hc:Hyphen">‒</metamark><lb break="no" n="19"/><w part="F">bes</w><w>wert</w><pc>·</pc></l>
+                    <l n="2430"><w>der</w><w>hat</w><w>alliz</w><w join="right">daz</w><w join="left">er</w><w>gert</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="2431"><w/><w/><w/><w/><w/><pc>·</pc></l>
-                    <l n="2432"><w/><w/><w/><w/><w/><pc>·</pc></l>
+                    <l n="2431"><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>ſulen</w><w>die</w><lb n="20"/><w>mit</w><w>liebe</w><w>lange</w><w>leben</w><pc>·</pc></l>
+                    <l n="2432"><lb n="21"/><w>den</w><w>hat</w><w>got</w><w><choice><orig>u</orig><reg>v</reg></choice>roweden</w><lb n="22"/><w><choice><orig>u</orig><reg>v</reg></choice>il</w><w>gegebem</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="2433"><w/><w/><w/><w/><w/><pc>·</pc></l>
-                    <l n="2434"><w/><w/><w/><w/><w/><pc>·</pc></l>
+                    <l n="2433"><w>Daz</w><w>waz</w><w>alliz</w><w>wanlih</w><w>da</w><pc>·</pc></l>
+                    <l n="2434"><w>hie</w><w>huͦf</w><lb n="23"/><w>ſih</w><w>die</w><w>brutloft</w><w>ſa</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="2435"><w/><w/><w/><w/><w/><pc>·</pc></l>
-                    <l n="2436"><w/><w/><w/><w/><w/><pc>·</pc></l>
+                    <l n="2435"><w>Deſ</w><w>doden</w><w>iſt</w><w><choice><orig>u</orig><reg>v</reg></choice>irgezen</w><pc>·</pc></l>
+                    <l n="2436"><w>der</w><lb n="24"/><w>leben de</w><w>hat</w><w>be ſezen</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="2437"><w/><w/><w/><w/><w/><pc>·</pc></l>
-                    <l n="2438"><w/><w/><w/><w/><w/><pc>·</pc></l>
+                    <l n="2437"><w>Beide</w><w>ſin</w><w>ere</w><w>u<choice><am>n̄</am><ex>nd</ex></choice></w><w>ſin</w><w>lant</w><pc>·</pc></l>
+                    <l n="2438"><lb n="25"/><w>daz</w><w>waſ</w><w><choice><orig>u</orig><reg>v</reg></choice>il</w><w>wol</w><w>zoͮ</w><w>im</w><w>be want</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="2439"><w/><w/><w/><w/><w/><pc>·</pc></l>
-                    <l n="2440"><w/><w/><w/><w/><w/><pc>·</pc></l>
+                    <l n="2439"><w>Iz</w><w>ne</w><w>wart</w><w><choice><orig>u</orig><reg>v</reg></choice>or</w><lb n="26"/><w>deſ</w><w>noh</w><w>ſit</w><pc>·</pc></l>
+                    <l n="2440"><w>vollicher</w><w>hohzit</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="2441"><w/><w/><w/><w/><w/><pc>·</pc></l>
-                    <l n="2442"><w/><w/><w/><w/><w/><pc>·</pc></l>
+                    <l n="2441"><w>In</w><w>dem</w><w>lande</w><w>nie</w><lb n="27"/><w>mere</w><pc>·</pc></l>
+                    <l n="2442"><w>da</w><w>waſ</w><w><choice><orig>w</orig><reg>wu</reg></choice>nne</w><pc>·</pc><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>ere</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="2443"><w/><w/><w/><w/><w/><pc>·</pc></l>
-                    <l n="2444"><w/><w/><w/><w/><w/><pc>·</pc></l>
+                    <l n="2443"><w>vrowede</w><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w><choice><orig>u</orig><reg>v</reg></choice>olle</w><pb n="45v"/><cb n="a"/><lb n="1"/><w>riterſcaft</w><pc>·</pc></l>
+                    <l n="2444"><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>alles</w><w>deſ</w><w>diu</w><w>obir</w><w>craft</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="2445"><w/><w/><w/><w/><w/><pc>·</pc></l>
-                    <l n="2446"><w/><w/><w/><w/><w/><pc>·</pc></l>
+                    <l n="2445"><w>Des</w><w>man</w><w>zoͮ</w><lb n="2"/><w>dem</w><w>libe</w><w>gerte</w><pc>·</pc></l>
+                    <l n="2446"><w>diſſe</w><w>riterſcaft</w><w>di<choice><orig>v</orig><reg>u</reg></choice></w><w>werte</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="2447"><w/><w/><w/><w/><w/><pc>·</pc></l>
-                    <l n="2448"><w/><w/><w/><w/><w/><pc>·</pc></l>
+                    <l n="2447"><w><choice><orig>v</orig><reg>u</reg></choice>nze</w><w>in</w><lb n="3"/><w>daz</w><w>lant</w><w><choice><orig>u</orig><reg>v</reg></choice>oͮr</w><pc>·</pc></l>
+                    <l n="2448"><w>der</w><w>koninc</w><w>ar<choice><am>tꝰ</am><ex>tus</ex></choice></w><w join="right">alſ</w><w join="left">or</w><w>ſwor</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="2449"><w/><w/><w/><w/><w/><pc>·</pc></l>
-                    <l n="2450"><w/><w/><w/><w/><w/><pc>·</pc></l>
+                    <l n="2449"><w>Zoͮ</w><w>dem</w><lb n="4"/><w>brunnin</w><w>mit</w><w>here</w><pc>·</pc></l>
+                    <l n="2450"><w>doͮ</w><w join="right">bedorft</w><w join="left">er</w><w>guͦter</w><w>were</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="2451"><w/><w/><w/><w/><w/><pc>·</pc></l>
-                    <l n="2452"><w/><w/><w/><w/><w/><pc>·</pc></l>
+                    <l n="2451"><w>Im</w><lb n="5"/><w>ne</w><w>duhte</w><w>ze</w><w>herren</w><w>niht</w><w>ein</w><w>zage</w><pc>·</pc></l>
+                    <l n="2452"><w>Iz</w><w>ne</w><w>qu<choice><am>ā</am><ex>am</ex></choice></w><w>nie</w><lb n="6"/><w>in</w><w>e<metamark ana="hc:InsertionMark ">,</metamark><add hei:placeRef="hc:AboveLine">i</add>me</w><w>tage</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="2453"><w/><w/><w/><w/><w/><pc>·</pc></l>
-                    <l n="2454"><w/><w/><w/><w/><w/><pc>·</pc></l>
+                    <l n="2453"><w>So</w><w>manich</w><w>got</w><w>riter</w><w>alſo</w><w>doͮ</w><pc>·</pc></l>
+                    <l n="2454"><w>Nu</w><w>waſ</w><lb n="7"/><w>min</w><w>her</w><w>key</w><w><choice><orig>u</orig><reg>v</reg></choice>ro</w><pc>·</pc></l>
                 </lg>
                 <lg>
                     <l n="2455"><w/><w/><w/><w/><w/><pc>·</pc></l>
