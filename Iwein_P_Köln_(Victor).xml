@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://digi.ub.uni-heidelberg.de/schema/tei/heiEDITIONS/tei_hes.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://digi.ub.uni-heidelberg.de/schema/tei/heiEDITIONS/tei_hes.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:hei="https://digi.ub.uni-heidelberg.de/schema/tei/heiEDITIONS" ana="hc:IWDDocument">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Iwein-Fragm. P</title>
+                <author>Hartmann von Aue</author>
+                <respStmt>
+                    <resp>transcription</resp>
+                    <persName>Victor Millet</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>UB Heidelberg</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="P"><msDesc>
+                        <msIdentifier>
+                            <settlement>Köln</settlement>
+                            <repository>Historisches Archiv der Stadt Köln</repository>
+                            <idno>Best. 7020 (W) 6</idno>
+                        </msIdentifier>
+                        </msDesc></witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <listPrefixDef>
+                <prefixDef ident="hc" matchPattern="(.+)" replacementPattern="https://lod.ub.uni-heidelberg.de/ontologies/heieditions/hc/current/$1"/>
+            </listPrefixDef>
+        </encodingDesc>
+    </teiHeader>
+    <facsimile>
+        <surface ana="hc:Page" xml:id="P_119v" n="119v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/hak_best7020_(w)_6_fol119/0001/image"/>
+            <zone ana="hc:Float" xml:id="P_119v_1" n="119v_1"/>
+            <zone ana="hc:Float" xml:id="P_119v_2" n="119v_2"/>
+        </surface>
+    </facsimile>
+    <text ana="hc:CourtlyRomance hc:ExpressionPart">
+        <body>
+            <div>
+                <pb n="119v"/>
+                <milestone ana="hc:ZoneBeginning" facs="#P_119v_2" n="119v_2"/>
+                <lg>
+                    <l n="1"><lb n="16"/><w>Swer</w><w>an</w><gap ana="hc:Faded" n="4" unit="chars"/><w>guet</w></l>
+                    <l n="2"><w>wendet</w><w>ſin</w><w>gem<choice><orig>vͤ</orig><reg>uͤ</reg></choice>te</w></l>
+                </lg>
+                <lg>
+                    <l n="3"><lb n="17"/><w>Dem</w><w>volget</w><gap ana="hc:Faded" n="5" unit="chars"/><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>ere</w></l>
+                    <l n="4"><w>Des</w><w>git</w><w>gewiſſe</w><w>lere</w></l>
+                </lg>
+                <lg>
+                    <l n="5"><w>k<choice><orig>v</orig><reg>u</reg></choice>nec</w><w>ar<choice><am>tꝰ</am><ex>tus</ex></choice></w><w>der</w><w>g<choice><orig>vͦ</orig><reg>uͦ</reg></choice>te</w></l>
+                    <l n="6"><lb n="18"/><gap ana="hc:Faded" n="13" unit="chars"/><w>m<choice><orig>vͦ</orig><reg>uͦ</reg></choice>te</w></l>
+                </lg>
+                <lg>
+                    <l n="7"><w>Nach</w><w>lob</w><w>ch<choice><orig>v</orig><reg>u</reg></choice>nde</w><w>ſtriten</w><pc>·</pc></l>
+                    <l n="8"><w>Er</w><w>hat</w><w>bie</w><w>ſinen</w><w>ziten</w><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="9"><lb n="19"/><gap ana="hc:Faded" n="6" unit="chars"/><w>alſo</w><w>ſchone</w><pc>·</pc></l>
+                    <l n="10"><w>Daz</w><w>er</w><w>der</w><w>eren</w><w>chrone</w><pc>·</pc></l>
+                </lg>
+                <milestone ana="hc:ZoneShift" facs="#P_119v_1" n="119v_1"/>
+                <lg>
+                    <l n="21"><lb n="9"/><w>Ein</w><w>riter</w><w>der</w><w>gelert</w><w>was</w></l>
+                    <l n="22"><lb n="10"/><w>daz</w><w join="right">er</w><w join="left">ſ</w><w>an</w><w>den</w><w>b<choice><orig>v</orig><reg>u</reg></choice>chen</w><w>laſ</w></l>
+                </lg>
+                <lg>
+                    <l n="23"><lb n="11"/><w>Swenne</w><w>er</w><w>ſin</w><w>ſt<choice><orig>v</orig><reg>u</reg></choice>nd</w></l>
+                    <l n="24"><lb n="12"/><w>Niht</w><w>baz</w><w>bewend<choice><am>ē</am><ex>en</ex></choice></w><w>k<choice><orig>v</orig><reg>u</reg></choice>nd</w></l>
+                </lg>
+                <lg>
+                    <l n="25"><lb n="13"/><w>daz</w><w>er</w><w>tihtneſ</w><w>phlag</w></l>
+                </lg>
+            </div>
+        </body>
+    </text>
+</TEI>

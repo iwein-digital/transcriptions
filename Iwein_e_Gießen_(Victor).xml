@@ -1,0 +1,510 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://digi.ub.uni-heidelberg.de/schema/tei/heiEDITIONS/tei_hes.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://digi.ub.uni-heidelberg.de/schema/tei/heiEDITIONS/tei_hes.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:hei="https://digi.ub.uni-heidelberg.de/schema/tei/heiEDITIONS" ana="hc:IWDDocument">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Iwein-Fragm. e</title>
+                <author>Hartmann von Aue</author>
+                <respStmt>
+                    <resp>transcription</resp>
+                    <persName>Victor Millet</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>UB Heidelberg</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="l">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Gießen</settlement>
+                                <repository>Universitätsbibliothek</repository>
+                                <idno>Hs. 97</idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <listPrefixDef>
+                <prefixDef ident="hc" matchPattern="(.+)" replacementPattern="https://lod.ub.uni-heidelberg.de/ontologies/heieditions/hc/current/$1"/>
+            </listPrefixDef>
+        </encodingDesc>
+    </teiHeader>
+    <facsimile>
+        <surface ana="hc:Page" xml:id="e_90r" n="90r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubgi_hs97/0183/image"/>
+            <zone ana="hc:Column" xml:id="e_90r-a" n="90r-a"/>
+        </surface>
+        <surface ana="hc:Page" xml:id="e_90v" n="90v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubgi_hs97/0184/image"/>
+            <zone ana="hc:Column" xml:id="e_90v-a" n="90v-a"/>
+        </surface>
+        <surface ana="hc:Page" xml:id="e_90ar" n="90ar">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubgi_hs97/0185/image"/>
+            <zone ana="hc:Column" xml:id="e_90ar-a" n="90ar-a"/>
+        </surface>
+        <surface ana="hc:Page" xml:id="e_90av" n="90av">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubgi_hs97/0186/image"/>
+            <zone ana="hc:Column" xml:id="e_90av-a" n="90av-a"/>
+        </surface>
+        <surface ana="hc:Page" xml:id="e_91r" n="91r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubgi_hs97/0187/image"/>
+            <zone ana="hc:Column" xml:id="e_91r-a" n="91r-a"/>
+        </surface>
+        <surface ana="hc:Page" xml:id="e_91v" n="91v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubgi_hs97/0188/image"/>
+            <zone ana="hc:Column" xml:id="e_91v-a" n="91v-a"/>
+        </surface>
+        <surface ana="hc:Page" xml:id="e_92r" n="92r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubgi_hs97/0189/image"/>
+            <zone ana="hc:Column" xml:id="e_92r-a" n="92r-a"/>
+        </surface>
+        <surface ana="hc:Page" xml:id="e_92v" n="92v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubgi_hs97/0190/image"/>
+            <zone ana="hc:Column" xml:id="e_92v-a" n="92v-a"/>
+            <zone ana="hc:MarginalZone" xml:id="e_92v-b"></zone>
+        </surface>
+        <surface ana="hc:Page" xml:id="e_131r" n="131r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubgi_hs97/0267/image"/>
+            <zone ana="hc:Column" xml:id="e_131r-a" n="131r-a"/>
+        </surface>
+        <surface ana="hc:Page" xml:id="e_131v" n="131v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubgi_hs97/0268/image"/>
+            <zone ana="hc:Column" xml:id="e_131v-a" n="131v-a"/>
+        </surface>
+    </facsimile>
+    <text ana=" hc:ExpressionPart hc:CourtlyRomance">
+        <body>
+            <div>
+                <pb n="90r"/>
+                <cb n="a"/>
+                <lg>
+                    <l n="4633"><lb n="1"/><w>Mit</w><w>im</w><w>weder</w><w><choice><orig>v</orig><reg>u</reg></choice>ns</w><w>hei</w></l>
+                    <l n="4634"><lb n="2"/><w>Do</w><w>ſprach</w><w>der</w><w>herre</w><w>Ke<choice><orig>j</orig><reg>i</reg></choice></w></l>
+                </lg>
+                <lg>
+                    <l n="4635"><lb n="3"/><w>En</w><w>beſchirmt</w><w>nicht</w><w>Tuiͦvel</w><w>noch</w><w>got</w></l>
+                    <!--Henrici: Tuͦwel   -->
+                    <l n="4636"><lb n="4"/><w>Der</w><w><choice><orig>v</orig><reg>u</reg></choice>nſ</w><w>diſn</w><w>groſſen</w><w>ſpot</w></l>
+                </lg>
+                <lg>
+                    <l n="4637"><lb n="5"/><w>An</w><w>miner</w><w>frowen</w><w>hat</w><w>githan</w></l>
+                    <l n="4638"><lb n="6"/><w>Es</w><w>muͦſs</w><w>an</w><w>ſein</w><w>erre</w><w>gan</w></l>
+                </lg>
+                <lg>
+                    <l n="4639"><lb n="7"/><w>Ich</w><w>bin</w><w>Truchſäſſe</w><w>hie</w><w>zuͦ</w><w>hauſ</w></l>
+                    <l n="4640"><lb n="8"/><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>es</w><w>hat</w><w>kung</w><w>Artus</w></l>
+                </lg>
+                <lg>
+                    <l n="4641"><lb n="9"/><w>verſchu<add hei:placeRef="hc:Inline">l</add>det</w><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>m̄</am><ex>mme</ex></choice></w><w>mich</w><w>gar</w><w>wol</w></l>
+                    <l n="4642"><lb n="10"/><w>Das</w><w>ich</w><w>im</w><w>nu</w><w>ledigen</w><w>ſoll</w></l>
+                </lg>
+                <lg>
+                    <l n="4643"><lb n="11"/><w>Meine</w><w>frowen</w><w>ſein</w><w>weib</w></l>
+                    <l n="4644"><lb n="12"/><w>Es</w><w>iſt</w><w>war</w><w>es</w><w>get</w><w>an</w><w>den</w><w>leib</w></l>
+                </lg>
+                <lg>
+                    <l n="4647"><lb n="13"/><w>Wiſte</w><w>er</w><w>mich</w><w>zuͦ</w><w>hofe</w><w>hie</w></l>
+                    <l n="4648"><lb n="14"/><w>Waiß</w><w>got</w><w>ſo</w><w>wäre</w><w>er</w><w>nie</w></l>
+                </lg>
+                <lg>
+                    <l n="4649"><lb n="15"/><w>Auf</w><w>ſolche</w><w>dinck</w><w>her</w><w>k<choice><am>ō</am><ex>om</ex></choice>men</w></l>
+                    <l n="4650"><lb n="16"/><w>Ich</w><w>ſol</w><w>ſi</w><w>im</w><w>ſchier</w><w>habn</w><w>gn<choice><am>ū</am><ex>um</ex></choice>men</w></l>
+                </lg>
+                <lg>
+                    <l n="4651"><lb n="17"/><w>Ich</w><w>ſolde</w><w>wol</w><w>verſmaen</w></l>
+                    <l n="4652"><lb n="18"/><w>Dis</w><w>gemaine</w><w>noch</w><w>gaen</w></l>
+                </lg>
+                <lg>
+                    <l n="4653"><lb n="19"/><w>Was</w><w>ſoll</w><w>dir</w><w><choice><orig>v</orig><reg>u</reg></choice>ngefn<choice><orig>v</orig><reg>u</reg></choice>ge</w><w>ſchal</w></l>
+                    <l n="4654"><lb n="20"/><w>Das</w><w>der</w><w>hof</w><w><choice><orig>v</orig><reg>u</reg></choice>ber</w><w>al</w></l>
+                </lg>
+                <pb n="90v"/>
+                <cb n="a"/>
+                <lg>
+                    <l n="4655"><lb n="1"/><w>Durch</w><w>ainen</w><w>man</w><w>will</w><w>reiten</w></l>
+                    <l n="4656"><lb n="2"/><w>Ich</w><w>getrawe</w><w>im</w><w>wol</w><w>zu</w><w>ſtreiten</w></l>
+                </lg>
+                <lg>
+                    <l n="4657"><lb n="3"/><w>Ich</w><w>ainer</w><w>bin</w><w>im</w><w>ain</w><w>hör</w></l>
+                    <l n="4658"><lb n="4"/><w>Auch</w><w>ſetzet</w><w>er</w><w>ſich</w><w>nichs</w><w>zuͦ</w><w>wer</w></l>
+                </lg>
+                <lg>
+                    <l n="4659"><lb n="5"/><w>Wann</w><w>er</w><w>ſicht</w><w>das</w><w>ich</w><w>es</w><w>bin</w></l>
+                    <l n="4660"><lb n="6"/><w>Nu</w><w>was</w><w>hulfe</w><w>es</w><w>in</w></l>
+                </lg>
+                <lg>
+                    <l n="4663"><lb n="7"/><w>Ich</w><w>erlaſe</w><w>ew</w><w>alle</w><w>wol</w><w>der</w><w>arbait</w></l>
+                    <l n="4664"><lb n="8"/><w>Nu</w><w>was</w><w>auch</w><w>er</w><w>berait</w></l>
+                </lg>
+                <lg>
+                    <l n="4665"><lb n="9"/><w><choice><orig>V</orig><reg>U</reg></choice>nd</w><w>was</w><w>der</w><w>erſt</w><w>an</w><w><choice><orig>j</orig><reg>i</reg></choice>n</w></l>
+                    <l n="4666"><lb n="10"/><w>Do</w><w>geriet</w><w>der</w><w>erſt</w><w><choice><orig>v</orig><reg>u</reg></choice>ngewin</w></l>
+                </lg>
+                <lg>
+                    <l n="4667"><lb n="11"/><w>Im</w><w>zuͦ</w><w>ſeinen</w><w>groſſen</w><w><choice><orig>v</orig><reg>u</reg></choice>neren</w></l>
+                    <l n="4668"><lb n="12"/><w>Do</w><w>er</w><w>den</w><w>gaſt</w><w>bat</w><w>keren</w></l>
+                </lg>
+                <lg>
+                    <l n="4669"><lb n="13"/><w>Das</w><w>was</w><w>in</w><w>einem</w><w>walde</w></l>
+                    <l n="4670"><lb n="14"/><w>Da</w><w>kerte</w><w>er</w><w>ſich</w><w>balde</w></l>
+                </lg>
+                <lg>
+                    <l n="4671"><lb n="15"/><w>Mit</w><w>groſſen</w><w>kreften</w><w>ſtach</w><w>er</w><w>in</w></l>
+                    <l n="4672"><lb n="16"/><w>Empor</w><w>auſ</w><w>dem</w><w>ſatel</w><w>hin</w></l>
+                </lg>
+                <lg>
+                    <l n="4673"><lb n="17"/><w>Das</w><w>in</w><w>ain</w><w>aſt</w><w>beim</w><w>helm</w><w>fieng</w></l>
+                    <l n="4674"><lb n="18"/><w><choice><orig>V</orig><reg>U</reg></choice>nd</w><w>bei</w><w>der</w><w>gurgel</w><w>behieng</w></l>
+                </lg>
+                <pb n="90ar"/>
+                <cb n="a"/>
+                <lg>
+                    <l n="4675"><lb n="1"/><w>Wenn</w><w>das</w><w>in</w><w>ſein</w><w>geferte</w></l>
+                    <l n="4676"><lb n="2"/><w>Der</w><w>boſe</w><w>tiufel</w><w>ernerte</w></l>
+                </lg>
+                <lg>
+                    <l n="4677"><lb n="3"/><w>Er</w><w>war</w><w>anders</w><w>blibn</w><w>todt</w></l>
+                    <l n="4678"><lb n="4"/><w>Doch</w><w>ſo</w><w>hangende</w><w>lidt</w><w>er</w><w>not</w></l>
+                </lg>
+                <lg>
+                    <l n="4679"><lb n="5"/><w>Laider</w><w>er</w><w>ward</w><w>ledig</w><w>ſeid</w></l>
+                    <l n="4680"><lb n="6"/><w>Doch</w><w>hieng</w><w>er</w><w>biſ</w><w>an</w><w>die</w><w>zeit</w></l>
+                </lg>
+                <lg>
+                    <l n="4681"><lb n="7"/><w>Bis das er</w><w>vor</w><w>in</w><w>allen</w><w>geleit</w></l>
+                    <l n="4682"><lb n="8"/><w>Groſs</w><w>laſter</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>arbait</w></l>
+                </lg>
+                <lg>
+                    <l n="4683"><lb n="9"/><w>Der</w><w>erſte</w><w>was</w><w>Karlocriant</w></l>
+                    <l n="4684"><lb n="10"/><w>Der</w><w>in</w><w>do</w><w>hangen</w><w>vant</w></l>
+                </lg>
+                <lg>
+                    <l n="4685"><lb n="11"/><w>Gleich</w><w>ſo</w><w>ain</w><w>dieb</w></l>
+                    <l n="4686"><lb n="12"/><w>Er</w><w>leſte</w><w>in</w><w>nit</w><w>d<choice><am>ā</am><ex>an</ex></choice>n</w><w>eſ</w><w>waſ</w><w>im</w><lb ana="hc:DependentLine hc:RunOverLineAbove" n="12a"/><w>lieb</w></l>
+                </lg>
+                <lg>
+                    <l n="4687"><lb n="13"/><w>Der</w><w><choice><orig>i</orig><reg>j</reg></choice>agete</w><w>auch</w><w>an</w><w>den</w><w>gaſt</w></l>
+                    <l n="4688"><lb n="14"/><w>Gar</w><w>wenig</w><w>im</w><w>gebraſt</w></l>
+                </lg>
+                <lg>
+                    <l n="4689"><lb n="15"/><w>Das</w><w>im</w><w>nit</w><w>auch</w><w>geſchach</w></l>
+                    <l n="4690"><lb n="16"/><w>Wan</w><w>er</w><w>in</w><w>auch</w><w>nider</w><w>ſtach</w></l>
+                </lg>
+                <lg>
+                    <l n="4691"><lb n="17"/><w>Die</w><w>key</w><w>hant</w><w>hang<choice><am>ē</am><ex>en</ex></choice></w><w>ſehen</w></l>
+                    <l n="4692"><lb n="18"/><w>Die</w><w>lieſsen</w><w>drum</w><w>nit</w><w>ergeen</w></l>
+                </lg>
+                <lg>
+                    <l n="4693"><lb n="19"/><w>Ir</w><w><choice><orig>v</orig><reg>u</reg></choice>nwille</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>ſein</w><w>ſchalkait</w></l>
+                    <l n="4694"><lb n="20"/><w>Machte</w><w>das</w><w>ietlicher</w><w>fur</w><w>rait</w></l>
+                </lg>
+                <lg>
+                    <l n="4695"><lb n="21"/><w>Do</w><w>errait</w><w>den</w><w>ritter</w><w>auf</w><w join="right">aim</w><w join="left">g<add hei:placeRef="hc:AboveLine">e</add>vilde</w></l>
+                    <l n="4696"><lb n="22"/><w>Her</w><w>Dodides</w><w>der</w><w>wilde</w></l>
+                </lg>
+                <pb n="90av"/>
+                <cb n="a"/>
+                <lg>
+                    <l n="4697"><lb n="1"/><w>Der</w><w>prach</w><w>auf</w><w><choice><orig>j</orig><reg>i</reg></choice>m</w><w>ſein</w><w>ſper</w></l>
+                    <l n="4698"><lb n="2"/><w>Do</w><w>mit</w><w>ward</w><w>auch</w><w>eer</w></l>
+                </lg>
+                <lg>
+                    <l n="4699"><lb n="3"/><w>Geſatzt</w><w>auf</w><w>das</w><w>gras</w></l>
+                    <l n="4700"><lb n="4"/><w>So</w><w>lanck</w><w>ſo</w><w>das</w><w>ſper</w><w>mas</w></l>
+                </lg>
+                <lg>
+                    <l n="4701"><lb n="5"/><w>Segremors</w><w>erritt</w><w>in</w><w>do</w></l>
+                    <l n="4702"><lb n="6"/><w>Dem</w><w>geſchach</w><w>auch</w><w>alſo</w></l>
+                </lg>
+                <lg>
+                    <l n="4703"><lb n="7"/><w join="right">Dar</w><w join="left">nach</w><w>erritt</w><w>in</w><w>Henet</w></l>
+                    <l n="4704"><lb n="8"/><w>Das</w><w>ſelbe</w><w>er</w><w>im</w><w>auch</w><w>thät</w></l>
+                </lg>
+                <lg>
+                    <l n="4705"><lb n="9"/><w>Silopherim</w><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>milmargot</w></l>
+                    <l n="4706"><lb n="10"/><w>Di</w><w>wurden</w><w>eris</w><w>ſelbiſ</w><w>ſpot</w></l>
+                </lg>
+                <lg>
+                    <l n="4707"><lb n="11"/><w>Mit</w><w>ſolchem</w><w><choice><orig>v</orig><reg>u</reg></choice>ngefelle</w></l>
+                    <l n="4708"><lb n="12"/><w><choice><orig>V</orig><reg>U</reg></choice>nde</w><w>ieder</w><w>ir</w><w>geſelle</w></l>
+                </lg>
+                <lg>
+                    <l n="4709"><lb n="13"/><w>Das</w><w>ich</w><w>ſi</w><w>alle</w><w>nente</w></l>
+                    <l n="4710"><lb n="14"/><w>Die</w><w>ich</w><w>da</w><w>kente</w></l>
+                </lg>
+                <lg>
+                    <l n="4711"><lb n="15"/><w>Das</w><w>werde</w><w>hie</w><w>nun</w><w>vermitten</w></l>
+                    <l n="4712"><lb n="16"/><w>Sin</w><w>alle</w><w>die</w><w>im</w><w>nach</w><w>rittn</w></l>
+                </lg>
+                <lg>
+                    <l n="4713"><lb n="17"/><w>Die</w><w>wurd<choice><am>ē</am><ex>en</ex></choice></w><w>gſtumpiert</w><w>v<choice><am>ō</am><ex>on</ex></choice></w><w>im</w></l>
+                    <l n="4714"><lb n="18"/><w>Alſo</w><w>ritter</w><w>von</w><w>in</w><w>allen</w><w>hin</w></l>
+                </lg>
+                <lg>
+                    <l n="4715"><lb n="19"/><w>Das</w><w>die</w><w>künigin</w><w>ir</w><w>kainer</w><w>loſte</w></l>
+                    <l n="4716"><lb n="20"/><w>Ir</w><w>wär</w><w>kummen</w><w>zuͦ</w><w>troſte</w></l>
+                </lg>
+                <pb n="91r"/>
+                <cb n="a"/>
+                <lg>
+                    <l n="4717"><lb n="1"/><w>Der</w><w>herre</w><w>her</w><w>Gawein</w></l>
+                    <l n="4718"><lb n="2"/><w>Der</w><w>ie</w><w>in</w><w>ritters</w><w>eren</w><w>ſchein</w></l>
+                </lg>
+                <lg>
+                    <l n="4719"><lb n="3"/><w>Do</w><w>was</w><w>er</w><w>laider</w><w>nicht</w><w>da</w></l>
+                    <l n="4720"><lb n="4"/><w>Er</w><w>quam</w><w>aber</w><w>ſo</w></l>
+                </lg>
+                <lg>
+                    <l n="4721"><lb n="5"/><w>Des</w><w>morgens</w><w>an</w><w>dem</w><w>nechſten</w><w>tag</w></l>
+                    <l n="4722"><lb n="6"/><w><choice><orig>V</orig><reg>U</reg></choice>nd</w><w>durch</w><w>des</w><w>künigs</w><w>clag</w></l>
+                </lg>
+                <lg>
+                    <l n="4723"><lb n="7"/><w>Iſt</w><w>er</w><w>nach</w><w>geſtrichen</w></l>
+                    <l n="4724"><lb n="8"/><w><choice><orig>V</orig><reg>U</reg></choice>nd</w><w>will</w><w>die</w><w>künigin</w><w>gentzlichn</w></l>
+                </lg>
+                <lg>
+                    <l n="4725"><lb n="9"/><w>Wider</w><w>gewinn<choice><am>ē</am><ex>en</ex></choice></w><w>ſein</w><w>weib</w></l>
+                    <l n="4726"><lb n="10"/><w>Oder</w><w>verliern</w><w>ſein</w><w>leib</w></l>
+                </lg>
+                <lg>
+                    <l n="4727"><lb n="11"/><w>Ich</w><w>ſuͦchte</w><w>in</w><w>am</w><w>ſelben</w><w>tage</w></l>
+                    <l n="4728"><lb n="12"/><w>Solte</w><w>ich</w><w>es</w><w>clage</w></l>
+                </lg>
+                <lg>
+                    <l n="4729"><lb n="13"/><w>Das</w><w>ich</w><w>in</w><w>do</w><w>nicht</w><w>fant</w></l>
+                    <l n="4730"><lb n="14"/><w>Es</w><w>iſt</w><w>ſo</w><w><choice><orig>v</orig><reg>u</reg></choice>mb</w><w>mich</w><w>gewant</w></l>
+                </lg>
+                <lg>
+                    <l n="4731"><lb n="15"/><w>Das</w><w>er</w><w>mir</w><w>mueſte</w><w>beſtan</w></l>
+                    <l n="4732"><lb n="16"/><w>Zuͦ</w><w>hilf</w><w>meim</w><w>k<choice><am>ū</am><ex>um</ex></choice>mer</w><w>den</w><w>ich</w><w>han</w></l>
+                </lg>
+                <lg>
+                    <l n="4733"><lb n="17"/><w>Min</w><w>weib</w><w>iſt</w><w>ſein</w><w>ſchweſter</w></l>
+                    <l n="4734"><lb n="18"/><w>Ich</w><w>kam</w><w>aller</w><w>erſt</w><w>geſter</w></l>
+                </lg>
+                <lg>
+                    <l n="4737"><lb n="19"/><w><choice><orig>V</orig><reg>U</reg></choice>nd</w><w>muͦſ</w><w>ich</w><w>nicht</w><w>ſorgen</w></l>
+                    <l n="4738"><lb n="20"/><w>w<choice><am>ā</am><ex>an</ex></choice>n</w><w>ich</w><w>ver liere</w><w>morgen</w></l>
+                </lg>
+                <pb n="91v"/>
+                <cb n="a"/>
+                <lg>
+                    <l n="4739"><lb n="1"/><w>Alle</w><w>min</w><w>ere</w></l>
+                    <l n="4740"><lb n="2"/><w>Mir</w><w>helfe</w><w>da<choice><am>n̄</am><ex>nn</ex></choice></w><w>got</w><w>der</w><w>herre</w></l>
+                </lg>
+                <lg>
+                    <l n="4741" rend="indent"><lb n="3"/><w><hi hei:color="Black">E</hi>r</w><w>ritter</w><w>der</w><w>des</w><w>lewen</w><w>pflag</w></l>
+                    <l n="4742"><lb n="4"/><w>Sprach</w><w>da</w><pc>·</pc><w>ich</w><w>ſoll</w><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>m̄</am><ex>mb</ex></choice></w><w>mittentag</w></l>
+                </lg>
+                <lg>
+                    <l n="4743"><lb n="5"/><w>Morgen</w><w>kumen</w><w>an</w><w>ain</w><w>ſtat</w></l>
+                    <l n="4744"><lb n="6"/><w>Dar</w><w>u<choice><am>m̄</am><ex>mb</ex></choice></w><w>mich</w><w>ain</w><w>frawe</w><w>bat</w></l>
+                </lg>
+                <lg>
+                    <l n="4745"><lb n="7"/><w>Di</w><w>mir</w><w>vil</w><w>gedient</w><w>hat</w></l>
+                    <l n="4746"><lb n="8"/><w>Wa<choice><am>n̄</am><ex>nn</ex></choice></w><w>es</w><w>ir</w><w>an</w><w>den</w><w>leib</w><w>gat</w></l>
+                </lg>
+                <lg>
+                    <l n="4747"><lb n="9"/><w>Ob</w><w>ich</w><w>nit</w><w>kumme</w><w>dar</w><w>bei</w><w>zeit</w></l>
+                    <l n="4748"><lb n="10"/><w>Ob</w><w>ir</w><w>des</w><w>gewiſe</w><w>ſeit</w></l>
+                </lg>
+                <lg>
+                    <l n="4749"><lb n="11"/><w>Das</w><w><choice><orig>v</orig><reg>u</reg></choice>ns</w><w>kumme</w><w>der</w><w>riſe</w><w>fruͦ</w></l>
+                    <l n="4750"><lb n="12"/><w>wenne</w><w>ich</w><w>mein</w><w>recht</w><w>thuͦ</w></l>
+                </lg>
+                <lg>
+                    <l n="4751"><lb n="13"/><w>Das</w><w>ich</w><w>im</w><w>an</w><w>geſige</w></l>
+                    <l n="4752"><lb n="14"/><w>Iſt</w><w>das</w><w>ich</w><w>nit</w><w>tod</w><w>lige</w></l>
+                </lg>
+                <lg>
+                    <l n="4753"><lb n="15"/><w>Das</w><w>ich</w><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>m̄</am><ex>mb</ex></choice></w><w>den</w><w>mittentag</w></l>
+                    <l n="4754"><lb n="16"/><w>Dar</w><w>nach</w><w>auch</w><w>dort</w><w>hin</w><w>kumen</w><metamark ana="hc:RunOverSign ">//</metamark><lb ana="hc:DependentLine hc:RunOverLineAbove" n="16a"/><metamark ana="hc:RunOverSign ">//</metamark><w>mag</w></l>
+                </lg>
+                <lg>
+                    <l n="4755"><lb n="17"/><w>Do</w><w>ich</w><w>mich</w><w>e</w><w>hin</w><w>globt</w><w>han</w></l>
+                    <l n="4756"><lb n="18"/><w>So</w><w>will</w><w>ich</w><w>in</w><w>durch</w><w>ewch</w><w>beſtan</w></l>
+                </lg>
+                <lg>
+                    <l n="4757"><lb n="19"/><w><choice><orig>V</orig><reg>U</reg></choice>nd</w><w>durch</w><w>ewer</w><w>edel</w><w>weib</w></l>
+                    <l n="4758"><lb n="20"/><w>Wann</w><w>mir</w><w>iſt</w><w>mein</w><w>ſelbs</w><w>leib</w></l>
+                </lg>
+                <lg>
+                    <l n="4759"><lb n="21"/><w>Nicht</w><w>lieber</w><w>dan</w><w>mir</w><w>ir</w><w>bruder</w><lb ana="hc:DependentLine hc:RunOverLineBelow" n="21a"/><w>iſt</w></l>
+                    <pb n="92r"/>
+                    <cb n="a"/>
+                    <l n="4760"><lb n="1"/><w>Nu</w><w>kam</w><w>gegangen</w><w>in</w><w>der</w><w>friſt</w></l>
+                </lg>
+                <lg>
+                    <l n="4761"><lb n="2"/><w>Des</w><w>wirtes</w><w>tochter</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>ſein</w><w>weib</w></l>
+                    <l n="4762"><lb n="3"/><w>Da</w><w>geſach</w><w>er</w><w>nie</w><w>kindes</w><w>leib</w></l>
+                </lg>
+                <lg>
+                    <l n="4763"><lb n="4"/><w>Schöner</w><w>da<choice><am>n̄</am><ex>nn</ex></choice></w><w>die</w><w>ſelbe</w><w>mait</w></l>
+                    <l n="4764"><lb n="5"/><w><choice><orig>V</orig><reg>U</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>hätte</w><w>ſi</w><w>ſich</w><w>verclait</w></l>
+                </lg>
+                <lg>
+                    <l n="4765"><lb n="6"/><w>Die</w><w>empfiengen</w><w>in</w><w>baide</w><w>wol</w></l>
+                    <l n="4766"><lb n="7"/><w>Alſ</w><w>man</w><w>lieben</w><w>gaſt</w><w>ſoll</w></l>
+                </lg>
+                <lg>
+                    <l n="4767"><lb n="8"/><w>Da</w><w>ſprach</w><w>der</w><w>wirt</w><w>mich</w><w>dunckt</w><lb ana="hc:DependentLine hc:RunOverLineAbove" n="8a"/><metamark ana="hc:RunOverSign ">/</metamark><w>guͦt</w></l>
+                    <l n="4768"><lb n="9"/><w>Das</w><w>ir</w><del rendition="hc:Strikethrough"><w>habt</w><w>guͦten</w></del><add hei:placeRef="hc:BelowLine"><w>diensthaften</w></add><w>muͦt</w></l>
+                </lg>
+                <lg>
+                    <l n="4769"><lb n="10"/><w>Erzaigent</w><w>ewerm</w><w>gaſte</w></l>
+                    <l n="4770"><lb n="11"/><w>Er</w><w>hat</w><w>ſich</w><w>gar</w><w>vaſte</w></l>
+                </lg>
+                <lg>
+                    <l n="4771"><lb n="12"/><w><choice><orig>V</orig><reg>U</reg></choice>nſers</w><w>laid</w><w>an</w><w>gen<choice><am>ō</am><ex>om</ex></choice>men</w></l>
+                    <l n="4772"><lb n="13"/><w>Mir</w><w>ſollen</w><w>ſein</w><w>mit</w><w>im</w><w><choice><orig>v̈</orig><reg>ü</reg></choice>ber</w><w>k<choice><am>ū</am><ex>um</ex></choice>men</w></l>
+                </lg>
+                <lg>
+                    <l n="4773"><lb n="14"/><w>Geruͦchet</w><w>ſein</w><w><choice><orig>v</orig><reg>u</reg></choice>nſer</w><w>trächtin</w></l>
+                    <l n="4774"><lb n="15"/><w>Her</w><w>git</w><w>er</w><w>wolle</w><w>fechten</w></l>
+                </lg>
+                <lg>
+                    <l n="4775"><lb n="16"/><w>Da</w><w>ich</w><w>im</w><w>meine</w><w>clag</w><w>thet</w></l>
+                    <l n="4776"><lb n="17"/><w>Do</w><w>globet</w><w>er</w><w>mir</w><w join="right">ane</w><w join="left">bet</w></l>
+                </lg>
+                <pb n="92v"/>
+                <cb n="a"/>
+                <lg>
+                    <l n="4777"><lb n="1"/><w>Er</w><w>wolle</w><w>durch</w><w><choice><orig>v</orig><reg>u</reg></choice>ns</w><w>tot</w><w>beligen</w></l>
+                    <l n="4778"><lb n="2"/><w>Oder</w><w>dem</w><w>Riſen</w><w join="right">an</w><w join="left">geſigen</w></l>
+                </lg>
+                <lg>
+                    <l n="4779"><lb n="3"/><w>Dem</w><w>ich</w><w>ſo</w><w>vil</w><w>vertragen</w><w>muͦss</w></l>
+                    <l n="4780"><lb n="4"/><w>Da</w><w>gnadete</w><w>im</w><w>auf</w><w>ſeinem</w><w>fuͦss</w></l>
+                </lg>
+                <lg>
+                    <l n="4781"><lb n="5"/><w>Das</w><w>iſt</w><w>mein</w><w>will</w><pc>·</pc><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>mein</w><w>gebot</w></l>
+                    <l n="4782"><lb n="6"/><w>her</w><w>ywein</w><w>ſprach</w><w>nú</w><w join="right">en</w><w join="left">welle</w><w>got</w></l>
+                </lg>
+                <lg>
+                    <l n="4783"><lb n="7"/><w>Das</w><w>mir</w><w>die</w><w><choice><orig>v</orig><reg>u</reg></choice>nzucht</w><w>gſchehen</w><w>muſſe</w></l>
+                    <l n="4784"><lb n="8"/><w>Das</w><w>ich</w><w>die</w><w>zuͦ</w><w>meinem</w><w>fúſſe</w></l>
+                </lg>
+                <lg>
+                    <l n="4785"><lb n="9"/><w>Die</w><w>herren</w><w>Gaweins</w><w>ſchweſter</w><w>iſt</w></l>
+                    <l n="4786"><lb n="10"/><w>Ja</w><w>wäre</w><w>das</w><w>wiſſe</w><w>chriſt</w></l>
+                </lg>
+                <lg>
+                    <l n="4787"><lb n="11"/><w>Dem</w><w>k<choice><orig>v</orig><reg>u</reg></choice>nige</w><w>gar</w><w>zuͦ</w><w>vil</w></l>
+                    <l n="4788"><lb n="12"/><w>Ich</w><w>ſoll</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>will</w></l>
+                </lg>
+                <lg>
+                    <l n="4789"><lb n="13"/><w>Euch</w><w>dienen</w><w>immer</w><w>mere</w></l>
+                    <l n="4790"><lb n="14"/><w>Durch</w><w>her</w><w>Gaweins</w><w>ere</w></l>
+                </lg>
+                <lg>
+                    <l n="4791"><lb n="15"/><w>Mich armen</w><w>man</w><w>erlaſze</w><w>ir̃</w></l>
+                </lg>
+                <milestone ana="hc:ZoneShift"/><note ana="hc:Comment"><lb n="16"/><date><num>1531</num><num>11</num><w>ſept<choice><am>ē</am><ex>embris</ex></choice></w></date><pc>·</pc><w>hab</w><w>ich</w><lb n="17"/><w>den</w><w>defect</w><w>erfilt</w><w>auſ</w><w>aim</w><lb n="18"/><w>alten</w><w>buͦch</w><pc>·</pc><w>vileicht</w><w>vil</w><w>falſch</w></note>
+                <pb n="131r"/>
+                <cb n="a"/>
+                <lg>
+                    <l n="6767"><lb n="1"/><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>wolte</w><w>in</w><w>habn</w><w>irſchlagen</w></l>
+                    <l n="6768"><lb n="2"/><w>ob</w><w>es</w><w>im</w><w>ſein</w><w>herr</w><w>hät</w><w>vertragen</w></l>
+                </lg>
+                <lg>
+                    <l n="6769"><lb n="3"/><w>Der</w><w>in</w><w>zuͦ</w><w>hand</w><w>erloſte</w></l>
+                    <l n="6770"><lb n="4"/><w>wa<choice><am>n̄</am><ex>nn</ex></choice></w><w>er</w><w>kam</w><w>auch</w><w>im</w><w>zuͦ</w><w>troſte</w></l>
+                </lg>
+                <lg>
+                    <l n="6771"><lb n="5"/><w>Es</w><w>iſt</w><w>war</w><w>er</w><w>het</w><w>es</w><w>guͦt</w><w>recht</w></l>
+                    <l n="6772"><lb n="6"/><w>Zuͦ</w><w>hand</w><w>da</w><w>im</w><w>des</w><w>tiufels</w><w>knecht</w></l>
+                </lg>
+                <lg>
+                    <l n="6774"><lb n="7"/><w>Alſo</w><w>in</w><w>got</w><w>lerte</w></l>
+                    <l n="6773"><lb n="8"/><w>Seinen</w><w>rucken</w><w>kerte</w></l>
+                </lg>
+                <lg>
+                    <l n="6775"><lb n="9"/><w>Do</w><w>ſchluͦg</w><w>er</w><w><choice><orig>j</orig><reg>i</reg></choice>m</w><w>in</w><w>kurtz<choice><am>n̄</am><ex>en</ex></choice></w><w>ſtundn</w></l>
+                    <l n="6776"><lb n="10"/><w>Manche</w><w>groſſe</w><w>wundn</w></l>
+                </lg>
+                <lg>
+                    <l n="6777"><lb n="11"/><w>In</w><w>die</w><w>arm</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>in</w><w>die</w><w>bein</w></l>
+                    <l n="6778"><lb n="12"/><w><choice><orig>V</orig><reg>U</reg></choice>nd</w><w>wa</w><w>er</w><w>blos</w><w>vor</w><w>im</w><w>erſchin</w></l>
+                </lg>
+                <lg>
+                    <l n="6779"><lb n="13"/><w>Da</w><w>gab</w><w>er</w><w>im</w><w>manchen</w><w>ſchlag</w></l>
+                    <l n="6780"><lb n="14"/><w>bis</w><w>er</w><w>tod</w><w>vor</w><w>im</w><w>lag</w></l>
+                </lg>
+                <lg>
+                    <l n="6791" rend="indent"><lb n="15"/><w>Der</w><w>aber</w><w>lebte</w><w>noch</w></l>
+                    <l n="6782"><lb n="16"/><w>Der</w><w>muͦſte</w><w>auch</w><w>ſich</w><w>doch</w></l>
+                </lg>
+                <lg>
+                    <l n="6793"><lb n="17"/><w>In</w><w>ſeine</w><w>gnad</w><w>ergebn</w></l>
+                    <l n="6794"><lb n="18"/><w>Den</w><w>lieſz</w><w>er</w><w>durch</w><w>got</w><w>lebn</w></l>
+                </lg>
+                <lg>
+                    <l n="6795"><lb n="19"/><w>Do</w><w>ward</w><w>des</w><w>pfortners</w><w>dro</w></l>
+                    <l n="6796"><lb n="20"/><w><choice><orig>V</orig><reg>U</reg></choice>nd</w><w>ſein</w><w>groſſer</w><w>ſpot</w><w>alſo</w></l>
+                </lg>
+                <lg>
+                    <l n="6797"><lb n="21"/><w>Im</w><w>zu</w><w>freed<choice><am>ē</am><ex>en</ex></choice></w><w>gekert</w></l>
+                    <l n="6798"><lb n="22"/><w>Des</w><w>ſey</w><w>got</w><w>immer</w><w>geert</w></l>
+                </lg>
+                <pb n="131v"/>
+                <cb n="a"/>
+                <lg>
+                    <l n="6799"><lb n="1"/><w>Das</w><w>der</w><w>ritter</w><w>den</w><w>ſig</w><w>gewan</w></l>
+                    <l n="6800"><lb n="2"/><w>Do</w><w>bot</w><w>er</w><w>dem</w><w>wirt</w><w>an</w></l>
+                </lg>
+                <lg>
+                    <l n="6801"><lb n="3"/><w>Sein</w><w>dochter</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>ſein</w><w>land</w></l>
+                    <l n="6802"><lb n="4"/><w>Er</w><w>ſprach</w><w>herr</w><w>wer</w><w>ew</w><w>bekan<gap ana="hc:Illegible" n="1" unit="chars"/></w></l>
+                </lg>
+                <lg>
+                    <l n="6803"><lb n="5"/><w>Wie</w><w>gar</w><w>meine</w><w>ſinne</w></l>
+                    <l n="6804"><lb n="6"/><w>Ains</w><w>andren</w><w>weibes</w><w>minne</w></l>
+                </lg>
+                <lg>
+                    <l n="6805"><lb n="7"/><w>In</w><w>ire</w><w>gwalt</w><w>genom<choice><am>ē</am><ex>en</ex></choice></w><w>hat</w></l>
+                    <l n="6806"><lb n="8"/><w>So</w><w>hätt</w><w>ir</w><w>das</w><w>gar</w><w>gút</w><w>rat</w></l>
+                </lg>
+                <lg>
+                    <l n="6807"><lb n="9"/><w>Das</w><w>ich</w><w>nicht</w><w>wurd</w><w>ir</w><w>man</w></l>
+                    <l n="6808"><lb n="10"/><w>Seid</w><w>ich</w><w>ir</w><w>nimer</w><w>werdn</w><w>kan</w></l>
+                </lg>
+                <lg>
+                    <l n="6809"><lb n="11"/><w>Stäte</w><w>an</w><w>keinem</w><w>weibe</w></l>
+                    <l n="6810"><lb n="12"/><w>Nicht</w><w>wa<choice><am>n̄</am><ex>nn</ex></choice></w><w>durch</w><w>ir</w><w>leibe</w></l>
+                </lg>
+                <lg>
+                    <l n="6811"><lb n="13"/><w>Durch</w><w>die</w><w>min</w><w>hertz</w><w>wunne</w><w>empir<gap ana="hc:Illegible" n="1" unit="chars"/></w></l>
+                    <l n="6812"><lb n="14"/><w>Ir</w><w>mieſſent</w><w>ſi</w><w>nem<choice><am>ē</am><ex>enç</ex></choice></w><pc>·</pc><w>ſprach</w><w><choice><am>d͛</am><ex>der</ex></choice></w><w>wirt</w></l>
+                </lg>
+                <lg>
+                    <l n="6813"><lb n="15"/><w>Oder</w><w>ir</w><w>ſeit</w><w>ge<choice><orig>u</orig><reg>v</reg></choice>angen</w></l>
+                    <l n="6814"><lb n="16"/><w>Eſ</w><w>iſt</w><w>ew</w><w>wol</w><w>ergange</w></l>
+                </lg>
+                <lg>
+                    <l n="6816"><lb n="17"/><metamark ana="hc:TranspositionMark ">//</metamark><w>Hatt<choice><orig>v</orig><reg>u</reg></choice>nd</w><w>ir</w><w>ſolde</w><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>ſin</w></l>
+                    <l n="6815"><lb n="18"/><metamark ana="hc:TranspositionMark ">//</metamark><w>Das</w><w>ich</w><w>ew</w><w>ſo</w><w>gunſtig</w><w>bin</w></l>
+                    <listTranspose>
+                        <transpose>
+                            <ptr target="#xpath(//l[@n='6815'])"></ptr>
+                            <ptr target="#xpath(//l[@n='6816'])"></ptr>
+                        </transpose>
+                    </listTranspose>
+                </lg>
+                <lg>
+                    <l n="6817"><lb n="18"/><w>Ir</w><w>betent</w><w>mich</w><w>das</w><w>ich</w><w>ew</w><w>bite</w></l>
+                    <l n="6818"><lb n="19"/><w>Der</w><w>ritter</w><w>ſprach</w><w>ir</w><w>werd</w><w join="right">da</w><w join="left">mite</w></l>
+                </lg>
+                <lg>
+                    <l n="6819"><lb n="20"/><w>Schweher</w><w>ſo</w><w>will</w><w>ich</w><w>ew</w><w>ſage</w></l>
+                    <lb n="21"/><metamark ana="hc:DecorativeMarker">ﬖ</metamark>
+                </lg>
+            </div>
+        </body>
+    </text>
+</TEI>
