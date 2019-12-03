@@ -4315,12 +4315,11 @@
                 </lg>
                 <lg>
                     <l n="1949"><lb n="19"/><w><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">S</hei:initial>i</w><w>ſprach</w><w>hiet</w><w>ich</w><w>e<choice><orig>v</orig><reg>u</reg></choice></w><w>gelogen</w><pc>·</pc></l>
-                    <l n="1950"><lb n="20"/><w>So</w><w>hiet</w><w>ich</w><w>mich</w><w>ſelb<choice><am>ē</am><ex>en</ex></choice></w><w>betrog<choice><am>ē</am><ex>en</ex></choice></w></l>
-                    <l n="1950,1"><lb n="21"/><w>Nu</w><w>pin</w><w>ich</w><w>mich</w><w>ſelben</w><w>betrogen</w></l>
-                    <!-- Vorsicht, dieser Vers ist zu tilgen, die ersten Hälfte entspricht dem folgenden, die zweite dem vorigen. Offensichtlicher Zeilensprung -->
+                    <l n="1950"><lb n="20"/><w>So</w><w>hiet</w><w>ich</w><seg xml:id="J_seg_1950-1"><w>mich</w><w>ſelb<choice><am>ē</am><ex>en</ex></choice></w><w>betrog<choice><am>ē</am><ex>en</ex></choice></w></seg></l>
+                    <l n="1950,1" xml:id="J_l_1950-1_1"><lb n="21"/><del rendition="hc:ImplicitlyDeleted"><seg hei:replicates="#J_seg_1950_2"><w>Nu</w><w>pin</w><w>ich</w></seg><seg hei:replicates="#J_seg_1950-1"><w>mich</w><w>ſelben</w><w>betrogen</w></seg></del></l><note ana="hc:TranscriptionNote" target="#J_l_1950,1_1">Die ersten Hälfte des Verses entspricht dem Beginn des folgenden, die zweite entspricht dem Ende des vorigen. Offenbar ist der Schreiber mitten im Verse in die vorangehende Zeile zurückgesprungen, hat dann den Fehler bemerkt, die geschriebene Zeile stehen gelassen und den Vers dann noch einmal richtig abgeschrieben</note>
                 </lg>
                 <lg>
-                    <l n="1951"><lb n="22"/><w>Nu</w><w>pin</w><w>ich</w><w>doch</w><w>mit</w><w>e<choice><orig>v</orig><reg>u</reg></choice></w><w>geweſen</w><pc>·</pc></l>
+                    <l n="1951"><lb n="22"/><seg xml:id="J_seg_1950_2"><w>Nu</w><w>pin</w><w>ich</w></seg><w>doch</w><w>mit</w><w>e<choice><orig>v</orig><reg>u</reg></choice></w><w>geweſen</w><pc>·</pc></l>
                     <l n="1952"><lb n="23"/><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>m<choice><orig>v</orig><reg>u</reg></choice>z</w><w>auch</w><w>mit</w><w>e<choice><orig>v</orig><reg>u</reg></choice></w><w>geneſen</w><pc>·</pc></l>
                 </lg>
                 <lg>
