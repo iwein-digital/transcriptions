@@ -4875,7 +4875,6 @@
                 <lg>
                     <l n="2401"><w>wa<choice><am>n̄</am><ex>nne</ex></choice></w><w join="right">doht</w><w join="left">ez</w><w>ſie</w><w>alle</w><w>miſſetan</w><pc>·</pc></l>
                     <l n="2402"><w>Sie</w><w part="I">wol</w><lb n="3"/><w part="F" join="right">t</w><w join="left">in</w><w>doh</w><w>genomen</w><w>han</w><pc>·</pc></l>
-                    <!--Revisado Victor 24/11/2019 – Dejé algunas notas. Recuerda que las 'w' que son 'wu' las regularizamos; hay una función para ello en el menú 'Regularization'. Y cuando el copista corrije una letra o palabra por otra, utilizamos <subst> en 'Insert Tags'. Por otro lado, procuramos no meter dentro de la <w> código que pueda ir fuera; por eso, cuando se añade una palabra entera la etiqueta <add> la ponemos fuera de la <w>; hay que hacerlo en modo Text. Fuera de esos detalles, muy bien!    -->
                 </lg>
                 <lg>
                     <l n="2403"><w><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="1">D</hei:initial>er</w><w>truhzeze</w><w part="I">ge</w><lb n="4"/><w part="F">tete</w><pc>·</pc></l>
@@ -4898,7 +4897,7 @@
                     <l n="2412"><w>deſ</w><w>ritereſ</w><w>geburt</w><w>u<choice><am>n̄</am><ex>nd</ex></choice></w><w>ur</w><w><choice><orig>u</orig><reg>v</reg></choice>romecheit</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="2413"><w>Zo</w><w>der</w><lb n="10"/><w>ſcone</w><w>die</w><w>ſagen</w><pc>·</pc></l>
+                    <l n="2413"><w>zo</w><w>der</w><lb n="10"/><w>ſcone</w><w>die</w><w>ſagen</w><pc>·</pc></l>
                     <l n="2414"><w>van</w><w>rehte</w><w>ſie</w><w>deſ</w><w><choice><orig>i</orig><reg>j</reg></choice>ahen</w><pc>·</pc></l>
                 </lg>
                 <lg>
@@ -4919,8 +4918,8 @@
                 </lg>
                 <lg>
                     <l n="2423"><w>wol</w><w>gelieben</w><w>mit</w><w>irre</w><w>tuget</w><pc>·</pc></l>
-                    <l n="2424"><w>da</w><w>was</w><lb n="16"/><w>diu</w><w>burt</w><pc>·</pc><w>unti</w><w><choice><orig>v</orig><reg>u</reg></choice></w><w>iuget</w><pc>·</pc></l>
-                    <!--No creo que esté bien transcrito 'unti v' porque parece que es la conjunción y el artículo. En ese caso habría que hacer un "join"?-->
+                    <l n="2424"><w>da</w><w>was</w><lb n="16"/><w>diu</w><w>burt</w><pc>·</pc><w join="right">un</w><w join="left">ti<choice><orig>v</orig><reg>u</reg></choice></w><w>iuget</w><pc>·</pc></l>
+                    <!--Revisado Victor 4/12/2019     -->
                 </lg>
                 <lg>
                     <l n="2425"><w>Scone</w><pc>·</pc><w>u<choice><am>n̄</am><ex>nd</ex></choice></w><w>richeit</w><pc>·</pc></l>
