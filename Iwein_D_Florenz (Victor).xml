@@ -8439,7 +8439,7 @@ Ten máis sentido ca que quede "Arion", consideraríase unha adaptación? -->
                 </lg>
                 <lg>
                     <l n="4111"><lb n="5"/><w><hi rendition="hc:Versal">D</hi>az</w><w>iſt</w><w>der</w><w>tr<choice><orig>v</orig><reg>u</reg></choice>hſaze</w><w>hie</w></l>
-                    <l n="4112"><lb n="6"/><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>ſin</w><w>br<choice><orig>v</orig><reg>u</reg></choice>der</w><w>di</w><w>mi<add hei:placeRef="hc:AboveLine">r</add><del rendition="hc:Strikethrough">ch</del></w><w>ie</w></l>
+                    <l n="4112"><lb n="6"/><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>ſin</w><w>br<choice><orig>v</orig><reg>u</reg></choice>der</w><w>di</w><w>mi<add hei:placeRef="hc:AboveLine">r</add><del rendition="hc:Strikethrough hc:Underdotted">ch</del></w><w>ie</w></l>
                 </lg>
                 <lg>
                     <l n="4113"><lb n="7"/><w><hi rendition="hc:Versal">W</hi>aren</w><w><choice><orig>v</orig><reg>u</reg></choice>ngenadich</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>gehaz</w></l>
@@ -8676,7 +8676,7 @@ Ten máis sentido ca que quede "Arion", consideraríase unha adaptación? -->
                 <cb n="a"/>
                 <lg>
                     <l n="4227"><lb n="1"/><w><hi rendition="hc:Versal"><choice><orig>V</orig><reg>U</reg></choice></hi>nde</w><w>ſwenne</w><w>ich</w><w><choice><orig>v</orig><reg>u</reg></choice>ch</w><w>erloſet</w><w>han</w></l>
-                    <l n="4228"><lb n="2"/><w>ſo</w><w>wol</w><w>o<choice><orig>v</orig><reg>u</reg></choice>ch</w><w>mich</w><w>ſelben</w><w>ſlan</w></l>
+                    <l n="4228"><lb n="2"/><w>ſo</w><w>wil</w><w>o<choice><orig>v</orig><reg>u</reg></choice>ch</w><w>mich</w><w>ſelben</w><w>ſlan</w></l>
                 </lg>
                 <lg>
                     <l n="4229"><lb n="3"/><w><hi rendition="hc:Versal">M</hi>in</w><w>f<add hei:placeRef="hc:AboveLine">r</add>oͮwe</w><w>m<choice><orig>v</orig><reg>u</reg></choice>z</w><w>den</w><w>champh</w><w>an</w><w>ſehn</w></l>
@@ -8850,19 +8850,19 @@ Ten máis sentido ca que quede "Arion", consideraríase unha adaptación? -->
                     <l n="4312"><lb n="6"/><w><choice><orig>v</orig><reg>u</reg></choice>nz</w><w>ich</w><w>erſterbe</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>di</w><w>dri</w></l>
                 </lg>
                 <lg>
-                    <l n="4312,1"><lb n="7"/><w><hi rendition="hc:Versal">A</hi>n</w><w>den</w><w>ich</w><w><choice><orig>v</orig><reg>u</reg></choice>ch</w><w>rechen</w><w>ſchol</w></l>
-                    <l n="4312,2"><lb n="8"/><w>ſo</w><w>bevindet</w><w>ez</w><w>min</w><w>froͮwe</w><w>wol</w></l>
+                    <l n="4312,1" hei:replicates="#xpath(//l[@n='4241'])"><lb n="7"/><w><hi rendition="hc:Versal">A</hi>n</w><w>den</w><w>ich</w><w><choice><orig>v</orig><reg>u</reg></choice>ch</w><w>rechen</w><w>ſchol</w></l>
+                    <l n="4312,2" hei:replicates="#xpath(//l[@n='4242'])"><lb n="8"/><w>ſo</w><w>bevindet</w><w>ez</w><w>min</w><w>froͮwe</w><w>wol</w></l>
                 </lg>
                 <lg>
-                    <l n="4312,3"><lb n="9"/><w><hi rendition="hc:Versal"><choice><orig>V</orig><reg>U</reg></choice></hi>nd</w><w>weiz</w><w>wer</w><w>ich</w><w>bin</w></l>
-                    <l n="4312,4"><lb n="10"/><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>daz</w><w>ich</w><w>lip</w><w><choice><orig>v</orig><reg>u</reg></choice>nde</w><w>ſin</w></l>
+                    <l n="4312,3" hei:replicates="#xpath(//l[@n='4243'])"><lb n="9"/><w><hi rendition="hc:Versal"><choice><orig>V</orig><reg>U</reg></choice></hi>nd</w><w>weiz</w><w>wer</w><w>ich</w><w>bin</w></l>
+                    <l n="4312,4" hei:replicates="#xpath(//l[@n='4244'])"><lb n="10"/><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>daz</w><w>ich</w><w>lip</w><w><choice><orig>v</orig><reg>u</reg></choice>nde</w><w>ſin</w></l>
                 </lg>
                 <lg>
-                    <l n="4312,5"><lb n="11"/><w><hi rendition="hc:Versal">D</hi><choice><orig>v</orig><reg>u</reg></choice>rch</w><w>ſi</w><w>han</w><w>verlorn</w></l>
-                    <l n="4312,6"><lb n="12"/><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>michl</w><w>fro<choice><orig>v</orig><reg>u</reg></choice>de</w><w>erchorn</w></l>
+                    <l n="4312,5" corresp="#xpath(//l[@n='4245'])"><lb n="11"/><w><hi rendition="hc:Versal">D</hi><choice><orig>v</orig><reg>u</reg></choice>rch</w><w>ſi</w><w>han</w><w>verlorn</w></l>
+                    <l n="4312,6" corresp="#xpath(//l[@n='4246'])"><lb n="12"/><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>michl</w><w>fro<choice><orig>v</orig><reg>u</reg></choice>de</w><w>erchorn</w></l>
                 </lg>
                 <lg>
-                    <l n="4313"><lb n="13"/><w><hi rendition="hc:Versal"><choice><orig>J</orig><reg>I</reg></choice></hi>ch</w><w>hylfe</w><w><choice><orig>v</orig><reg>u</reg></choice>ch</w><w>morge</w><w><choice><orig>v</orig><reg>u</reg></choice>z</w><w>er</w><w>not</w></l>
+                    <l n="4313"><lb n="13"/><w><hi rendition="hc:Versal"><choice><orig>J</orig><reg>I</reg></choice></hi>ch</w><w>hylfe</w><w><choice><orig>v</orig><reg>u</reg></choice>ch</w><w>morge</w><w><choice><orig>v</orig><reg>u</reg></choice>z er</w><w>not</w></l>
                     <l n="4314"><lb n="14"/><w>oder</w><w>ich</w><w>gelige</w><w>vor</w><w><choice><orig>v</orig><reg>u</reg></choice>ch</w><w>tot</w></l>
                 </lg>
                 <lg>
@@ -8910,7 +8910,7 @@ Ten máis sentido ca que quede "Arion", consideraríase unha adaptación? -->
                     <l n="4336"><lb n="36"/><w>dan</w><w>daz</w><w>wir</w><w>beide</w><w>erſterben</w></l>
                 </lg>
                 <lg>
-                    <l n="4337"><lb n="37"/><w><hei:initial ana="hc:Lombard" hei:color="Blue" hei:heightLines="2">E</hei:initial><subst><del rendition=" hc:Overwritten">L</del><add hei:placeRef="hc:Inline">R</add></subst></w><w>ſprach</w><w>di</w><w>rede</w><w>ſchol</w><w>bezer</w><w>weſen</w></l>
+                    <l n="4337"><lb n="37"/><w><hei:initial ana="hc:Lombard" hei:color="Blue" hei:heightLines="2">E</hei:initial><hi rendition="hc:RedStroke">R</hi></w><w>ſprach</w><w>di</w><w>rede</w><w>ſchol</w><w>bezer</w><w>weſen</w></l>
                     <l n="4338"><lb n="38"/><w>wan</w><w>wir</w><w>ſ<choice><orig>v</orig><reg>u</reg></choice>ln</w><w>beide</w><w>wol</w><w>geneſen</w></l>
                 </lg>
                 <lg>
@@ -8981,7 +8981,6 @@ Ten máis sentido ca que quede "Arion", consideraríase unha adaptación? -->
                 <lg>
                     <l n="4372"><lb n="31"/><w><hi rendition="hc:Versal">D</hi>o</w><w>er</w><w>z<choice><orig>v</orig><reg>u</reg></choice></w><w>dem</w><w>h<choice><orig>v</orig><reg>u</reg></choice>ſe</w><w>cherte</w></l>
                     <l n="4371"><lb n="32"/><w>als</w><w>in</w><w>der</w><w><subst><del rendition="hc:Strikethrough">berch</del><add hei:placeRef="hc:AboveLine">wech</add></subst></w><w>lerte</w></l>
-                    <!--Versos cambiados     -->
                 </lg>
                 <lg>
                     <l n="4373"><lb n="33"/><w><hi rendition="hc:Versal">D</hi>o</w><w>wart</w><w>di</w><w>br<choice><orig>v</orig><reg>u</reg></choice>ke</w><w>nider</w><w>lan</w></l>
@@ -9234,7 +9233,7 @@ Ten máis sentido ca que quede "Arion", consideraríase unha adaptación? -->
                 </lg>
                 <lg>
                     <l n="4495"><lb n="35"/><w><hi rendition="hc:Versal">S</hi>o</w><w>welle</w><w>er</w><w>ir</w><w>haben</w><w>rat</w></l>
-                    <l n="4496"><lb n="36"/><w>den</w><w>boſten</w><w join="right">gar</w><w join="left">z<choice><orig>v</orig><reg>u</reg></choice>n</w><w>den</w><w>er</w><w>hat</w></l>
+                    <l n="4496"><lb n="36"/><w>den</w><w>boſten</w><w>garz<choice><orig>v</orig><reg>u</reg></choice>n</w><w>den</w><w>er</w><w>hat</w></l>
                 </lg>
                 <lg>
                     <l n="4497"><lb n="37"/><w><hi rendition="hc:Versal">D</hi>em</w><w>welle</w><w>er</w><w>ſi</w><w>ze</w><w>wibe</w><w>geben</w></l>
@@ -9256,6 +9255,7 @@ Ten máis sentido ca que quede "Arion", consideraríase unha adaptación? -->
                 <lg>
                     <l n="4505"><lb n="5"/><w><hi rendition="hc:Versal"><choice><orig>V</orig><reg>U</reg></choice></hi>ber</w><w>min</w><w><choice><orig>v</orig><reg>u</reg></choice>nſch<choice><orig>v</orig><reg>u</reg></choice>ldige</w><w>chint</w></l>
                     <l n="4506"><lb n="6"/><w>di</w><w>biderbe</w><w><choice><orig>v</orig><reg>u</reg></choice>nde</w><w>g<choice><orig>v</orig><reg>u</reg></choice>t</w><w>ſint</w></l>
+                    <!--Revisado Victor 5/12/2019     -->
                 </lg>
                 <lg>
                     <l n="4507"><lb n="7"/><w><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">D</hei:initial>o</w><w>der</w><w>gaſt</w><w>ſin</w><w><choice><orig>v</orig><reg>u</reg></choice>ngemach</w></l>
