@@ -5,11 +5,11 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Iwein-Hs.</title>
+                <title>Iwein-Hs. l</title>
                 <author>Hartmann von Aue</author>
                 <respStmt>
                     <resp>transcription</resp>
-                    <persName>##</persName>
+                    <persName>Claudia Casado Franco</persName>
                 </respStmt>
             </titleStmt>
             <publicationStmt>
@@ -17,13 +17,15 @@
             </publicationStmt>
             <sourceDesc>
                 <listWit>
-                    <witness xml:id="#"><msDesc>
-                        <msIdentifier>
-                            <settlement>##</settlement>
-                            <repository>##</repository>
-                            <idno>##</idno>
-                        </msIdentifier>
-                        </msDesc></witness>
+                    <witness xml:id="l">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>London</settlement>
+                                <repository>British Library</repository>
+                                <idno>Additional 19554</idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
                 </listWit>
             </sourceDesc>
         </fileDesc>
@@ -33,278 +35,277 @@
             </listPrefixDef>
         </encodingDesc>
     </teiHeader>
-    <text ana="hc:CourtlyRomance">
+    <text ana="hc:CompleteExpression hc:CourtlyRomance">
         <body>
             <div>
-                <pb n="1r"/>
+                <pb n="57r"/>
                 <cb n="a"/>
                 <lg>
-                    <l n="1"><lb n="1"/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="2"><lb n="2"/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="1" xml:id="l_1"><lb n="19"/><w>recht guet</w><note ana="hc:TranscriptionNote" target="#l_1">Sechs Zeilen weiter ob, im für Titel oder Initiale freigelassenen Raum hat eine neuzeitliche Hand mit feinem Bleistiftzug geschrieben: "SWer an"</note></l>
+                    <l n="2"><lb n="20"/><w>Wendet</w><w>ſeinen</w><w>muet</w></l>
                 </lg>
                 <lg>
-                    <l n="3"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="3"><lb n="21"/><w>Dem</w><w>volg</w><w>ſald</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>Ere</w></l>
+                    <l n="4"><lb n="22"/><w>Das</w><w>geyt</w><w>gewis</w><w>dere</w></l>
                 </lg>
                 <lg>
-                    <l n="5"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="6"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="5"><lb n="23"/><w>kunig</w><w>Arttus</w><w>der</w><w>guet</w></l>
+                    <l n="6"><lb n="24"/><w>Der</w><w>ye</w><w>mit</w><w>ritters</w><w>muet</w></l>
                 </lg>
                 <lg>
-                    <l n="7"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="8"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="9"><lb n="25"/><w>Er</w><w>hat</w><w>gelebet</w><w>alſo</w><w>ſchone</w></l>
+                    <l n="10"><lb n="26"/><w>Das</w><w>er</w><w>der</w><w>ern</w><w>chrone</w></l>
                 </lg>
                 <lg>
-                    <l n="9"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="10"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="11"><lb n="27"/><w>Do</w><w>trueg</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>noch</w><w>trayt</w></l>
+                    <l n="12"><lb n="28"/><w>Das</w><w>im</w><w>habent</w><w>dy</w><w>warhayt</w></l>
                 </lg>
                 <lg>
-                    <l n="11"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="12"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="13"><lb n="29"/><w>Sein</w><w>landtlewte</w></l>
+                    <l n="14"><lb n="30"/><w>Sy</w><w>yehen</w><w>er</w><w>leb</w><w>noch</w><w>hewte</w></l>
                 </lg>
                 <lg>
-                    <l n="13"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="14"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="15"><lb n="31"/><w>Er</w><w>hat</w><w>ain</w><w>lob</w><w>erwarben</w></l>
+                    <l n="16"><lb n="32"/><w>Iſt</w><w>im</w><w>der</w><w>leib</w><w>erſtorben</w></l>
                 </lg>
                 <lg>
-                    <l n="15"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="16"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="17"><lb n="33"/><w>So</w><w>lebt</w><w>doch</w><w>ym<choice><am>m͛</am><ex>mer</ex></choice></w><w>mer</w><w>ſein</w><w>name</w></l>
+                    <l n="18"><lb n="34"/><w>Er</w><w>iſt</w><w>läſſterleicher</w><w>ſchame</w></l>
                 </lg>
                 <lg>
-                    <l n="17"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="18"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="19"><lb n="35"/><w>Ym<choice><am>m͛</am><ex>mer</ex></choice></w><w>mer</w><w>en wert</w></l>
+                    <l n="20"><lb n="36"/><w>Der</w><w>noch</w><w>nach</w><w>ſeinem</w><w>ſyten</w><w>vert</w></l>
                 </lg>
                 <lg>
-                    <l n="19"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="20"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="21"><lb n="37"/><w><supplied><hei:initial ana="hc:Lombard" hei:heightLines="4">E</hei:initial></supplied>in</w><w>rit<choice><am>t͛</am><ex>ter</ex></choice></w><w>der</w><w>gelert</w><w>was</w></l>
+                    <l n="22"><lb n="38"/><w>das</w><w>er</w><w>an</w><w>den</w><w>puechen</w><w>las</w></l>
                 </lg>
                 <lg>
-                    <l n="21"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="22"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="23"><lb n="39"/><w>wenn</w><w>er</w><w>ſein</w><w>ſtund</w></l>
+                    <l n="24"><lb n="40"/><w>nicht</w><w>pas</w><w>gewenden</w><w>kund</w></l>
                 </lg>
                 <lg>
-                    <l n="23"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="24"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="25"><lb n="41"/><w>Der</w><w>auch</w><w>tichtens</w><w>pflag</w></l>
+                    <l n="26"><lb n="42"/><w>Das</w><w>man</w><w>gern</w><w>horn</w><w>mag</w></l>
                 </lg>
+                <cb n="b"/>
                 <lg>
-                    <l n="25"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="26"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="27"><lb n="1"/><w>Da</w><w>chert</w><w>er</w><w>ſeinen</w><w>fleys</w><w>an</w></l>
+                    <l n="28"><lb n="2"/><w>Er</w><w>was</w><w>genantt</w><w>hartman</w></l>
                 </lg>
                 <lg>
-                    <l n="27"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="28"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="28,1"><lb n="3"/><w><choice><orig>V</orig><reg>U</reg></choice>nd</w><w>was</w><w>ein</w><w><choice><orig>v</orig><reg>u</reg></choice>n werder</w><w>tich<choice><am>t͛</am><ex>ter</ex></choice></w></l>
+                    <l n="28,2"><lb n="4"/><w>Dyſer</w><w>awentewer</w><w>mer</w></l>
                 </lg>
                 <lg>
-                    <l n="29"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="30"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="31"><lb n="5"/><w><supplied><hei:initial ana="hc:Lombard" hei:heightLines="4">E</hei:initial></supplied>s</w><w>het</w><w>der</w><w>kunig</w><w>Artus</w></l>
+                    <l n="32"><lb n="6"/><w>ze</w><w>karidol</w><w>in</w><w>ſein<choice><am>ē</am><ex>em</ex></choice></w><w>haus</w></l>
                 </lg>
                 <lg>
-                    <l n="31"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="32"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="33"><lb n="7"/><w>ze</w><w>ainen</w><w>pfingſtn</w><w>gelayt</w></l>
+                    <l n="34"><lb n="8"/><w>nach</w><w>reicher</w><w>gewonhait</w></l>
                 </lg>
                 <lg>
-                    <l n="33"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="34"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="35"><lb n="9"/><w>Ain</w><w>ſo</w><w>ſchone</w><w>hochtzeyt</w></l>
+                    <l n="36"><lb n="10"/><w>Das</w><w>er</w><w>vor</w><w>des</w><w>noch</w><w>ſeyt</w></l>
                 </lg>
                 <lg>
-                    <l n="35"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="36"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="37"><lb n="11"/><w>Chain</w><w>alſo</w><w>ſchone</w><w>gewan</w></l>
+                    <l n="38"><lb n="12"/><w>Da</w><w>was</w><w>ain</w><w>poſer</w><w>man</w></l>
                 </lg>
                 <lg>
-                    <l n="37"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="38"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="39"><lb n="13"/><w>In</w><w>vil</w><w>ſwac<choice><am>h͛</am><ex>her</ex></choice></w><w>werde</w></l>
+                    <l n="40"><lb n="14"/><w>wan</w><w>ſich</w><w>geſamet</w><w>auf</w><w><choice><am>d͛</am><ex>der</ex></choice></w><w>erde</w></l>
                 </lg>
                 <lg>
-                    <l n="39"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="40"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="41"><lb n="15"/><w>pey</w><w>niemants</w><w>zeytn</w><w>anderſwo</w></l>
+                    <l n="42"><lb n="16"/><w>Als</w><w>manig</w><w>gue<choice><am>t͛</am><ex>ter</ex></choice></w><w>rit<choice><am>t͛</am><ex>ter</ex></choice></w><w>als</w><w>do</w></l>
                 </lg>
                 <lg>
-                    <l n="41"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="42"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="43"><lb n="17"/><w>Auch</w><w>ward</w><w>in</w><w>da</w><w join="right">ze</w><w join="left">hof</w><w>gegebn</w></l>
+                    <l n="44"><lb n="18"/><w>In</w><w>aller</w><w>weis</w><w>ain</w><w>wunſch leben</w></l>
                 </lg>
                 <lg>
-                    <l n="43"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="44"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="45"><lb n="19"/><w>In</w><w>liebte</w><w>der</w><w>hof</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>der</w><w>leib</w></l>
+                    <l n="46"><lb n="20"/><w>Manich</w><w>maget</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>weib</w></l>
                 </lg>
                 <lg>
-                    <l n="45"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="46"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="47"><lb n="21"/><w>Dy</w><w>ſchonſtn</w><w>von</w><w>ertreiche</w></l>
+                    <l n="48"><lb n="22"/><w>Mich</w><w><choice><orig>i</orig><reg>j</reg></choice>amert</w><w>warleichen</w></l>
                 </lg>
                 <lg>
-                    <l n="47"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="48"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="49"><lb n="23"/><w><choice><orig>V</orig><reg>U</reg></choice>nd</w><w>hulfe</w><w>es</w><w>icht</w><w>ich</w><w>wolde</w><w>es</w><w>klagen</w></l>
+                    <l n="50"><lb n="24"/><w>Das</w><w>nun</w><w>pey</w><w><choice><orig>v</orig><reg>u</reg></choice>nſern</w><w>tagen</w></l>
                 </lg>
                 <lg>
-                    <l n="49"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="50"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="51"><lb n="25"/><w>Solcher</w><w>frewden</w><w>nicht</w><w>werden</w><w>mag</w></l>
+                    <l n="52"><lb n="26"/><w>Der</w><w>man</w><w>pey</w><w>irn</w><w>zeytn</w><w>pflag</w></l>
                 </lg>
                 <lg>
-                    <l n="51"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="52"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="53"><lb n="27"/><w>Wir</w><w>mueſſn</w><w>auch</w><w>noch</w><w>geneſn</w></l>
+                    <l n="54"><lb n="28"/><w>Ich</w><w>wold</w><w>do</w><w>nit</w><w>ſein</w><w>geweſn</w></l>
                 </lg>
                 <lg>
-                    <l n="53"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="54"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="55"><lb n="29"/><w>Das</w><w>ich</w><w>nun</w><w>nicht</w><w>en</w><w>wär</w></l>
+                    <l n="56"><lb n="30"/><w>Das</w><w><choice><orig>v</orig><reg>u</reg></choice>ns</w><w>noch</w><w>mit</w><w>irem</w><w>mär</w></l>
                 </lg>
                 <lg>
-                    <l n="55"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="56"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="57"><lb n="31"/><w>So</w><w>recht</w><w>wol</w><w>weſen</w><w>ſol</w></l>
+                    <l n="58"><lb n="32"/><w>Da</w><w>taten</w><w>in</w><w>dy</w><w>werch</w><w>wol</w></l>
                 </lg>
                 <lg>
-                    <l n="57"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="58"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="59"><lb n="33"/><w><supplied><hei:initial ana="hc:Lombard" hei:heightLines="4">A</hei:initial></supplied>rtus</w><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>dy</w><w>küniginn</w></l>
+                    <l n="60"><lb n="34"/><w>Sy</w><w>hetn</w><w>ſich</w><w><choice><orig>v</orig><reg>u</reg></choice>nnt<choice><am>t͛</am><ex>ter</ex></choice></w><w>in</w></l>
                 </lg>
                 <lg>
-                    <l n="59"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="60"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="61"><lb n="35"/><w>Auf</w><w>ir</w><w>aller</w><w>willen</w><w>vleis</w></l>
+                    <l n="62"><lb n="36"/><w>Do</w><w>man</w><w>des</w><w>pfingſtags</w><w>enpeis</w></l>
                 </lg>
                 <lg>
-                    <l n="61"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="62"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="63"><lb n="37"/><w>Maniklich</w><w>dy</w><w>frewde</w><w>nam</w></l>
+                    <l n="64"><lb n="38"/><w>Der</w><w>im</w><w>aller</w><w>peſte</w><w>zam</w></l>
                 </lg>
                 <lg>
-                    <l n="63"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="64"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="65"><lb n="39"/><w>Dyſe</w><w>ſprache</w><w>wider</w><w>dy</w><w>weib</w></l>
+                    <l n="66"><lb n="40"/><w>Dyſe</w><w>brauchten</w><w>den</w><w>leib</w></l>
                 </lg>
                 <lg>
-                    <l n="65"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="66"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="67"><lb n="41"/><w>Dyſe</w><w>tantzten</w><w>dyſe</w><w>ſungen</w></l>
+                    <pb n="57v"/>
+                    <cb n="a"/>
+                    <l n="68"><lb n="1"/><w>Dyſe</w><w>lieffn</w><w>dyſe</w><w>ſprungen</w></l>
                 </lg>
                 <lg>
-                    <l n="67"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="68"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="69"><lb n="2"/><w>Dyſe</w><w>hortn</w><w>ſayttn</w><w>ſpil</w></l>
+                    <l n="70"><lb n="3"/><w>Dyſe</w><w>ſchuſſen</w><w>zu</w><w>dem</w><w>zil</w></l>
                 </lg>
                 <lg>
-                    <l n="69"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="70"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="71"><lb n="4"/><w>Dyſe</w><w>redendt</w><w>von</w><w>ſunder</w><w>arwayt</w></l>
+                    <l n="72"><lb n="5"/><w>Dyſe</w><w>von</w><w>manhayt</w></l>
                 </lg>
                 <lg>
-                    <l n="71"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="72"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="73"><lb n="6"/><w>Gabein</w><w>acht</w><w><choice><orig>v</orig><reg>u</reg></choice>mb</w><w>waffen</w></l>
+                    <l n="74"><lb n="7"/><w>Kay</w><w>layt</w><w>ſich</w><w>ſlaffen</w></l>
                 </lg>
                 <lg>
-                    <l n="73"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="74"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="75"><lb n="8"/><w>Auf</w><w>den</w><w>fal</w><w><choice><orig>v</orig><reg>u</reg></choice>ntter</w><w>in</w></l>
+                    <l n="76"><lb n="9"/><w>Ze</w><w>gemach</w><w>an</w><w>ere</w><w>ſtuend</w><w>ſein ſin</w></l>
                 </lg>
                 <lg>
-                    <l n="75"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="76"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="77"><lb n="10"/><w><supplied><hei:initial ana="hc:Lombard" hei:heightLines="4">D</hei:initial></supplied></w><w>er</w><w>kunig</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>dy</w><w>kunigin</w></l>
+                    <l n="78"><lb n="11"/><w>Dy</w><w>hetn</w><w>ſich</w><w>auch</w><w><choice><orig>v</orig><reg>u</reg></choice>nnt<choice><am>t͛</am><ex>ter</ex></choice></w><w>in</w></l>
                 </lg>
                 <lg>
-                    <l n="77"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="78"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="79"><lb n="12"/><w join="right">Ze</w><w join="left">handen</w><w>gevangen</w></l>
+                    <l n="80"><lb n="13"/><w><choice><orig>V</orig><reg>U</reg></choice>nd</w><w>worden</w><w>enſambt</w><w>gegang<choice><am>ē</am><ex>en</ex></choice></w></l>
                 </lg>
                 <lg>
-                    <l n="79"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="80"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="81"><lb n="14"/><w>In</w><w>ein</w><w>kematen</w><w>da</w></l>
+                    <l n="82"><lb n="15"/><w><choice><orig>V</orig><reg>U</reg></choice>nd</w><w>hetten</w><w>ſich</w><w>ſlaffen</w><w><del rendition="hc:Strikethrough">d</del>a</w></l>
+                    <!--Revisado Victor 18/10/19. Claudia, fíjate en cómo he hecho la inicial en el v. 70; haz igual las siguientes. Fíjate que en 'worden' (v. 80) o en 'ere' (v. 76) eso es una 'r', no una 'z'. En cuanto a separación de palabras (p.ej. v. 75 'vntter'): no vamos a estar midiendo nanómetros: cuando no está del todo claro, se transcribe como debería ser (si es una palabra, junto; si son dos, separado).-->
                 </lg>
                 <lg>
-                    <l n="81"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="82"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="83"><lb n="16"/><w>Wer</w><w>durch</w><w>geſellſchaft</w><w>gelayt</w></l>
+                    <l n="84"><lb n="17"/><w>Dan</w><w>durch</w><w>tragkait</w></l>
                 </lg>
                 <lg>
-                    <l n="83"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="84"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="85"><lb n="18"/><w>Sy</w><w>entſlieffen</w><w>payde</w><w>ſchier</w></l>
+                    <l n="86"><lb n="19"/><w>Do</w><w>ſaſſen</w><w>ritter</w><w>vier</w></l>
                 </lg>
                 <lg>
-                    <l n="85"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="86"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="87"><lb n="20"/><w>Dodine</w><w>v<choice><orig>v</orig><reg>u</reg></choice>n<choice><am>n̄</am><ex>nd</ex></choice></w><w><choice><am>ā</am><ex>an</ex></choice>nwein</w></l>
+                    <l n="88"><lb n="21"/><w>Sigromors</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>ywein</w></l>
                 </lg>
                 <lg>
-                    <l n="87"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="88"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="89"><lb n="22"/><w>Auch</w><w>was</w><w>gelegen</w><w>da</w><w>pey</w></l>
+                    <l n="90"><lb n="23"/><w>Der</w><w>zuchtlos</w><w>kay</w></l>
                 </lg>
                 <lg>
-                    <l n="89"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="90"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="91"><lb n="24"/><w>Auſſerhalb</w><w>pey</w><w>der</w><w>wandt</w></l>
+                    <l n="92"><lb n="25"/><w>Der</w><w>ſechſt</w><w>was</w><w>Galaiandt</w></l>
                 </lg>
                 <lg>
-                    <l n="91"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="92"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="93"><lb n="26"/><w>Der</w><w>begund</w><w>in</w><w>ſagen</w><w>ain</w><w>maze</w></l>
+                    <l n="94"><lb n="27"/><w>Von</w><w>groſſer</w><w>ſeiner</w><w>ſwäze</w></l>
                 </lg>
                 <lg>
-                    <l n="93"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="94"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="95"><lb n="28"/><w><choice><orig>V</orig><reg>u</reg></choice>nd</w><w>von</w><w>ſeiner</w><w>frumkayt</w></l>
+                    <l n="96"><lb n="29"/><w><w>Do</w><w>er</w><w>in</w><w>lugel</w><w>het</w><w>geſayt</w></w></l>
                 </lg>
                 <lg>
-                    <l n="95"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="96"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="97"><lb n="30"/><w><w>Do</w><w>entwacht</w><w>dy</w><w>kunigin</w></w></l>
+                    <l n="98"><lb n="31"/><w>Sy</w><w>hort</w><w>ſein</w><w>ſagen</w><w>hin</w><w>in</w></l>
                 </lg>
                 <lg>
-                    <l n="97"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="98"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="99"><lb n="32"/><w>Sy</w><w>lie</w><w>lugen</w><w>den</w><w>kunig</w><w>von </w><w>man</w></l>
+                    <l n="100"><lb n="33"/><w><choice><orig>V</orig><reg>u</reg></choice>nd</w><w>ſtal</w><w>ſich</w><w>von</w><w>im</w><w>dan</w></l>
                 </lg>
                 <lg>
-                    <l n="99"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="100"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="101"><lb n="34"/><w><choice><orig>V</orig><reg>u</reg></choice>nd</w><w>ſlauch</w><w>zu</w><w>in</w><w>daz</w></l>
+                    <l n="102"><lb n="35"/><w>Das</w><w>ir</w><w>kainer</w><w>mord</w><w>gewar</w></l>
                 </lg>
                 <lg>
-                    <l n="101"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="102"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="103"><lb n="36"/><w><choice><orig>v</orig><reg>u</reg></choice>nat</w><w>ſy</w><w>in</w><w>cham</w><w>ſa</w><w>nahen </w><w>pey</w></l>
+                    <l n="104"><lb n="37"/><w>Und</w><w>viel</w><w>mitten</w><w>unt<choice><am>t͛</am><ex>er</ex></choice></w><w>ſen</w></l>
                 </lg>
                 <lg>
-                    <l n="103"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="104"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="105"><lb n="38"/><w>Nun</w><w>der</w><w>Bolocriandt</w></l>
+                    <l n="106"><lb n="39"/><w>Der</w><w>ſprang</w><w>aufgegn</w><w>ir</w><w>zehandt</w></l>
                 </lg>
                 <lg>
-                    <l n="105"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="106"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="107"><lb n="40"/><w>Er</w><w>naigt</w><w>ir</w><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>enpfie</w><w>ſey</w></l>
+                    <l n="108"><lb n="41"/><w>Do</w><w>ersaigt</w><w>awer</w><w>kay</w></l>
+                    <cb n="b"/>
+                    <l n="109"><lb n="1"/><w>Sein</w><w>alten</w><w>gewon</w><w>hayt</w></l>
+                    <l n="110"><lb n="2"/><w>Ym</w><w>mas</w><w>des</w><w>manes</w><w>ere</w><w>layt</w></l>
                 </lg>
                 <lg>
-                    <l n="107"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="108"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="111"><lb n="3"/><w>Er</w><w>beruefft</w><w>in</w><w>dar</w><w>inn</w><w>be</w><w>ſere</w></l>
+                    <l n="112"><lb n="4"/><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>ſprach</w><w>in</w><w>an</w><w>ſein</w><w>ere</w></l>
                 </lg>
                 <lg>
-                    <l n="109"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="110"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="113"><lb n="5"/><w>Er ſprach</w><w>herre</w><w>Salocriant</w></l>
+                    <l n="114"><lb n="6"/><w><choice><orig>v</orig><reg>u</reg></choice>ns</w><w>mas</w><w>auch</w><w>das</w><w>lewol</w><w>bechand</w></l>
                 </lg>
                 <lg>
-                    <l n="111"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="112"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="115"><lb n="7"/><w>Das</w><w>niemand</w><w><choice><orig>v</orig><reg>u</reg></choice>nt<choice><am>t͛</am><ex>er</ex></choice></w><w><choice><orig>v</orig><reg>u</reg></choice>ns</w><w>ware</w></l>
+                    <l n="116"><lb n="8"/><w>So</w><w>hübſch</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>gefäre</w><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="113"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="114"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="117"><lb n="9"/><w>So</w><w>ir</w><w>wanet</w><w>das</w><w>ir</w><w>ſeyt</w></l>
+                    <l n="118"><lb n="10"/><w>Des</w><w>laſs</w><w>wir</w><w>euch</w><w>den</w><w>ſtreyt|</w></l>
                 </lg>
                 <lg>
-                    <l n="115"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="116"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="119"><lb n="11"/><w>Von</w><w>alln</w><w>ewrn</w><w>geſelln</w></l>
+                    <l n="120"><lb n="12"/><w>Ob</w><w>wir</w><w>ſelb</w><w>wellen</w></l>
                 </lg>
                 <lg>
-                    <l n="117"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="118"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="121"><lb n="13"/><w>Euch</w><w>duncket</w><w>des</w><w>man</w><w>fül</w><w>euch</w><w>d<choice><am>ē</am><ex>en</ex></choice>lan</w></l>
+                    <l n="122"><lb n="14"/><w>Auch</w><w>ſol</w><w>es</w><w>mein</w><w>fra</w><choice><orig>v</orig><reg>u</reg></choice><w>dafuer</w><w>han</w></l>
                 </lg>
                 <lg>
-                    <l n="119"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="120"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="123"><lb n="15"/><w>Sy</w><w>tate</w><w>euch</w><w>anders</w><w>gewalt</w></l>
+                    <l n="124"><lb n="16"/><w>Ewr</w><w>zucht</w><w>iſt</w><w>ſo</w><w>manich</w><w>ualt</w></l>
                 </lg>
                 <lg>
-                    <l n="121"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="122"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="125"><lb n="17"/><w><choice><orig>V</orig><reg>u</reg></choice>nd</w><w>tunrket</w><w>euch</w><w>ſo</w><w>volkmnen</w></l>
+                    <l n="126"><lb n="18"/><w>Zwar</w><w>ir</w><w>habt</w><w>euch</w><w>angemnnen</w></l>
                 </lg>
                 <lg>
-                    <l n="123"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="124"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="127"><lb n="19"/><w><choice><orig>V</orig><reg>u</reg></choice>r</w><w>wiſſet</w><w>nit</w><w>was</w></l>
+                    <l n="128"><lb n="20"/><w><choice><orig>V</orig><reg>u</reg></choice>nſer</w><w>fainer</w><w>was</w><w>ſo</w><w>las</w></l>
                 </lg>
                 <lg>
-                    <l n="125"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="126"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="129"><lb n="21"/><w>Hiet</w><w>er</w><w>dy</w><w>k<choice><orig>v</orig><reg>ü</reg></choice>nigin</w><w>geſehen</w></l>
+                    <l n="130"><lb n="22"/><w><choice><orig>V</orig><reg>u</reg></choice>m</w><w>war</w><w>dy</w><w>ſelb</w><w>zucht</w><w>giſthehen</w></l>
                 </lg>
                 <lg>
-                    <l n="127"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="128"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="131"><lb n="23"/><w>Die</w><w>euch</w><w>ain</w><w>da</w><w>geſthach</w></l>
+                    <l n="132"><lb n="24"/><w>Seind</w><w><choice><orig>v</orig><reg>u</reg></choice>nſer</w><w>kainer</w><w>ſey</w><w>geſach</w></l>
                 </lg>
                 <lg>
-                    <l n="129"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="130"><lb/><w/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="131"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="132"><lb/><w/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="133"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="134"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="133"><lb n="25"/><w><choice><orig>V</orig><reg>u</reg></choice>nd</w><w>wie</w><w>wir</w><w>des</w><w>vier</w><w>gaſſen</w></l>
+                    <l n="134"><lb n="26"/><w>Das</w><w>wir</w><w>fryll</w><w>ſaſſen</w></l>
                 </lg>
                 <lg>
                     <l n="135"><lb/><w/><w/><w/><w/><w/><w/></l>
@@ -16437,6 +16438,506 @@
                 <lg>
                     <l n="8199"><lb/><w/><w/><w/><w/><w/><w/></l>
                     <l n="8200"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="8201"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="8202"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="8203"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="8204"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="8205"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="8206"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="8207"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="8208"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="8209"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="8210"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="8201"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="8202"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="8203"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="8204"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="8205"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="8206"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="8207"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="8208"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="8209"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="8210"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="8201"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="8202"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="8203"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="8204"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="8205"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="8206"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="8207"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="8208"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="8209"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="8210"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="8201"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="8202"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="8203"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="8204"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="8205"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="8206"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="8207"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="8208"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="8209"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="8210"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="8201"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="8202"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="8203"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="8204"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="8205"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="8206"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="8207"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="8208"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="8209"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="8210"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="8201"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="8202"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="8203"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="8204"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="8205"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="8206"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="8207"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="8208"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="8209"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="8210"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="8201"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="8202"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="8203"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="8204"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="8205"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="8206"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="8207"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="8208"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="8209"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="8210"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="8201"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="8202"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="8203"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="8204"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="8205"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="8206"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="8207"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="8208"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="8209"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="8210"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="8201"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="8202"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="8203"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="8204"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="8205"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="8206"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="8207"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="8208"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="8209"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="8210"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="8201"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="8202"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="8203"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="8204"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="8205"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="8206"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="8207"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="8208"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="8209"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="8210"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="8201"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="8202"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="8203"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="8204"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="8205"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="8206"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="8207"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="8208"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="8209"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="8210"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="8201"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="8202"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="8203"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="8204"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="8205"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="8206"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="8207"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="8208"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="8209"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="8210"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="8201"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="8202"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="8203"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="8204"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="8205"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="8206"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="8207"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="8208"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="8209"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="8210"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="8201"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="8202"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="8203"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="8204"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="8205"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="8206"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="8207"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="8208"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="8209"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="8210"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="8201"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="8202"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="8203"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="8204"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="8205"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="8206"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="8207"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="8208"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="8209"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="8210"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="8201"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="8202"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="8203"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="8204"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="8205"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="8206"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="8207"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="8208"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="8209"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="8210"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="8201"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="8202"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="8203"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="8204"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="8205"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="8206"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="8207"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="8208"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="8209"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="8210"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="8201"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="8202"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="8203"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="8204"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="8205"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="8206"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="8207"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="8208"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="8209"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="8210"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="8201"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="8202"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="8203"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="8204"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="8205"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="8206"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="8207"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="8208"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="8209"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="8210"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="8201"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="8202"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="8203"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="8204"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="8205"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="8206"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="8207"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="8208"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="8209"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="8210"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="8201"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="8202"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="8203"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="8204"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="8205"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="8206"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="8207"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="8208"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="8209"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="8210"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="8201"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="8202"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="8203"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="8204"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="8205"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="8206"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="8207"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="8208"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="8209"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="8210"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="8201"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="8202"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="8203"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="8204"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="8205"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="8206"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="8207"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="8208"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="8209"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="8210"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="8201"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="8202"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="8203"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="8204"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="8205"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="8206"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="8207"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="8208"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="8209"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="8210"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="8201"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="8202"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="8203"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="8204"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="8205"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="8206"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="8207"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="8208"><lb/><w/><w/><w/><w/><w/><w/></l>
+                </lg>
+                <lg>
+                    <l n="8209"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="8210"><lb/><w/><w/><w/><w/><w/><w/></l>
                 </lg>
             </div>
         </body>
