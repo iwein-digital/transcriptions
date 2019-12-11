@@ -13579,7 +13579,6 @@ Pues sí, me parece que tiene todo el sentido del mundo. En ese caso, ¿habría 
                 </lg>
                 <lg>
                     <l n="6712"><lb n="4"/><w><hi rendition="hc:RedStroke">E</hi>r</w><w>dete</w><w>ſinen</w><w>lewen</w><w>hin</w></l>
-                    <!--verso 6712-11 están intercambiados     -->
                     <l n="6711"><lb n="5"/><w><hi rendition="hc:RedStroke">D</hi>ann</w><w>vacht</w><w>nyman</w><w>wider</w><w>yne</w></l>
                 </lg>
                 <lg>
@@ -13824,7 +13823,6 @@ Pues sí, me parece que tiene todo el sentido del mundo. En ese caso, ¿habría 
                 <lg>
                     <l n="6833"><lb n="5"/><w><hi rendition="hc:RedStroke">v</hi>il</w><w>gar</w><w>erlaſſen</w><w>ſol</w></l>
                     <l n="6834"><lb n="6"/><w><hi rendition="hc:RedStroke">D</hi>er</w><w>gaſt</w><w>vertrüg</w><w>den</w><w>zorn</w><w>wol</w></l>
-                    <!--Revisado Victor 11/12/2019     -->
                 </lg>
                 <lg>
                     <l n="6835"><lb n="7"/><w><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">E</hei:initial>r</w><w>ſprach</w><w>mÿn</w><w>lieber</w><w>herre</w></l>
@@ -13906,15 +13904,13 @@ Pues sí, me parece que tiene todo el sentido del mundo. En ese caso, ¿habría 
                 </lg>
                 <lg>
                     <l n="6873"><lb n="23"/><w><hi rendition="hc:RedStroke">D</hi>ie</w><w><hi rendition="hc:RedStroke"><choice><orig>j</orig><reg>i</reg></choice></hi>r</w><w>nifftelen</w><w>ſiech</w><w>lies</w></l>
-                    <l n="6874"><lb n="24"/><w><hi rendition="hc:RedStroke">D</hi>er</w><w>er</w><w>den</w><w>kampff</w><w>fur</w><w>ſie</w><w>gehies</w></l>
-                    <!--en el margen inferior (144v) se puede distinguir la parte de arriba de la palabra qüelten, al menos la ¨ y la lt, primera palabra de la página siguiente -->
+                    <l n="6874"><lb n="24"/><w><hi rendition="hc:RedStroke">D</hi>er</w><w>er</w><w>den</w><w>kampff</w><w>fur</w><w>ſie</w><w>gehies</w><note ana="hc:TranscriptionNote" target="#xpath(//l[@n='6874'])">Am unteren Rand der Seite sind Oberlängen von Buchstaben erkennbar, möglicherweise eines Lagenreklamanten</note></l>
                 </lg>
                 <pb n="145r"/>
                 <cb n="a"/>
                 <lg>
                     <l n="6877"><lb n="1"/><w><hi rendition="hc:RedStroke">D</hi>o</w><w>qüelten</w><w>ſie</w><w>nicht</w><w>lenger</w><w>da</w></l>
-                    <!--verso 6875-76 no están en este manuscrito     -->
-                    <l n="6878"><lb n="2"/><w><hi rendition="hc:RedStroke"><choice><orig>j</orig><reg>i</reg></choice></hi>m</w><w>was</w><w>dy</w><w>kampff</w><w>zeit</w><w>alſo</w><w>na</w></l>
+                    <l n="6878"><lb n="2"/><w><hi rendition="hc:RedStroke"><choice><orig>j</orig><reg>i</reg></choice></hi>m</w><w>was</w><w>dy</w><w>kampff zeit</w><w>alſo</w><w>na</w></l>
                 </lg>
                 <lg>
                     <l n="6879"><lb n="3"/><w><hi rendition="hc:RedStroke">D</hi>as</w><w><choice><orig>j</orig><reg>i</reg></choice>ne</w><w>der</w><w>tag</w><w>zu</w><w>ir</w><w>vart</w></l>
@@ -13925,7 +13921,7 @@ Pues sí, me parece que tiene todo el sentido del mundo. En ese caso, ¿habría 
                     <l n="6882"><lb n="6"/><w><hi rendition="hc:RedStroke"><choice><orig>j</orig><reg>i</reg></choice></hi>r</w><w>ſweſter</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>ir</w><w>widerſtriten</w></l>
                 </lg>
                 <lg>
-                    <l n="6883"><lb n="7"/><w><hi rendition="hc:RedStroke">f</hi>funden</w><w>ſie</w><w>an</w><w>der</w><w>kampff</w><w>ſtat</w></l>
+                    <l n="6883"><lb n="7"/><w><hi rendition="hc:RedStroke">f</hi>funden</w><w>ſie</w><w>an</w><w>der</w><w>kampff ſtat</w></l>
                     <l n="6884"><lb n="8"/><w><hi rendition="hc:RedStroke">D</hi>er</w><w>her</w><w>Gawein</w><w>der</w><w>ſich</w><w>helen</w><w>bat</w></l>
                 </lg>
                 <lg>
@@ -14000,12 +13996,11 @@ Pues sí, me parece que tiene todo el sentido del mundo. En ese caso, ¿habría 
                 </lg>
                 <lg>
                     <l n="6920"><lb n="20"/><w><hi rendition="hc:RedStroke">D</hi>as</w><w join="right">er</w><w join="left">s</w><w>dürch</w><w>got</w><w>dete</w></l>
-                    <!--verso 6920-19 están intercambiados     -->
                     <l n="6919"><lb n="21"/><w><hi rendition="hc:RedStroke"><choice><orig>v</orig><reg>u</reg></choice></hi>nd</w><w>die</w><w>eltern</w><w>bete</w></l>
                 </lg>
                 <lg>
                     <l n="6921"><lb n="22"/><w><hi rendition="hc:RedStroke">D</hi>as</w><w>ſie</w><w>der</w><w>ju̇ngern</w><w>teilt</w><w>mite</w></l>
-                    <l n="6922"><lb n="23"/><w><hi rendition="hc:RedStroke">D</hi>as</w><w>vertzehe</w><w>ſie</w><w>mit</w><w>ſolich<choice><am>ē</am><ex>en</ex></choice></w><w>ſite</w></l>
+                    <l n="6922"><lb n="23"/><w><hi rendition="hc:RedStroke">D</hi>as</w><w>vertzehe</w><w>ſie</w><w>mit</w><w>ſolich<choice><am>ē</am><ex>em</ex></choice></w><w>ſite</w></l>
                 </lg>
                 <pb n="146r"/>
                 <cb n="a"/>
@@ -14023,7 +14018,7 @@ Pues sí, me parece que tiene todo el sentido del mundo. En ese caso, ¿habría 
                 </lg>
                 <lg>
                     <l n="6929"><lb n="7"/><w><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">D</hei:initial><hi rendition="hc:RedStroke">o</hi></w><w>der</w><w>kunig</w><w>Artus</w><w>erſach</w></l>
-                    <l n="6930"><lb n="8"/><w><hi rendition="hc:RedStroke">D</hi>as</w><w>es</w><w>nẏman</w><w>an</w><w>dÿ</w><w>ſuͦne</w><w><choice><am>ſp͛</am><ex>ſpre</ex></choice>che</w></l>
+                    <l n="6930"><lb n="8"/><w><hi rendition="hc:RedStroke">D</hi>as</w><w>es</w><w>nẏman</w><w>an</w><w>dÿ</w><w>ſuͦne</w><w>ſ<choice><am>pᷓ</am><ex>pra</ex></choice>che</w></l>
                     <!--verso 6930: spreche??     -->
                 </lg>
                 <lg>
@@ -14135,7 +14130,7 @@ Pues sí, me parece que tiene todo el sentido del mundo. En ese caso, ¿habría 
                     <l n="6982"><lb n="14"/><w><hi rendition="hc:RedStroke">A</hi>uch</w><w>warn</w><w><choice><orig>j</orig><reg>i</reg></choice>r</w><w>roſze</w><w>alſo</w><w>güt</w></l>
                 </lg>
                 <lg>
-                    <l n="6983"><lb n="15"/><w><hi rendition="hc:RedStroke">D</hi>as</w><w>ſie</w><w>das</w><w>nit</w><w>enſümde</w></l>
+                    <l n="6983"><lb n="15"/><w><hi rendition="hc:RedStroke">D</hi>as</w><w>ſie</w><w>das</w><w>nit</w><w join="right">en</w><w join="left">ſümde</w></l>
                     <l n="6984"><lb n="16"/><w><hi rendition="hc:RedStroke"><choice><orig>j</orig><reg>i</reg></choice></hi>r</w><w>ytweder</w><w>rümde</w></l>
                 </lg>
                 <lg>
@@ -14321,11 +14316,11 @@ Pues sí, me parece que tiene todo el sentido del mundo. En ese caso, ¿habría 
                 </lg>
                 <lg>
                     <l n="7077"><lb n="13"/><w><hi rendition="hc:RedStroke">S</hi>o</w><w>neigten</w><w>ſie</w><w>ir</w><w>ſpere</w></l>
-                    <l n="7078"><lb n="14"/><w><hi rendition="hc:RedStroke"><choice><orig>v</orig><reg>u</reg></choice></hi>nd</w><w>ſlugens</w><w>off</w><w>die</w><w>bruſt</w><w>here</w></l>
+                    <l n="7078"><lb n="14"/><w><hi rendition="hc:RedStroke"><choice><orig>v</orig><reg>u</reg></choice></hi>nd</w><w join="right">ſlugen</w><w join="left">s</w><w>off</w><w>die</w><w>bruſt</w><w>here</w></l>
                 </lg>
                 <lg>
                     <l n="7079"><lb n="15"/><w><hi rendition="hc:RedStroke">D</hi>as</w><w>ſie</w><w>nicht</w><w join="right">en</w><w join="left">wangten</w></l>
-                    <l n="7080"><lb n="16"/><w><hi rendition="hc:RedStroke">S</hi>ie</w><w>erborten</w><w>noch</w><w>enſanckten</w></l>
+                    <l n="7080"><lb n="16"/><w><hi rendition="hc:RedStroke">S</hi>ie</w><w>erborten</w><w>noch</w><w join="right">en</w><w join="left">ſanckten</w></l>
                 </lg>
                 <lg>
                     <l n="7081"><lb n="17"/><w><hi rendition="hc:RedStroke">w</hi>eder</w><w>zü</w><w>nÿder</w><w>noch</w><w>zu</w><w>hoch</w></l>
@@ -14390,6 +14385,7 @@ Pues sí, me parece que tiene todo el sentido del mundo. En ese caso, ¿habría 
                 <lg>
                     <l n="7109"><lb n="1"/><w><hi rendition="hc:RedStroke">D</hi>rüw</w><w>ſper</w><w>oder</w><w>zweÿ</w></l>
                     <l n="7110"><lb n="2"/><w><hi rendition="hc:RedStroke">M</hi>an</w><w>hort</w><w>nicht</w><w>wann</w><w>ein</w><w>geſchreÿ</w></l>
+                    <!--Revisado Victor 11/12/2019     -->
                 </lg>
                 <lg>
                     <l n="7111"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
