@@ -13089,8 +13089,6 @@ Ten máis sentido ca que quede "Arion", consideraríase unha adaptación? -->
                 </lg>
                 <lg>
                     <l n="6151"><lb n="29"/><w><hi rendition="hc:Versal">D</hi>as</w><w>es</w><w><choice><orig>v</orig><reg>u</reg></choice>ch</w><w>an</w><w>den</w><w>lip</w><w>gat</w></l>
-                    <!--Revisado Victor 11/12/2019: Lorena, le pedí a Jakub que creara una nueva definición para esas rayas al final de línea que tú marcaste como "hc:WordDivider" (vv. 5832 y 6001). Ahora hay la categoría "hc:LineDelimiter". Ya hice el cambio.    
-Entendido!-->
                     <l n="6152"><lb n="30"/><w>n<choice><orig>v</orig><reg>u</reg></choice></w><w>erwindet</w><w>noch</w><w>daz</w><w>iſt</w><w>min</w><w>rat</w></l>
                 </lg>
                 <lg>
@@ -13106,9 +13104,9 @@ Entendido!-->
                     <l n="6158"><lb n="36"/><w>ich</w><w>m<choice><orig>v</orig><reg>u</reg></choice>z</w><w>des</w><w>tages</w><w>hie</w><w part="I">erbi</w><lb ana="hc:DependentLine hc:RunOverLineAbove" n="36a"/><w part="F">ten</w></l>
                 </lg>
                 <lg>
-                    <l n="6159"><lb n="37"/><w><hei:initial ana="hc:ScrollworkInitial" hei:color="Blue" hei:heightLines="2">S</hei:initial>i</w><w>ſprach</w><w>m<choice><orig>v</orig><reg>u</reg></choice>ſt</w><w>ich</w><w><choice><orig>v</orig><reg>u</reg></choice>ch</w><w>dan</w><w>ſe</w></l>
+                    <l n="6159"><lb n="37"/><w><hei:initial ana="hc:ScrollworkInitial" hei:color="Blue" hei:heightLines="2">S</hei:initial>i</w><w>ſprach</w><w>m<choice><orig>v</orig><reg>u</reg></choice>ſt</w><w>ich</w><w><choice><orig>v</orig><reg>u</reg></choice>ch</w><w>dan</w><w part="I">ſe</w><lb ana="hc:DependentLine hc:RunOverLineBelow" n="37a"/><metamark ana="hc:RunOverSign ">||</metamark><w part="F" xml:id="D_w_6159_7">hen</w></l>
                     <!--falta n     -->
-                    <l n="6160"><lb n="38"/><w>des</w><w>lei<choice><am>d͛</am><ex>der</ex></choice></w><w>niht</w><w>mach</w><w part="I">geſche<metamark ana="hc:RunOverSign ">|</metamark></w><w part="F">hen</w></l>
+                    <l n="6160"><lb n="38"/><w>des</w><w>lei<choice><am>d͛</am><ex>der</ex></choice></w><w>niht</w><w>mach</w><w part="I">geſche</w><metamark ana="hc:RunOverSign ">||</metamark><w part="F" xml:id="D_w_6160_6">hen</w><note ana="hc:TranscriptionNote" target="#D_w_6159_7 #D_w_6160_6">Zeile 37 endet mit einem Überhang, der eine Zeile weiter unten steht: "ſe-hen". Doch die untere Zeile kommt nur bis "geſche-" und stößt dann auf das Überlaufzeichen. Der Schreiber schreibt das Ende des Reimwortes nicht mehr aus. Der Verdacht drängt sich auf, dass er gemeint hat, dieser Überhang passe auch zu diesem Wort, weil es genau das erwartete und durch den Reim erforderte Ende des Wortes bietet, und er es deswegen so hat stehen lassen</note></l>
                 </lg>
                 <lg>
                     <l n="6161"><lb n="39"/><w><hi rendition="hc:Versal">H</hi>er</w><w>wider</w><w><choice><orig>v</orig><reg>u</reg></choice>s</w><w>cheren</w></l>
@@ -13141,9 +13139,8 @@ Entendido!-->
                     <l n="6174"><lb n="12"/><w>mit</w><w>manegem</w><w>dro</w><w>worte</w></l>
                 </lg>
                 <lg>
-                    <l n="6175"><lb n="13"/><w><hi rendition="hc:Versal">E</hi>nphie</w><w>ni</w><w>der</w><w>portenaͤre</w></l>
-                    <l n="6176"><lb n="14"/><w>daz</w><w><del rendition="hc:Strikethrough">in</del></w><w>was</w><w>im</w><w><choice><orig>v</orig><reg>u</reg></choice>nmere</w></l>
-                    <!--faltan versos     -->
+                    <l n="6175"><lb n="13"/><w><hi rendition="hc:Versal">E</hi>nphie</w><w>in</w><w>der</w><w>portenaͤre</w></l>
+                    <l n="6176"><lb n="14"/><w>daz</w><del rendition="hc:Strikethrough"><w>in</w></del><w>was</w><w>im</w><w><choice><orig>v</orig><reg>u</reg></choice>nmere</w></l>
                 </lg>
                 <lg>
                     <l n="6183"><lb n="15"/><w join="right"><hi rendition="hc:Versal">E</hi>r</w><w join="left">n</w><w>r<choice><orig>v</orig><reg>u</reg></choice>chte</w><w>was</w><w>er</w><w>im</w><w>ſprach</w></l>
@@ -13154,7 +13151,7 @@ Entendido!-->
                     <l n="6186"><lb n="18"/><w>n<choice><orig>v</orig><reg>u</reg></choice></w><w>ſach</w><w>er</w><w>innerhalb</w><w>dem</w><w>tor</w></l>
                 </lg>
                 <lg>
-                    <l n="6187"><lb n="19"/><w><hi rendition="hc:Versal">E</hi>in</w><w>wetes</w><w>werch</w><w>gadem</w><w>ſtan</w></l>
+                    <l n="6187"><lb n="19"/><w><hi rendition="hc:Versal">E</hi>in</w><w>wetes</w><w>werch gadem</w><w>ſtan</w></l>
                     <l n="6188"><lb n="20"/><w>daz</w><w>was</w><w>geſtalt</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>getan</w></l>
                 </lg>
                 <lg>
@@ -13257,7 +13254,6 @@ Entendido!-->
                 <lg>
                     <l n="6237"><lb n="29"/><w><hi rendition="hc:Versal">W</hi>and</w><w>er</w><w>da</w><w>nieman</w><w>andern</w><w>ſach</w></l>
                     <l n="6238"><lb n="30"/><w>der</w><w>ſchalch</w><w>do</w><w>ſchelchlichen</w><w>ſprach</w></l>
-                    <!--faltan versos     -->
                 </lg>
                 <lg>
                     <l n="6241"><lb n="31"/><w><hi rendition="hc:Versal"><choice><orig>V</orig><reg>U</reg></choice></hi>nd</w><w>ſprach</w><w><choice><orig>v</orig><reg>u</reg></choice>s</w><w>ſchalches</w><w>m<choice><orig>v</orig><reg>u</reg></choice>nde</w></l>
@@ -13272,7 +13268,7 @@ Entendido!-->
                     <l n="6246"><lb n="36"/><w><choice><orig>v</orig><reg>u</reg></choice>ch</w><w>ſol</w><w>iwer</w><w>reht</w><w>hie</w><w>geſchehen</w></l>
                 </lg>
                 <lg>
-                    <l n="6247"><lb n="37"/><w><hi rendition="hc:Versal">E</hi><choice><orig>v</orig><reg>u</reg></choice>ch</w><w>daz</w><w>tor</w><w>werd</w><w>enſpart</w></l>
+                    <l n="6247"><lb n="37"/><w><hi rendition="hc:Versal">E</hi></w><w><choice><orig>v</orig><reg>u</reg></choice>ch</w><w>daz</w><w>tor</w><w>werd</w><w>enſpart</w></l>
                     <l n="6248"><lb n="38"/><w>man</w><w>ſol</w><w><choice><orig>v</orig><reg>u</reg></choice>ch</w><w>z<choice><orig>v</orig><reg>u</reg></choice></w><w>iwer</w><w join="right"><choice><orig>v</orig><reg>u</reg></choice>z</w><w join="left">vart</w></l>
                 </lg>
                 <lg>
@@ -13530,7 +13526,7 @@ Entendido!-->
                     <l n="6372"><lb n="2"/><w>di</w><w>rede</w><w>iſt</w><w>gar</w><w>an</w><w>troſt</w></l>
                 </lg>
                 <lg>
-                    <l n="6373"><lb n="3"/><w><hi rendition="hc:Versal">W</hi>an</w><w>z<choice><orig>v</orig><reg>u</reg></choice></w><w>aller</w><w>ir</w><w>chraf</w></l>
+                    <l n="6373"><lb n="3"/><w><hi rendition="hc:Versal">W</hi>an</w><w>z<choice><orig>v</orig><reg>u</reg></choice></w><w>aller</w><w>ir</w><w>chraft</w></l>
                     <l n="6374"><lb n="4"/><w>ſint</w><w>ſo</w><w>manhaft</w></l>
                 </lg>
                 <lg>
@@ -13538,8 +13534,8 @@ Entendido!-->
                     <l n="6376"><lb n="6"/><w>geſigen</w><w>mach</w><w>an</w></l>
                 </lg>
                 <lg>
-                    <l n="6377"><lb n="7"/><w><hei:initial ana="hc:Lombard" hei:color="Blue" hei:heightLines="2">W</hei:initial>ir</w><w>ſin</w><w>di</w><w>ſelbe</w><w>zins</w><w>geben</w></l>
-                    <l n="6378"><lb n="8"/><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>haben</w><w>ein</w><w>ch<choice><orig>v</orig><reg>u</reg></choice>merliches</w><w>l<unclear>eben</unclear></w></l>
+                    <l n="6377"><lb n="7"/><w><hei:initial ana="hc:Lombard" hei:color="Blue" hei:heightLines="2">W</hei:initial>ir</w><w>ſin</w><w>di</w><w>ſelbe</w><w>zins geben</w></l>
+                    <l n="6378"><lb n="8"/><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>haben</w><w>ein</w><w>ch<choice><orig>v</orig><reg>u</reg></choice>merliches</w><w>l<unclear reason="illegible">eben</unclear></w></l>
                 </lg>
                 <lg>
                     <l n="6379"><lb n="9"/><w><hi rendition="hc:Versal">W</hi>ir</w><w>leiten</w><w>riwichlichen</w><w><choice><orig>v</orig><reg>u</reg></choice>nſer</w><w><choice><orig>i</orig><reg>j</reg></choice><choice><orig>v</orig><reg>u</reg></choice>gn<unclear>t</unclear></w></l>
@@ -13590,7 +13586,7 @@ Entendido!-->
                     <l n="6402"><lb n="32"/><w>des</w><w>ſin</w><w>wir</w><w>o<choice><orig>v</orig><reg>u</reg></choice>ch</w><w>leider</w></l>
                 </lg>
                 <lg>
-                    <l n="6403"><lb n="33"/><w><hi rendition="hc:Versal">G</hi>ar</w><w>d<choice><orig>v</orig><reg>u</reg></choice>rftinginne</w></l>
+                    <l n="6403"><lb n="33"/><w><hi rendition="hc:Versal">G</hi>ar</w><w>d<choice><orig>v</orig><reg>u</reg></choice>rftiginne</w></l>
                     <l n="6404"><lb n="34"/><w>von</w><w><choice><orig>v</orig><reg>u</reg></choice>nſerem</w><w>gewinne</w></l>
                 </lg>
                 <lg>
@@ -13622,7 +13618,7 @@ Entendido!-->
                 </lg>
                 <lg>
                     <l n="6417"><lb n="7"/><w><hi rendition="hc:Versal"><choice><orig>J</orig><reg>I</reg></choice></hi>ch</w><w>wil</w><w>gen</w><w><choice><orig>v</orig><reg>u</reg></choice>nz</w><w>ich</w><w>vinde</w></l>
-                    <l n="6418"><lb n="8"/><w>des</w><w>h<choice><orig>v</orig><reg>u</reg></choice>ſes</w><w>in</w><w>geſinde</w></l>
+                    <l n="6418"><lb n="8"/><w>des</w><w>h<choice><orig>v</orig><reg>u</reg></choice>ſes</w><w>in geſinde</w></l>
                 </lg>
                 <lg>
                     <l n="6419"><lb n="9"/><w><hi rendition="hc:Versal">W</hi>ie</w><w>daz</w><w>gebare</w><w>wider</w><w>mich</w></l>
@@ -13645,7 +13641,7 @@ Entendido!-->
                     <l n="6428"><lb n="18"/><w>mit</w><w>ſiner</w><w><choice><orig>i</orig><reg>j</reg></choice><choice><orig>v</orig><reg>u</reg></choice>nchvroͮwen</w></l>
                 </lg>
                 <lg>
-                    <l n="6429"><lb n="19"/><w><hi rendition="hc:Versal"><choice><orig>V</orig><reg>U</reg></choice></hi>nd</w><w>envant</w><w>do</w><w>wip</w><w>noch</w><w>man</w></l>
+                    <l n="6429"><lb n="19"/><w><hi rendition="hc:Versal"><choice><orig>V</orig><reg>U</reg></choice></hi>nd</w><w join="right">en</w><w join="left">vant</w><w>do</w><w>wip</w><w>noch</w><w>man</w></l>
                     <l n="6430"><lb n="20"/><w>n<choice><orig>v</orig><reg>u</reg></choice></w><w>volget</w><w>er</w><w>einem</w><w>wanchen</w><w>dan</w></l>
                 </lg>
                 <lg>
@@ -13699,7 +13695,7 @@ Entendido!-->
                 </lg>
                 <lg>
                     <l n="6455"><lb n="5"/><w><hi rendition="hc:Versal"><choice><orig>V</orig><reg>U</reg></choice></hi>nd</w><w>vor</w><w>in</w><w>beiden</w><w>ſaz</w><w>ein</w><w>magt</w></l>
-                    <l n="6456"><lb n="6"/><w><damage>di</damage></w><w>vil</w><w>wol</w><w>iſt</w><w>mir</w><w>geſagt</w></l>
+                    <l n="6456"><lb n="6"/><w>di</w><w>vil</w><w>wol</w><w>iſt</w><w>mir</w><w>geſagt</w></l>
                 </lg>
                 <lg>
                     <l n="6457"><lb n="7"/><w><hi rendition="hc:Versal">F</hi>ranzois</w><w>leſen</w><w>ch<choice><orig>v</orig><reg>u</reg></choice>nde</w></l>
@@ -13720,11 +13716,10 @@ Entendido!-->
                 <lg>
                     <l n="6465"><lb n="15"/><w><hi rendition="hc:Versal">G</hi>eb<choice><orig>v</orig><reg>u</reg></choice>rt</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>t<choice><orig>v</orig><reg>u</reg></choice>gnt</w></l>
                     <l n="6466"><lb n="16"/><w>richheit</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>ch<choice><orig>v</orig><reg>u</reg></choice>ſche</w><w><choice><orig>i</orig><reg>j</reg></choice><choice><orig>v</orig><reg>u</reg></choice>gnt</w></l>
-                    <!--palabra final cambiada     -->
                 </lg>
                 <lg>
                     <l n="6467"><lb n="17"/><w><hi rendition="hc:Versal">G</hi><choice><orig>v</orig><reg>u</reg></choice>t</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>wiſe</w><w>rede</w><w>hat</w></l>
-                    <l n="6468"><lb n="18"/><w>diz</w><w>was</w><w>an</w><w>ir</w><w>mit</w><w>der</w><w>rat</w></l>
+                    <l n="6468"><lb n="18"/><w>diz</w><w>was</w><w>an</w><w>ir</w><w>mit</w><w>der</w><w>tat</w></l>
                 </lg>
                 <lg>
                     <l n="6469"><lb n="19"/><w><hi rendition="hc:Versal">D</hi>es</w><w>der</w><w>wunſch</w><w>an</w><w>wiben</w><w>gert</w></l>
@@ -13915,8 +13910,7 @@ Entendido!-->
                 </lg>
                 <lg>
                     <l n="6561"><lb n="31"/><w><hi rendition="hc:Versal">A</hi>ls</w><w>mir</w><w>der</w><w>arge</w><w>ſchalch</w><w>gehieze</w></l>
-                    <l n="6562"><lb n="32"/><w>der</w><w>mich</w><w>in</w><w>di</w><w>b<choice><orig>v</orig><reg>u</reg></choice>rch</w><w>lieze</w></l>
-                    <!--letra a medio trazar?     -->
+                    <l n="6562"><lb n="32"/><w>der</w><w>mich</w><w>in</w><w>di</w><del rendition="hc:ImplicitlyDeleted">w</del><w>b<choice><orig>v</orig><reg>u</reg></choice>rch</w><w>lieze</w></l>
                 </lg>
                 <lg>
                     <l n="6563"><lb n="33"/><w><hi rendition="hc:Versal">D</hi>es</w><w>wirtes</w><w>portenere</w></l>
@@ -13954,11 +13948,11 @@ Entendido!-->
                 </lg>
                 <lg>
                     <l n="6579"><lb n="9"/><w><hi rendition="hc:Versal">D</hi>er</w><w join="right">en</w><w join="left">beiz</w><w>niht</w><w>daz</w><w>ein</w><w>bi<choice><am>d͛</am><ex>der</ex></choice>be</w><w>man</w></l>
-                    <l n="6580"><lb n="10"/><w>ſich</w><w>des</w><w>wol</w><w>erthaben</w><w>chan</w></l>
+                    <l n="6580"><lb n="10"/><w>ſich</w><w>des</w><w>wol</w><w>enthaben</w><w>chan</w></l>
                 </lg>
                 <lg>
                     <l n="6581"><lb n="11"/><w><hi rendition="hc:Versal">S</hi>wes</w><w>er</w><w>ſich</w><w>enthaben</w><w>wil</w></l>
-                    <l n="6582"><lb n="12"/><w join="right">weiz</w><w join="left">got</w><w>dern</w><w>iſt</w><w>aver</w><w>n<choice><orig>v</orig><reg>u</reg></choice><w>niht</w><w>vil</w></w></l>
+                    <l n="6582"><lb n="12"/><w join="right">weiz</w><w join="left">got</w><w join="right">der</w><w join="left">n</w><w>iſt</w><w>aver</w><w>n<choice><orig>v</orig><reg>u</reg></choice><w>niht</w><w>vil</w></w></l>
                 </lg>
                 <lg>
                     <l n="6583"><lb n="13"/><w><hi rendition="hc:Versal">D</hi>i</w><w>naht</w><w>gie</w><w>mit</w><w>vro<choice><orig>v</orig><reg>u</reg></choice>den</w><w>hin</w></l>
@@ -13989,7 +13983,7 @@ Entendido!-->
                     <l n="6596"><lb n="26"/><w>daz</w><w>in</w><w>noch</w><w>grozer</w><w>arbeit</w></l>
                 </lg>
                 <lg>
-                    <l n="6597"><lb n="27"/><w><hi rendition="hc:Versal">A</hi>ller</w><w>ofteſt</w><w>er</w><w>gie</w></l>
+                    <l n="6597"><lb n="27"/><w><hi rendition="hc:Versal">A</hi>ller</w><w>ofteſt</w><w>er gie</w></l>
                     <l n="6598"><lb n="28"/><w>zwen</w><w>riſen</w><w>ſint</w><w>hie</w></l>
                 </lg>
                 <lg>
@@ -14245,7 +14239,7 @@ Entendido!-->
                     <l n="6722"><lb n="32"/><w>den</w><w>ſchilt</w><w>den</w><w>er</w><w>vur</w><w>bot</w></l>
                 </lg>
                 <lg>
-                    <l n="6723"><lb n="33"/><w><hi rendition="hc:Versal">D</hi>er</w><w>was</w><w>im</w><w>ſchiere</w><w>ze</w><w>ſlagen</w></l>
+                    <l n="6723"><lb n="33"/><w><hi rendition="hc:Versal">D</hi>er</w><w>was</w><w>im</w><w>ſchiere</w><w>zeſlagen</w></l>
                     <l n="6724"><lb n="34"/><w>man</w><w join="right">en</w><w join="left">mohte</w><w>niht</w><w>an</w><w>getragen</w></l>
                 </lg>
                 <lg>
@@ -14281,10 +14275,9 @@ Entendido!-->
                 <lg>
                     <l n="6739"><lb n="9"/><w><hi rendition="hc:Versal">B</hi>eide</w><w>gehorte</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>erſach</w></l>
                     <l n="6740"><lb n="10"/><w>do</w><w>m<choice><orig>v</orig><reg>u</reg></choice>t</w><w>in</w><w>ſin</w><w><choice><orig>v</orig><reg>u</reg></choice>gemach</w></l>
-                    <!--faltan versos? mestura 6741 e 6743?     -->
                 </lg>
                 <lg>
-                    <l n="6743"><lb n="11"/><w><hi rendition="hc:Versal">D</hi>o</w><w>er</w><w>noch</w><w>loch</w><w>noch</w><w>t<choice><orig>v</orig><reg>u</reg></choice>r</w><w>vant</w></l>
+                    <l n="6743"><lb n="11"/><w><hi rendition="hc:Versal">D</hi>o</w><w>er</w><w>noch</w><w>loch</w><w>noch</w><w>t<choice><orig>v</orig><reg>u</reg></choice>r</w><w>vant</w><note ana="hc:TranscriptionNote" target="#xpath(//l[@n='6743'])">Mit Ausnahme des Reimwortes entspricht der Inhalt dieses Verses dem des in D nicht vorhandenen V. 6741</note></l>
                     <l n="6744"><lb n="12"/><w>bi</w><w>der</w><w>erde</w><w>an</w><w>der</w><w>want</w></l>
                 </lg>
                 <lg>
@@ -14457,7 +14450,6 @@ Entendido!-->
                 <lg>
                     <l n="6827"><lb n="15"/><w><hi rendition="hc:Versal">S</hi>o</w><w>wer</w><w>ich</w><w>ge<choice><orig>v</orig><reg>u</reg></choice>neret</w></l>
                     <l n="6828"><lb n="16"/><w>der</w><w>wirt</w><w>ſprach</w><w>war</w><w><del rendition="hc:Strikethrough">ich</del></w><w>ir</w><w>cheret</w></l>
-                    <!--letra a medio trazar         -->
                 </lg>
                 <lg>
                     <l n="6829"><lb n="17"/><w><hi rendition="hc:Versal">D</hi>az</w><w>iſt</w><w>mir</w><w><choice><orig>v</orig><reg>u</reg></choice>nmere</w></l>
@@ -14612,7 +14604,7 @@ Entendido!-->
                 </lg>
                 <lg>
                     <l n="6903"><lb n="11"/><w><hi rendition="hc:Versal">D</hi>en</w><w>het</w><w>er</w><w><choice><orig>v</orig><reg>u</reg></choice>nder</w><w>wegen</w><w>lan</w></l>
-                    <l n="6904"><lb n="12"/><w join="right">er</w><w join="left">n</w><w>wolte</w><w join="right">ſ</w><w join="left">in</w><w>niht</w><w join="right">ze</w><w join="left">champhe</w><w>han</w></l>
+                    <l n="6904"><lb n="12"/><w join="right">er</w><w join="left">n</w><w>wolte</w><w>ſin</w><w>niht</w><w join="right">ze</w><w join="left">champhe</w><w>han</w></l>
                 </lg>
                 <lg>
                     <l n="6905"><lb n="13"/><w><hi rendition="hc:Versal"><choice><orig>V</orig><reg>U</reg></choice></hi>nd</w><w>was</w><w>da</w><w>nieman</w><w>erchant</w></l>
@@ -14896,7 +14888,6 @@ Entendido!-->
                 </lg>
                 <lg>
                     <l n="7043"><lb n="31"/><w><hi rendition="hc:Versal">E</hi>in</w><w>vil</w><w>enges</w><w>vaz</w><w>beſaz</w></l>
-                    <!--falta verso     -->
                 </lg>
                 <lg>
                     <l n="7045"><lb n="32"/><w><hi rendition="hc:Versal">D</hi>a</w><w>wont</w><w>enſamt</w><w>inne</w></l>
@@ -14942,7 +14933,7 @@ Entendido!-->
                 </lg>
                 <lg>
                     <l n="7065"><lb n="13"/><w><hi rendition="hc:Versal">N</hi>immer</w><w>me</w><w>werden</w><w>vro</w></l>
-                    <l n="7066"><lb n="14"/><w>ſin</w><w>wunſch</w><w>vl<choice><orig>v</orig><reg>u</reg></choice>cher</w><w>im</w><w>alſo</w></l>
+                    <l n="7066"><lb n="14"/><w>ſin</w><w>wunſch</w><w>vl<choice><orig>v</orig><reg>u</reg></choice>chet</w><w>im</w><w>alſo</w></l>
                 </lg>
                 <lg>
                     <l n="7067"><lb n="15"/><w><hi rendition="hc:Versal"><choice><orig>J</orig><reg>I</reg></choice></hi>m</w><w>gebriſtet</w><w>des</w><w>leides</w><w>niht</w></l>
@@ -15016,7 +15007,7 @@ Entendido!-->
                 </lg>
                 <lg>
                     <l n="7103"><lb n="9"/><w><hi rendition="hc:Versal">W</hi>ol</w><w>z<choice><orig>v</orig><reg>u</reg></choice></w><w>h<choice><orig>v</orig><reg>u</reg></choice>ndert</w><w>ſt<choice><orig>v</orig><reg>u</reg></choice>chen</w><w>zebrach</w></l>
-                    <l n="7104"><lb n="10"/><w><choice><orig>v</orig><reg>u</reg><reg>nd</reg></choice></w><w>daz</w><w>da</w><w>mannechlich</w><w><choice><orig>i</orig><reg>j</reg></choice>ach</w></l>
+                    <l n="7104"><lb n="10"/><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>daz</w><w>da</w><w>mannechlich</w><w><choice><orig>i</orig><reg>j</reg></choice>ach</w></l>
                 </lg>
                 <lg>
                     <l n="7105"><lb n="11"/><w join="right"><hi rendition="hc:Versal">E</hi>r</w><w join="left">n</w><w>geſehe</w><w>ſchoner</w><w>t<choice><orig>i</orig><reg>j</reg></choice>oſt</w><w>nie</w></l>
@@ -15031,7 +15022,7 @@ Entendido!-->
                     <l n="7110"><lb n="16"/><w>man</w><w>horte</w><w>ein</w><w>geſchrei</w></l>
                 </lg>
                 <lg>
-                    <l n="7111"><lb n="17"/><w><hi rendition="hc:Versal">W</hi>a</w><w>n<choice><orig>v</orig><reg>u</reg></choice></w><w>ſper</w><del rendition="hc:Strikethrough"><w>diz</w><w>iſt</w></del><w><del rendition="hc:ImplicitlyDeleted">h</del></w></l>
+                    <l n="7111"><lb n="17"/><w><hi rendition="hc:Versal">W</hi>a</w><w>n<choice><orig>v</orig><reg>u</reg></choice></w><w>ſper</w><del rendition="hc:Strikethrough"><w>diz</w><w>iſt</w></del><del rendition="hc:ImplicitlyDeleted"><w>h</w></del></l>
                     <l n="7112"><lb n="18"/><w>dizze</w><w>iſt</w><w>hin</w><w>ein</w><w>anders</w><w>her</w></l>
                 </lg>
                 <lg>
@@ -15123,7 +15114,6 @@ Entendido!-->
                 <lg>
                     <l n="7155"><lb n="21"/><w><hi rendition="hc:Versal">W</hi>and</w><w>er</w><w>ſin</w><w>ofte</w><w>engiltet</w></l>
                     <l n="7156"><lb n="22"/><w>der</w><w>borch</w><w>niht</w><w>giltet</w></l>
-                    <!--faltan versos     -->
                 </lg>
                 <lg>
                     <l n="7159"><lb n="23"/><w><hi rendition="hc:Versal">D</hi>a</w><w>von</w><w>ir</w><w>ietweder</w><w>galt</w></l>
@@ -15136,7 +15126,6 @@ Entendido!-->
                 <lg>
                     <l n="7165"><lb n="27"/><w><hi rendition="hc:Versal">S</hi>i</w><w>entlihen</w><w>bede</w><w><choice><orig>v</orig><reg>u</reg></choice>z</w><w>voller</w><w>hant</w></l>
                     <l n="7166"><lb n="28"/><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>wart</w><w>nach</w><w>gelte</w><w>niht</w><w>geſant</w></l>
-                    <!--faltan versos     -->
                 </lg>
                 <lg>
                     <l n="7167"><lb n="29"/><w><hi rendition="hc:Versal">W</hi>an</w><w>ſi</w><w>heten</w><w><choice><orig>v</orig><reg>u</reg></choice>f</w><w>das</w><w>velt</w></l>
@@ -15193,7 +15182,7 @@ Entendido!-->
                 </lg>
                 <lg>
                     <l n="7193"><lb n="15"/><w><hi rendition="hc:Versal">S</hi>i</w><w>namen</w><w>wucher</w><w>dar</w><w>an</w></l>
-                    <l n="7194"><lb n="16"/><w>als</w><w>zwene</w><w>wervende</w><w>man</w><hi hei:color="Red"><pc>·</pc></hi></l>
+                    <l n="7194"><lb n="16"/><w>als</w><w>zwene</w><w>wervende</w><w>man</w></l>
                 </lg>
                 <lg>
                     <l n="7195"><lb n="17"/><w><hi rendition="hc:Versal">S</hi>i</w><w>phlagen</w><w>zweir</w><w>gewinne</w></l>
@@ -15202,14 +15191,13 @@ Entendido!-->
                 <lg>
                     <l n="7197"><lb n="19"/><w><hi rendition="hc:Versal">D</hi>ehein</w><w>cho<choice><orig>v</orig><reg>u</reg></choice>fman</w><w>hete</w><w>ir</w><w>ſite</w></l>
                     <l n="7198"><lb n="20"/><w join="right">er</w><w join="left">n</w><w>verd<choice><orig>v</orig><reg>u</reg></choice><subst><del rendition="hc:Adapted">l</del><add rendition="hc:Adapted">r</add></subst>be</w><w>da</w><w>mite</w></l>
-                    <!--pode ser que fose facer unha b e cambiara no último momento? Hai moitos casos nos que me parece que deixou a letra a medias, pero non sei que facer con iso.     -->
                 </lg>
                 <lg>
                     <l n="7199"><lb n="21"/><w><hi rendition="hc:Versal">D</hi>a</w><w>wurden</w><w>ſi</w><w>riche</w><w>abe</w></l>
                     <l n="7200"><lb n="22"/><w>ſi</w><w>entlihen</w><w>niemen</w><w>ir</w><w>habe</w></l>
                 </lg>
                 <lg>
-                    <l n="7201"><lb n="23"/><w><hi rendition="hc:Versal"><choice><orig>J</orig><reg>I</reg></choice></hi>n</w><w>wer</w><w>leit</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>galt</w><w>er</w><w>in<del rendition="hc:Erased">ht</del></w></l>
+                    <l n="7201"><lb n="23"/><w><hi rendition="hc:Versal"><choice><orig>J</orig><reg>I</reg></choice></hi>n</w><w>wer</w><w>leit</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>galt</w><w>er</w><subst><del rendition="hc:Erased hc:Adapted"><w>niht</w></del><add rendition="hc:Adapted"><w>in</w></add></subst></l>
                     <l n="7202"><lb n="24"/><w>n<choice><orig>v</orig><reg>u</reg></choice></w><w>ſehet</w><w>wie</w><w>ſolch</w><w>gewin</w></l>
                 </lg>
                 <lg>
@@ -15234,7 +15222,7 @@ Entendido!-->
                 </lg>
                 <lg>
                     <l n="7213"><lb n="35"/><w><hi rendition="hc:Versal">A</hi>rbeit</w><w><choice><orig>v</orig><reg>u</reg></choice>m</w><w>ere</w></l>
-                    <l n="7214"><lb n="36"/><w>ſine</w><w>heten</w><w>nie</w><w>mere</w></l>
+                    <l n="7214"><lb n="36"/><w join="right">ſi</w><w join="left">ne</w><w>heten</w><w>nie</w><w>mere</w></l>
                 </lg>
                 <lg>
                     <l n="7215"><lb n="37"/><w><hi rendition="hc:Versal"><choice><orig>J</orig><reg>I</reg></choice></hi>n</w><w>alſo</w><w>ch<choice><orig>v</orig><reg>u</reg></choice>rzen</w><w>ſt<choice><orig>v</orig><reg>u</reg></choice>nden</w></l>
@@ -15333,7 +15321,7 @@ Entendido!-->
                 </lg>
                 <lg>
                     <l n="7261"><lb n="3"/><w><hi rendition="hc:Versal">D</hi>iſen</w><w>champh</w><w>ſahen</w><w>an</w></l>
-                    <l n="7262"><lb n="4"/><w>manich</w><w join="right">champh</w><w join="left">wiſer</w><w>man</w></l>
+                    <l n="7262"><lb n="4"/><w>manich</w><w>champhwiſer</w><w>man</w></l>
                 </lg>
                 <lg>
                     <l n="7263"><lb n="5"/><w><hi rendition="hc:Versal">D</hi>ehein</w><w>o<choice><orig>v</orig><reg>u</reg></choice>ge</w><w>was</w><w>vur</w><w>war</w></l>
@@ -15402,7 +15390,6 @@ Entendido!-->
                 <lg>
                     <l n="7295"><lb n="37"/><w><hi rendition="hc:Versal">N</hi>ieman</w><w>geſcheiden</w><w>mohte</w></l>
                     <l n="7296"><lb n="38"/><w>do</w><w>tet</w><w>ſi</w><w>daz</w><w>ir</w><w>tohte</w></l>
-                    <!--faltan versos     -->
                 </lg>
                 <lg>
                     <l n="7299"><lb n="39"/><w><hi rendition="hc:Versal">D</hi>i</w><w>ſchone</w><w>di</w><w>g<choice><orig>v</orig><reg>u</reg></choice>te</w></l>
@@ -15611,7 +15598,7 @@ Entendido!-->
                 </lg>
                 <lg>
                     <l n="7399"><lb n="19"/><w><hi rendition="hc:Versal">V</hi>il</w><w>nach</w><w>hete</w><w>benomen</w></l>
-                    <l n="7400"><lb n="20"/><w>di</w><w>naht</w><w>ſi</w><w>got</w><w>wil</w><w>chomen</w></l>
+                    <l n="7400"><lb n="20"/><w>di</w><w>naht</w><w>ſi</w><w>got</w><w>wil chomen</w></l>
                 </lg>
                 <lg>
                     <l n="7401"><lb n="21"/><w><hi rendition="hc:Versal">S</hi>ol</w><w>ich</w><w>mit</w><w>eren</w><w>alten</w></l>
@@ -15623,7 +15610,7 @@ Entendido!-->
                 </lg>
                 <lg>
                     <l n="7405"><lb n="25"/><w><hi rendition="hc:Versal">V</hi>on</w><w>ſch<choice><orig>v</orig><reg>u</reg></choice>lden</w><w>iht</w><w>haben</w><w>mege</w></l>
-                    <l n="7406"><lb n="26"/><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>wer</w><w>er</w><w>lenger</w><w>dier</w><w>ſlege</w></l>
+                    <l n="7406"><lb n="26"/><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>wer</w><w>er</w><w>lenger</w><w>drier</w><w>ſlege</w></l>
                 </lg>
                 <lg>
                     <l n="7407"><lb n="27"/><w><hi rendition="hc:Versal">D</hi>i</w><w>heten</w><w><choice><orig>v</orig><reg>u</reg></choice>ch</w><w>den</w><w>ſich</w><w>gegeben</w></l>
@@ -15642,7 +15629,7 @@ Entendido!-->
                     <l n="7414"><lb n="34"/><w><choice><orig>v</orig><reg>u</reg></choice>f</w><w>den</w><w>tach</w><w>morgen</w></l>
                 </lg>
                 <lg>
-                    <l n="7415"><lb n="35"/><w><hi rendition="hc:Versal">G</hi>ot</w><w>enwelle</w><w join="right">mich</w><w join="left">s</w><w>erlan</w></l>
+                    <l n="7415"><lb n="35"/><w><hi rendition="hc:Versal">G</hi>ot</w><w join="right">en</w><w join="left">welle</w><w join="right">mich</w><w join="left">s</w><w>erlan</w></l>
                     <l n="7416"><lb n="36"/><w>ſo</w><w>m<choice><orig>v</orig><reg>u</reg></choice>z</w><w>ich</w><w>aver</w><w>beſtan</w></l>
                 </lg>
                 <lg>
@@ -15750,11 +15737,10 @@ Entendido!-->
                 </lg>
                 <lg>
                     <l n="7467"><lb n="7"/><w><hi rendition="hc:Versal">H</hi>eten</w><w>ſwas</w><w>ſi</w><w>d<choice><orig>v</orig><reg>u</reg></choice>hte</w><w>g<choice><orig>v</orig><reg>u</reg></choice>t</w></l>
-                    <l n="7468"><lb n="8"/><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>daz</w><w>wir</w><w>dieſthaften</w><w>m<choice><orig>v</orig><reg>u</reg></choice>t</w></l>
+                    <l n="7468"><lb n="8"/><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>daz</w><w>wir</w><w>dienſthaften</w><w>m<choice><orig>v</orig><reg>u</reg></choice>t</w></l>
                 </lg>
                 <lg>
                     <l n="7469"><lb n="9"/><w><hi rendition="hc:Versal">Z</hi><choice><orig>v</orig><reg>u</reg></choice></w><w>ein</w><w>ander</w><w>m<choice><orig>v</orig><reg>u</reg></choice>ſten</w><w>tragen</w></l>
-                    <!--     falta verso-->
                 </lg>
                 <lg>
                     <l n="7471"><lb n="10"/><w><hi rendition="hc:Versal">I</hi>ch</w><w>bin</w><w>ez</w><w>Gawein</w></l>
@@ -15769,7 +15755,7 @@ Entendido!-->
                     <l n="7476"><lb n="15"/><w>iwer</w><w>haz</w><w>iſt</w><w>ergangen</w></l>
                 </lg>
                 <lg>
-                    <l n="7477"><lb n="16"/><w><hi rendition="hc:Versal"><choice><orig>V</orig><reg>U</reg></choice></hi>ber</w><w>iwern</w><w>gewizen</w><w join="right">dienſt</w><w join="left">man</w></l>
+                    <l n="7477"><lb n="16"/><w><hi rendition="hc:Versal"><choice><orig>V</orig><reg>U</reg></choice></hi>ber</w><w>iwern</w><w>gewizen</w><w>dienſtman</w></l>
                     <l n="7478"><lb n="17"/><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w join="right">ich</w><w join="left">n</w><w>zwi<choice><orig>u</orig><reg>v</reg></choice>el</w><w>niht</w><w>dar</w><w>an</w></l>
                 </lg>
                 <lg>
@@ -15824,6 +15810,7 @@ Entendido!-->
                 <lg>
                     <l n="7503"><lb n="2"/><w>Si</w><w><choice><orig>v</orig><reg>u</reg></choice>nder</w><w>ch<choice><orig>v</orig><reg>u</reg></choice>ſten</w><w>ſich</w><w>ander</w><w>ſt<choice><orig>v</orig><reg>u</reg></choice>nt</w></l>
                     <l n="7504"><lb n="3"/><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>ward</w><w>in</w><w>neͮwe</w><w>vro<choice><orig>v</orig><reg>u</reg></choice>de</w><w>ch<choice><orig>v</orig><reg>u</reg></choice>nt</w></l>
+                    <!--Revisado Victor 19/12/2019     -->
                 </lg>
                 <lg>
                     <l n="7505"><lb n="4"/><w><hei:initial ana="hc:Lombard" hei:color="Blue" hei:heightLines="2">D</hei:initial>o</w><w>der</w><w>ch<choice><orig>v</orig><reg>u</reg></choice>nch</w><w>di</w><w>minne</w></l>
@@ -15832,7 +15819,6 @@ Entendido!-->
                 <lg>
                     <l n="7507"><lb n="6"/><w><hi rendition="hc:Versal">V</hi>on</w><w>in</w><w>zwein</w><w>geſahen</w></l>
                     <l n="7508"><lb n="7"/><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>ſo</w><w>vr<choice><orig>v</orig><reg>u</reg></choice>ntlichez</w><w><choice><orig>v</orig><reg>u</reg></choice>me</w><w>vahen</w></l>
-                    <!--versais desta columna ata aquí?     -->
                 </lg>
                 <lg>
                     <l n="7509"><lb n="8"/><w><hi rendition="hc:Versal">D</hi>es</w><w>wunderte</w><w>ſi</w><w>ſere</w></l>
