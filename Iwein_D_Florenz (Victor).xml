@@ -2013,7 +2013,7 @@
                     <l n="712"><lb n="4"/><w>ritter</w><w>ir</w><w>ſit</w><w>tr<choice><orig>v</orig><reg>u</reg></choice>los</w></l>
                 </lg>
                 <lg>
-                    <l n="713"><lb n="5"/><w><hi rendition="hc:Versal">M</hi>ir</w><w>wart</w><w>wen</w><w>e<choice xml:id="D_w_713_3"><orig>v</orig><reg>u</reg></choice>ch</w><w>niht</w><w>wi<choice><am>d͛</am><ex>der</ex></choice> ſeit<note resp="VM" ana="hc:TranscriptionNote" target="#D_w_713_3">'wen' zu 'won' korrigiert?</note></w></l>
+                    <l n="713"><lb n="5"/><w><hi rendition="hc:Versal">M</hi>ir</w><w>wart</w><w xml:id="D_w_713_3">wen</w><w>e<choice><orig>v</orig><reg>u</reg></choice>ch</w><w>niht</w><w>wi<choice><am>d͛</am><ex>der</ex></choice> ſeit<note ana="hc:TranscriptionNote" target="#D_w_713_3">'wen' zu 'won' korrigiert?</note></w></l>
                     <l n="714"><lb n="6"/><w><choice><orig>v</orig><reg>u</reg></choice>nde</w><w>habet</w><w>mir</w><w>laſter</w><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>leit</w></l>
                 </lg>
                 <lg>
@@ -13105,8 +13105,7 @@ Ten máis sentido ca que quede "Arion", consideraríase unha adaptación? -->
                 </lg>
                 <lg>
                     <l n="6159"><lb n="37"/><w><hei:initial ana="hc:ScrollworkInitial" hei:color="Blue" hei:heightLines="2">S</hei:initial>i</w><w>ſprach</w><w>m<choice><orig>v</orig><reg>u</reg></choice>ſt</w><w>ich</w><w><choice><orig>v</orig><reg>u</reg></choice>ch</w><w>dan</w><w part="I">ſe</w><lb ana="hc:DependentLine hc:RunOverLineBelow" n="37a"/><metamark ana="hc:RunOverSign ">||</metamark><w part="F" xml:id="D_w_6159_7">hen</w></l>
-                    <!--falta n     -->
-                    <l n="6160"><lb n="38"/><w>des</w><w>lei<choice><am>d͛</am><ex>der</ex></choice></w><w>niht</w><w>mach</w><w part="I">geſche</w><metamark ana="hc:RunOverSign ">||</metamark><w part="F" xml:id="D_w_6160_6">hen</w><note ana="hc:TranscriptionNote" target="#D_w_6159_7 #D_w_6160_6">Zeile 37 endet mit einem Überhang, der eine Zeile weiter unten steht: "ſe-hen". Doch die untere Zeile kommt nur bis "geſche-" und stößt dann auf das Überlaufzeichen. Der Schreiber schreibt das Ende des Reimwortes nicht mehr aus. Der Verdacht drängt sich auf, dass er gemeint hat, dieser Überhang passe auch zu diesem Wort, weil es genau das erwartete und durch den Reim erforderte Ende des Wortes bietet, und er es deswegen so hat stehen lassen</note></l>
+                    <l n="6160"><lb n="38"/><w>des</w><w>lei<choice><am>d͛</am><ex>der</ex></choice></w><w>niht</w><w>mach</w><w>geſche<supplied>hen</supplied></w><note ana="hc:TranscriptionNote" target="#D_w_6159_7 #D_w_6160_6">Der Schreiber schreibt das Ende des Reimwortes nicht mehr aus. Anscheinend hat er gemeint, dass es sich erübrige, da das erwartete und durch den Reim erforderte Ende des Wortes '-hen' exakt mit dem an dieser Stelle stehenden Überhang der vorangehenden Zeile übereinstimmt</note></l>
                 </lg>
                 <lg>
                     <l n="6161"><lb n="39"/><w><hi rendition="hc:Versal">H</hi>er</w><w>wider</w><w><choice><orig>v</orig><reg>u</reg></choice>s</w><w>cheren</w></l>
@@ -17064,7 +17063,6 @@ Ten máis sentido ca que quede "Arion", consideraríase unha adaptación? -->
                 <lg>
                     <l n="8119"><lb n="21"/><damage ana="hc:Stained"><w><hi rendition="hc:Versal">D</hi>i</w><w>ich</w><w>immer</w><w>wol</w><w>heizen</w><w>mach</w></damage></l>
                     <l n="8120"><lb n="22"/><damage ana="hc:Stained"><w>miner</w><w>vro<choice><orig>v</orig><reg>u</reg></choice>den</w><w join="right">oſter</w><w join="left">tach</w></damage></l>
-                    <!--faltan versos     -->
                 </lg>
                 <lg>
                     <l n="8137"><lb n="23"/><damage ana="hc:Stained"><w><hi rendition="hc:Versal">H</hi>ie</w><w>ſach</w><w>vro<choice><orig>v</orig><reg>u</reg></choice></w><w>l<choice><orig>v</orig><reg>u</reg></choice>net</w></damage></l>
