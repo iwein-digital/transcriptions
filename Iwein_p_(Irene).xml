@@ -949,7 +949,7 @@
                 <pb n="12r"/>
                 <cb n="a"/>
                 <lg>
-                    <l n="608"><lb n="1"/><w><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">D</hei:initial><hi rendition="hc:RedStroke">O</hi></w><w>ich</w><w>dar</w><w>geriten</w><w>kam</w><metamark ana="hc:CueInitial " hei:placeRef="hc:Inline">d</metamark></l>
+                    <l n="608"><lb n="1"/><metamark ana="hc:CueInitial " hei:placeRef="hc:Inline">d</metamark><w><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">D</hei:initial><hi rendition="hc:RedStroke">O</hi></w><w>ich</w><w>dar</w><w>geriten</w><w>kam</w></l>
                 </lg>
                 <lg>
                     <l n="609"><lb n="2"/><w><hi rendition="hc:RedStroke">E</hi>r</w><w>ye</w><w>geweſen</w><w>were</w></l>
@@ -997,7 +997,7 @@
                     <!--este verso?     -->
                 </lg>
                 <lg>
-                    <l n="629"><lb n="3"/><w><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">D</hei:initial><hi rendition="hc:RedStroke">O</hi></w><w>ich</w><w>daz</w><w>becken</w><w>hangen</w><w>fant</w><metamark ana="hc:CueInitial" hei:placeRef="hc:Inline">d</metamark></l>
+                    <l n="629"><lb n="3"/><metamark ana="hc:CueInitial" hei:placeRef="hc:Inline">d</metamark><w><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">D</hei:initial><hi rendition="hc:RedStroke">O</hi></w><w>ich</w><w>daz</w><w>becken</w><w>hangen</w><w>fant</w></l>
                     <l n="630"><lb n="4"/><w><hi rendition="hc:RedStroke">D</hi>o</w><w>gedochte</w><w>ich</w><w>zü</w><w>hant</w></l>
                 </lg>
                 <lg>
