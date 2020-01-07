@@ -943,7 +943,7 @@
                 </lg>
                 <lg>
                     <l n="585"><lb n="19"/><w><hi rendition="hc:RedStroke">D</hi>er</w><w>iſt</w><w>gelochert</w><w>faſte</w></l>
-                    <l n="586"><lb n="20"/><w><hi rendition="hc:RedStroke">E</hi>s</w><w>hanget</w><w>von</w><w>dem</w><w>aſte</w><note ana="hc:TranscriptionNote" target="#xpath(//l[@n='586'])">Die Unterbrechung des Satzes deutet auf Textverlust in der Vorlage oder groben Zeilensprung hin</note></l>
+                    <l n="586"><lb n="20"/><w><hi rendition="hc:RedStroke">E</hi>s</w><w>hanget</w><w>von</w><w>dem</w><w>aſte</w><note ana="hc:TranscriptionNote" target="#xpath(//l[@n='586'])">Die Unterbrechung des Satzes deutet auf Textverlust in der Vorlage oder Seitensprung hin</note></l>
                     <!--Revisado Victor 30/12/2019 – Ben, Lorena, cada vez mellor. Vixía as 'tz' (as veces a 't' é so un paliño antes da 'z'), e esas 's' que parecen 'B' en pequeno e que a miudo transcribes como 'z'. Qué tal se poñemos os 'cueInitial' diante ao inicio do verso en lugar de ao final?     -->
                 </lg>
                 <pb n="12r"/>
@@ -953,15 +953,15 @@
                 </lg>
                 <lg>
                     <l n="609"><lb n="2"/><w><hi rendition="hc:RedStroke">E</hi>r</w><w>ye</w><w>geweſen</w><w>were</w></l>
-                    <l n="610"><lb n="3"/><w><hi rendition="hc:RedStroke">E</hi>in</w><w>dot</w><w>ruge</w><w>ſere</w></l>
+                    <l n="610"><lb n="3"/><w><hi rendition="hc:RedStroke">E</hi>in</w><w>dot</w><w>ruge ſere</w></l>
                 </lg>
                 <lg>
-                    <l n="611"><lb n="4"/><w><hi rendition="hc:RedStroke">D</hi>az</w><w>herze</w><w>were</w><w>da</w><w>wol</w><w>gefrouwet</w></l>
+                    <l n="611"><lb n="4"/><w><hi rendition="hc:RedStroke">D</hi>az</w><w>hertze</w><w>were</w><w>da</w><w>wol</w><w>gefrouwet</w></l>
                     <l n="612"><lb n="5"/><w><hi rendition="hc:RedStroke">S</hi>ye</w><w>waz</w><w>mit</w><w>vogelin</w><w>beſtrauwet</w></l>
                 </lg>
                 <lg>
                     <l n="613"><lb n="6"/><w><hi rendition="hc:RedStroke">D</hi>az</w><w>ich</w><w>der</w><w>eſte</w><w>ſchin</w><w>verloz</w></l>
-                    <l n="614"><lb n="7"/><w><hi rendition="hc:RedStroke"><choice><orig>V</orig><reg>U</reg></choice></hi>nd</w><w>ouch</w><w>daz</w><w>loubez</w><w>luzel</w><w>koz</w></l>
+                    <l n="614"><lb n="7"/><w><hi rendition="hc:RedStroke"><choice><orig>V</orig><reg>U</reg></choice></hi>nd</w><w>ouch</w><w>daz</w><w>loubes</w><w>lützel</w><w>koz</w></l>
                 </lg>
                 <lg>
                     <l n="615"><lb n="8"/><w><hi rendition="hc:RedStroke">D</hi>er</w><w join="right">en</w><w join="left">werent</w><w>nirgent</w><w>zwene</w><w>glich</w></l>
@@ -977,7 +977,7 @@
                 </lg>
                 <lg>
                     <l n="621"><lb n="14"/><w><hi rendition="hc:RedStroke">D</hi>en</w><w>burnen</w><w>ich</w><w>dar</w><w><choice><orig>v</orig><reg>u</reg></choice>nder</w><w>ſach</w></l>
-                    <l n="622"><lb n="15"/><w><hi rendition="hc:RedStroke">A</hi>lſo</w><w>mir</w><w>der</w><w>walt</w><w>man</w><w>verjach</w></l>
+                    <l n="622"><lb n="15"/><w><hi rendition="hc:RedStroke">A</hi>lſo</w><w>mir</w><w>der</w><w>waltman</w><w>verjach</w></l>
                 </lg>
                 <lg>
                     <l n="623"><lb n="16"/><w><hi rendition="hc:RedStroke">E</hi>in</w><w>ſmaracte</w><w>waz</w><w>der</w><w>ſtein</w></l>
@@ -992,17 +992,16 @@
                 <lg>
                     <l n="627"><lb n="1"/><w><hi rendition="hc:RedStroke">N</hi>it</w><w>ſchoͤner</w><w>wan</w><w>er</w><w>uff</w><w>got</w></l>
                 </lg>
-                <lg>    
-                    <l n="627,1"><lb n="2"/><hi hei:color="Red"><w>Hie</w><w>goſz</w><w>er</w><w><choice><orig>v</orig><reg>u</reg></choice>ff</w><w>den</w><w>ſtein</w></hi></l>
-                    <!--este verso?     -->
-                </lg>
+                <lb n="2"/><label ana="hc:SummaryLabel"><hi hei:color="Red"><w>Hie</w><w>goſz</w><w>er</w><w><choice><orig>v</orig><reg>u</reg></choice>ff</w><w>den</w><w>ſtein</w></hi></label>
+                    <!--este verso?  NON É UN VERSO, É UN TITULILLO QUE INDICA O CONTIDO DO APARTADO QUE AGORA EMPEZA, HAI MOITOS NESTE MANUSCRITO. Codificámolos como <label>, non coma <l>   -->
                 <lg>
                     <l n="629"><lb n="3"/><metamark ana="hc:CueInitial" hei:placeRef="hc:Inline">d</metamark><w><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">D</hei:initial><hi rendition="hc:RedStroke">O</hi></w><w>ich</w><w>daz</w><w>becken</w><w>hangen</w><w>fant</w></l>
-                    <l n="630"><lb n="4"/><w><hi rendition="hc:RedStroke">D</hi>o</w><w>gedochte</w><w>ich</w><w>zü</w><w>hant</w></l>
+                    <l n="630"><lb n="4"/><w><hi rendition="hc:RedStroke">D</hi>o</w><w>gedochte</w><w>ich</w><w>zü hant</w></l>
                 </lg>
                 <lg>
-                    <l n="631"><lb n="5"/><w><hi rendition="hc:RedStroke">S</hi>it</w><w>ich</w><w>nach</w><w>offenture</w><w>reÿt</w></l>
                     <l n="632"><lb n="6"/><w><hi rendition="hc:RedStroke">E</hi>s</w><w>were</w><w>ein</w><w><choice><orig>v</orig><reg>u</reg></choice>nmanheit</w></l>
+                    <l n="631"><lb n="5"/><w><hi rendition="hc:RedStroke">S</hi>it</w><w>ich</w><w>nach</w><w>offentüre</w><w>reÿt</w></l>
+                    <!--Revisado Victor 7/1/2020     -->
                 </lg>
                 <lg>
                     <l n="633"><lb n="7"/><w><hi rendition="hc:RedStroke">O</hi>be</w><w>ich</w><w>daz</w><w>verbere</w></l>
