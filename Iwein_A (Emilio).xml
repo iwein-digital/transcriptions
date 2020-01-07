@@ -6416,7 +6416,6 @@
                 <lg>
                     <l n="3179"><w>Daz</w><w>nimmer</w><w>ein</w><w>wol</w><lb n="8"/><w><choice><orig>u</orig><reg>v</reg></choice>romer</w><w>man</w><pc>·</pc></l>
                     <l n="3180"><w join="right">An</w><w join="left">truwe</w><w>werden</w><w>ne</w><w>kan</w><pc>·</pc></l>
-                    <!--Revisado Victor 26/12/2019     -->
                 </lg>
                 <lg>
                     <l n="3181"><w>Nu</w><w>doͮ</w><lb n="9"/><w>ih</w><w>diſſen</w><w>herren</w><w>kunt</w><pc>·</pc></l>
@@ -6424,10 +6423,10 @@
                 </lg>
                 <lg>
                     <l n="3183"><w>haben</w><w><choice><orig>u</orig><reg>v</reg></choice>or</w><w>einin</w><w>truweloſen</w><w>man</w><pc>·</pc></l>
-                    <l n="3184"><w>da</w><lb n="11"/><w>ir</w><w><choice><orig>w</orig><reg>wu</reg></choice>rden</w><pc>·</pc><w>da</w><w>waſ</w><w>ih</w><w>an</w><pc>·</pc></l>
+                    <l n="3184"><w>da</w><lb n="11"/><w>ir</w><w><choice><orig>w</orig><reg>wu</reg></choice>rde<subst><del rendition="hc:Adapted hc:Underdotted">n</del><add rendition="hc:Adapted">t</add></subst></w><pc>·</pc><w>da</w><w>waſ</w><w>ih</w><w>an</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="3185"><w>En ſament</w><w>me</w><w>in</w><w>eide</w><pc>·</pc></l>
+                    <l n="3185"><w>En ſament</w><w>meineide</w><pc>·</pc></l>
                     <l n="3186"><lb n="12"/><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>truweloſ</w><w>beide</w><pc>·</pc></l>
                 </lg>
                 <lg>
@@ -6463,12 +6462,11 @@
                     <l n="3202"><w>dem</w><w>her</w><w>yweine</w><w>tete</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="3203"><w>Daz</w><w>gahe</w><w part="I">wi</w><metamark ana="hc:Hyphen">‒</metamark><lb break="no" n="24"/><w part="F">keren</w><pc>·</pc></l>
+                    <l n="3203"><w>Daz</w><w>gahe</w><w>wi</w><metamark ana="hc:Hyphen">‒</metamark><lb break="no" n="24"/><w>keren</w><pc>·</pc></l>
                     <l n="3204"><w>waſ</w><w>ein</w><w>ſlah</w><w>ſiner</w><w>eren</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="3205"><w>Daz</w><w>ſie</w><w>ſo</w><lb n="25"/><w>von</w><w>me</w><w>ſciet</w><pc>·</pc></l>
-                    <!--Al final de 'von' no sé si hay una i o es una tachadura???-->
+                    <l n="3205"><w>Daz</w><w>ſie</w><w>ſo</w><lb n="25"/><w join="right">von</w><w join="left">ime</w><w>ſciet</w><pc>·</pc></l>
                     <l n="3206"><w>daz</w><w join="right">ſi</w><w join="left">ene</w><w join="right">ne</w><w join="left">troſte</w><w>noh</w><w>riet</w><pc>·</pc></l>
                 </lg>
                 <lg>
@@ -6504,7 +6502,13 @@
                     <l n="3222"><choice><abbr>wan<am>d͛</am></abbr><expan><w join="right">wand</w><w join="left"><ex>er</ex></w></expan></choice><w>ne</w><w>mohte</w><w>de</w><w>ſculde</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="3223"><w><choice><orig>v</orig><reg>u</reg></choice>f</w><w part="I">n<metamark ana="hc:InsertionMark ">,</metamark><add hei:placeRef="hc:AboveLine">i</add>e</w><lb n="9"/><w part="F">man</w><metamark ana="hc:Hyphen ">,</metamark><w><add hei:placeRef="hc:AboveLine">ge</add><metamark ana="hc:InsertionMark "></metamark>ſagen</w><metamark ana="hc:TranspositionMark ">⫽</metamark><w>anderſ</w><pc>·</pc></l>
+                    <l n="3223"><w><choice><orig>v</orig><reg>u</reg></choice>f</w><w part="I">n<metamark ana="hc:InsertionMark">,</metamark><add hei:placeRef="hc:AboveLine">i</add>e</w><lb n="9"/><w part="F">man</w><metamark ana="hc:Hyphen ">,</metamark><w xml:id="A_w_3223_3"><add hei:placeRef="hc:AboveLine">ge</add><metamark ana="hc:InsertionMark "></metamark>ſagen</w><metamark ana="hc:TranspositionMark ">⫽</metamark><w xml:id="A_w_3223_4">anderſ</w><pc>·</pc></l>
+                    <listTranspose>
+                        <transpose corresp="#A_w_3223_3 #A_w_3223_4">
+                            <ptr target="#A_w_3223_4"></ptr>
+                            <ptr target="#A_w_3223_3"></ptr>
+                        </transpose>
+                    </listTranspose>
                     <l n="3224"><w join="right">wand</w><w join="left">in</w><w>hete</w><w>ſil<choice><orig>u</orig><reg>v</reg></choice>eſ</w><w>ſwert</w><lb n="10"/><w>ir ſlagen</w><pc>·</pc></l>
                 </lg>
                 <lg>
@@ -6549,7 +6553,7 @@
                 </lg>
                 <lg>
                     <l n="3245"><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><lb n="23"/><w join="right">alſ</w><w join="left">in</w><w>nieman</w><w join="right">ne</w><w join="left">vant</w><pc>·</pc></l>
-                    <l n="3246"><w>Nu</w><w>waſ</w><w>daz</w><w>vil</w><w>um</w><lb n="24"/><w>be want</w><pc>·</pc></l>
+                    <l n="3246"><w>Nu</w><w>waſ</w><w>daz</w><w>vil</w><w part="I">um</w><lb n="24"/><w part="F">bewant</w><pc>·</pc></l>
                 </lg>
                 <lg>
                     <l n="3247"><w>Swaz</w><w>man</w><w>da</w><w>ime</w><w>geriep</w><pc>·</pc></l>
@@ -6569,11 +6573,10 @@
                     <!--A continuación falta el v. 3255 y parte del v. 3256     -->
                 </lg>
                 <lg>
-                    <l n="3256"><lb n="3"/><w>u<choice><am>n̄</am><ex>nd</ex></choice></w><w>lib</w><pc>·</pc></l>
+                    <l n="3256"><lb n="3"/><w>u<choice><am>n̄</am><ex>nd</ex></choice></w><w>lib</w><pc>·</pc><note ana="hc:TranscriptionNote" target="#xpath(//l[@n='3256'])">Ohne Materialverlust fehlen V. 3255 und ein Teil von V. 3256</note></l>
                 </lg>
                 <lg>
-                    <l n="3257"><w>Der</w><w>ie</w><w><del rendition="hc:Erased">e</del>in</w><w>rehter</w><w>adamaſ</w><pc>·</pc></l>
-                    <!--No estoy del todo seguro, pero creo que después de 'ie' se borró una 'e'??-->
+                    <l n="3257"><w>Der</w><w>ie</w><w><subst><del rendition="hc:Adapted hc:Erased">a</del><add rendition="hc:Adapted">i</add></subst>n</w><w>rehter</w><w>adamaſ</w><pc>·</pc></l>
                     <l n="3258"><w>Riterlicher</w><lb n="4"/><w>duge</w><w>was</w><pc>·</pc></l>
                 </lg>
                 <lg>
@@ -6585,7 +6588,7 @@
                     <l n="3262"><w>der</w><lb n="6"/><w>in</w><w>uz</w><w>ſiner</w><w>huͦte</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="3263"><w>Dan</w><w>noh</w><w>niht</w><w><choice><orig>u</orig><reg>v</reg></choice>olliche</w><w>ne</w><lb n="7"/><w>liez</w><pc>·</pc></l>
+                    <l n="3263"><w>Dannoh</w><w>niht</w><w><choice><orig>u</orig><reg>v</reg></choice>olliche</w><w>ne</w><lb n="7"/><w>liez</w><pc>·</pc></l>
                     <l n="3264"><w>daz</w><w>em</w><w>ein</w><w>garzun</w><w>wi<choice><am>d͛</am><ex>der</ex></choice></w><w>ſtiez</w><pc>·</pc></l>
                 </lg>
                 <lg>
@@ -6606,15 +6609,14 @@
                 </lg>
                 <lg>
                     <l n="3273"><w>Swa</w><w>daz</w><lb n="13"/><w>geſtunt</w><w>an</w><w>ſin</w><w>zil</w><pc>·</pc></l>
-                    <l n="3274"><w>deſ</w><w join="right">ſcoz</w><w join="left">er</w><w>uzer</w><w>ma<del rendition="hc:Underdotted">t</del><add hei:placeRef="hc:AboveLine">z</add>en</w><w><choice><orig>u</orig><reg>v</reg></choice>il</w><pc>·</pc></l>
+                    <l n="3274"><w>deſ</w><w join="right">ſcoz</w><w join="left">er</w><w>uzer</w><w>ma<subst><del rendition="hc:Underdotted">t</del><add hei:placeRef="hc:AboveLine">z</add></subst>en</w><w><choice><orig>u</orig><reg>v</reg></choice>il</w><pc>·</pc></l>
                 </lg>
                 <lg>
                     <l n="3275"><lb n="14"/><w>Oh</w><w join="right">moͮſt</w><w join="both">er</w><w join="left">z</w><w>ſel<choice><orig>u</orig><reg>v</reg></choice>e</w><w><choice><orig>u</orig><reg>v</reg></choice>ahen</w><pc>·</pc></l>
                     <l n="3276"><w>Ane</w><w>bracken</w><w part="I">irga</w><metamark ana="hc:Hyphen">‒</metamark><lb break="no" n="15"/><w part="F">hen</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="3277"><w join="right">So</w><w join="right">ne</w><w join="both">het</w><w join="left">er</w><w>kezel</w><pc>·</pc><w>noh</w><w>ſmalz</w><pc>·</pc></l>
-                    <!--Es la primera vez que me aparecen cuatro palabras unidas y me parece que está mal codificado? Al hacer dos veces 'join both' me borra el guión en 'So'.-->
+                    <l n="3277"><w join="right">So</w><w join="both">ne</w><w join="both">het</w><w join="left">er</w><w>kezel</w><pc>·</pc><w>noh</w><w>ſmalz</w><pc>·</pc></l>
                     <l n="3278"><w>we<choice><am>d͛</am><ex>der</ex></choice></w><w>peffer</w><pc>·</pc><lb n="16"/><w>noh</w><w>ſalz</w><pc>·</pc></l>
                 </lg>
                 <lg>
@@ -6631,8 +6633,7 @@
                 </lg>
                 <lg>
                     <l n="3285"><w>An</w><lb n="20"/><w>ein</w><w>niwe</w><w>rute</w><pc>·</pc></l>
-                    <l n="3286"><w join="right">da</w><w join="both">ne</w><w join="left"/><choice><abbr><choice><orig>u</orig><reg>v</reg></choice>an<am>t͛</am></abbr><expan><w join="right"><choice><orig>u</orig><reg>v</reg></choice>ant</w><w join="left"><ex>er</ex></w></expan></choice><w>nie</w><w>me</w><w>liute</w><pc>·</pc></l>
-                    <!--De nuevo hay aquí cuatro palabras unidas. Codificación??-->
+                    <l n="3286"><w join="right">da</w><w join="left">ne</w><choice><abbr><choice><orig>u</orig><reg>v</reg></choice>an<am>t͛</am></abbr><expan><w join="right"><choice><orig>u</orig><reg>v</reg></choice>ant</w><w join="left"><ex>er</ex></w></expan></choice><w>nie</w><w>me</w><w>liute</w><pc>·</pc></l>
                 </lg>
                 <lg>
                     <l n="3287"><w part="I">Wan</w><metamark ana="hc:Hyphen">‒</metamark><lb break="no" n="21"/><w part="F">einen</w><w>einigen</w><w>man</w><pc>·</pc></l>
@@ -6676,7 +6677,7 @@
                 </lg>
                 <lg>
                     <l n="3307"><choice><abbr>wan<am>d͛</am></abbr><expan><w join="right">wand</w><w join="left"><ex>er</ex></w></expan></choice><lb n="8"/><w>da</w><w><choice><orig>uͮ</orig><reg>v</reg></choice>ore</w><w>daz</w><w>got</w><w>wal</w><w>weiz</w><pc>·</pc></l>
-                    <l n="3308"><w>So</w><w><choice><orig>i</orig><reg>j</reg></choice>amerliches</w><lb n="9"/><w>nie</w><w>en beiz</w><w/><pc>·</pc></l>
+                    <l n="3308"><w>So</w><w><choice><orig>i</orig><reg>j</reg></choice>amerliches</w><lb n="9"/><w>nie</w><w>en beiz</w><pc>·</pc></l>
                 </lg>
                 <lg>
                     <l n="3309"><w>waz</w><w join="right">wilt</w><w join="left">ir</w><w>daz</w><w>der</w><w>tore</w><w>toͮ</w><pc>·</pc></l>
@@ -6685,6 +6686,7 @@
                 <lg>
                     <l n="3311"><w>Eines</w><w>wazers</w><lb n="11"/><w join="right">daz</w><w join="left">er</w><w><choice><orig>u</orig><reg>v</reg></choice>ant</w><pc>·</pc></l>
                     <l n="3312"><w>In</w><w>einem</w><w>ember</w><w join="right">an</w><w join="left"><choice><am>d͛</am><ex>der</ex></choice></w><w>want</w><pc>·</pc></l>
+                    <!--Revisado Victor 07/1/2020     -->
                 </lg>
                 <lg>
                     <l n="3313"><w/><w/><w/><w/><w/><pc>·</pc></l>
