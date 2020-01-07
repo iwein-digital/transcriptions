@@ -992,10 +992,9 @@
                 <lg>
                     <l n="627"><lb n="1"/><w><hi rendition="hc:RedStroke">N</hi>it</w><w>ſchoͤner</w><w>wan</w><w>er</w><w>uff</w><w>got</w></l>
                 </lg>
-                <lg>    
-                    <l n="627,1"><lb n="2"/><hi hei:color="Red"><w>Hie</w><w>goſz</w><w>er</w><w><choice><orig>v</orig><reg>u</reg></choice>ff</w><w>den</w><w>ſtein</w></hi></l>
-                    <!--este verso?  NON É UN VERSO, É UN TITULILLO QUE INDICA O CONTIDO DO APARTADO QUE AGORA EMPEZA, HAI MOITOS NESTE MANUSCRITO. FIXEN CONSULTA A HEIDELBERG SOBRE COMO CODIFICÁLOS   -->
-                </lg>
+                <lb n="2"/><label ana="hc:SummaryLabel"><hi hei:color="Red"><w>Hie</w><w>goſz</w><w>er</w><w><choice><orig>v</orig><reg>u</reg></choice>ff</w><w>den</w><w>ſtein</w></hi></label>
+                    <!--este verso?  NON É UN VERSO, É UN TITULILLO QUE INDICA O CONTIDO DO APARTADO QUE AGORA EMPEZA, HAI MOITOS NESTE MANUSCRITO. Codificámolos como <label>, non coma <l>   -->
+                
                 <lg>
                     <l n="629"><lb n="3"/><metamark ana="hc:CueInitial" hei:placeRef="hc:Inline">d</metamark><w><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">D</hei:initial><hi rendition="hc:RedStroke">O</hi></w><w>ich</w><w>daz</w><w>becken</w><w>hangen</w><w>fant</w></l>
                     <l n="630"><lb n="4"/><w><hi rendition="hc:RedStroke">D</hi>o</w><w>gedochte</w><w>ich</w><w>zü hant</w></l>
