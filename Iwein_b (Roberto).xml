@@ -28,16 +28,32 @@
         </fileDesc>
         <encodingDesc>
             <listPrefixDef>
-                <prefixDef ident="hc" matchPattern="(.+)"
-                    replacementPattern="https://lod.ub.uni-heidelberg.de/ontologies/heieditions/hc/current/$1"
-                />
+                <prefixDef ident="hc" matchPattern="(.+)" replacementPattern="https://lod.ub.uni-heidelberg.de/ontologies/heieditions/hc/current/$1"/>
             </listPrefixDef>
         </encodingDesc>
     </teiHeader>
-    <facsimile><!-- folgende Surface wegen Lagenreklamant auf fol. 84v angelegt, überprüfen! -->
+    <facsimile>
+        <surface ana="hc:Page" xml:id="b_1r" n="1r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg391/0005/image"/>
+            <zone ana="hc:Column" xml:id="b_1r-a" n="a"/>
+        </surface>
+        <surface ana="hc:Page" xml:id="b_1v" n="1v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg391/0006/image"/>
+            <zone ana="hc:Column" xml:id="b_1v-a" n="a"/>
+        </surface>
+        <surface ana="hc:Page" xml:id="b_2r" n="2r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg391/0007/image"/>
+            <zone ana="hc:Column" xml:id="b_2r-a" n="a"/>
+        </surface>
+        <surface ana="hc:Page" xml:id="b_2v" n="2v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg391/0008/image"/>
+            <zone ana="hc:Column" xml:id="B_2v-a" n="a"/>
+        </surface>
+        <!-- folgende Surface wegen Lagenreklamant auf fol. 84v angelegt, überprüfen! -->
         <surface ana="hc:Page" xml:id="b_84v" n="84v">
-            <zone ana="hc:Column" xml:id="b_84v-a" n="a"></zone>
-            <zone ana="hc:MarginalZone" xml:id="b_84v_2" hei:placeRef="hc:PageBottom hc:PageMarginRight"></zone>
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg391/0172/image"/>
+            <zone ana="hc:Column" xml:id="b_84v-a" n="a"/>
+            <zone ana="hc:MarginalZone" xml:id="b_84v_2" hei:placeRef="hc:PageBottom hc:PageMarginRight"/>
         </surface>
     </facsimile>
     <text ana="hc:CompleteExpression hc:CourtlyRomance">
