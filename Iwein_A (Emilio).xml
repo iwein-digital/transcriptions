@@ -8626,7 +8626,10 @@
                     <l n="4323"><w>vwer</w><w>leben</w><w>iſt</w><w>nutzer</w><w>dan</w><w>daz</w><w>min</w><pc>·</pc></l>
                     <l n="4324"><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><lb n="27"/><w join="right">moht</w><w join="left">iz</w><w>ein</w><w>wage</w><w>ſin</w><pc>·</pc></l>
                 </lg>
-                <lg> <l n="4325"><w>So</w><w join="right">dorſt</w><w join="left">ih</w><w><choice><orig>v</orig><reg>u</reg></choice></w><w>wol</w><w>biten</w><pc>·</pc></l> <pb n="65r"/><cb n="a"/><l n="4326"><lb n="1"/><w>d<del rendition="hc:Underdotted">a</del><add hei:placeRef="hc:AboveLine">i</add>z</w><w>iſt</w><w>gar</w><w>wi<choice><am>d͛</am><ex>der</ex></choice></w><w>den</w><w>ſiden</w><pc>·</pc></l> </lg>
+                <lg> 
+                    <l n="4325"><w>So</w><w join="right">dorſt</w><w join="left">ih</w><w><choice><orig>v</orig><reg>u</reg></choice></w><w>wol</w><w>biten</w><pc>·</pc></l>
+                    <pb n="65ar"/><cb n="a"/>
+                    <l n="4326"><lb n="1"/><w>d<del rendition="hc:Underdotted">a</del><add hei:placeRef="hc:AboveLine">i</add>z</w><w>iſt</w><w>gar</w><w>wi<choice><am>d͛</am><ex>der</ex></choice></w><w>den</w><w>ſiden</w><pc>·</pc></l> </lg>
                 <lg>
                     <l n="4327"><w>Daz</w><w>ein</w><w><choice><orig>u</orig><reg>v</reg></choice>ehte</w><w>wi<choice><am>d͛</am><ex>der</ex></choice></w><w>dri</w><lb n="2"/><w>man</w><pc>·</pc></l>
                     <l n="4328"><w>diu</w><w>liude</w><w>habent</w><w>ſih</w><w>doh</w><w join="right">dar</w><w join="left">an</w><pc>·</pc></l>
@@ -8690,7 +8693,7 @@
                 </lg>
                 <lg>
                     <l n="4357"><w><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="1">N</hei:initial>u</w><w join="right">n</w><w join="left">en twelter</w><w>da</w><w>niht</w><w>me</w><pc>·</pc></l>
-                    <l n="4358"><lb n="21"/><w>Sin</w><w>lewe</w><w join="right">uolget</w><w join="left">im</w><w>alſe</w><w>e</w><pc>·</pc></l>
+                    <l n="4358"><lb n="21"/><w>Sin</w><w>lewe</w><w join="right"><choice><orig>u</orig><reg>v</reg></choice>olget</w><w join="left">im</w><w>alſe</w><w>e</w><pc>·</pc></l>
                 </lg>
                 <lg>
                     <l n="4359"><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>reit</w><w join="right">unz</w><w join="left">er</w><w>ein</w><lb n="22"/><w>huſ</w><w>ſah</w><pc>·</pc></l>
@@ -8702,7 +8705,7 @@
                 </lg>
                 <lg>
                     <l n="4363"><w>vor</w><w part="I">ſtor</w><lb n="24"/><w part="F">me</w><w>u<choice><am>n̄</am><ex>nd</ex></choice></w><w><choice><orig>u</orig><reg>v</reg></choice>or</w><w>mangen</w><pc>·</pc></l>
-                    <l n="4364"><w>den</w><w>berh</w><w>hete</w><w>be vangen</w><pc>·</pc></l>
+                    <l n="4364"><w>den</w><w>berh</w><w>hete</w><w>bevangen</w><pc>·</pc></l>
                 </lg>
                 <lg>
                     <l n="4365"><lb n="25"/><w>Ein</w><w>mure</w><w>ho</w><pc>·</pc><w>u<choice><am>n̄</am><ex>nd</ex></choice></w><w>dic</w><pc>·</pc></l>
@@ -8710,15 +8713,14 @@
                 </lg>
                 <lg>
                     <l n="4367"><w>De</w><w>da</w><w>wirt</w><w>waſ</w><w>genant</w><pc>·</pc></l>
-                    <l n="4368"><w>Im</w><w>waſ</w><w>daz</w><w part="I"><choice><orig>u</orig><reg>v</reg></choice>or</w><metamark ana="hc:Hyphen">‒</metamark><lb break="no" n="27"/><w part="F">burge</w><w><choice><orig>u</orig><reg>v</reg></choice>ir brant</w><pc>·</pc></l>
+                    <l n="4368"><w>Im</w><w>waſ</w><w>daz</w><w part="I"><choice><orig>u</orig><reg>v</reg></choice>or</w><metamark ana="hc:Hyphen">‒</metamark><lb break="no" n="27"/><w part="F">burge</w><w><choice><orig>u</orig><reg>v</reg></choice>irbrant</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="4369"><w><choice><orig>v</orig><reg>u</reg></choice>nz</w><w join="right">an</w><w join="left">die</w><w>burch</w><w>mure</w><pb n="65v"/><cb n="a"/><lb n="1"/><w>gar</w><pc>·</pc></l>
+                    <l n="4369"><w><choice><orig>v</orig><reg>u</reg></choice>nz</w><w join="right">an</w><w join="left">die</w><w>burch</w><w>mure</w><pb n="65av"/><cb n="a"/><lb n="1"/><w>gar</w><pc>·</pc></l>
                     <l n="4370"><w>Nu</w><w>quam</w><w>min</w><w>her</w><w>ywein</w><w>dar</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="4371"><w join="right">Alſ</w><w join="left">in</w><w>der</w><w>we’h</w><add hei:placeRef="hc:PageMarginRight">’</add><lb n="2"/><w>lerte</w><pc>·</pc></l>
-                    <!--Yo veo aquí una comilla entre la e y la h y después al margen. Qué significa esto? Indica una abreviatura de algo? Es werih en lugar de weh???-->
+                    <l n="4371"><w join="right">Alſ</w><w join="left">in</w><w>der</w><w>weh</w><lb n="2"/><w>lerte</w><pc>·</pc></l>
                     <l n="4372"><w>Do</w><w>her</w><w>zo</w><w>huſe</w><w>kerte</w><pc>·</pc></l>
                 </lg>
                 <lg>
@@ -8752,7 +8754,6 @@
                 <lg>
                     <l n="4387"><w>Irſ</w><w>gebares</w><pc>·</pc><w>u<choice><am>n̄</am><ex>nd</ex></choice></w><w>irſ</w><w>moͮteſ</w><pc>·</pc></l>
                     <l n="4388"><w>doͮ</w><w join="right">ne</w><choice><abbr><choice><orig>u</orig><reg>v</reg></choice>an<am>t͛</am></abbr><expan><w join="both"><choice><orig>u</orig><reg>v</reg></choice>ant</w><w join="left"><ex>er</ex></w></expan></choice><lb n="11"/><w>nith</w><pc>·</pc></l>
-                    <!--Falta parte del verso 4388 y el verso 4389!-->
                 </lg>
                 <lg>
                     <l n="4390"><w>den</w><w>ir barmet</w><w>deſ</w><w>manneſ</w><w>arbeit</w><pc>·</pc></l>
@@ -8831,7 +8832,7 @@
                 </lg>
                 <lg>
                     <l n="4427"><w>Daz</w><w>truren</w><lb n="5"/><w>behapte</w><w>den</w><w>ſtrit</w><pc>·</pc></l>
-                    <l n="4428"><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w><choice><orig>u</orig><reg>v</reg></choice>ir kerte</w><w>ſih</w><w>doͮ</w><w>in</w><w>kurzer</w><lb n="6"/><w>zit</w><pc>·</pc></l>
+                    <l n="4428"><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w><choice><orig>u</orig><reg>v</reg></choice>irkerte</w><w>ſih</w><w>doͮ</w><w>in</w><w>kurzer</w><lb n="6"/><w>zit</w><pc>·</pc></l>
                 </lg>
                 <lg>
                     <l n="4429"><w>Daz</w><w><choice><orig>v</orig><reg>u</reg></choice></w><w>nieman</w><w>ne</w><w>kan</w><w>geſagen</w><pc>·</pc></l>
@@ -8839,7 +8840,7 @@
                 </lg>
                 <lg>
                     <l n="4431"><w>Die</w><w><choice><orig>u</orig><reg>v</reg></choice>rowede</w><w>der</w><w>man</w><w>doͮ</w><w>plah</w><pc>·</pc></l>
-                    <l n="4432"><lb n="8"/><w join="right">Alſ</w><w join="left">er</w><w>ywein</w><w>daz</w><w>ge ſah</w><pc>·</pc></l>
+                    <l n="4432"><lb n="8"/><w join="right">Alſ</w><w join="left">er</w><w>ywein</w><w>daz</w><w>geſah</w><pc>·</pc></l>
                 </lg>
                 <lg>
                     <l n="4433"><w>her</w><w><choice><orig>u</orig><reg>v</reg></choice>ragete</w><w>den</w><w>wert</w><lb n="9"/><w>mere</w><pc>·</pc></l>
@@ -8902,7 +8903,7 @@
                     <l n="4462"><w>daz</w><lb n="25"/><w>ih</w><w>m<del rendition="hc:Underdotted">a</del><add hei:placeRef="hc:AboveLine">i</add>h</w><w>gerechen</w><w join="right">niene</w><w join="left">kan</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="4463"><w>Mir</w><w>hat</w><w>ge machet</w><lb n="26"/><w>ein</w><w>riſe</w><pc>·</pc></l>
+                    <l n="4463"><w>Mir</w><w>hat</w><w>gemachet</w><lb n="26"/><w>ein</w><w>riſe</w><pc>·</pc></l>
                     <l n="4464"><w>Mine</w><w>huͦbe</w><w>zo</w><w>einir</w><w>wiſe</w><pc>·</pc></l>
                 </lg>
                 <lg>
@@ -8919,8 +8920,7 @@
                 </lg>
                 <lg>
                     <l n="4471"><w>Daz</w><w>iſt</w><w>eine</w><w part="I">har</w><metamark ana="hc:Hyphen">‒</metamark><lb break="no" n="3"/><w part="F">de</w><w>ſcone</w><w>maget</w><pc>·</pc></l>
-                    <l n="4472"><w>daz</w><w>ih</w><w>eme</w><w>die</w><w>han</w><w><choice><orig>u</orig><reg>v</reg></choice>irſ<del rendition="hc:Erased">l</del>aget</w><pc>·</pc></l>
-                    <!--A lo mejor se borró una 'l', pero es pura especulación.-->
+                    <l n="4472"><w>daz</w><w>ih</w><w>eme</w><w>die</w><w>han</w><w><choice><orig>u</orig><reg>v</reg></choice>irſ aget</w><pc>·</pc></l>
                 </lg>
                 <lg>
                     <l n="4473"><w>Dar</w><lb n="4"/><w>umbe</w><w join="right"><choice><orig>u</orig><reg>v</reg></choice>ir woſtet</w><w>her</w><w>mih</w><pc>·</pc></l>
@@ -8967,7 +8967,7 @@
                     <l n="4494"><w>Mit</w><w>ſulchem</w><w>unge<choice><orig>u</orig><reg>v</reg></choice>erte</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="4495"><w>So</w><lb n="16"/><w join="right">w<del rendition="hc:Underdotted">e</del><add hei:placeRef="hc:AboveLine">i</add>ll</w><w join="left">er</w><w>ir</w><w>ze</w><w>wibe</w><w>haben</w><w>rat</w><pc>·</pc></l>
+                    <l n="4495"><w>So</w><lb n="16"/><w join="right">w<subst><del rendition="hc:Underdotted">e</del><add hei:placeRef="hc:AboveLine">i</add></subst>ll</w><w join="left">er</w><w>ir</w><w>ze</w><w>wibe</w><w>haben</w><w>rat</w><pc>·</pc></l>
                     <l n="4496"><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>dem</w><w>boſten</w><lb n="17"/><w>garzune</w><w>den</w><w>her</w><w>hat</w><pc>·</pc></l>
                 </lg>
                 <lg>
@@ -8992,7 +8992,7 @@
                 </lg>
                 <lg>
                     <l n="4507"><w><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="1">D</hei:initial>oͮ</w><w>der</w><w>gaſt</w><w>ſin</w><w>ungemah</w><pc>·</pc></l>
-                    <l n="4508"><lb n="24"/><w>beide</w><w>ge horte</w><pc>·</pc><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>ge ſah</w><pc>·</pc></l>
+                    <l n="4508"><lb n="24"/><w>beide</w><w>ge horte</w><pc>·</pc><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>geſah</w><pc>·</pc></l>
                 </lg>
                 <lg>
                     <l n="4509"><w>Daz</w><w join="right">begund</w><w join="left">em</w><w>an</w><w>ſin</w><lb n="25"/><w>herze</w><w>gan</w><pc>·</pc></l>
@@ -9000,7 +9000,7 @@
                 </lg>
                 <lg>
                     <l n="4511"><lb n="26"/><w>Ir</w><w>ne</w><w>ſohtet</w><w>helfe</w><w>u<choice><am>n̄</am><ex>nd</ex></choice></w><w>rat</w><pc>·</pc></l>
-                    <l n="4512"><w>dar</w><w>ſie</w><w>iu</w><w>ze</w><w part="I">ſuchen</w><metamark ana="hc:Hyphen">‒</metamark><lb break="no" n="27"/><w part="F">de</w><w>ſtat</w><pc>·</pc></l>
+                    <l n="4512"><w>da<del rendition="hc:RedStrikethrough">r</del></w><w>ſie</w><w>iu</w><w>ze</w><w part="I">ſuchen</w><metamark ana="hc:Hyphen">‒</metamark><lb break="no" n="27"/><w part="F">de</w><w>ſtat</w><pc>·</pc></l>
                 </lg>
                 <lg>
                     <l n="4513"><w>In</w><w>deſ</w><w>koningeſ</w><w>artuſeſ</w><w>lande</w><pc>·</pc></l>
@@ -9048,7 +9048,7 @@
                 </lg>
                 <lg>
                     <l n="4535"><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>den</w><w>koͮninc</w><w>ſizen</w><w>ſah</w><pc>·</pc></l>
-                    <l n="4536"><w>her</w><w>ir beizte</w><lb n="13"/><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>ſprah</w><pc>·</pc></l>
+                    <l n="4536"><w>her</w><w>irbeizte</w><lb n="13"/><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>ſprah</w><pc>·</pc></l>
                 </lg>
                 <lg>
                     <l n="4537"><w>Ih</w><w>bin</w><w>uf</w><w>gnade</w><w>her</w><w>coͮ<choice><am>m̄</am><ex>men</ex></choice></w><pc>·</pc></l>
@@ -9106,7 +9106,6 @@
                 <lg>
                     <l n="4565"><w join="right">Dem</w><w join="left">er</w><w>wol</w><w>ge<choice><orig>u</orig><reg>v</reg></choice>alle</w><pc>·</pc></l>
                     <l n="4566"><w>diz</w><w>bagen</w><w>horten</w><lb n="4"/><w>alle</w><pc>·</pc></l>
-                    <!--Después de 'alle' parece que se ha borrado una letra???-->
                 </lg>
                 <lg>
                     <l n="4567"><w>Die</w><w><choice><orig>u</orig><reg>v</reg></choice>on</w><w>der</w><w>tabelrunde</w><pc>·</pc></l>
@@ -9158,7 +9157,7 @@
                 </lg>
                 <lg>
                     <l n="4591"><w>Die</w><w>diſſen</w><w>rat</w><w>taten</w><pc>·</pc></l>
-                    <l n="4592"><w>die</w><w>h<choice><am>ā</am><ex>an</ex></choice>t</w><lb n="18"/><w>mih</w><w><choice><orig>u</orig><reg>v</reg></choice>ir raten</w><w/><pc>·</pc></l>
+                    <l n="4592"><w>die</w><w>h<choice><am>ā</am><ex>an</ex></choice>t</w><lb n="18"/><w>mih</w><w><choice><orig>u</orig><reg>v</reg></choice>ir raten</w><pc>·</pc></l>
                 </lg>
                 <lg>
                     <l n="4593"><w><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="1">N</hei:initial>u</w><w>in</w><w>der</w><w>riter</w><w>zornen</w><w>ſah</w><pc>·</pc></l>
@@ -9169,13 +9168,12 @@
                     <l n="4596"><lb n="20"/><w join="right">wand</w><w join="left">ih</w><w>ir</w><w>anderſ</w><w>nit</w><w>ne</w><w>bite</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="4597"><w>Nie wan</w><w>mit</w><w>den</w><lb n="21"/><w>ged<choice><am>i’</am><ex>in</ex></choice>ge</w><pc>·</pc></l>
-                    <!--Dudosa la comilla en la i  , pero la solución de GÄRTNER der ver una n o v encima de la i no me convence-->
+                    <l n="4597"><w>Nie wan</w><w>mit</w><w>den</w><lb n="21"/><w>ged<choice><am>ī</am><ex>in</ex></choice>ge</w><pc>·</pc></l>
                     <l n="4598"><w>Ob</w><w>ih</w><w>ſi</w><w>hinne</w><w>bringe</w><pc>·</pc></l>
                 </lg>
                 <lg>
                     <l n="4599"><w>Ir</w><w>hat</w><w>der</w><w>beſten</w><lb n="22"/><w>ein</w><w>he<del rendition="hc:Underdotted">i</del>re</w><pc>·</pc></l>
-                    <l n="4600"><w>ob</w><w>ih</w><w>ſie</w><w>in</w><w>allen</w><w>ir were</w><pc>·</pc></l>
+                    <l n="4600"><w>ob</w><w>ih</w><w>ſie</w><w>in</w><w>allen</w><w>irwere</w><pc>·</pc></l>
                 </lg>
                 <lg>
                     <l n="4601"><w>Die</w><w>mir</w><w>dur</w><lb n="23"/><w>ſie</w><w>riten</w><w>nah</w><pc>·</pc></l>
@@ -9196,6 +9194,7 @@
                 <lg>
                     <l n="4609"><w join="right">Daz</w><w join="left">er</w><w>gelobte</w><w>wider</w><w>in</w><pc>·</pc></l>
                     <l n="4610"><w>her</w><w><choice><orig>u</orig><reg>v</reg></choice>oͮrte</w><pb n="68r"/><cb n="a"/><lb n="1"/><w>die</w><w>koninginne</w><w>hin</w><pc>·</pc></l>
+                    <!--Revisado Victor 17//2020 – EMILIO, no puedes ser tan riguroso con las palabras con espacio. La mayoría de las veces en que tú pones un espacio dentro de una <w>, ese espacio es dudoso o mínimo; se trata de escritura manuscrita, es normal que a veces se les vaya un poco. Todo lo que se pueda minimamente decir que va junto o que apenas ha separación, lo transcribimos junto. Sólo cuando el espacio es grande e innegable lo separamos. Vale?-->
                 </lg>
                 <lg>
                     <l n="4611"><w/><w/><w/><w/><w/><pc>·</pc></l>
