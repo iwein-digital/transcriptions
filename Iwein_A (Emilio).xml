@@ -9194,7 +9194,6 @@
                 <lg>
                     <l n="4609"><w join="right">Daz</w><w join="left">er</w><w>gelobte</w><w>wider</w><w>in</w><pc>·</pc></l>
                     <l n="4610"><w>her</w><w><choice><orig>u</orig><reg>v</reg></choice>oͮrte</w><pb n="68r"/><cb n="a"/><lb n="1"/><w>die</w><w>koninginne</w><w>hin</w><pc>·</pc></l>
-                    <!--Revisado Victor 17//2020 – EMILIO, no puedes ser tan riguroso con las palabras con espacio. La mayoría de las veces en que tú pones un espacio dentro de una <w>, ese espacio es dudoso o mínimo; se trata de escritura manuscrita, es normal que a veces se les vaya un poco. Todo lo que se pueda minimamente decir que va junto o que apenas ha separación, lo transcribimos junto. Sólo cuando el espacio es grande e innegable lo separamos. Vale?-->
                 </lg>
                 <lg>
                     <l n="4611"><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>doͮ</w><w>ſie</w><w>ſciet</w><w><choice><orig>u</orig><reg>v</reg></choice>on</w><w>dan</w><pc>·</pc></l>
@@ -9274,7 +9273,7 @@
                 </lg>
                 <lg>
                     <l n="4649"><w><choice><orig>v</orig><reg>u</reg></choice>f</w><w>ſuſ</w><w>getane</w><w>rede</w><w>komen</w><pc>·</pc></l>
-                    <l n="4650"><w>Ih</w><w>ſol</w><w join="right">ſi</w><w join="left">em</w><lb n="22"/><w>ſciere</w><w>han</w><w>be no<choice><am>m̄</am><ex>men</ex></choice></w><pc>·</pc></l>
+                    <l n="4650"><w>Ih</w><w>ſol</w><w join="right">ſi</w><w join="left">em</w><lb n="22"/><w>ſciere</w><w>han</w><w>beno<choice><am>m̄</am><ex>men</ex></choice></w><pc>·</pc></l>
                 </lg>
                 <lg>
                     <l n="4651"><w><choice><orig>v</orig><reg>u</reg></choice></w><w>ſolte</w><w><choice><orig>u</orig><reg>v</reg></choice>irſmahen</w><pc>·</pc></l>
@@ -9303,11 +9302,9 @@
                 <lg>
                     <l n="4663"><w>Ih</w><w>irlaze</w><w>uh</w><w>aller</w><w>arbeit</w><pc>·</pc></l>
                     <l n="4664"><w join="right">hi</w><w join="left">mite</w><lb n="3"/><w>waſ</w><w>oh</w><w>her</w><pc>·</pc></l>
-                    <!--El v. 4664 está incompleto; falta la última palabra.-->
                 </lg>
                 <lg>
                     <l n="4666"><w>geriet</w><w>der</w><w>erſte</w><w>ungewin</w><pc>·</pc></l>
-                    <!--Falta el verso 4665; probablemente falte también el principio del verso 4666: 'ouch'     -->
                 </lg>
                 <lg>
                     <l n="4667"><w>Ze</w><w>ſinen</w><w part="I">u</w><metamark ana="hc:Hyphen">‒</metamark><lb break="no" n="4"/><w part="F">neren</w><pc>·</pc></l>
@@ -9355,7 +9352,8 @@
                 </lg>
                 <lg>
                     <l n="4689"><w>Daz</w><w>em</w><w>niht</w><w>ſame</w><lb n="16"/><w>geſcah</w><pc>·</pc></l>
-                    <l n="4690"><choice><abbr>wan<am>d͛</am></abbr><expan><w join="right">wand</w><w join="both"><ex>er</ex></w><w join="left">ne</w></expan></choice><w>oh</w><w>der</w><w>nider</w><w>ſtah</w><pc>·</pc></l>
+                    <l n="4690"><choice><abbr>wan<am>d͛</am></abbr><expan><w join="right">wand</w><w join="both"><ex>er</ex></w></expan></choice><w join="left">ne</w><w>oh</w><w>der nider</w><w>ſtah</w><pc>·</pc></l>
+                    <!--Revisado Victor 19/1/2020     -->
                 </lg>
                 <lg>
                     <l n="4691"><w/><w/><w/><w/><w/><pc>·</pc></l>
