@@ -11388,7 +11388,7 @@
                     <!--verso 5621: la penúltima palabra debería ser (al menos en Lachmann) "vierzehen". La v inicial y la n final están claras (n final como la de "ernerten" en el verso 5619); pero no soy capaz de distinguir lo que pone entre ambas, si dos i, una n u otra cosa. Además, de la v sale hacia abajo un rabo que recuerda al signo " ' ", abreviatura de -er. No puse nada porque no estoy seguro de que sea eso tampoco, pues está hacia abajo, pero sí estoy bastante seguro de que no pertenece a "leibes", palabra que está debajo.        
 vuelve a aparecer en el verso 5744 (último verso de la 120v), exactamente igual: puntos encima, la n final y el mismo rabo que sale de la v inicial. YO DIRÍA QUE ES EL NÚMERO XIIII EN CIFRAS ROMANAS, ¿QUÉ TE PARECE?
 
-Pues sí, me parece que tiene todo el sentido del mundo. En ese caso, ¿habría que regularizar la j? -->
+Pues sí, me parece que tiene todo el sentido del mundo. En ese caso, ¿habría que regularizar la j? NO, PORQUE NO ES UNA LETRA, SINO UNA CIFRA-->
                     <l n="5622"><lb n="21"/><w><hi rendition="hc:RedStroke"><choice><orig>v</orig><reg>u</reg></choice></hi>ntz</w><w>er</w><w>ſines</w><w>leibes</w><w>macht</w></l>
                 </lg>
                 <lg>
@@ -11523,12 +11523,10 @@ Pues sí, me parece que tiene todo el sentido del mundo. En ese caso, ¿habría 
                 </lg>
                 <lg>
                     <l n="5688"><lb n="15"/><w><hi rendition="hc:RedStroke">D</hi>er</w><w>her</w><w>Gawein</w><w>der</w><w>güte</w></l>
-                    <!--versos 5488 y 87 están intercambiados     -->
                     <l n="5687"><lb n="16"/><w><hi rendition="hc:RedStroke">M</hi>it</w><w>wercken</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>mit</w><w>müte</w></l>
                 </lg>
                 <lg>
                     <l n="5689"><lb n="17"/><w><hi rendition="hc:RedStroke">w</hi>ann</w><w join="right">er</w><w join="left">s</w><w>durch</w><w>ſinen</w><w>willen</w><w>dete</w></l>
-                    <!--verso 5689: er-s separado?     -->
                     <l n="5690"><lb n="18"/><w><hi rendition="hc:RedStroke">A</hi>uch</w><w>was</w><w>des</w><w>ritters</w><w>bete</w></l>
                 </lg>
                 <lg>
@@ -11637,7 +11635,6 @@ Pues sí, me parece que tiene todo el sentido del mundo. En ese caso, ¿habría 
                 </lg>
                 <lg>
                     <l n="5743"><lb n="22"/><w><hi rendition="hc:RedStroke">w</hi>ere</w><w>off</w><w>den</w><w>andern</w><w>clage</w></l>
-                    <!--verso 5744: vuelve a aparecer la palabra del verso 5621. En Lachmann vuelve a referirse a 14, "vierzec". Aquí, sin embargo, se distinguen claramente tres puntos en vez de dos. NUMERAL OTRA VEZ-->
                     <l n="5744"><lb n="23"/><w><hi rendition="hc:RedStroke">D</hi>as</w><w>er</w><w><choice><orig>j</orig><reg>i</reg></choice>me</w><w>wol</w><num value="14">xiiij</num><w>tage</w></l>
                     <!--Al final de la página, en el margen derecho, se lee "kampff", primera palabra de la página siguiente. =final de la 84v  BIEN VISTO!! ES UN RECLAMO, SIRVE PARA ORDENAR LOS CUADERNILLOS ANTES DE ENCUADERNARLOS. AL FINAL REVISAREMOS SI HAY MÁS Y LOS CODIFICAREMOS.  -->
                 </lg>
@@ -11689,7 +11686,6 @@ Pues sí, me parece que tiene todo el sentido del mundo. En ese caso, ¿habría 
                 </lg>
                 <lg>
                     <l n="5773"><lb n="23"/><w><hi rendition="hc:RedStroke"><choice><orig>v</orig><reg>u</reg></choice></hi>nd</w><w>ſant</w><w>als</w><w>ſie</w><w><choice><orig>j</orig><reg>i</reg></choice>ne</w><w>bat</w></l>
-                    <!--hay una marca en rojo debajo del último verso o es solo un borrón? DIRÍA QUE ES UN BORRÓN    -->
                     <pb n="121v"/>
                     <cb n="a"/>
                     <l n="5774"><lb n="1"/><w><hi rendition="hc:RedStroke">S</hi>ine</w><w>dochter</w><w>an</w><w>ir</w><w>ſtat</w></l>
@@ -12200,7 +12196,6 @@ Pues sí, me parece que tiene todo el sentido del mundo. En ese caso, ¿habría 
                 <lg>
                     <l n="6019"><lb n="13"/><w><hi rendition="hc:RedStroke">D</hi>ie</w><w>mich</w><w><choice><orig>v</orig><reg>u</reg></choice>ſz</w><w>hat</w><w>geſant</w></l>
                     <l n="6020"><lb n="14"/><w><hi rendition="hc:RedStroke"><choice><orig>j</orig><reg>i</reg></choice></hi>ch</w><w>ſage</w><w>u̇ch</w><w>wie</w><w>es</w><w><choice><orig>v</orig><reg>u</reg></choice>mb</w><w>ſie</w><w>iſt</w><w part="I">ge</w><w part="F"><lb ana="hc:DependentLine hc:RunOverLineAbove" n="14a"/><metamark ana="hc:RunOverSign ">|</metamark>want</w></l>
-                    <!--no estoy seguro de si las etiquetas de DependentLine y el atributo join están bien puestos. DEPENDENT LINE, SI; METAMARK, TAMBIÉN. PERO EN VEZ DE @JOIN AQUÍ USAMOS @BROKEN WORD (CTRL+B)     -->
                 </lg>
                 <lg>
                     <l n="6021"><lb n="15"/><w><hi rendition="hc:RedStroke">S</hi>ie</w><w>lẏdet</w><w>von</w><w>gewalt</w><w>not</w></l>
@@ -12415,7 +12410,6 @@ Pues sí, me parece que tiene todo el sentido del mundo. En ese caso, ¿habría 
                 <lg>
                     <l n="6129"><lb n="1"/><w><hi rendition="hc:RedStroke">S</hi>ie</w><w>winckte</w><w>ym</w><w>von</w><w>verre</w></l>
                     <l n="6130"><lb n="2"/><w><hi rendition="hc:RedStroke"><choice><orig>v</orig><reg>u</reg></choice></hi>nd</w><w>ſprach</w><w>myn</w><w>lieber</w><w>herre</w></l>
-                    <!--verso 6131-32 no están en este manuscrito     -->
                 </lg>
                 <lg>
                     <l n="6133"><lb n="3"/><w><hi rendition="hc:RedStroke">N</hi>u</w><w>zürnet</w><w>nicht</w><w>ſo</w><w>ſere</w></l>
@@ -12524,7 +12518,6 @@ Pues sí, me parece que tiene todo el sentido del mundo. En ese caso, ¿habría 
                 <lg>
                     <l n="6189"><lb n="7"/><w><hi rendition="hc:RedStroke">A</hi>ls</w><w>armer</w><w>lüte</w><w>gemach</w></l>
                     <l n="6190"><lb n="8"/><w join="right"><hi rendition="hc:RedStroke">d</hi>ar</w><w join="left"><choice><orig>j</orig><reg>i</reg></choice>ne</w><w>er</w><w>dürch</w><w>ein</w><w>fenſter</w><w>ſ<del rendition="hc:Erased">t</del>ach</w></l>
-                    <!--verso 6190: una t borrada en sach?  Podría ser...   -->
                 </lg>
                 <lg>
                     <l n="6191"><lb n="9"/><w><hi rendition="hc:RedStroke">w</hi>ürcken</w><w>wol</w><w>drüw</w><w>hündert</w><w>wip</w></l>
@@ -13789,7 +13782,6 @@ Pues sí, me parece que tiene todo el sentido del mundo. En ese caso, ¿habría 
                 <lg>
                     <l n="6809"><lb n="4"/><w><hi rendition="hc:RedStroke">S</hi>tete</w><w>an</w><w>keinem</w><w>wibe</w></l>
                     <l n="6810"><lb n="5"/><w><hi rendition="hc:RedStroke">N</hi>ewr</w><w>ir</w><w>ein<choice><am>ē</am><ex>em</ex></choice></w><w>libe</w></l>
-                    <!--verso 6810: hay un macron sobre la e de eine. En Lachmann está puesto como "einer", pero hay un macron y no una marca de -er. Creo que, igual que en muchos otros casos en este manuscrito, simplemente cambia el género del artículo, por eso puse -em. En fin, no estoy seguro, por eso dejo el comentario. TIENES RAZÓN, YO HABRÍA HECHO LO MISMO!   -->
                 </lg>
                 <lg>
                     <l n="6811"><lb n="6"/><w><hi rendition="hc:RedStroke">D</hi>urch</w><w>dy</w><w>mich</w><w>hertz</w><w>freüd</w><w>enbirt</w></l>
@@ -14198,7 +14190,6 @@ Pues sí, me parece que tiene todo el sentido del mundo. En ese caso, ¿habría 
                 <lg>
                     <l n="7007"><lb n="16"/><w><hi rendition="hc:RedStroke">v</hi>on</w><w>ritterſchafft</w><w>den</w><w>ſtrÿt</w></l>
                     <l n="7008"><lb n="17"/><w><hi rendition="hc:RedStroke">w</hi>as</w><w>ritter</w><w>lebten</w><w>bÿ</w><w>der</w><w>zÿt</w></l>
-                    <!--verso 7009-7014 no están en este manuscrito     -->
                 </lg>
                 <lg>
                     <l n="7015"><lb n="18"/><w><hi rendition="hc:RedStroke">E</hi>s</w><w>dünckt</w><w>die</w><w>andern</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>mich</w></l>
@@ -15148,7 +15139,6 @@ Pues sí, me parece que tiene todo el sentido del mundo. En ese caso, ¿habría 
                     <pb n="158r"/>
                     <cb n="a"/>
                     <l n="7490"><lb n="1"/><w><hi rendition="hc:RedStroke">D</hi>as</w><w>was</w><w><choice><orig>j</orig><reg>i</reg></choice>r</w><w>beyder</w><w>hertze</w><w>leit</w></l>
-                    <!--Revisado Victor 18/12/2019     -->
                 </lg>
                 <lg>
                     <l n="7491"><lb n="2"/><w><hi rendition="hc:RedStroke">B</hi>eyde</w><w>truren</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>has</w></l>
@@ -15572,7 +15562,6 @@ Pues sí, me parece que tiene todo el sentido del mundo. En ese caso, ¿habría 
                 <lg>
                     <l n="7693"><lb n="5"/><w><hi rendition="hc:RedStroke">S</hi>o</w><w>gar</w><w>here</w><w>zu</w><w>mir</w><w>verlan</w></l>
                     <l n="7694"><lb n="6"/><w><hi rendition="hc:RedStroke">D</hi>ie</w><w>wil</w><w><choice><orig>j</orig><reg>i</reg></choice>ren</w><w>teÿl</w><w>zü</w><w>recht</w><w>han</w></l>
-                    <!--verso 7695-7702 no están en este manuscrito     -->
                 </lg>
                 <lg>
                     <l n="7703"><lb n="7"/><w><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">D</hei:initial>is</w><w>rette</w><w>er</w><w>w<choice><am>ā</am><ex>an</ex></choice>n</w><w>er</w><w>weſte</w></l>
@@ -15605,7 +15594,6 @@ Pues sí, me parece que tiene todo el sentido del mundo. En ese caso, ¿habría 
                             <ptr target="#b_w_7715_4"></ptr>
                         </transpose>
                     </listTranspose></l>
-                    <!--verso 7715: hay una marca antes de las palabras lant y lüte, una especie de ". Creo que quiere decir que ambas palabras, 'lant' y 'lüte', deben ser intercambiadas. SI, BIEN VISTO, YA LO HE MARCADO. -->
                     <l n="7716"><lb n="20"/><w><hi rendition="hc:RedStroke">D</hi>es</w><w>ſyt</w><w>ir</w><w>bürge</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>pfant</w></l>
                 </lg>
                 <lg>
@@ -15851,7 +15839,6 @@ Pues sí, me parece que tiene todo el sentido del mundo. En ese caso, ¿habría 
                     <pb n="165v"/>
                     <cb n="a"/>
                     <l n="7824"><lb n="1"/><w><hi rendition="hc:RedStroke">D</hi>as</w><w>er</w><w>die</w><w>lute</w><w>alle</w></l>
-                    <!--Revisado Victor 16/1/2020     -->
                 </lg>
                 <lg>
                     <l n="7825"><lb n="2"/><w><hi rendition="hc:RedStroke">G</hi>ar</w><w>verzwyfeln</w><w>dete</w></l>
@@ -15947,7 +15934,7 @@ Pues sí, me parece que tiene todo el sentido del mundo. En ese caso, ¿habría 
                 </lg>
                 <lg>
                     <l n="7869"><lb n="2"/><w><hi rendition="hc:RedStroke">D</hi>en</w><w>ritter</w><w>der</w><w>den</w><w>rieſen</w><w>ſlüg</w></l>
-                    <l n="7870"><lb n="3"/><w><hi rendition="hc:RedStroke"><choice><orig>v</orig><reg>u</reg></choice></hi>nd</w><w>der</w><w>mich</w><w>laſters</w><w><choice><orig>v</orig><reg>u</reg></choice>ber</w><w>trüge</w></l>
+                    <l n="7870"><lb n="3"/><w><hi rendition="hc:RedStroke"><choice><orig>v</orig><reg>u</reg></choice></hi>nd</w><w>der</w><w>mich</w><w>laſters</w><w><choice><orig>v</orig><reg>u</reg></choice>ber trüge</w></l>
                 </lg>
                 <lg>
                     <l n="7871"><lb n="4"/><w><hi rendition="hc:RedStroke">D</hi>as</w><w>er</w><w>mich</w><w>von</w><w>dem</w><w>roſte</w></l>
@@ -15982,7 +15969,7 @@ Pues sí, me parece que tiene todo el sentido del mundo. En ese caso, ¿habría 
                     <l n="7886"><lb n="19"/><w><hi rendition="hc:RedStroke">D</hi>as</w><w>er</w><w>wider</w><w>hete</w></l>
                 </lg>
                 <lg>
-                    <l n="7887"><lb n="20"/><w><hi rendition="hc:RedStroke">S</hi>einer</w><w>fraüwen</w><w>mẏ<choice><am>n̄</am><ex>nn</ex></choice>e</w></l>
+                    <l n="7887"><lb n="20"/><w><hi rendition="hc:RedStroke">S</hi>einer</w><w>fraüwen</w><w>my<choice><am>n̄</am><ex>nn</ex></choice>e</w></l>
                     <l n="7888"><lb n="21"/><w><hi rendition="hc:RedStroke">D</hi>ie</w><w>frauw</w><w>ſprach</w><w>dy</w><w>ſÿnne</w></l>
                 </lg>
                 <lg>
@@ -16028,9 +16015,9 @@ Pues sí, me parece que tiene todo el sentido del mundo. En ese caso, ¿habría 
                     <l n="7908"><lb n="19"/><w><hi rendition="hc:RedStroke">f</hi>frauw</w><w>lünet</w><w>gab</w><w>den</w><w>eydt</w></l>
                 </lg>
                 <lg>
-                    <l n="7909"><lb n="20"/><w><hi rendition="hc:RedStroke"><choice><orig>v</orig><reg>u</reg></choice></hi>nd</w><w>warde</w><w><choice><orig>u</orig><reg>v</reg></choice>il</w><w>gar</w><w join="right"><choice><orig>v</orig><reg>u</reg></choice>ſz</w><w join="left">g<choice><am>n̄</am><ex>en</ex></choice>omen</w></l>
-                    <l n="7910"><lb n="21"/><w><hi rendition="hc:RedStroke">D</hi>as</w><w>yme</w><w join="right">zü</w><w join="left">ſtatten</w><w>mocht</w><w>komen</w></l>
-                    <!--verso 7910: hay un macron encima de komen o es un simple adorno? En gnomen (v. 7909) me parecía más claro y se lo añadí; no le veo el sentido en komen, pero ambos son el mismo adorno, la terminación de la n final. También podría ser que ninguno lo lleve, y probablemente sea así.     -->
+                    <l n="7909"><lb n="20"/><w><hi rendition="hc:RedStroke"><choice><orig>v</orig><reg>u</reg></choice></hi>nd</w><w>warde</w><w><choice><orig>u</orig><reg>v</reg></choice>il</w><w>gar</w><w join="right"><choice><orig>v</orig><reg>u</reg></choice>ſz</w><w join="left">gno<choice><am>m̄</am><ex>mm</ex></choice>en</w></l>
+                    <l n="7910"><lb n="21"/><w><hi rendition="hc:RedStroke">D</hi>as</w><w>yme</w><w join="right">zü</w><w join="left">ſtatten</w><w>mocht</w><w>ko<choice><am>m̄</am><ex>mm</ex></choice>en</w></l>
+                    <!--verso 7910: hay un macron encima de komen o es un simple adorno? En gnomen (v. 7909) me parecía más claro y se lo añadí; no le veo el sentido en komen, pero ambos son el mismo adorno, la terminación de la n final. También podría ser que ninguno lo lleve, y probablemente sea así.  TRAS SOPESAR VARIAS POSIBILIDADES, CREO QUE SON MACRONES SOBRE LA 'M' DEL MEDIO Y ASÍ LO HE MARCADO-->
                 </lg>
                 <lg>
                     <l n="7911"><lb n="22"/><w><hi rendition="hc:RedStroke">N</hi>ach</w><w>dem</w><w>ſie</w><w>do</w><w>ſolt</w><w>farn</w></l>
@@ -16041,6 +16028,7 @@ Pues sí, me parece que tiene todo el sentido del mundo. En ese caso, ¿habría 
                 <lg>
                     <l n="7913"><lb n="1"/><w><hi rendition="hc:RedStroke">M</hi>it</w><w>ſolichen</w><w>ſinnen</w><w>den</w><w>eydt</w></l>
                     <l n="7914"><lb n="2"/><w><hi rendition="hc:RedStroke">D</hi>as</w><w>mich</w><w>keiner</w><w>valſcheit</w></l>
+                    <!--Revisado Victor 19/1/2020 – Ánimo Roberto, que ya acabas!!      -->
                 </lg>
                 <lg>
                     <l n="7915"><lb n="3"/><w><hi rendition="hc:RedStroke">y</hi>emant</w><w>zyhe</w><w join="right">dar</w><w join="left">an</w></l>
