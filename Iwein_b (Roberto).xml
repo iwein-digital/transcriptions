@@ -8,7 +8,9 @@
             <titleStmt>
                 <title>Iwein-Hs. b</title>
                 <author>Hartmann von Aue</author>
-                <respStmt> <resp>transcription</resp> <persName>Roberto Rivas Couce</persName>
+                <respStmt>
+                    <resp>transcription</resp>
+                    <persName>Roberto Rivas Couce</persName>
                 </respStmt>
             </titleStmt>
             <publicationStmt>
@@ -16,13 +18,15 @@
             </publicationStmt>
             <sourceDesc>
                 <listWit>
-                    <witness xml:id="b"> <msDesc>
+                    <witness xml:id="b">
+                        <msDesc>
                         <msIdentifier>
                             <settlement>Heidelberg</settlement>
                             <repository>Universitätsbibliothek</repository>
                             <idno>cod. pal. germ. 391</idno>
                         </msIdentifier>
-                        </msDesc> </witness>
+                        </msDesc>
+                    </witness>
                 </listWit>
             </sourceDesc>
         </fileDesc>
@@ -61,8 +65,9 @@
             <pb n="1r"/>
             <cb n="a"/>
             <docTitle>
-                <titlePart> <w>Ein</w><w>gedicht</w><w>von</w><w>Ritter</w><w>Hartm<gap
-                    ana="hc:CutOff"/></w> </titlePart>
+                <titlePart> 
+                    <w>Ein</w><w>gedicht</w><w>von</w><w>Ritter</w><w>Hartm<gap ana="hc:CutOff"/></w>
+                </titlePart>
             </docTitle>
         </front>
         <body>
@@ -16524,8 +16529,9 @@ Pues sí, me parece que tiene todo el sentido del mundo. En ese caso, ¿habría 
             </div>
         </body>
         <back>
-            <milestone ana="hc:ZoneShift"/>
-            <lb n="18"/><w><hi rendition="hc:RedStroke">A</hi>men</w>
+            <trailer ana="hc:Colophon">
+                <metamark ana="hc:DecorativeMarker"><hi hei:color="Red">〈</hi></metamark><w><hi rendition="hc:RedStroke">A</hi>men</w><metamark ana="hc:DecorativeMarker"><hi hei:color="Red">〉</hi></metamark>
+            </trailer>
         </back>
     </text>
 </TEI>
