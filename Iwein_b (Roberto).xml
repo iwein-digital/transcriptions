@@ -16521,13 +16521,11 @@ Pues sí, me parece que tiene todo el sentido del mundo. En ese caso, ¿habría 
                     <l n="8165"><lb n="16"/><w><hi rendition="hc:RedStroke">A</hi>üch</w><w>nit</w><w>geſagen</w><w>mere</w></l>
                     <l n="8166"><lb n="17"/><w><hi rendition="hc:RedStroke">w</hi>ann</w><w>got</w><w>gebe</w><w><choice><orig>v</orig><reg>u</reg></choice>ns</w><w>ſelde</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>ere</w></l>
                 </lg>
-                <lg>
-                    <l n="8167"><lb/><w><hi rendition="hc:RedStroke">A</hi>men</w></l>
-                    <!--el Amen ni siquera está en un verso como tal; y además tiene un recuadro rojo a su alrededor. Como no sabía como ponerlo en etiquetas, lo dejo así. Además, las siguientes páginas tienen escrito 2+(=173+), 3+(=174+), etc., que no sé si también se tiene que transcribir o no.
-
-PD: ¡Por fin!     -->
-                </lg>
             </div>
         </body>
+        <back>
+            <milestone ana="hc:ZoneShift"/>
+            <lb n="18"/><w><hi rendition="hc:RedStroke">A</hi>men</w>
+        </back>
     </text>
 </TEI>
