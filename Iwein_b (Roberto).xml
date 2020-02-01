@@ -51,13 +51,12 @@
         </surface>
         <surface ana="hc:Page" xml:id="b_2v" n="2v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg391/0008/image"/>
-            <zone ana="hc:Column" xml:id="B_2v-a" n="a"/>
+            <zone ana="hc:Column" xml:id="b_2v-a" n="a"/>
         </surface>
-        <!-- folgende Surface wegen Lagenreklamant auf fol. 84v angelegt, überprüfen! -->
         <surface ana="hc:Page" xml:id="b_84v" n="84v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg391/0172/image"/>
             <zone ana="hc:Column" xml:id="b_84v-a" n="a"/>
-            <zone ana="hc:MarginalZone" xml:id="b_84v_2" hei:placeRef="hc:PageBottom hc:PageMarginRight"/>
+            <zone ana="hc:MarginalZone" xml:id="b_84v-b" hei:placeRef="hc:PageBottom hc:PageMarginRight"/>
         </surface>
     </facsimile>
     <text ana="hc:CompleteExpression hc:CourtlyRomance">
@@ -2368,6 +2367,7 @@
                     <l n="1115"><lb n="22"/><w><hi rendition="hc:RedStroke"><choice><orig>V</orig><reg>U</reg></choice></hi>nd</w><w>ſchriet</w><w>dy</w><w>ſwert</w><w>ſcheide</w></l>
                     <l n="1116"><lb n="23"/><w><hi rendition="hc:RedStroke"><choice><orig>V</orig><reg>U</reg></choice></hi>nd</w><w>dy</w><w>ſporn</w><w>beÿde</w></l>
                 </lg>
+                <fw ana="hc:QuireSignature"><lb facs="#b_24v-b"/><damage ana="hc:CutOff"><w>hinder</w></damage></fw>
                 <pb n="25r"/>
                 <cb n="a"/>
                 <lg>
@@ -8174,9 +8174,8 @@
                 <lg>
                     <l n="4027"><lb n="22"/><w><hi rendition="hc:RedStroke">A</hi>lſo</w><w>arme</w><w>mochten</w><w>leben</w></l>
                     <l n="4028"><lb n="23"/><w><hi rendition="hc:RedStroke">E</hi>r</w><w>ſprach</w><w>were</w><w>mocht</w><w>uch</w><w>geben</w></l>
-                    <!--Lagenreklamant. Kodierung überprüfen-->
                 </lg>
-                <fw ana="hc:Catchword"><lb facs="#b_84v_2"/><w>Alſo</w><w>groſz<gap ana="hc:Illegible" unit="chars" n="2"></gap></w></fw>
+                <fw ana="hc:QuireSignature"><lb facs="#b_84v-b"/><w>Alſo</w><w>groſz<gap ana="hc:Illegible" unit="chars" n="2"></gap></w></fw>
                 <pb n="85r"/>
                 <cb n="a"/>
                 <lg>
@@ -11639,8 +11638,8 @@ Pues sí, me parece que tiene todo el sentido del mundo. En ese caso, ¿habría 
                 <lg>
                     <l n="5743"><lb n="22"/><w><hi rendition="hc:RedStroke">W</hi>ere</w><w>off</w><w>den</w><w>andern</w><w>clage</w></l>
                     <l n="5744"><lb n="23"/><w><hi rendition="hc:RedStroke">D</hi>as</w><w>er</w><w><choice><orig>j</orig><reg>i</reg></choice>me</w><w>wol</w><num value="14">xiiij</num><w>tage</w></l>
-                    <fw ana="hc:QuireSignature"><lb facs="#b_120v-c" n="1"/><damage ana="hc:CutOff"><w>kampff</w></damage></fw>
                 </lg>
+                <fw ana="hc:QuireSignature"><lb facs="#b_120v-c" n="1"/><damage ana="hc:CutOff"><w>kampff</w></damage></fw>
                 <pb n="121r"/>
                 <cb n="a"/>
                 <lg>
@@ -12784,6 +12783,7 @@ Pues sí, me parece que tiene todo el sentido del mundo. En ese caso, ¿habría 
                 </lg>
                 <lg>
                     <l n="6317"><lb n="23"/><w><hi rendition="hc:RedStroke">W</hi>eder</w><w>hat</w><w>uch</w><w>dis</w><w>leben</w></l>
+                    <fw ana="hc:QuireSignature"><lb facs="#b_132v-b"/><damage ana="hc:CutOff"><w>b</w></damage></fw>
                     <pb n="133r"/>
                     <cb n="a"/>
                     <l n="6318"><lb n="1"/><w><hi rendition="hc:RedStroke">G</hi>eburt</w><w>oder</w><w><choice><orig>v</orig><reg>u</reg></choice>nheil</w><w>gegeben</w></l>
@@ -13918,6 +13918,7 @@ Pues sí, me parece que tiene todo el sentido del mundo. En ese caso, ¿habría 
                     <l n="6873"><lb n="23"/><w><hi rendition="hc:RedStroke">D</hi>ie</w><w><hi rendition="hc:RedStroke"><choice><orig>J</orig><reg>I</reg></choice></hi>r</w><w>nifftelen</w><w>ſiech</w><w>lies</w></l>
                     <l n="6874"><lb n="24"/><w><hi rendition="hc:RedStroke">D</hi>er</w><w>er</w><w>den</w><w>kampff</w><w>fur</w><w>ſie</w><w>gehies</w><note ana="hc:TranscriptionNote" target="#xpath(//l[@n='6874'])">Am unteren Rand der Seite sind Oberlängen von Buchstaben erkennbar, möglicherweise eines Lagenreklamanten</note></l>
                 </lg>
+                <fw ana="hc:QuireSignature"><lb facs="#b_144v-b"/><damage ana="hc:CutOff"><w>¨¨</w></damage></fw>
                 <pb n="145r"/>
                 <cb n="a"/>
                 <lg>
