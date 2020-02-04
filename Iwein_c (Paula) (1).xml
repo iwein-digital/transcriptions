@@ -33,6 +33,88 @@
             </listPrefixDef>
         </encodingDesc>
     </teiHeader>
+    <facsimile>
+        <surface ana="hc:Page" xml:id="c_1r" n="1r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg316/0009/image"/>
+            <zone ana="hc:Column" xml:id="c_1r-a" n="a"/>
+        </surface>
+        <surface ana="hc:Page" xml:id="c_1v" n="1v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg316/0010/image"/>
+            <zone ana="hc:Column" xml:id="c_1v-a" n="a"/>
+        </surface>
+        <surface ana="hc:Page" xml:id="c_2r" n="2r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg316/0011/image"/>
+            <zone ana="hc:Column" xml:id="c_2r-a" n="a"/>
+        </surface>
+        <surface ana="hc:Page" xml:id="c_2v" n="2v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg316/0012/image"/>
+            <zone ana="hc:Column" xml:id="c_2v-a" n="a"/>
+        </surface>
+        <surface ana="hc:Page" xml:id="c_3r" n="3r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg316/0013/image"/>
+            <zone ana="hc:Column" xml:id="c_3r-a" n="a"/>
+        </surface>
+        <surface ana="hc:Page" xml:id="c_3v" n="3v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg316/0014/image"/>
+            <zone ana="hc:Column" xml:id="c_3v-a" n="a"/>
+        </surface>
+        <surface ana="hc:Page" xml:id="c_4r" n="4r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg316/0015/image"/>
+            <zone ana="hc:Column" xml:id="c_4r-a" n="a"/>
+        </surface>
+        <surface ana="hc:Page" xml:id="c_4v" n="4v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg316/0016/image"/>
+            <zone ana="hc:Column" xml:id="c_4v-a" n="a"/>
+        </surface>
+        <surface ana="hc:Page" xml:id="c_5r" n="5r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg316/0017/image"/>
+            <zone ana="hc:Column" xml:id="c_5r-a" n="a"/>
+        </surface>
+        <surface ana="hc:Page" xml:id="c_5v" n="5v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg316/0018/image"/>
+            <zone ana="hc:Column" xml:id="c_5v-a" n="a"/>
+        </surface>
+        <surface ana="hc:Page" xml:id="c_6r" n="6r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg316/0018/image"/>
+            <zone ana="hc:Column" xml:id="c_6r-a" n="a"/>
+        </surface>
+        <surface ana="hc:Page" xml:id="c_6v" n="6v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg316/0020/image"/>
+            <zone ana="hc:Column" xml:id="c_6v-a" n="a"/>
+        </surface>
+        <surface ana="hc:Page" xml:id="c_7r" n="7r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg316/0021/image"/>
+            <zone ana="hc:Column" xml:id="c_7r-a" n="a"/>
+        </surface>
+        <surface ana="hc:Page" xml:id="c_7v" n="7v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg316/0022/image"/>
+            <zone ana="hc:Column" xml:id="c_7v-a" n="a"/>
+        </surface>
+        <surface ana="hc:Page" xml:id="c_8r" n="8r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg316/0023/image"/>
+            <zone ana="hc:Column" xml:id="c_8r-a" n="a"/>
+        </surface>
+        <surface ana="hc:Page" xml:id="c_8v" n="8v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg316/0024/image"/>
+            <zone ana="hc:Column" xml:id="c_8v-a" n="a"/>
+        </surface>
+        <surface ana="hc:Page" xml:id="c_9r" n="9r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg316/0025/image"/>
+            <zone ana="hc:Column" xml:id="c_9r-a" n="a"/>
+        </surface>
+        <surface ana="hc:Page" xml:id="c_9v" n="9v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg316/0026/image"/>
+            <zone ana="hc:Column" xml:id="c_9v-a" n="a"/>
+        </surface>
+        <surface ana="hc:Page" xml:id="c_10r" n="10r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg316/0027/image"/>
+            <zone ana="hc:Column" xml:id="c_10r-a" n="a"/>
+        </surface>
+        <surface ana="hc:Page" xml:id="c_10v" n="10v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg316/0028/image"/>
+            <zone ana="hc:Column" xml:id="c_10v-a" n="a"/>
+        </surface>
+    </facsimile>
     <text ana="hc:CompleteExpression hc:CourtlyRomance">
         <front>
             <pb n="1r"/>
