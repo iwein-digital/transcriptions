@@ -1246,8 +1246,7 @@
                     <l n="142"><lb n="9"/><w><hi rendition="hc:RedStroke">D</hi>u</w><w>erlaſt</w><w>dich</w><w>deins</w><w>nydes</w><w>nicht</w></l>
                 </lg>
                 <lg>
-                    <l n="143"><lb n="10"/><w><hi rendition="hc:RedStroke">D</hi>as</w><w>gefinde</w><w>noch</w><w>die</w><w>geſte</w></l>
-                    <!--Unter dem -te von geste ein Strich, der wohl den fehlenden Vers markiert     -->
+                    <l n="143"><lb n="10"/><w><hi rendition="hc:RedStroke">D</hi>as</w><w>gefinde</w><w>noch</w><w>die</w><w>geſte</w><metamark ana="hc:InsertionMark" xml:id="c_metamark_143_1">x</metamark><note ana="hc:TranscriptionNote" target="#c_metamark_143_1">Das Einweisungszeichen markiert einen fehlenden Vers</note></l>
                 </lg>
                 <lg>
                     <l n="145"><lb n="11"/><w><hi rendition="hc:RedStroke"><choice><orig>V</orig><reg>U</reg></choice></hi>nd</w><w>der</w><w>beſt</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>der</w><w>boſte</w></l>
@@ -1407,8 +1406,7 @@
                 </lg>
                 <lg>
                     <l n="221"><lb n="21"/><w><hi rendition="hc:RedStroke">D</hi>as</w><w join="right">ich</w><w join="left">s</w><w>mit</w><w>hulden</w><w><choice><orig>v</orig><reg>u</reg></choice>berſeh</w></l>
-                    <l n="222"><lb n="22"/><w><hi rendition="hc:RedStroke">D</hi>a</w><w>ſprach</w><w>aber</w><w>kay</w></l>
-                    <!--Kreuzchen hinter "kay", als ob da etwas fehlen würde (Reimwort)     -->
+                    <l n="222"><lb n="22"/><w><hi rendition="hc:RedStroke">D</hi>a</w><w>ſprach</w><w>aber</w><w>kay</w><metamark ana="hc:InsertionMark " xml:id="c_metamark_222_1">x</metamark><note ana="hc:TranscriptionNote" target="#c_metamark_222_1">Das Einweisungszeichen markiert einen nur vermeintlich fehlenden Vers. Die Änderung des Reims in V. 221 hat hier zwei Reimpartner vermissen lassen</note></l>
                 </lg>
                 <lg>
                     <l n="223"><lb n="23"/><w><hi rendition="hc:RedStroke">N</hi>u</w><w>latt</w><w>diſen</w><w>herren</w></l>
@@ -2533,8 +2531,7 @@
                 <cb n="a"/>
                 <lg>
                     <l n="771"><lb n="1"/><w><hi rendition="hc:RedStroke">I</hi>ch</w><w>beguſze</w><w>ine</w><w>n<choice><am>ī</am><ex>im</ex></choice>mer</w><w>mer</w></l>
-                    <l n="772"><lb n="2"/><w><hi rendition="hc:RedStroke">I</hi>ch</w><w>bekeut</w><w>es</w><w>ee</w><w>vil</w><w>ſere</w></l>
-                    <!-- bekeut ––> bereut?  -->
+                    <l n="772"><lb n="2"/><w><hi rendition="hc:RedStroke">I</hi>ch</w><w>bekent</w><w>es</w><w>ee</w><w>vil</w><w>ſere</w></l>
                 </lg>
                 <lg>
                     <l n="773"><lb n="3"/><metamark ana="hc:CueInitial ">d</metamark><w><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">D</hei:initial><hi rendition="hc:RedStroke">O</hi></w><w>ich</w><w>genug</w><w>lange</w><w>da</w><w>geſaſz</w></l>
@@ -3042,10 +3039,9 @@
                 <lg>
                     <l n="1015"><lb n="19"/><w><hi rendition="hc:RedStroke"><choice><orig>V</orig><reg>U</reg></choice></hi>f</w><w>des</w><w>andern</w><w>leip</w><w>ſtach</w></l>
                     <l n="1016"><lb n="20"/><w><hi rendition="hc:RedStroke">D</hi>urch</w><w>den</w><w>ſchilt</w><w>das</w><w>es</w><w>zerbrach</w></l>
-                    <!--1015 y 1016 mezclan contenido de esos dos mismos versos en lachmann     -->
                 </lg>
                 <lg>
-                    <l n="1017"><lb n="21"/><w><hi rendition="hc:RedStroke">W</hi>ol</w><w>zu</w><w>dreiſzig</w><w>ſtúcken</w><metamark ana="hc:InsertionMark" hei:placeRef="hc:ColumnMarginRight">x</metamark><note ana="hc:TranscriptionNote">Zu einem Nachtrag des Verses, den das Einweisungszeichen erwarten lässt, ist es nicht gekommen</note></l>
+                    <l n="1017"><lb n="21"/><w><hi rendition="hc:RedStroke">W</hi>ol</w><w>zu</w><w>dreiſzig</w><w>ſtúcken</w><metamark ana="hc:InsertionMark" xml:id="c_metamark_1071_1">x</metamark><note ana="hc:TranscriptionNote" target="#c_metamark_1071_1">Das Einweisungszeichen markiert einen fehlenden Vers</note></l>
                 </lg>
                 <lg>
                     <l n="1019"><lb n="22"/><w><hi rendition="hc:RedStroke">D</hi>ie</w><w>ſwert</w><w>zu</w><w>beiden</w><w>ſeiten</w></l>
@@ -3189,7 +3185,7 @@
                 </lg>
                 <lg>
                     <l n="1087"><lb n="26"/><w><hi rendition="hc:RedStroke">D</hi>as</w><w>rurte</w><w>die</w><w>fallen</w><lb n="27"/><w><hi rendition="hc:RedStroke"><choice><orig>V</orig><reg>U</reg></choice></hi>nd</w><w>den</w><w>haft</w></l>
-                    <l n="1088"><w>der</w><w>da</w><w>alle</w><w>die</w><w>kraft</w><metamark xml:id="c_metamark_1088_1" ana="hc:InsertionMark" hei:placeRef="hc:ColumnMarginRight">x</metamark><note target="#c_metamark_1088_1" ana="hc:TranscriptionNote">Das Einweisungszeichen deutet darauf hin, dass der Schreiber nicht gemerkt hat, wie das Ende von v. 1087 in die folgende Zeile gerückt ist, und aufgrund des nicht sichtbaren Reims gemeint hat, hier würden Verse fehlen</note></l>
+                    <l n="1088"><w>der</w><w>da</w><w>alle</w><w>die</w><w>kraft</w><metamark xml:id="c_metamark_1088_1" ana="hc:InsertionMark">x</metamark><note target="#c_metamark_1088_1" ana="hc:TranscriptionNote">Das Einweisungszeichen markiert einen nur vermeintlich fehlenden Vers. Der Schreiber hat offenbar nicht gemerkt hat, dass das Ende von v. 1087 in die folgende Zeile gerückt ist, und hat aufgrund des nicht sichtbaren Reims gemeint, hier würden Verse fehlen</note></l>
                 </lg>
                 <lg>
                     <l n="1089"><lb n="28"/><w><hi rendition="hc:RedStroke"><choice><orig>V</orig><reg>U</reg></choice></hi>nd</w><w>das</w><w>ſwere</w><w>ſlege tor</w></l>
@@ -3285,7 +3281,7 @@
                 </lg>
                 <lg>
                     <l n="1134"><lb n="8"/><w><hi rendition="hc:RedStroke">A</hi>lſo</w><w>das</w><w>er</w><w>ime</w><w>lebentig</w><w>entran</w></l>
-                    <l n="1134,1" corresp="#xpath(//l[@n='1094'])"><lb n="9"/><w><hi rendition="hc:RedStroke">S</hi>oſt</w><w>was</w><w>da</w><w>blieb<choice><am>n̄</am><ex>n</ex></choice></w><w>manig</w><w>man</w></l>
+                    <l n="1134,1" hei:replicates="#xpath(//l[@n='1094'])"><lb n="9"/><w><hi rendition="hc:RedStroke">S</hi>oſt</w><w>was</w><w>da</w><w>blieb<choice><am>n̄</am><ex>n</ex></choice></w><w>manig</w><w>man</w></l>
                 </lg>
                 <lg>
                     <l n="1135"><lb n="10"/><w><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="1">I</hei:initial><hi rendition="hc:RedStroke">C</hi>h</w><w>wil</w><w>uch</w><w>von</w><w>dem</w><w>huſe</w><w>ſagen</w></l>
@@ -4447,7 +4443,7 @@
                     <l n="1734"><lb n="27"/><w><hi rendition="hc:RedStroke">A</hi>lle</w><w>die</w><w>ere</w><w>were</w></l>
                 </lg>
                 <lg>
-                    <l n="1735"><lb n="28"/><w><hi rendition="hc:RedStroke">D</hi>ie</w><w>ime</w><metamark hei:placeRef="hc:BelowLine" ana="hc:InsertionMark">∧</metamark><w>mochte</w><w>geſcheen</w><metamark hei:placeRef="hc:BelowLine" ana="hc:InsertionMark" xml:id="c_metamark_1735_2">x</metamark><note ana="hc:TranscriptionNote" target="#c_metamark_1735_2">Durch die Reimänderung im folgenden Vers und die Hinzufügung eines Zusatzverses ist dieser Vers reimlos geblieben; daher das Zeichen, das einen vermeintlichen Verlust markiert</note></l>
+                    <l n="1735"><lb n="28"/><w><hi rendition="hc:RedStroke">D</hi>ie</w><w>ime</w><metamark hei:placeRef="hc:BelowLine" ana="hc:InsertionMark">∧</metamark><w>mochte</w><w>geſcheen</w><metamark ana="hc:InsertionMark" xml:id="c_metamark_1735_2">x</metamark><note ana="hc:TranscriptionNote" target="#c_metamark_1735_2">Das Einweisungszeichen markiert einen nur vermeintlich fehlenden Vers. Durch die Reimänderung im folgenden Vers und die Hinzufügung eines Zusatzverses ist dieser Vers reimlos geblieben; </note></l>
                     <l n="1736"><lb n="29"/><w><hi rendition="hc:RedStroke">Er</hi></w><w join="right">en</w><w join="left">muſte</w><w>ſein</w><w>fraúwen</w></l>
                     <l n="1736,1"><lb n="30"/><w><hi rendition="hc:RedStroke">V</hi>or</w><w>ſyme</w><w>ende</w><w>ſchaúwen</w></l>
                 </lg>
@@ -5054,7 +5050,7 @@
                     <l n="2030"><lb n="26"/><w><hi rendition="hc:RedStroke">I</hi>ch</w><w>ſolt</w><w>ſie</w><w>her</w><w>wieder</w><w>laden</w></l>
                 </lg>
                 <lg>
-                    <l n="2031"><lb n="27"/><w><hi rendition="hc:RedStroke">D</hi>as</w><w>keme</w><w>mir</w><w>vil</w><w>lichte</w><w>baſz</w><metamark ana="hc:InsertionMark" xml:id="c_metamark_2031_1">x</metamark><note ana="hc:TranscriptionNote" target="#c_metamark_2031_1">Die (etwas forcierten) Änderungen der Reime ab v. 2026 haben wohl dazu geführt, dass der Schreiber hier einen Vers vermisst und daher das Einweisungszeichen gesetzt hat</note></l>
+                    <l n="2031"><lb n="27"/><w><hi rendition="hc:RedStroke">D</hi>as</w><w>keme</w><w>mir</w><w>vil</w><w>lichte</w><w>baſz</w><metamark ana="hc:InsertionMark" xml:id="c_metamark_2031_1">x</metamark><note ana="hc:TranscriptionNote" target="#c_metamark_2031_1">Das Einweisungszeichen markiert einen nur vermeintlich fehlenden Vers. Die (etwas forcierten) Änderungen der Reime ab v. 2026 haben wohl dazu geführt, dass der Schreiber hier einen Vers vermisst hat</note></l>
                     <l n="2032"><lb n="28"/><w><hi rendition="hc:RedStroke">I</hi>ch</w><w>was</w><w>ir</w><w>one</w><w>ſchulde</w><w>gehaſz</w></l>
                 </lg>
                 <lg>
@@ -5676,7 +5672,7 @@
                 </lg>
                 <lg>
                     <l n="2333"><lb n="32"/><w><hi rendition="hc:RedStroke">W</hi>an</w><w>ich</w><w>wil</w><w>uch</w><w>gerne</w><lb n="33"/><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>wolt</w><w>ir</w><w>mich</w><w>herre</w></l>
-                    <l n="2334"><lb n="34"/><w><hi rendition="hc:RedStroke">S</hi>prech</w><w>ich</w><w>nú</w><w>fraw</w><w>ich</w><w>nein</w><w><choice><orig>v</orig><reg>u</reg></choice>ch</w><metamark ana="hc:InsertionMark" xml:id="c_metamark_2334_1">x</metamark><note ana="hc:TranscriptionNote" target="#c_metamark_2334_1">Die Aufteilung des vorangehenden Verses auf zwei Zeilen mit Änderung des Reimes am Endes des zweiten hat wahrscheinlich dazu geführt, dass der Schreiber hier einen Vers vermisst</note></l>
+                    <l n="2334"><lb n="34"/><w><hi rendition="hc:RedStroke">S</hi>prech</w><w>ich</w><w>nú</w><w>fraw</w><w>ich</w><w>nein</w><w><choice><orig>v</orig><reg>u</reg></choice>ch</w><metamark ana="hc:InsertionMark" xml:id="c_metamark_2334_1">x</metamark><note ana="hc:TranscriptionNote" target="#c_metamark_2334_1">Das Einweisungszeichen markiert einen nur vermeintlich fehlenden Vers. Die Aufteilung des vorangehenden Verses auf zwei Zeilen mit Änderung des Reimes am Ende des zweiten hat wahrscheinlich dazu geführt, dass der Schreiber hier einen Vers vermisste</note></l>
                 </lg>
                 <lg>
                     <l n="2335"><lb n="35"/><w><hi rendition="hc:RedStroke">S</hi>o</w><w>were</w><w>ich</w><w>ein</w><w><choice><orig>v</orig><reg>u</reg></choice>nſeliger</w><w>man</w></l>
@@ -5931,7 +5927,7 @@
                     <l n="2456"><lb n="23"/><w><hi rendition="hc:RedStroke">E</hi>r</w><w>ſprach</w><w>her</w><w>her</w><w>kalokreiant</w></l>
                 </lg>
                 <lg>
-                    <l n="2457"><lb n="24"/><w><hi rendition="hc:RedStroke">W</hi>o</w><w>iſt</w><w>nu</w><w>ewr</w><w>nefe</w><w>h<choice><am>r͛</am><ex>er</ex></choice></w><w>ybbein</w><metamark ana="hc:InsertionMark" xml:id="c_metamark_2457_1">x</metamark><note ana="hc:TranscriptionNote" target="#c_metamark_2457_1">Nach Ausweis der übrigen Handschriften fehlt nicht diesem Vers ein Reimpaar, sondern dem Vers 2640</note></l>
+                    <l n="2457"><lb n="24"/><w><hi rendition="hc:RedStroke">W</hi>o</w><w>iſt</w><w>nu</w><w>ewr</w><w>nefe</w><w>h<choice><am>r͛</am><ex>er</ex></choice></w><w>ybbein</w><metamark ana="hc:InsertionMark" xml:id="c_metamark_2457_1">x</metamark><note ana="hc:TranscriptionNote" target="#c_metamark_2457_1">Nach Ausweis der übrigen Handschriften fehlt nicht diesem Vers ein Reimpartner, sondern dem Vers 2640</note></l>
                     <l n="2458"><lb n="25"/><w><hi rendition="hc:RedStroke">E</hi>s</w><w>ſcheinet</w><w>noch</w><w>als</w><w>es</w><w join="right">ee</w><w join="left">ſchein</w></l>
                 </lg>
                 <lg>
@@ -6159,7 +6155,7 @@
                     <l n="2567"><lb n="34"/><w><hi rendition="hc:RedStroke">E</hi>r</w><w>was</w><w>doch</w><w>vil</w><w><choice><orig>v</orig><reg>u</reg></choice>nerferet</w></l>
                     <pb n="39v"/>
                     <cb n="a"/>
-                    <l n="2568"><lb n="1"/><w join="right"><hi rendition="hc:RedStroke">E</hi>n</w><w join="left">hett</w><w>ine</w><w>ſein</w><w>zúnge</w><w>nicht</w><w>verworht</w><metamark ana="hc:InsertionMark" xml:id="c_metamark_2568_1">x</metamark><note target="#c_metamark_2568_1" ana="hc:TranscriptionNote">Der Wechsel des Reims im vorangehenden Vers hat den Schreiber vermutlich dazu verleitet, hier einen Vers zu vermissen und ein Einweisungszeichen zu setzen</note></l>
+                    <l n="2568"><lb n="1"/><w join="right"><hi rendition="hc:RedStroke">E</hi>n</w><w join="left">hett</w><w>ine</w><w>ſein</w><w>zúnge</w><w>nicht</w><w>verworht</w><metamark ana="hc:InsertionMark" xml:id="c_metamark_2568_1">x</metamark><note target="#c_metamark_2568_1" ana="hc:TranscriptionNote">Das Einweisungszeichen markiert einen nur vermeintlich fehlenden Vers. Der Wechsel des Reims im vorangehenden Vers hat den Schreiber vermutlich dazu verleitet, hier einen Vers zu vermissen</note></l>
                 </lg>
                 <lg>
                     <l n="2569"><lb n="2"/><w><hi rendition="hc:RedStroke">S</hi>o</w><w>gewan</w><w>der</w><w>hoff</w><w>nye</w><w>tewren</w><w>hellt</w></l>
@@ -6489,7 +6485,6 @@
                 <lg>
                     <l n="2727"><lb n="24"/><w><hi rendition="hc:RedStroke">A</hi>ne</w><w>k<choice><am>ū</am><ex>um</ex></choice>mer</w><w>genaſz</w></l>
                     <l n="2728"><lb n="25"/><w><hi rendition="hc:RedStroke"><choice><orig>V</orig><reg>U</reg></choice></hi>nd</w><w>do</w><w>zu</w><w>lande</w><w>herre</w><metamark ana="hc:InsertionMark" xml:id="c_metamark_2728_1">x</metamark><note ana="hc:TranscriptionNote" target="#c_metamark_2728_1">Es lässt sich nicht entscheiden, ob das Einweisungszeichen nur markiert, dass hier das Reimwort verlorengegangen ist, oder ob es, wie in den anderen Fällen in der Handschrift, anzeigt, dass der Schreiber hier einen ganzen Vers vermisst hat</note></l>
-                    <!--Revisado hasta aquí Victor 20/09     -->
                 </lg>
                 <lg>
                     <l n="2729"><lb n="26"/><w><hi rendition="hc:RedStroke">D</hi>as</w><w>kom</w><w>von</w><w>iren</w><w>ſchulden</w></l>
@@ -6611,7 +6606,7 @@
                 </lg>
                 <lg>
                     <l n="2791"><lb n="14"/><w><hi rendition="hc:RedStroke">K</hi>eret</w><w>es</w><w>nicht</w><w>an</w><w>das</w><w>gewygen</w></l>
-                    <l n="2792"><lb n="15"/><w><hi rendition="hc:RedStroke">A</hi>ls</w><w>dem</w><w>herren</w><w>ereckenn</w><w>geſchach</w><metamark ana="hc:InsertionMark" xml:id="c_metamark_2792_1">x</metamark><note ana="hc:TranscriptionNote" target="#c_metamark_2792_1">Wieder hat die Veränderung des Reimes dazu verleitet, hier ein Einweisungszeichen zu setzen</note></l>
+                    <l n="2792"><lb n="15"/><w><hi rendition="hc:RedStroke">A</hi>ls</w><w>dem</w><w>herren</w><w>ereckenn</w><w>geſchach</w><metamark ana="hc:InsertionMark" xml:id="c_metamark_2792_1">x</metamark><note ana="hc:TranscriptionNote" target="#c_metamark_2792_1">Das Einweisungszeichen markiert einen nur vermeintlich fehlenden Vers. Wieder hat die Veränderung des Reimes dazu verleitet, hier einen Reimpartner zu vermissen</note></l>
                 </lg>
                 <lg>
                     <l n="2793"><lb n="16"/><w><hi rendition="hc:RedStroke">D</hi>er</w><w>ſich</w><w>auch</w><w>ſo</w><w>manichen</w><w>tag</w></l>
@@ -7844,7 +7839,7 @@
                 </lg>
                 <lg>
                     <l n="3383"><lb n="4"/><w><hi rendition="hc:RedStroke">S</hi>ie</w><w>ſprach</w><w join="right">her</w><w join="left">wieder</w><w>zu</w><w>den</w><w>zwein</w></l>
-                    <l n="3384"><lb n="5"/><w><hi rendition="hc:RedStroke">F</hi>raw</w><w>lebet</w><w>der</w><w>herr</w><w>ybbein</w><del rendition="hc:Erased"><w xml:id="c_w_3384_6">h</w></del><del rendition="hc:Strikethrough"><w>ye</w></del><note ana="hc:TranscriptionNote" target="#c_w_3384_6">Der Schreiber hat zuerst zu h angesetzt, es aber nicht zuende gezogen, hat es durchgestrichen, dann 'ye' geschrieben und schließlich auch dies durchgestrichen. Offensichtlich hat er zuerst nicht gemerkt, dass 'ybbein' das Reimwort war oder ist zum folgenden Vers gesprungen</note></l>
+                    <l n="3384"><lb n="5"/><w><hi rendition="hc:RedStroke">F</hi>raw</w><w>lebet</w><w>der</w><w>herr</w><w>ybbein</w><del rendition="hc:Erased"><w xml:id="c_w_3384_6">h</w></del><del rendition="hc:Strikethrough"><w xml:id="c_w_3384_7">ye</w></del><note ana="hc:TranscriptionNote" target="#c_w_3384_6 #c_w_3384_7">Der Schreiber hat zuerst zu h angesetzt, es aber nicht zuende gezogen, hat es durchgestrichen, dann 'ye' geschrieben und schließlich auch dies durchgestrichen. Offensichtlich hat er zuerst nicht gemerkt, dass 'ybbein' das Reimwort war oder ihm ist ein Augensprung zum folgenden Vers unterlaufen</note></l>
                 </lg>
                 <lg>
                     <l n="3385"><lb n="6"/><w><hi rendition="hc:RedStroke">S</hi>o</w><w>ligt</w><w>er</w><w>one</w><w>zwi<choice><orig>u</orig><reg>v</reg></choice>el</w><w>hye</w></l>
@@ -8031,7 +8026,7 @@
                     <l n="3474"><lb n="23"/><w join="right"><hi rendition="hc:RedStroke">D</hi>ar</w><w join="left">zu</w><w>ſie</w><w>vil</w><w>ſtille</w><w>ſweich</w></l>
                 </lg>
                 <lg>
-                    <l n="3475"><lb n="24"/><w><hi rendition="hc:RedStroke">M</hi>it</w><w>der</w><w>edelen</w><w>ſalben</w><metamark ana="hc:InsertionMark" xml:id="c_metamark_3475_1">x</metamark><note ana="hc:TranscriptionNote" target="#c_metamark_3475_1">Dieses Mal steht das Einweisungszeichen für einen tatsächlich fehlenden Vers; dieser wurde aber möglicherweise wegen seiner Ähnlichkeit mit V. 3473 ausgelassen</note></l>
+                    <l n="3475"><lb n="24"/><w><hi rendition="hc:RedStroke">M</hi>it</w><w>der</w><w>edelen</w><w>ſalben</w><metamark ana="hc:InsertionMark" xml:id="c_metamark_3475_1">x</metamark><note ana="hc:TranscriptionNote" target="#c_metamark_3475_1">Das Einweisungszeichen markiert einen tatsächlich fehlenden Vers; dieser wurde aber möglicherweise wegen seiner Ähnlichkeit mit V. 3473 ausgelassen</note></l>
                 </lg>
                 <lg>
                     <l n="3477"><lb n="25"/><w><hi rendition="hc:RedStroke"><choice><orig>V</orig><reg>U</reg></choice></hi>ber</w><w>hanebt</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w><choice><orig>v</orig><reg>u</reg></choice>ber</w><w>fúſze</w></l>
@@ -8599,7 +8594,7 @@
                 </lg>
                 <lg>
                     <l n="3751"><lb n="9"/><w><hi rendition="hc:RedStroke"><choice><orig>V</orig><reg>U</reg></choice></hi>ff</w><w>ine</w><w>den</w><w>lob</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>den</w><w>breis</w></l>
-                    <l n="3752"><lb n="10"/><w xml:id="c_w_3752_1"><hi rendition="hc:RedStroke">E</hi>rb<choice><am>r͛</am><ex>er</ex></choice></w><w>hubſch</w><w>biederb</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>weiſz</w><note ana="hc:TranscriptionNote">'Erber' (=êrbære) oder 'Er ber' (=er wære)?</note></l>
+                    <l n="3752"><lb n="10"/><w xml:id="c_w_3752_1"><hi rendition="hc:RedStroke">E</hi>rb<choice><am>r͛</am><ex>er</ex></choice></w><w>hubſch</w><w>biederb</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>weiſz</w></l>
                 </lg>
                 <lg>
                     <l n="3753"><lb n="11"/><w><hi rendition="hc:RedStroke">I</hi>ne</w><w>mocht</w><w>nicht</w><w>gewerren</w></l>
@@ -8878,11 +8873,11 @@
                     <l n="3890"><lb n="7"/><w><hi rendition="hc:RedStroke">D</hi>as</w><w>konde</w><w>er</w><w>ime</w><w>anders</w><w>nicht</w><w>geſagen </w></l>
                 </lg>
                 <lg>
-                    <l n="3891"><lb n="8"/><w><hi rendition="hc:RedStroke">W</hi>an</w><w>er</w><w>geſtunt</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>ſach</w><w>in</w><w>an</w><metamark ana="hc:InsertionMark ">x</metamark><note ana="hc:TranscriptionNote" target="#xpath(//l[@n='3891'])">Der Reimwechsel in V. 3892 hat wieder dazu verleitet, hier einen Verlust zu sehen und diesen zu markieren</note></l>
+                    <l n="3891"><lb n="8"/><w><hi rendition="hc:RedStroke">W</hi>an</w><w>er</w><w>geſtunt</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>ſach</w><w>in</w><w>an</w><metamark ana="hc:InsertionMark" xml:id="c_metamark_3891_1">x</metamark><note ana="hc:TranscriptionNote" target="#c_metamark_3891_1">Der Reimwechsel in V. 3892 hat wieder dazu verleitet, hier einen Verlust zu sehen und diesen zu markieren</note></l>
                     <l n="3892"><lb n="9"/><w><hi rendition="hc:RedStroke"><choice><orig>V</orig><reg>U</reg></choice></hi>nd</w><w>zaiget</w><w>ime</w><w>mit</w><w>dem</w><w>múnde</w></l>
                 </lg>
                 <lg>
-                    <l n="3893"><lb n="10"/><w><hi rendition="hc:RedStroke">D</hi>as</w><w>damit</w><w>tet</w><metamark ana="hc:InsertionMark ">,</metamark><add hei:placeRef="hc:AboveLine"><w>ez</w></add><w>ime</w><w>kunde</w></l>
+                    <l n="3893"><lb n="10"/><w><hi rendition="hc:RedStroke">D</hi>as</w><w>damit</w><w>tet</w><metamark ana="hc:InsertionMark">,</metamark><add hei:placeRef="hc:AboveLine"><w>ez</w></add><w>ime</w><w>kunde</w></l>
                     <l n="3894"><lb n="11"/><w><hi rendition="hc:RedStroke"><choice><orig>V</orig><reg>U</reg></choice></hi>nd</w><w>gruſzt</w><w>ine</w><w>als</w><w>ein</w><w>húnt</w></l>
                 </lg>
                 <lg>
@@ -9148,7 +9143,7 @@
                     <l n="4022"><lb n="33"/><w><hi rendition="hc:RedStroke">W</hi>er</w><w>fraget</w><w>des</w><w>ſprach</w><w>er</w></l>
                 </lg>
                 <lg>
-                    <l n="4024"><lb n="34"/><w><hi rendition="hc:RedStroke">D</hi>as</w><w>iſt</w><w>ein</w><w>alſo</w><w>arme</w><w>maget</w><metamark ana="hc:InsertionMark ">x</metamark><note ana="hc:TranscriptionNote" target="#xpath(//l[@n='4024'])">Hier fehlt ein Vers</note></l>
+                    <l n="4024"><lb n="34"/><w><hi rendition="hc:RedStroke">D</hi>as</w><w>iſt</w><w>ein</w><w>alſo</w><w>arme</w><w>maget</w><metamark ana="hc:InsertionMark" xml:id="c_metamark_4024_1">x</metamark><note ana="hc:TranscriptionNote" target="#c_metamark_4024_1">Das Einweisungszeichen markiert einen tatsächlich fehlenden Vers</note></l>
                 </lg>
                 <lg>
                     <l n="4025"><lb n="35"/><w><hi rendition="hc:RedStroke">D</hi>as</w><w>nye</w><w>kein</w><w>mentſch</w><w>ein</w><w>ſache</w></l>
@@ -11055,7 +11050,7 @@
                     <l n="4952"><lb n="15"/><w><hi rendition="hc:RedStroke">D</hi>a</w><w>horten</w><w>ſie</w><w>ine</w><w>rúffen</w><w>vor</w></l>
                 </lg>
                 <lg>
-                    <l n="4953"><lb n="16"/><w><hi rendition="hc:RedStroke"><choice><orig>V</orig><reg>U</reg></choice></hi>nd</w><w>ſprach</w><w>ere</w><w>hienge</w><w>ſie</w><w>alle</w><w>viere</w><metamark ana="hc:InsertionMark " xml:id="c_metamark_4953_1">x</metamark><note ana="hc:TranscriptionNote" target="#c_metamark_4953_1">Der Reimwechsel im folgenden Vers hat wieder dazu verleitet, hier einen Verlust zu sehen und diesen zu markieren</note></l>
+                    <l n="4953"><lb n="16"/><w><hi rendition="hc:RedStroke"><choice><orig>V</orig><reg>U</reg></choice></hi>nd</w><w>ſprach</w><w>ere</w><w>hienge</w><w>ſie</w><w>alle</w><w>viere</w><metamark ana="hc:InsertionMark" xml:id="c_metamark_4953_1">x</metamark><note ana="hc:TranscriptionNote" target="#c_metamark_4953_1">Das Einweisungszeichen markiert einen nur vermeintlich fehlenden Vers. Der Reimwechsel im folgenden Vers hat wieder dazu verleitet, hier einen Verlust zu sehen</note></l>
                 </lg>
                 <lg ana="hc:Quatrain">
                     <l n="4954"><lb n="17"/><w><hi rendition="hc:RedStroke">O</hi>b</w><w>man</w><w>ſie</w><w>nicht</w><w>ſchier</w><w>troſte</w></l>
@@ -11224,7 +11219,7 @@
                     <l n="5036"><lb n="25"/><w><hi rendition="hc:RedStroke">D</hi>as</w><w>er</w><w>ine</w><w>hette</w><w>erſlagen</w></l>
                 </lg>
                 <lg>
-                    <l n="5037"><lb n="26"/><w><hi rendition="hc:RedStroke">N</hi>ach</w><w>einem</w><w>ſlage</w><w>als</w><w>er</w><w>dan</w><w>ſlúg</w><metamark ana="hc:InsertionMark " xml:id="c_metamark_5037_1">x</metamark><note ana="hc:TranscriptionNote" target="#c_metamark_5037_1">Hier fehlt ein Vers</note></l>
+                    <l n="5037"><lb n="26"/><w><hi rendition="hc:RedStroke">N</hi>ach</w><w>einem</w><w>ſlage</w><w>als</w><w>er</w><w>dan</w><w>ſlúg</w><metamark ana="hc:InsertionMark" xml:id="c_metamark_5037_1">x</metamark><note ana="hc:TranscriptionNote" target="#c_metamark_5037_1">Das Einweisungszeichen markiert einen tatsächlich fehlenden Vers</note></l>
                 </lg>
                 <lg>
                     <l n="5039"><lb n="27"/><w><hi rendition="hc:RedStroke">D</hi>a</w><w>truge</w><w>ine</w><w>das</w><w>roſs</w><w>dan</w></l>
@@ -11707,7 +11702,7 @@
                 <lg ana="hc:Tercet">
                     <l n="5272,1"><lb n="9"/><w><hi rendition="hc:RedStroke">W</hi>ie</w><w>dem</w><w>nú</w><w>allem</w><w>ſe<choice><orig>j</orig><reg>i</reg></choice></w></l>
                     <l n="5273"><lb n="10"/><w join="right"><hi rendition="hc:RedStroke">W</hi>ie</w><w join="left">wol</w><w>ewr</w><w>ſint</w><w>dre<choice><orig>j</orig><reg>i</reg></choice></w></l>
-                    <l n="5274"><lb n="11"/><w>Wenet</w><w>ir</w><w>das</w><w>ich</w><w>eyne</w><w>ſe<choice><orig>j</orig><reg>i</reg></choice></w><metamark ana="hc:InsertionMark " xml:id="c_metamark_5274_1">x</metamark><note target="#c_metamark_5274_1" ana="hc:TranscriptionNote">Die Erweiterung des vorangehenden Verses zu zweien hat dazu verleitet, hier ein weiteres Paar für den Reim zu vermissen und das Einweisungszeichen zu setzen.</note></l>
+                    <l n="5274"><lb n="11"/><w>Wenet</w><w>ir</w><w>das</w><w>ich</w><w>eyne</w><w>ſe<choice><orig>j</orig><reg>i</reg></choice></w><metamark ana="hc:InsertionMark" xml:id="c_metamark_5274_1">x</metamark><note target="#c_metamark_5274_1" ana="hc:TranscriptionNote">Das Einweisungszeichen markiert einen nur vermeintlich fehlenden Vers. Die Entfaltung des vorangehenden Verses zu zweien hat dazu verleitet, hier einen Reimpartner zu vermissen </note></l>
                 </lg>
                 <lg>
                     <l n="5275"><lb n="12"/><w><hi rendition="hc:RedStroke">G</hi>ot</w><w>geſtunt</w><w>der</w><w>warheit</w><w>ye</w></l>
@@ -11804,7 +11799,7 @@
                     <l n="5322"><lb n="21"/><w><hi rendition="hc:RedStroke">D</hi>as</w><w>ſein</w><w>behilt</w><w>aber</w><w>er</w></l>
                 </lg>
                 <lg>
-                    <l n="5323"><lb n="22"/><w><hi rendition="hc:RedStroke"><choice><orig>V</orig><reg>U</reg></choice></hi>nd</w><w>warff</w><w>das</w><w>ors</w><w>von</w><w><subst><del rendition="hc:Adapted">e</del><add rendition="hc:Adapted">I</add></subst>n</w><metamark ana="hc:InsertionMark " xml:id="c_metamark_5323_1">x</metamark></l>
+                    <l n="5323"><lb n="22"/><w><hi rendition="hc:RedStroke"><choice><orig>V</orig><reg>U</reg></choice></hi>nd</w><w>warff</w><w>das</w><w>ors</w><w>von</w><w><subst><del rendition="hc:Adapted">e</del><add rendition="hc:Adapted">I</add></subst>n</w><metamark ana="hc:InsertionMark" xml:id="c_metamark_5323_1">x</metamark></l>
                 </lg>
                 <lg>
                     <l n="5325"><lb n="23"/><w><hi rendition="hc:RedStroke">E</hi>ynes</w><w>ackrs</w><w>lang</w></l>
@@ -11931,7 +11926,7 @@
                     <l n="5388"><lb n="9"/><w><hi rendition="hc:RedStroke">D</hi>es</w><w>frewt</w><w>ſie</w><w>ſich</w><w>des</w><w>tett</w><w>ir</w><w>not</w></l>
                 </lg>
                 <lg>
-                    <l n="5389"><lb n="10"/><w><hi rendition="hc:RedStroke">H</hi>ie</w><w>lag</w><w>der</w><w>trúchſeſſs</w><metamark ana="hc:InsertionMark " xml:id="c_metamark_5387_1">x</metamark></l>
+                    <l n="5389"><lb n="10"/><w><hi rendition="hc:RedStroke">H</hi>ie</w><w>lag</w><w>der</w><w>trúchſeſſs</w><metamark ana="hc:InsertionMark" xml:id="c_metamark_5387_1">x</metamark></l>
                 </lg>
                 <lg>
                     <l n="5391"><lb n="11"/><w><hi rendition="hc:RedStroke">Z</hi>u</w><w>ſeinen</w><w>kampff</w><w>genoſzen</w></l>
@@ -13815,7 +13810,7 @@
                 </lg>
                 <lg>
                     <l n="6319"><lb n="15"/><w><hi rendition="hc:RedStroke">E</hi>s</w><w>was</w><w>der</w><w>einen</w><w>antwort</w></l>
-                    <!--Erster Fall von 'bb' für 'w' in 'antwort'. Ist relevant, weil er regelmäßig 'ybbein' und 'gabbein' schreibt. Aber er schreibt eben auch 'ybein' und 'kabein'. Deswegen haben wir diese Namen immer mit 'bb' transkribiert. Wenn er jetzt doch 'bb' für 'w' verwendet, müsste man das vielleicht überdenken.-->
+                    <!--Einziger Fall von 'bb' für 'w' in 'antwort'. Ist relevant, weil er regelmäßig 'ybbein' und 'gabbein' schreibt. Aber er schreibt eben auch 'ybein' und 'kabein'. Und verwendet sonst nie (außer hier) das Bastarda-w. Deswegen haben wir diese Namen immer mit 'bb' transkribiert-->
                     <l n="6320"><lb n="16"/><w><hi rendition="hc:RedStroke"><choice><orig>V</orig><reg>U</reg></choice></hi>nſer</w><w>leben</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w><choice><orig>v</orig><reg>u</reg></choice>nſer</w><w>gebúrt</w></l>
                 </lg>
                 <lg>
@@ -14559,7 +14554,7 @@
                     <l n="6679"><lb n="8"/><w><hi rendition="hc:RedStroke">S</hi>ie</w><w>waren</w><w>gewoffent</w><w>ſere</w></l>
                 </lg>
                 <lg>
-                    <l n="6682"><lb n="9"/><w><hi rendition="hc:RedStroke">W</hi>an</w><w>die</w><w>arme</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>die</w><w>bein</w><metamark ana="hc:InsertionMark ">x</metamark><note ana="hc:TranscriptionNote" target="#xpath(//l[@n='6682'])">Es fehlen zwei Verse</note></l>
+                    <l n="6682"><lb n="9"/><w><hi rendition="hc:RedStroke">W</hi>an</w><w>die</w><w>arme</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>die</w><w>bein</w><metamark ana="hc:InsertionMark" xml:id="c_metamark_6682_1">x</metamark><note ana="hc:TranscriptionNote" target="#c_metamark_6682_1">Das Einweisungszeichen markiert zwei fehlende Verse</note></l>
                 </lg>
                 <lg>
                     <l n="6683"><lb n="10"/><w><hi rendition="hc:RedStroke">D</hi>ie</w><w>kolben</w><w>die</w><w>ſie</w><w>trúgen</w></l>
@@ -14657,7 +14652,7 @@
                     <l n="6730"><lb n="19"/><w><hi rendition="hc:RedStroke">D</hi>er</w><w>edel</w><w>ritter</w><w><choice><orig>v</orig><reg>u</reg></choice>nerforcht</w></l>
                 </lg>
                 <lg>
-                    <l n="6731"><lb n="20"/><w><hi rendition="hc:RedStroke">F</hi>riſte</w><w>ſein</w><w>ere</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>manheit</w><metamark ana="hc:InsertionMark " xml:id="c_metamark_6731_1">x</metamark><lb n="21"/><w><hi rendition="hc:RedStroke"><choice><orig>V</orig><reg>U</reg></choice></hi>nd</w><w>ſeinen</w><w>ſynn</w><note ana="hc:TranscriptionNote" target="#c_metamark_6731_1">Die Verteilung dieses Verses auf zwei Zeilen hat zu der Vermutung geführt, hier würde wieder ein Vers fehlen</note></l>
+                    <l n="6731"><lb n="20"/><w><hi rendition="hc:RedStroke">F</hi>riſte</w><w>ſein</w><w>ere</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>manheit</w><metamark ana="hc:InsertionMark" xml:id="c_metamark_6731_1">x</metamark><lb n="21"/><w><hi rendition="hc:RedStroke"><choice><orig>V</orig><reg>U</reg></choice></hi>nd</w><w>ſeinen</w><w>ſynn</w><note ana="hc:TranscriptionNote" target="#c_metamark_6731_1">Das Einweisungszeichen markiert einen nur vermeintlich fehlenden Vers. Die Entfaltung dieses Verses auf zwei Zeilen hat zu der Vermutung geführt, hier würde ein Reimpartner fehlen</note></l>
                     <l n="6732"><lb n="22"/><w><hi rendition="hc:RedStroke">D</hi>as</w><w>er</w><w>lange</w><w><choice><orig>v</orig><reg>u</reg></choice>nter</w><w>in</w></l>
                 </lg>
                 <lg>
@@ -14743,7 +14738,7 @@
                     <l n="6772"><lb n="24"/><w><hi rendition="hc:RedStroke">A</hi>ls</w><w>ſchier</w><w>ime</w><w>des</w><w>tewfels</w><w>knecht</w></l>
                 </lg>
                 <lg>
-                    <l n="6773"><lb n="25"/><w><hi rendition="hc:RedStroke">S</hi>einen</w><w>rucken</w><w>gekerte</w><metamark ana="hc:InsertionMark ">x</metamark></l>
+                    <l n="6773"><lb n="25"/><w><hi rendition="hc:RedStroke">S</hi>einen</w><w>rucken</w><w>gekerte</w><metamark ana="hc:InsertionMark">x</metamark></l>
                 </lg>
                 <lg>
                     <l n="6775"><lb n="26"/><w><hi rendition="hc:RedStroke">D</hi>a</w><w>ſlug</w><w>er</w><del rendition="hc:Strikethrough"><w>ime</w></del><w>in</w><w>vil</w><w>kurtzen</w><w>ſtúnden</w></l>
@@ -14988,7 +14983,7 @@
                     <l n="6892"><lb n="32"/><w><hi rendition="hc:RedStroke">M</hi>it</w><w>frembden</w><w>geweffen</w><w>alſo</w><w>gefar</w></l>
                 </lg>
                 <lg>
-                    <l n="6893"><lb n="33"/><w><hi rendition="hc:RedStroke">D</hi>as</w><w>ine</w><w>da</w><w>nyeman</w><metamark ana="hc:InsertionMark " xml:id="c_metamark_6893_1">x</metamark><lb n="34"/><w>wan</w><w>die</w><w>elter</w><w>maget</w><note ana="hc:TranscriptionNote" target="#c_metamark_6893_1">Die Aufteilung des Verses in zwei Zeilen hat dazu verführt, hier einen Vers zu vermissen und dies zu markieren</note></l>
+                    <l n="6893"><lb n="33"/><w><hi rendition="hc:RedStroke">D</hi>as</w><w>ine</w><w>da</w><w>nyeman</w><metamark ana="hc:InsertionMark" xml:id="c_metamark_6893_1">x</metamark><lb n="34"/><w>wan</w><w>die</w><w>elter</w><w>maget</w><note ana="hc:TranscriptionNote" target="#c_metamark_6893_1">Das Einweisungszeichen markiert einen nur vermeintlich fehlenden Vers. Die Entfaltung dieses Verses auf zwei Zeilen hat zu der Vermutung geführt, hier würde ein Reimpartner fehlen</note></l>
                     <l n="6894"><lb n="35"/><w><hi rendition="hc:RedStroke">E</hi>rkante</w><w>der</w><w>hett</w><w join="right">er</w><w join="left">s</w><w>geſaget</w></l>
                 </lg>
                 <lg>
@@ -15575,7 +15570,7 @@
                 <lg>
                     <l n="7259"><lb n="19"/><w><hi rendition="hc:RedStroke">I</hi>r</w><w>ſlege</w><w>waren</w><w>krenckig</w><w>ee</w></l>
                     <l n="7260"><lb n="20"/><w><hi rendition="hc:RedStroke">N</hi>u</w><w>wurden</w><w>ſie</w><w>kreftiger</w><w>dan</w><w>ee</w></l>
-                    <l n="7260,1"><lb n="21"/><w><hi rendition="hc:RedStroke"><choice><orig>V</orig><reg>U</reg></choice></hi>nd</w><w>wart</w><w>ir</w><w>aber</w><w>mer</w><metamark ana="hc:InsertionMark" xml:id="c_metamark_7260_1_1">x</metamark><note ana="hc:TranscriptionNote" target="#c_metamark_7260_1_1">Die Auslegung von V. 7260 auf zwei Verse hat hier wieder dazu geführt, dass ein Reimpaar für V. 7260,1 vermisst wurde</note></l>
+                    <l n="7260,1"><lb n="21"/><w><hi rendition="hc:RedStroke"><choice><orig>V</orig><reg>U</reg></choice></hi>nd</w><w>wart</w><w>ir</w><w>aber</w><w>mer</w><metamark ana="hc:InsertionMark" xml:id="c_metamark_7260_1_1">x</metamark><note ana="hc:TranscriptionNote" target="#c_metamark_7260_1_1">Das Einweisungszeichen markiert einen nur vermeintlich fehlenden Vers. Die Entfaltung dieses Verses auf zwei Zeilen hat zu der Vermutung geführt, hier würde ein Reimpartner fehlen</note></l>
                 </lg>
                 <lg>
                     <l n="7261"><lb n="22"/><w><hi rendition="hc:RedStroke">A</hi>uch</w><w>ſach</w><w>diſen</w><w>kampff</w><w>an</w></l>
@@ -15944,7 +15939,7 @@
                     <l n="7442"><lb n="11"/><w><hi rendition="hc:RedStroke">D</hi>er</w><w>ich</w><w>vil</w><w>gar</w><w>was</w><w>erlan</w></l>
                 </lg>
                 <lg>
-                    <l n="7443"><lb n="12"/><w><hi rendition="hc:RedStroke">M</hi>ir</w><metamark ana="hc:InsertionMark ">,</metamark><w><add hei:placeRef="hc:AboveLine">be</add>name</w><w>nye</w><w>mere</w></l>
+                    <l n="7443"><lb n="12"/><w><hi rendition="hc:RedStroke">M</hi>ir</w><metamark ana="hc:InsertionMark">,</metamark><w><add hei:placeRef="hc:AboveLine">be</add>name</w><w>nye</w><w>mere</w></l>
                     <l n="7444"><lb n="13"/><w><hi rendition="hc:RedStroke">W</hi>eiſz</w><w>got</w><w>alſo</w><w>ſere</w></l>
                 </lg>
                 <lg>
@@ -16038,7 +16033,7 @@
                     <l n="7495"><lb n="20"/><w><hi rendition="hc:RedStroke">D</hi>ie</w><w>erzeigten</w><w>ſie</w><w>wol</w><w><choice><orig>v</orig><reg>u</reg></choice>nter</w><w>in</w><w>innen</w></l>
                 </lg>
                 <lg>
-                    <l n="7496"><lb n="21"/><w><hi rendition="hc:RedStroke">D</hi>ie</w><w>ſwert</w><w>wurffen</w><w>ſie</w><w>hin</w><metamark ana="hc:InsertionMark " xml:id="c_metamark_7496_1">x</metamark><note ana="hc:TranscriptionNote" target="#c_metamark_7496_1">Aus V. 7493 und 7494 ist ein einziger Vers geworden, V. 7495 ist mit verändertem Reim zu diesem Reimpaar gestellt worden und V. 7496 ist damit ein Weise</note></l>
+                    <l n="7496"><lb n="21"/><w><hi rendition="hc:RedStroke">D</hi>ie</w><w>ſwert</w><w>wurffen</w><w>ſie</w><w>hin</w><metamark ana="hc:InsertionMark" xml:id="c_metamark_7496_1">x</metamark><note ana="hc:TranscriptionNote" target="#c_metamark_7496_1">Das Einweisungszeichen markiert einen nur scheinbar fehlenden Vers. Aus V. 7493 und 7494 ist ein einziger Vers geworden, V. 7495 ist mit verändertem Reim zu diesem Reimpaar gestellt worden und V. 7496 ist damit ein Weise</note></l>
                 </lg>
                 <lg>
                     <l n="7497"><lb n="22"/><w><hi rendition="hc:RedStroke"><choice><orig>V</orig><reg>U</reg></choice></hi>nd</w><w>lieffen</w><w join="right">ein</w><w join="left">ander</w><w>an</w></l>
@@ -16387,7 +16382,7 @@
                     <l n="7668"><lb n="2"/><w><hi rendition="hc:RedStroke"><choice><orig>V</orig><reg>U</reg></choice></hi>nd</w><w>was</w><w>ir</w><w>ir</w><w>habt</w><w>genomen</w></l>
                 </lg>
                 <lg>
-                    <l n="7669"><lb n="3"/><w><hi rendition="hc:RedStroke">D</hi>as</w><w>ſollt</w><w>ir</w><w>ir</w><metamark ana="hc:InsertionMark ">„</metamark><add hei:placeRef="hc:AboveLine"><w>nü</w></add><w>wieder</w><w>geben</w></l>
+                    <l n="7669"><lb n="3"/><w><hi rendition="hc:RedStroke">D</hi>as</w><w>ſollt</w><w>ir</w><w>ir</w><metamark ana="hc:InsertionMark">„</metamark><add hei:placeRef="hc:AboveLine"><w>nü</w></add><w>wieder</w><w>geben</w></l>
                     <l n="7670"><lb n="4"/><w><hi rendition="hc:RedStroke">W</hi>ollt</w><w join="right">ir</w><w join="left">nach</w><w>gerichte</w><w>leben</w></l>
                 </lg>
                 <lg>
@@ -17040,7 +17035,7 @@
                     <l n="7994"><lb n="21"/><w><hi rendition="hc:RedStroke">I</hi>r</w><w>woltent</w><w>es</w><w>dan</w><w>baſz</w><w>verſtan</w></l>
                 </lg>
                 <lg>
-                    <l n="7995"><lb n="22"/><w><hi rendition="hc:RedStroke">W</hi>an</w><w>wer</w><w>des</w><w>andr<choice><am>n̄</am><ex>en</ex></choice></w><w>gút</w><metamark ana="hc:InsertionMark" xml:id="c_metamark_7995_1">x</metamark><lb n="23"/><w><hi rendition="hc:RedStroke">V</hi>on</w><w>ſchulden</w><w>ein</w><w>nympt</w><w>iht</w><note ana="hc:TranscriptionNote" target="#c_metamark_7995_1">Die Auslegung dieses überlangen Verses auf zwei Zeilen hat dazu verleitet, hier einen Vers zu vermissen</note></l>
+                    <l n="7995"><lb n="22"/><w><hi rendition="hc:RedStroke">W</hi>an</w><w>wer</w><w>des</w><w>andr<choice><am>n̄</am><ex>en</ex></choice></w><w>gút</w><metamark ana="hc:InsertionMark" xml:id="c_metamark_7995_1">x</metamark><lb n="23"/><w><hi rendition="hc:RedStroke">V</hi>on</w><w>ſchulden</w><w>ein</w><w>nympt</w><w>iht</w><note ana="hc:TranscriptionNote" target="#c_metamark_7995_1">Das Einweisungszeichen markiert einen nur vermeintlich fehlenden Vers. Die Entfaltung dieses Verses auf zwei Zeilen hat zu der Vermutung geführt, hier würde ein Reimpartner fehlen</note></l>
                     <l n="7996"><lb n="24"/><w><hi rendition="hc:RedStroke"><choice><orig>V</orig><reg>U</reg></choice></hi>nd</w><w>wen</w><w>ym</w><w>zu</w><w>gelten</w><w>geſchiht</w></l>
                 </lg>
                 <lg>
