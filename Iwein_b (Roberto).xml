@@ -275,7 +275,6 @@
                 <lg>
                     <l n="97"><lb n="9"/><w><hi rendition="hc:RedStroke">D</hi>a</w><w>erwachet</w><w>die</w><w>kunigÿn</w></l>
                     <l n="98"><lb n="10"/><w><hi rendition="hc:RedStroke"><choice><orig>V</orig><reg>U</reg></choice></hi>nd</w><w>erhort</w><w>ſin</w><w>ſagen</w><w>hin</w><w><subst><del rendition="hc:Adapted">m</del><add rendition="hc:Adapted">jn</add></subst>e</w></l>
-                    <!-- jne korrigiert aus me! -->
                 </lg>
                 <lg>
                     <l n="99"><lb n="11"/><w><hi rendition="hc:RedStroke">S</hi>ie</w><w>lieſz</w><w>ligen</w><w>den</w><w>kunig</w><w>ir<choice><am>ē</am><ex>en</ex></choice></w><w>man</w></l>
@@ -1923,8 +1922,7 @@
                 </lg>
                 <lg>
                     <l n="891"><lb n="20"/><w><hi rendition="hc:RedStroke">C</hi>olocriandes</w><w>mere</w></l>
-                    <l n="892"><lb n="21"/><w><hi rendition="hc:RedStroke"><choice><orig>V</orig><reg>U</reg></choice></hi>nd</w><w>alle</w><w>ſin</w><w>ſwere</w></l>
-                    <!--bei 'alle' erstes l durch Tintenklecks unklar     -->
+                    <l n="892"><lb n="21"/><w><hi rendition="hc:RedStroke"><choice><orig>V</orig><reg>U</reg></choice></hi>nd</w><w xml:id="b_w_892_2">alle</w><w>ſin</w><w>ſwere</w><note ana="hc:TranscriptionNote" target="#b_w_892_2">Tintenfleck erschwert Lesung des ersten l</note></l>
                 </lg>
                 <lg>
                     <l n="893"><metamark ana="hc:CueInitial ">n</metamark><lb n="22"/><w><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">N</hei:initial>un</w><w>hette</w><w>der</w><w>konig</w><w>ein</w><w>gewonheit</w></l>
@@ -2863,8 +2861,8 @@
                 </lg>
                 <lg>
                     <l n="1353"><lb n="5"/><w><hi rendition="hc:RedStroke"><choice><orig>V</orig><reg>U</reg></choice></hi>ncleglicher</w><w>were</w></l>
-                    <l n="1354"><lb n="6"/><w><hi rendition="hc:RedStroke">D</hi>ann</w><w>ob</w><w>ir</w><w>eine</w><w>vinger</w><w>ſwere</w><w/></l>
-                    <!--comprobar signo al final de línea     -->
+                    <l n="1354"><lb n="6"/><w><hi rendition="hc:RedStroke">D</hi>ann</w><w>ob</w><w>ir</w><w>eine</w><w>vinger</w><w>ſwere</w></l>
+                    <!--  Seltsames Zeichen am Ende der Zeile  -->
                 </lg>
                 <lg>
                     <l n="1355"><lb n="7"/><w><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">N</hei:initial>un</w><w>iſt</w><w><choice><orig>v</orig><reg>u</reg></choice>ns</w><w>eine</w><w>ding</w><w>geſeit</w></l>
@@ -4805,7 +4803,7 @@
                     <l n="2341"><lb n="21"/><w><hi rendition="hc:RedStroke">O</hi>we</w><w>mÿn</w><w>her</w><w>ywein</w></l>
                     <l n="2342"><lb n="22"/><w><hi rendition="hc:RedStroke">W</hi>ere</w><w>hat</w><w><choice><orig>v</orig><reg>u</reg></choice>nder</w><w><choice><orig>v</orig><reg>u</reg></choice>ns</w><w>zwein</w></l>
                 </lg>
-                <pb n="50"/>
+                <pb n="50r"/>
                 <cb n="a"/>
                 <lg>
                     <l n="2343"><lb n="1"/><w><hi rendition="hc:RedStroke">G</hi>efüget</w><w>dieſe</w><w>m<choice><am>ȳ</am><ex>yn</ex></choice>ne</w></l>
@@ -5922,7 +5920,6 @@
                     <l n="2925"><lb n="2"/><w><hi rendition="hc:RedStroke">Z</hi>e</w><w>einem</w><w>gantzen</w><w>jare</w></l>
                     <l n="2926"><lb n="3"/><w><hi rendition="hc:RedStroke">A</hi>uch</w><w>ſwure</w><w>ſy</w><w>des</w><w>zeware</w></l>
                     <l n="2926,1" hei:replicates="#xpath(//l[@n='2925'])"><lb n="4"/><w><hi rendition="hc:RedStroke">Z</hi>ü</w><w>einem</w><w>gantzen</w><w>jare</w></l>
-                    <!--Wiederholter Vers!-->
                 </lg>
                 <lg>
                     <l n="2927"><lb n="5"/><w><hi rendition="hc:RedStroke">O</hi>b</w><w>er</w><w>were</w><w>furbas</w></l>
@@ -7506,7 +7503,7 @@
                 </lg>
                 <lg>
                     <l n="3695"><lb n="22"/><metamark ana="hc:CueInitial ">ſ</metamark><w><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">S</hei:initial>us</w><w>quelt</w><w>m<choice><am>ȳ</am><ex>yn</ex></choice></w><w>h<choice><am>r͛</am><ex>er</ex></choice>e</w><w>ywein</w><w>hie</w></l>
-                    <pb n="76r"/>
+                    <pb n="78r"/>
                     <cb n="a"/>
                     <l n="3696"><lb n="1"/><w><hi rendition="hc:RedStroke"><choice><orig>V</orig><reg>U</reg></choice></hi>ntz</w><w>yne</w><w>dy</w><w>wilde</w><w>farwe</w><w>verlie</w></l>
                 </lg>
@@ -7552,7 +7549,7 @@
                 </lg>
                 <lg>
                     <l n="3717"><lb n="23"/><w><hi rendition="hc:RedStroke">D</hi>a</w><w>ſy</w><w>den</w><w>gaſt</w><w>ſahen</w></l>
-                    <pb n="76v"/>
+                    <pb n="78v"/>
                     <cb n="a"/>
                     <l n="3718"><lb n="1"/><w><hi rendition="hc:RedStroke">Z</hi>u</w><w>den</w><w>vienden</w><w>gahen</w></l>
                 </lg>
@@ -8747,7 +8744,6 @@
                 <lg>
                     <l n="4301"><lb n="20"/><w><hi rendition="hc:RedStroke">W</hi>ann</w><w>er</w><w>nit</w><w>wider</w><w>wolt</w><w>komen</w></l>
                     <l n="4302"><lb n="21"/><w><hi rendition="hc:RedStroke">E</hi>r</w><w>herfure</w><w>were</w><w>ſie</w><w>hette</w><w>genom<choice><am>ē</am><ex>en</ex></choice></w></l>
-                    <!--herfur junto o separado? cf. v. 304(separado en el manuscrito ¿?), 458 (junto) y 3328(claramente separado en el manuscrito). BIEN OBSERVADO: "HERFUR" (=HERVOR) DEBERÍA IR SEPARADO (REVISAR). PERO ES QUE AQUÍ NO ES "HERVOR", SINO QUE ES "ERFUHR", DE "ERFAHREN", SÓLO QUE CON ESA 'H' INDEBIDA DELANTE. Y POR LO TANTO DEBE IR JUNTO-->
                 </lg>
                 <lg>
                     <l n="4303"><lb n="22"/><w><hi rendition="hc:RedStroke"><choice><orig>V</orig><reg>U</reg></choice></hi>nd</w><w>ym</w><w>was</w><w>dis</w><w>mere</w></l>
@@ -9763,7 +9759,6 @@
                     <pb n="101v"/>
                     <cb n="a"/>
                     <l n="4806"><lb n="1"/><w><hi rendition="hc:RedStroke">S</hi>ie</w><w>du̇chte</w><w>nichtes</w><w join="right">zu</w><w join="left"><choice><orig>u</orig><reg>v</reg></choice>il</w></l>
-                    <!--un punto encima de la u? SI, AUNQUE UN POCO ESCORADO A LA DERECHA...    -->
                 </lg>
                 <lg>
                     <l n="4807"><lb n="2"/><w><hi rendition="hc:RedStroke">E</hi>nheiner</w><w>der</w><w>eren</w></l>
@@ -9809,7 +9804,7 @@
                     <l n="4827"><lb n="19"/><w><hi rendition="hc:RedStroke">H</hi>erre</w><w>ich</w><w>were</w><w>üch</w><w>bereit</w></l>
                     <l n="4828"><lb n="20"/><w><hi rendition="hc:RedStroke">M</hi>ein</w><w>hilff</w><w>iſt</w><w>uch</w><w><choice><orig>v</orig><reg>u</reg></choice>n<choice><orig>u</orig><reg>v</reg></choice>erſeit</w></l>
                 </lg>
-                <pb n="102"/>
+                <pb n="102r"/>
                 <cb n="a"/>
                 <lg>
                     <l n="4829"><lb n="1"/><w><hi rendition="hc:RedStroke">W</hi>o</w><w>iſt</w><w>nü</w><w>der</w><w>da</w><w>komen</w><w>ſol</w></l>
@@ -10313,7 +10308,6 @@
                 </lg>
                 <lg>
                     <l n="5075"><lb n="13"/><metamark ana="hc:CueInitial ">v</metamark><w><choice><orig><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">U</hei:initial></orig><reg><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">V</hei:initial></reg></choice>on</w><w>des</w><w>rieſen</w><w>valle</w></l>
-                    <!--la inicial del verso 5075 parece más bien una U, pero no hay en todo el texto ninguna otra U o V inicial con la que comparar esta. Por ahora dejo la V, pero no estoy seguro. HAY QUE REGULARIZAR LA U A V, aunque es un poco complicado pq hay que poner la etiqueta <hei:initial> tanto dentro de la <orig> como dentro de la <reg>-->
                     <l n="5076"><lb n="14"/><w>frauwten</w><w>ſie</w><w>ſich</w><w>alle</w></l>
                 </lg>
                 <lg>
@@ -10695,7 +10689,6 @@
                 <lg>
                     <l n="5277"><lb n="9"/><w><hi rendition="hc:RedStroke"><choice><orig>J</orig><reg>I</reg></choice></hi>ch</w><w>weis</w><w>wol</w><w>dẏ</w><w>geſtant</w><w>mir</w></l>
                     <l n="5278"><lb n="10"/><w><hi rendition="hc:RedStroke">S</hi>us</w><w>bin</w><w>ich</w><w>ſelbe</w><w>dritt</w><w>als</w><w>ir</w></l>
-                    <!--verso 5279-80 no están en este manuscrito     -->
                 </lg>
                 <lg>
                     <l n="5281"><lb n="11"/><metamark ana="hc:CueInitial ">d</metamark><w><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">D</hei:initial><hi rendition="hc:RedStroke">O</hi></w><w>ſprach</w><w>der</w><w>truchſeſz</w></l>
@@ -11001,7 +10994,6 @@
                 </lg>
                 <lg>
                     <l n="5429"><lb n="18"/><metamark ana="hc:CueInitial ">n</metamark><w><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">N</hei:initial>ü</w><w>was</w><w>zu</w><w>den</w><w>zÿten</w><w>ſitte</w></l>
-                    <!--verso 5429: hay algo encima de zu?  BAH, SE LE ESCAPARÍA LA PLUMA, NO LE VEO SIGNIFICADO   -->
                     <l n="5430"><lb n="19"/><w><hi rendition="hc:RedStroke">D</hi>as</w><w>der</w><w>ſchuldiger</w><w>litte</w></l>
                 </lg>
                 <lg>
@@ -11091,7 +11083,6 @@
                 <lg>
                     <l n="5471"><lb n="15"/><w><hi rendition="hc:RedStroke">S</hi>ie</w><w>ſprach</w><w>wy</w><w>ſelten</w><w>ich</w><w>daz</w><w>wip</w></l>
                     <l n="5472"><lb n="16"/><w><hi rendition="hc:RedStroke">B</hi>eyde</w><w>irn</w><w>muͦt</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>irn</w><w>lip</w></l>
-                    <!--verso 5472: hay un punto al final?  SI, PERO ES MUY BASTO Y NO LO PONE NUNCA; SE LE VOLVERÍA A ESCAPAR LA PLUMA...   -->
                 </lg>
                 <lg>
                     <l n="5473"><lb n="17"/><w><hi rendition="hc:RedStroke">Ÿ</hi>mer</w><w>gepriſe</w></l>
@@ -11387,10 +11378,6 @@
                 </lg>
                 <lg>
                     <l n="5621"><lb n="20"/><w><hi rendition="hc:RedStroke">S</hi>us</w><w>quelt</w><w>er</w><w>do</w><num value="14">xiiij</num><w>nacht</w></l>
-                    <!--verso 5621: la penúltima palabra debería ser (al menos en Lachmann) "vierzehen". La v inicial y la n final están claras (n final como la de "ernerten" en el verso 5619); pero no soy capaz de distinguir lo que pone entre ambas, si dos i, una n u otra cosa. Además, de la v sale hacia abajo un rabo que recuerda al signo " ' ", abreviatura de -er. No puse nada porque no estoy seguro de que sea eso tampoco, pues está hacia abajo, pero sí estoy bastante seguro de que no pertenece a "leibes", palabra que está debajo.        
-vuelve a aparecer en el verso 5744 (último verso de la 120v), exactamente igual: puntos encima, la n final y el mismo rabo que sale de la v inicial. YO DIRÍA QUE ES EL NÚMERO XIIII EN CIFRAS ROMANAS, ¿QUÉ TE PARECE?
-
-Pues sí, me parece que tiene todo el sentido del mundo. En ese caso, ¿habría que regularizar la j? NO, PORQUE NO ES UNA LETRA, SINO UNA CIFRA-->
                     <l n="5622"><lb n="21"/><w><hi rendition="hc:RedStroke"><choice><orig>V</orig><reg>U</reg></choice></hi>ntz</w><w>er</w><w>ſines</w><w>leibes</w><w>macht</w></l>
                 </lg>
                 <lg>
@@ -12075,7 +12062,7 @@ Pues sí, me parece que tiene todo el sentido del mundo. En ese caso, ¿habría 
                 </lg>
                 <lg>
                     <l n="5959"><lb n="23"/><w><hi rendition="hc:RedStroke">W</hi>olt</w><w>ir</w><w>in</w><w>balde</w><w>erreiten</w></l>
-                    <pb n="125r"/>
+                    <pb n="125v"/>
                     <cb n="a"/>
                     <l n="5960"><lb n="1"/><w><hi rendition="hc:RedStroke">N</hi>icht</w><w>lenger</w><w>ſolt</w><w>ir</w><w>beẏten</w></l>
                 </lg>
@@ -12551,6 +12538,7 @@ Pues sí, me parece que tiene todo el sentido del mundo. En ese caso, ¿habría 
                 <lg>
                     <l n="6205"><lb n="22"/><w><hi rendition="hc:RedStroke">D</hi>ieſe</w><w>ſpünnen</w><w><choice><orig>i</orig><reg>j</reg></choice>ene</w><w>naten</w></l>
                     <pb n="130v"/>
+                    <cb n="a"/>
                     <l n="6206"><lb n="1"/><w><hi rendition="hc:RedStroke"><choice><orig>V</orig><reg>U</reg></choice></hi>nd</w><w>worn</w><w>doch</w><w><choice><orig>v</orig><reg>u</reg></choice>nberaten</w></l>
                 </lg>
                 <lg>
@@ -13916,7 +13904,7 @@ Pues sí, me parece que tiene todo el sentido del mundo. En ese caso, ¿habría 
                 </lg>
                 <lg>
                     <l n="6873"><lb n="23"/><w><hi rendition="hc:RedStroke">D</hi>ie</w><w><hi rendition="hc:RedStroke"><choice><orig>J</orig><reg>I</reg></choice></hi>r</w><w>nifftelen</w><w>ſiech</w><w>lies</w></l>
-                    <l n="6874"><lb n="24"/><w><hi rendition="hc:RedStroke">D</hi>er</w><w>er</w><w>den</w><w>kampff</w><w>fur</w><w>ſie</w><w>gehies</w><note ana="hc:TranscriptionNote" target="#xpath(//l[@n='6874'])">Am unteren Rand der Seite sind Oberlängen von Buchstaben erkennbar, möglicherweise eines Lagenreklamanten</note></l>
+                    <l n="6874"><lb n="24"/><w><hi rendition="hc:RedStroke">D</hi>er</w><w>er</w><w>den</w><w>kampff</w><w>fur</w><w>ſie</w><w>gehies</w></l>
                 </lg>
                 <fw ana="hc:QuireSignature"><lb facs="#b_144v-b"/><damage ana="hc:CutOff"><w>¨l</w></damage></fw>
                 <pb n="145r"/>
@@ -16222,7 +16210,6 @@ Pues sí, me parece que tiene todo el sentido del mundo. En ese caso, ¿habría 
                 <lg>
                     <l n="8005"><lb n="4"/><w><hi rendition="hc:RedStroke">D</hi>ie</w><w>gnade</w><w>die</w><w><choice><orig>j</orig><reg>i</reg></choice>r</w><w>mir</w><w>hant</w><w>gethan</w></l>
                     <l n="8006"><lb n="5"/><w><hi rendition="hc:RedStroke">E</hi>r</w><w>ſprach</w><w>die</w><w>rede</w><w>ſolt</w><w>ir</w><w>lan</w></l>
-                    <!--Revisado Victor 20/1/2020     -->
                 </lg>
                 <lg>
                     <l n="8007"><lb n="6"/><w><hi rendition="hc:RedStroke"><choice><orig>J</orig><reg>I</reg></choice></hi>r</w><w>habt</w><w>vaſt</w><w><choice><orig>v</orig><reg>u</reg></choice>bertzalt</w></l>
@@ -16263,8 +16250,7 @@ Pues sí, me parece que tiene todo el sentido del mundo. En ese caso, ¿habría 
                     <l n="8024"><lb n="1"/><w><hi rendition="hc:RedStroke">D</hi>a</w><w>ſie</w><w>an</w><w>ir</w><w>gebet</w></l>
                 </lg>
                 <lg>
-                    <l n="8025"><lb n="2"/><w><hi rendition="hc:RedStroke"><choice><orig>J</orig><reg>I</reg></choice></hi>r</w><w>frauwen</w><w join="right">alter</w><w join="both">ſ</w><w join="left">eine</w><w>vant</w></l>
-                    <!--verso 8025: alter-s-eine o alters-eine?     -->
+                    <l n="8025"><lb n="2"/><w><hi rendition="hc:RedStroke"><choice><orig>J</orig><reg>I</reg></choice></hi>r</w><w>frauwen</w><w join="right">alterſ</w><w join="left">eine</w><w>vant</w></l>
                     <l n="8026"><lb n="3"/><w><hi rendition="hc:RedStroke"><choice><orig>V</orig><reg>U</reg></choice></hi>nd</w><w>ſaget</w><w>ir</w><w>zuhant</w></l>
                 </lg>
                 <lg>
@@ -16306,6 +16292,7 @@ Pues sí, me parece que tiene todo el sentido del mundo. En ese caso, ¿habría 
                 <lg>
                     <l n="8045"><lb n="22"/><metamark ana="hc:CueInitial ">f</metamark><w><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">F</hei:initial>raüw</w><w>heiſſent</w><w>in</w><w join="right">off</w><w join="left">ſtan</w></l>
                     <pb n="170v"/>
+                    <cb n="a"/>
                     <l n="8046"><lb n="1"/><w><hi rendition="hc:RedStroke"><choice><orig>V</orig><reg>U</reg></choice></hi>nd</w><w>als</w><w>ich</w><w>im</w><w>geheiſſen</w><w>han</w></l>
                 </lg>
                 <lg>
@@ -16338,8 +16325,7 @@ Pues sí, me parece que tiene todo el sentido del mundo. En ese caso, ¿habría 
                 </lg>
                 <lg>
                     <l n="8061"><lb n="16"/><w><hi rendition="hc:RedStroke">K</hi>einen</w><w>frünt</w><w>beſſer</w><w>denn</w><w>er</w><w>iſt</w></l>
-                    <l n="8062"><lb n="17"/><w><hi rendition="hc:RedStroke">E</hi>s</w><w>wolt</w><w><choice><orig>v</orig><reg>u</reg></choice>nſer</w><w>h<choice><am>r͛</am><ex>err</ex></choice>e</w><w><choice><orig>i</orig><reg>j</reg></choice>h<choice><am>ū</am><ex>eu</ex></choice></w><w>criſt</w></l>
-                    <!--verso 8062: i(j)h(e)u o ih(e)u?    -->
+                    <l n="8062"><lb n="17"/><w><hi rendition="hc:RedStroke">E</hi>s</w><w>wolt</w><w><choice><orig>v</orig><reg>u</reg></choice>nſer</w><w>h<choice><am>r͛</am><ex>err</ex></choice>e</w><w><choice><orig>i</orig><reg>je</reg></choice>h<choice><am>ū</am><ex>sum</ex></choice></w><w>criſt</w></l>
                 </lg>
                 <lg>
                     <l n="8063"><lb n="18"/><w><hi rendition="hc:RedStroke"><choice><orig>V</orig><reg>U</reg></choice></hi>nd</w><w>wiſt</w><w>mich</w><w>off</w><w>die</w><w>fart</w></l>
@@ -16462,7 +16448,6 @@ Pues sí, me parece que tiene todo el sentido del mundo. En ese caso, ¿habría 
                 <lg>
                     <l n="8119"><lb n="8"/><w><hi rendition="hc:RedStroke">D</hi>ie</w><w>ich</w><w>wol</w><w>ÿmer</w><w>heiſzen</w><w>mag</w></l>
                     <l n="8120"><lb n="9"/><w><hi rendition="hc:RedStroke">M</hi>einer</w><w>freuden</w><w>oſtertag</w></l>
-                    <!--verso 8121-36 no están en este manuscrito     -->
                 </lg>
                 <lg>
                     <l n="8137"><lb n="10"/><metamark ana="hc:CueInitial ">h</metamark><w><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">H</hei:initial>ie</w><w>geſach</w><w>fraüw</w><w>lünet</w></l>
