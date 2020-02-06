@@ -1668,7 +1668,7 @@
                     <l n="628"><lb n="29"/><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>in</w><w>des</w><w>luftes</w><w>tr<choice><orig>v</orig><reg>u</reg></choice>be</w><w>lat</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="629"><lb n="30"/><w>als</w><w>ich</w><w>daz</w><w>peche</w><w>hang<choice><orig><choice><am>v̄</am><ex>vn</ex></choice></orig><reg>un</reg></choice>t</w><w>vant<note ana="hc:TranscriptionNote">Ein Defekt im Pergament hat dazu geführt, dass nach diesem Vers zwei Zeilen frei gelassen wurden</note></w><pc>·</pc></l>
+                    <l n="629"><lb n="30"/><w>als</w><w>ich</w><w>daz</w><w>peche</w><w>hang<choice><orig><choice><am>v̄</am><ex>vn</ex></choice></orig><reg>un</reg></choice>t</w><w>vant<note ana="hc:TranscriptionNote">Defekt im Pergament. Zwei leere Zeilen ohne Textverlust</note></w><pc>·</pc></l>
                     <l n="630"><lb n="31"/><w>Do</w><w>gedacht</w><w>ich</w><w>mir</w><w>dez</w><w>zahant</w><pc>·</pc></l>
                 </lg>
                 <lg>
@@ -3552,7 +3552,7 @@
                 </lg>
                 <lg>
                     <l n="1569"><lb n="3"/><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>alle</w><w>ch<choice><orig>v</orig><reg>u</reg></choice>nige</w><w>die</w><w>n<choice><orig>v</orig><reg>u</reg></choice></w><w>ſint</w><pc>·</pc></l>
-                    <l n="1570"><lb n="4"/><w>Noch</w><w>leichter</w><w>betwinget</w><w>da<choice><am>n̄</am><ex>ne</ex></choice></w><w>ein</w><lb ana="hc:DependentLine hc:RunOverLineAbove" n="4a"/><metamark ana="hc:Hyphen ">|</metamark><w>chint</w><pc>·</pc></l>
+                    <l n="1570"><lb n="4"/><w>Noch</w><w>leichter</w><w>betwinget</w><w>da<choice><am>n̄</am><ex>ne</ex></choice></w><w>ein</w><lb ana="hc:DependentLine hc:RunOverLineAbove" n="4a"/><metamark ana="hc:RunOverSign">|</metamark><w>chint</w><pc>·</pc></l>
                 </lg>
                 <lg>
                     <l n="1571"><lb n="5"/><w>So</w><w>iſt</w><w>ſi</w><w>einer</w><w>ſwacher</w><w>art</w><pc>·</pc></l>
@@ -4315,11 +4315,11 @@
                 </lg>
                 <lg>
                     <l n="1949"><lb n="19"/><w><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">S</hei:initial>i</w><w>ſprach</w><w>hiet</w><w>ich</w><w>e<choice><orig>v</orig><reg>u</reg></choice></w><w>gelogen</w><pc>·</pc></l>
-                    <l n="1950"><lb n="20"/><w>So</w><w>hiet</w><w>ich</w><seg xml:id="J_seg_1950-1"><w>mich</w><w>ſelb<choice><am>ē</am><ex>en</ex></choice></w><w>betrog<choice><am>ē</am><ex>en</ex></choice></w></seg></l>
-                    <l n="1950,1" xml:id="J_l_1950-1_1"><lb n="21"/><del rendition="hc:ImplicitlyDeleted"><seg hei:replicates="#J_seg_1950_2"><w>Nu</w><w>pin</w><w>ich</w></seg><seg hei:replicates="#J_seg_1950-1"><w>mich</w><w>ſelben</w><w>betrogen</w></seg></del></l><note ana="hc:TranscriptionNote" target="#J_l_1950,1_1">Die ersten Hälfte des Verses entspricht dem Beginn des folgenden, die zweite entspricht dem Ende des vorigen. Offenbar ist der Schreiber mitten im Verse in die vorangehende Zeile zurückgesprungen, hat dann den Fehler bemerkt, die geschriebene Zeile stehen gelassen und den Vers dann noch einmal richtig abgeschrieben</note>
+                    <l n="1950"><lb n="20"/><w>So</w><w>hiet</w><w>ich</w><seg xml:id="J_seg_1950_1"><w>mich</w><w>ſelb<choice><am>ē</am><ex>en</ex></choice></w><w>betrog<choice><am>ē</am><ex>en</ex></choice></w></seg></l>
+                    <l n="1950,1"><lb n="21"/><del rendition="hc:ImplicitlyDeleted"><seg hei:replicates="#J_seg_1951_1"><w>Nu</w><w>pin</w><w>ich</w></seg><seg hei:replicates="#J_seg_1950_1"><w>mich</w><w>ſelben</w><w>betrogen</w></seg></del></l><note ana="hc:TranscriptionNote" target="#xpath(//l[@n='1950,1']) #J_seg_1950_1 #J_seg_1951_1">Die ersten Hälfte des Verses entspricht dem Beginn des folgenden, die zweite entspricht dem Ende des vorigen. Offenbar ist der Schreiber mitten im Verse in die vorangehende Zeile zurückgesprungen, hat dann den Fehler bemerkt, die geschriebene Zeile stehen gelassen und den Vers dann noch einmal richtig abgeschrieben</note>
                 </lg>
                 <lg>
-                    <l n="1951"><lb n="22"/><seg xml:id="J_seg_1950_2"><w>Nu</w><w>pin</w><w>ich</w></seg><w>doch</w><w>mit</w><w>e<choice><orig>v</orig><reg>u</reg></choice></w><w>geweſen</w><pc>·</pc></l>
+                    <l n="1951"><lb n="22"/><seg xml:id="J_seg_1951_1"><w>Nu</w><w>pin</w><w>ich</w></seg><w>doch</w><w>mit</w><w>e<choice><orig>v</orig><reg>u</reg></choice></w><w>geweſen</w><pc>·</pc></l>
                     <l n="1952"><lb n="23"/><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>m<choice><orig>v</orig><reg>u</reg></choice>z</w><w>auch</w><w>mit</w><w>e<choice><orig>v</orig><reg>u</reg></choice></w><w>geneſen</w><pc>·</pc></l>
                 </lg>
                 <lg>
