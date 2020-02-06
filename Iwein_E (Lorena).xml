@@ -503,17 +503,11 @@
                     <l n="1387"><lb n="9"/><w><hi rendition="hc:Versal">D</hi>az</w><w>im</w><w>von</w><w>gehiweren</w><w>dingen</w><pc>·</pc></l>
                     <l n="1388"><lb n="10"/><w>niht</w><w>moht</w><w>miſſelingen</w><pc>·</pc></l>
                 </lg>
-                <lg>
+                <lg ana="hc:Quatrain">
                     <l n="1389"><lb n="11"/><w><hi rendition="hc:Versal">D</hi>az</w><w>iſt</w><w>niwan</w><w>alſo</w><w>chomen</w><pc>·</pc></l>
-                    <!-- reimt mit V. 1390, Korrespondenz einfügen -->
-                </lg>
-                <lg>
                     <l n="1391"><lb n="12"/><w>daz</w><w>iſt</w><w>ein</w><w><choice><orig>v</orig><reg>u</reg></choice>nſ<unclear>icht</unclear>ich</w><w>geiſt</w><pc>·</pc></l>
                     <l n="1392"><lb n="13"/><w><hi rendition="hc:Versal">G</hi>ot</w><w>herre</w><w>d<choice><orig>v</orig><reg>u</reg></choice></w><w>wol</w><w>weiſt</w><pc>·</pc></l>
-                </lg>
-                <lg>
                     <l n="1390"><lb n="14"/><w>daz</w><w>im</w><w>den</w><w>lip</w><w>hat</w><w>benomen</w></l>
-                    <!-- reimt mit V. 1389, Korrespondenz einfügen -->
                 </lg>
                 <lg>
                     <l n="1393"><lb n="15"/><w><hi rendition="hc:Versal">S</hi>wer</w><w>er</w><w>anders</w><w>wære</w><pc>·</pc></l>
@@ -1548,8 +1542,7 @@
                 </lg>
                 <lg>
                     <l n="1901"><lb n="43"/><w><hi rendition="hc:Versal">M</hi>ines</w><w>herren</w><w>wandel</w><w>han</w><pc>·</pc></l>
-                    <l n="1902"><lb n="44"/><w join="right">ſo</w><w join="left">ne</w><w>wilz</w><w>di<choice><orig>v</orig><reg>u</reg></choice></w><w>werd</w><w>ſo</w><w>niht</w><w><choice><am>v͛</am><ex>ver</ex></choice>ſtan</w><pc>·</pc></l>
-                    <!-- 'werd' statt 'werld' vgl. V. 2092 -->
+                    <l n="1902"><lb n="44"/><w join="right">ſo</w><w join="left">ne</w><w join="right">wil</w><w join="left">z</w><w>di<choice><orig>v</orig><reg>u</reg></choice></w><w xml:id="E_w_1902_6">werd</w><w>ſo</w><w>niht</w><w><choice><am>v͛</am><ex>ver</ex></choice>ſtan</w><pc>·</pc><note ana="hc:TranscriptionNote" target="#E_w_1902_6">Zu 'werd' statt 'werld' vgl. V. 2092</note></l>
                 </lg>
                 <lg>
                     <l n="1903"><lb n="45"/><w><hi rendition="hc:Versal">a</hi>lſ</w><w>ez</w><w>doch</w><w>got</w><w>iſt</w><w>erchant</w></l>
@@ -1757,7 +1750,7 @@
                 <pb n="4v"/>
                 <cb n="a"/>
                 <lg>
-                    <l n="2003"><lb n="1"/><w xml:id="E_w_2003_1"><supplied><hi rendition="hc:Versal">D</hi></supplied>i<choice><orig>v</orig><reg>u</reg></choice></w><w>magt</w><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>her</w><w>ywein</w><pc>·</pc><metamark ana="hc:CueInitial" hei:placeRef="hc:PageMarginLeft">d</metamark><note target="#E_w_2003_1">Nicht ausgeführte Initiale D</note></l>
+                    <l n="2003"><lb n="1"/><metamark ana="hc:CueInitial" hei:placeRef="hc:PageMarginLeft">d</metamark><w><supplied><hei:initial ana="hc:Lombard">D</hei:initial></supplied>i<choice><orig>v</orig><reg>u</reg></choice></w><w>magt</w><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>her</w><w>ywein</w><pc>·</pc></l>
                     <l n="2004"><lb n="2"/><w>beg<choice><orig>v</orig><reg>u</reg></choice>nden</w><w>ahten</w><w><choice><orig>v</orig><reg>u</reg></choice>n<choice><am>d͛</am><ex>der</ex></choice></w><w>in</w><w>zwein</w><pc>·</pc></l>
                 </lg>
                 <lg>
@@ -1935,8 +1928,7 @@
                 </lg>
                 <lg>
                     <l n="2091"><lb n="41"/><w><hi rendition="hc:Versal">D</hi>az</w><w>er</w><w>mir</w><w join="right">ze</w><w>herren</w><w>zimt</w><pc>·</pc></l>
-                    <l n="2092"><lb n="42"/><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>ſwenn</w><w>ez</w><w>di<choice><orig>v</orig><reg>u</reg></choice></w><w>werd</w><w>vernimt</w><pc>·</pc></l>
-                    <!-- 'werd' statt 'werld' vgl. V. 1902 -->
+                    <l n="2092"><lb n="42"/><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>ſwenn</w><w>ez</w><w>di<choice><orig>v</orig><reg>u</reg></choice></w><w xml:id="E_w_2092_5">werd</w><w>vernimt</w><pc>·</pc><note ana="hc:TranscriptionNote" target="#E_w_2092_5">Zu 'werd' statt 'werld' vgl. V. 1902</note></l>
                 </lg>
                 <lg>
                     <l n="2093"><lb n="43"/><w><hi rendition="hc:Versal">d</hi>az</w><w>ſi</w><w join="right">mir</w><w join="left">z</w><w>niht</w><w>gewizen</w><w>chan</w><pc>·</pc></l>
@@ -3207,8 +3199,7 @@
                     <l n="2716"><lb n="42"/><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>ich</w><w>i<choice><orig>v</orig><reg>u</reg></choice></w><w>ſage</w><w>n<choice><orig>v</orig><reg>u</reg></choice></w><w>war</w><w>an</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="2717"><lb n="43"/><w><hei:initial hei:color="Red" hei:heightLines="2">D</hei:initial>i<choice><orig>v</orig><reg>u</reg></choice></w><w><choice><orig>i</orig><reg>j</reg></choice><choice><orig>v</orig><reg>u</reg></choice>nch</w><w>vrowe</w><w>hiez</w><w>l<choice><orig>vͦ</orig><reg>uͦ</reg></choice>net</w><pc>·</pc><metamark ana="hc:CueInitial " hei:placeRef="hc:PageMarginRight">d</metamark></l>
-                    <!--anotación na marxe?     -->
+                    <l n="2717"><lb n="43"/><metamark ana="hc:CueInitial " hei:placeRef="hc:PageMarginRight">d</metamark><w><hei:initial hei:color="Red" hei:heightLines="2">D</hei:initial>i<choice><orig>v</orig><reg>u</reg></choice></w><w><choice><orig>i</orig><reg>j</reg></choice><choice><orig>v</orig><reg>u</reg></choice>nch</w><w>vrowe</w><w>hiez</w><w>l<choice><orig>vͦ</orig><reg>uͦ</reg></choice>net</w><pc>·</pc></l>
                     <l n="2718"><lb n="44"/><w>di<choice><orig>v</orig><reg>u</reg></choice></w><w>ſo</w><w>beſcheidenlichen</w><w>tet</w><pc>·</pc></l>
                 </lg>
                 <lg>
@@ -8619,11 +8610,10 @@
                 </lg>
                 <lg>
                     <l n="5392"><lb n="17"/><w><hi rendition="hc:Versal">D</hi>ie</w><w>mangen</w><w>ſlach</w><w>grozzen</w></l>
-                    <l n="5393"><lb n="18"/><w>heten</w><w>enphangen</w><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>gegeben</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="5393"><lb n="19"/><w><hi rendition="hc:Versal">H</hi>eten</w><w>enphangen</w><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>gegeben</w><pc>·</pc></l>
-                    <!--VORSICHT: Doppelte Vers-Nummer!!     -->
+                    <l n="5393"><lb n="18"/><w>heten</w><w>enphangen</w><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>gegeben</w><pc>·</pc></l>
+                    <l n="5393,1" hei:replicates="#xpath(//l[@n='5393'])"><lb n="19"/><w><hi rendition="hc:Versal">H</hi>eten</w><w>enphangen</w><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>gegeben</w><pc>·</pc></l>
                     <l n="5394"><lb n="20"/><w>werten</w><w>ſi</w><w>n<choice><orig>v</orig><reg>u</reg></choice></w><w>daz</w><w>leben</w><pc>·</pc></l>
                 </lg>
                 <lg>
