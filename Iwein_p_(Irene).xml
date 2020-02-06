@@ -3836,7 +3836,6 @@
                 <label ana="hc:SummaryLabel"><hi hei:color="Red"><w>Hie</w><w>ſeite</w><w>die</w><w>j<choice><am>ū</am><ex>un</ex></choice>gfröwe</w><w>daz</w><w><choice><am>h͛</am><ex>herr</ex></choice></w><w>ywein</w><w>k<choice><am>ū</am><ex>um</ex></choice>men</w><w>were</w></hi></label>
                 <lg>
                     <l n="2173"><lb n="18"/><w><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">S</hei:initial><hi rendition="hc:RedStroke"><choice><orig>J</orig><reg>I</reg></choice></hi>e</w><w>ſprach</w><w>nu</w><w>ſende</w><w>dinen</w><w>gartzim</w><w>hin</w></l>
-                    <!--Revisado Victor 28/1/2020     -->
                     <pb n="50r"/>
                     <cb n="a"/>
                     <l n="2174"><lb n="1"/><w><hi rendition="hc:RedStroke">D</hi>ie</w><w>wile</w><w>wil</w><w>ich</w><w>ouch</w><w>nach</w><w>in</w></l>
@@ -3847,16 +3846,15 @@
                 </lg>
                 <lg>
                     <l n="2177"><lb n="4"/><w><hi rendition="hc:RedStroke">S</hi>ie</w><w>hette</w><w>in</w><w>ſchiere</w><w>beſant</w></l>
-                    <l n="2178"><lb n="5"/><w><hi rendition="hc:RedStroke">W</hi>an</w><w>er</w><w>waz</w><w>do</w><w>zü</w><w>hant</w></l>
+                    <l n="2178"><lb n="5"/><w><hi rendition="hc:RedStroke">W</hi>an</w><w>er</w><w>waz</w><w>do</w><w>zü hant</w></l>
                 </lg>
                 <lg>
-                    <l n="2179"><lb n="6"/><w><hi rendition="hc:RedStroke">D</hi>er</w><w>gartzüm</w><w>det</w><w>als</w><w>m<choice><am>ā</am><ex>an</ex></choice></w><w>yme<add hei:placeRef="hc:AboveLine">r</add>ſchiet</w></l>
+                    <l n="2179"><lb n="6"/><w><hi rendition="hc:RedStroke">D</hi>er</w><w>gartzüm</w><w>det</w><w>als</w><w>m<choice><am>ā</am><ex>an</ex></choice></w><w join="right">yme</w><metamark ana="hc:WordDivider ">/</metamark><w join="left"><add hei:placeRef="hc:AboveLine">be</add>ſchiet</w></l>
                     <l n="2180"><lb n="7"/><w><hi rendition="hc:RedStroke">E</hi>r</w><w>hal</w><w>es</w><w>alſo</w><w>ſie</w><w>es</w><w>yme</w><w>riet</w></l>
                 </lg>
                 <lg>
                     <l n="2181"><lb n="8"/><w><hi rendition="hc:RedStroke">E</hi>s</w><w>waz</w><w>gemachet</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>gereit</w></l>
                     <l n="2182"><lb n="9"/><w><hi rendition="hc:RedStroke">Z</hi>ü</w><w>aller</w><w>guten</w><w>kundekeyt</w></l>
-                    <!--faltan versos     -->
                 </lg>
                 <lg>
                     <l n="2185"><lb n="10"/><w><hi rendition="hc:RedStroke">D</hi>o</w><w>die</w><w>frauwe</w><w>ſich</w><w>des</w><w>verſach</w></l>
@@ -3894,11 +3892,11 @@
                 </lg>
                 <lg>
                     <l n="2201"><lb n="8"/><w><hi rendition="hc:RedStroke">D</hi>o</w><w>ſie</w><w>ir</w><w>frauwe</w><w>alleine</w><w>fant</w></l>
-                    <l n="2202"><lb n="9"/><w><hi rendition="hc:RedStroke"><choice><orig>V</orig><reg>U</reg></choice></hi>nd</w><w>machte</w><w>die</w><w>zü</w><w>hant</w></l>
+                    <l n="2202"><lb n="9"/><w><hi rendition="hc:RedStroke"><choice><orig>V</orig><reg>U</reg></choice></hi>nd</w><w>machte</w><w>die</w><w>zü hant</w></l>
                 </lg>
                 <lg>
                     <l n="2203"><lb n="10"/><w><hi rendition="hc:RedStroke">V</hi>on</w><w>freuden</w><w>bleich</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>rot</w></l>
-                    <l n="2204"><lb n="11"/><w><hi rendition="hc:RedStroke">N</hi>u</w><w>gebent</w><w>mir</w><w>dz</w><w>botten</w><w>brot</w></l>
+                    <l n="2204"><lb n="11"/><w><hi rendition="hc:RedStroke">N</hi>u</w><w>gebent</w><w>mir</w><w>d<choice><am>z</am><ex>az</ex></choice></w><w>botten</w><w>brot</w></l>
                 </lg>
                 <lg>
                     <l n="2205"><lb n="12"/><w><hi rendition="hc:RedStroke">M</hi>in</w><w>gartzim</w><w>der</w><w>iſt</w><w>kom<choice><am>ē</am><ex>en</ex></choice></w></l>
@@ -3913,14 +3911,14 @@
                     <l n="2210"><lb n="17"/><w><hi rendition="hc:RedStroke">D</hi>ez</w><w>twang</w><w>in</w><w>die</w><w>liebe</w><w>dar</w><w>zü</w></l>
                 </lg>
                 <lg>
-                    <l n="2211"><lb n="18"/><w><hi rendition="hc:RedStroke">S</hi>age</w><w>durch</w><w>got</w><w>wer</w><w>weiſzes</w><w>doch</w></l>
+                    <l n="2211"><lb n="18"/><w><hi rendition="hc:RedStroke">S</hi>age</w><w>durch</w><w>got</w><w>wer</w><w>weiſz</w><w>es</w><w>doch</w></l>
                     <pb n="51r"/>
                     <cb n="a"/>
                     <l n="2212"><lb n="1"/><w><hi rendition="hc:RedStroke">F</hi>rauwe</w><w>es</w><w>in</w><w>weyſz</w><w>niem<choice><am>ā</am><ex>an</ex></choice></w><w>noch</w></l>
                 </lg>
                 <lg>
                     <l n="2213"><lb n="2"/><w><hi rendition="hc:RedStroke">W</hi>an</w><w>der</w><w>gartzim</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>wir</w></l>
-                    <l n="2214"><lb n="3"/><w><hi rendition="hc:RedStroke">W</hi>an</w><w join="right">füreſ</w><w join="left">tu</w><w>in</w><w>der</w><w>zu</w><w>mir</w></l>
+                    <l n="2214"><lb n="3"/><w><hi rendition="hc:RedStroke">W</hi>an</w><w join="right">füreſ</w><w join="left">tu</w><w>in</w><w>her</w><w>zu</w><w>mir</w></l>
                 </lg>
                 <lg>
                     <l n="2215"><lb n="4"/><w><hi rendition="hc:RedStroke">N</hi>u</w><w>gang</w><w>in</w><w>weg</w><w>ich</w><w>beite</w><w>din</w><w>hie</w></l>
@@ -3975,6 +3973,7 @@
                 <lg>
                     <l n="2239"><lb n="10"/><w><hi rendition="hc:RedStroke"><choice><orig>J</orig><reg>I</reg></choice></hi>r</w><w>müſzent</w><w>ir</w><w>gefangen</w><w>weſin</w></l>
                     <l n="2240"><lb n="11"/><w><hi rendition="hc:RedStroke">A</hi>nders</w><w>lat</w><w>ſie</w><w>úch</w><w>wol</w><w>geneſin</w></l>
+                    <!--Revisado Victor 6/2/2020     -->
                 </lg>
                 <lb n="12"/>
                 <label ana="hc:SummaryLabel"><hi hei:color="Red"><w>Hie</w><w>brochte</w><w>die</w><w>j<choice><am>ū</am><ex>un</ex></choice>gfrouwe</w><w>he<choice><am>r̄</am><ex>ren</ex></choice></w><w>ywein</w><w>zü</w><w><choice><am>d͛</am><ex>der</ex></choice></w><w>königin</w></hi></label>
