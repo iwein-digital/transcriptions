@@ -10841,7 +10841,6 @@
                 <lg>
                     <l n="5443"><w>Der</w><w>her</w><w><choice><orig>u</orig><reg>v</reg></choice>on</w><w>in</w><w>geruhte</w><pc>·</pc></l>
                     <l n="5444"><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w><choice><orig>u</orig><reg>v</reg></choice>oͮrbaz</w><w>dan</w><w>her<lb ana="hc:DependentLine hc:RunOverLineBelow" n="15a"/></w><w>ſuhte</w><pc>·</pc></l>
-                    <!--Revisado Victor 8/2/2020     -->
                 </lg>
                 <lg>
                     <l n="5445"><lb n="16"/><w><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">D</hei:initial>ie</w><w><choice><orig>i</orig><reg>j</reg></choice>unc<choice><orig>u</orig><reg>v</reg></choice>rowe</w><w>lunenete</w><w>waſ</w><lb n="17"/><w><choice><orig>u</orig><reg>v</reg></choice>il</w><w><choice><orig>u</orig><reg>v</reg></choice>ro</w><pc>·</pc></l>
@@ -10877,16 +10876,16 @@
                 </lg>
                 <lg>
                     <l n="5461"><w>Dur</w><w>got</w><w>blibet</w><lb n="26"/><w>hi</w><w>mit</w><w>mir</w><pc>·</pc></l>
-                    <l n="5462"><w join="right">wand</w><w join="left">ih</w><w>weiz</w><w>wol</w><w join="right">daz</w><w join="left"><subst><del rendition="hc:Underdotted">e</del><add hei:placeRef="hc:AboveLine">i</add></subst>r</w><pc>·</pc></l>
+                    <l n="5462"><w join="right">wand</w><w join="left">ih</w><w>weiz</w><w>wol</w><w join="right">daz</w><w join="left"><add hei:placeRef="hc:AboveLine">i</add>er</w><pc>·</pc></l>
                 </lg>
                 <lg>
                     <l n="5463"><w><choice><orig>v</orig><reg>u</reg></choice><choice><am><hi rendition="hc:Superscript">n</hi></am><ex>nd</ex></choice></w><w>uwer</w><lb n="27"/><w>lewe</w><w>ſit</w><w>ſtarke</w><w>ge<choice><orig>w</orig><reg>wu</reg></choice>nt</w><pc>·</pc></l>
                     <l n="5464"><w>lat</w><w>mih</w><w>uh</w><w>machen</w><pb n="30r"/><cb n="a"/><lb n="1"/><w>geſunt</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="5465"><w><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">S</hei:initial>uſ</w><w>ſprah</w><w>der</w><w>nameloſe</w><w>doͮ</w><pc>·</pc></l>
-                    <!--Dos líneas de altura a la inicial aquí está bien???-->
-                    <l n="5466"><w>ih</w><w>ne</w><metamark ana="hc:InsertionMark ">,</metamark><w><add hei:placeRef="hc:AboveLine">ge</add>win</w><lb n="2"/><w>ne</w><w>mah</w><w>noh</w><w>ne</w><w>werde</w><w><choice><orig>u</orig><reg>v</reg></choice>ro</w><pc>·</pc></l>
+                    <l n="5465"><w><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">S</hei:initial>uſ</w><w>ſprah</w><w>der</w><w>nameloſe</w><w>doͮ</w></l>
+                    <l n="5466"><w>ih</w><w join="right">ne</w><metamark ana="hc:InsertionMark ">,</metamark><w join="left"><add hei:placeRef="hc:AboveLine">ge</add>win</w><lb n="2"/><w>ne</w><w>mah</w><w>noh</w><w>ne</w><w>werde</w><w><choice><orig>u</orig><reg>v</reg></choice>ro</w><pc>·</pc></l>
+                    <!--Revisado Victor 9/2/2020     -->
                 </lg>
                 <lg>
                     <l n="5467"><w>Niemir</w><w>me</w><w>unz</w><w>uf</w><w>ten</w><lb n="3"/><w>tah</w><pc>·</pc></l>
