@@ -132,6 +132,7 @@
         <surface ana="hc:Page" xml:id="b_12v" n="12v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg391/0028/image"/>
             <zone ana="hc:Column" xml:id="b_12v-a" n="a"/>
+            <zone ana="hc:MarginalZone" xml:id="b_12v-b" hei:placeRef="hc:PageBottom hc:PageMarginRight"/>
         </surface>
         <surface ana="hc:Page" xml:id="b_13r" n="13r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg391/0029/image"/>
@@ -2567,6 +2568,7 @@
                 </lg>
                 <lg>
                     <l n="545"><lb n="22"/><w><hi rendition="hc:RedStroke">D</hi>az</w><w>dü</w><w>noch</w><w><choice><orig>v</orig><reg>u</reg></choice>ngemach</w><w>ſtrebeſt</w></l>
+                    <fw ana="hc:Catchword"><lb facs="#b_12v-b"/><damage ana="hc:CutOff"><w part="I"><choice><orig>V</orig><reg>U</reg></choice></w></damage></fw>
                     <pb n="13r"/>
                     <cb n="a"/>
                     <l n="546"><lb n="1"/><w><hi rendition="hc:RedStroke"><choice><orig>V</orig><reg>U</reg></choice></hi>nd</w><w>nicht</w><w>gerne</w><w>ſanfft</w><w>lebeſt</w></l>
@@ -3732,7 +3734,7 @@
                     <l n="1115"><lb n="22"/><w><hi rendition="hc:RedStroke"><choice><orig>V</orig><reg>U</reg></choice></hi>nd</w><w>ſchriet</w><w>dy</w><w>ſwert</w><w>ſcheide</w></l>
                     <l n="1116"><lb n="23"/><w><hi rendition="hc:RedStroke"><choice><orig>V</orig><reg>U</reg></choice></hi>nd</w><w>dy</w><w>ſporn</w><w>beÿde</w></l>
                 </lg>
-                <fw ana="hc:QuireSignature"><lb facs="#b_24v-b"/><damage ana="hc:CutOff"><w>hinder</w></damage></fw>
+                <fw ana="hc:Catchword"><lb facs="#b_24v-b"/><damage ana="hc:CutOff"><w>hinder</w></damage></fw>
                 <pb n="25r"/>
                 <cb n="a"/>
                 <lg>
@@ -4895,6 +4897,7 @@
                     <l n="1723"><lb n="23"/><w><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">A</hei:initial><hi rendition="hc:RedStroke">L</hi>ſo</w><w>waz</w><w>myn</w><w>her</w><w>ywein</w></l>
                     <l n="1724"><lb n="24"/><w><hi rendition="hc:RedStroke">M</hi>it</w><w>diſen</w><w>noten</w><w>zwein</w></l>
                 </lg>
+                <fw ana="hc:Catchword"><lb facs="#b_36v-b"/><w>Sere</w><w part="I">be</w></fw>
                 <pb n="37r"/>
                 <cb n="a"/>
                 <lg>
@@ -6075,6 +6078,7 @@
                 </lg>
                 <lg>
                     <l n="2297"><lb n="23"/><w><hi rendition="hc:RedStroke"><choice><orig>J</orig><reg>I</reg></choice></hi>n</w><w>mÿn</w><w>gewalt</w><w>hant</w><w>ergeben</w></l>
+                    <fw ana="hc:Catchword"><lb facs="#b_48v-b"/><damage ana="hc:CutOff"><w>beneme</w></damage></fw>
                     <pb n="49r"/>
                     <cb n="a"/>
                     <l n="2298"><lb n="1"/><w><hi rendition="hc:RedStroke">B</hi>eneme</w><w>ich</w><w>üch</w><w>dann</w><w>daz</w><w>leben</w></l>
@@ -7160,8 +7164,7 @@
                     <l n="2844"><lb n="12"/><w><hi rendition="hc:RedStroke">M</hi>ocht</w><w>ich</w><w>dem</w><w>huſze</w><w>geringen</w></l>
                 </lg>
                 <lg>
-                    <l n="2845"><lb n="13"/><metamark ana="hc:CueInitial">ſ</metamark><w><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">S</hei:initial>us</w><w>beginnet</w><w>er</w><w>traur<choice><am>ē</am><ex>en</ex></choice></w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>cla<choice><am>g’</am><ex>gen</ex></choice></w></l>
-                    <!--ist das ein Abkürzungszeichen am g? 'in dubio pro scribano'     -->
+                    <l n="2845"><lb n="13"/><metamark ana="hc:CueInitial">ſ</metamark><w><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">S</hei:initial>us</w><w>beginnet</w><w>er</w><w>traur<choice><am>ē</am><ex>en</ex></choice></w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w xml:id="b_w_2845_6">cla<choice><am>g’</am><ex>gen</ex></choice></w><note ana="hc:TranscriptionNote" target="#b_w_2845_6">ist das ein Abkürzungszeichen am g? 'in dubio pro scribano'</note></l>
                     <l n="2846"><lb n="14"/><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>ſinem</w><w>gaſt</w><w>ſagen</w></l>
                 </lg>
                 <lg>
@@ -7230,6 +7233,7 @@
                     <l n="2903"><lb n="22"/><w><hi rendition="hc:RedStroke">D</hi>az</w><w>ſich</w><w>üwer</w><w>ere</w></l>
                     <l n="2904"><lb n="23"/><w><hi rendition="hc:RedStroke">B</hi>reit</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>aüch</w><w>mere</w></l>
                 </lg>
+                <fw ana="hc:Catchword"><lb facs="#b_60v-b"/><damage ana="hc:CutOff"><w><choice><orig>j</orig><reg>i</reg></choice>rret</w></damage></fw>
                 <pb n="61r"/>
                 <cb n="a"/>
                 <lg>
@@ -8393,6 +8397,7 @@
                 </lg>
                 <lg>
                     <l n="3467"><lb n="23"/><metamark ana="hc:CueInitial">d</metamark><w><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">D</hei:initial><hi rendition="hc:RedStroke">O</hi></w><w>ſy</w><w>yne</w><w>ligen</w><w>ſahe</w><w>als</w><w>ee</w></l>
+                    <fw ana="hc:Catchword"><lb facs="#b_72v-b"/><damage ana="hc:CutOff"><w>nü</w><w part="I">en</w></damage></fw>
                     <pb n="73r"/>
                     <cb n="a"/>
                     <l n="3468"><lb n="1"/><w><hi rendition="hc:RedStroke">N</hi>ü</w><w join="right">en</w><w join="left">quelte</w><w>ſẏ</w><w>nit</w><w>mee</w></l>
@@ -9538,7 +9543,7 @@
                     <l n="4027"><lb n="22"/><w><hi rendition="hc:RedStroke">A</hi>lſo</w><w>arme</w><w>mochten</w><w>leben</w></l>
                     <l n="4028"><lb n="23"/><w><hi rendition="hc:RedStroke">E</hi>r</w><w>ſprach</w><w>were</w><w>mocht</w><w>uch</w><w>geben</w></l>
                 </lg>
-                <fw ana="hc:QuireSignature"><lb facs="#b_84v-b"/><w>Alſo</w><w>groſz<gap ana="hc:Illegible" unit="chars" n="2"></gap></w></fw>
+                <fw ana="hc:QuireSignature"><lb facs="#b_84v-b"/><w>Alſo</w><w>groſz<gap ana="hc:Illegible" unit="chars" n="2"/></w></fw>
                 <pb n="85r"/>
                 <cb n="a"/>
                 <lg>
@@ -10641,7 +10646,7 @@
                     <l n="4571"><lb n="22"/><w><hi rendition="hc:RedStroke">W</hi>em</w><w>habt</w><w>ir</w><w>noch</w><w>verſeit</w></l>
                     <l n="4572"><lb n="23"/><w><hi rendition="hc:RedStroke">L</hi>ant</w><w>es</w><w>off</w><w>ſin</w><w>hoffheit</w></l>
                 </lg>
-                <pb n="96r"/>
+                <pb n="96v"/>
                 <cb n="a"/>
                 <lg>
                     <l n="4573"><lb n="1"/><w><hi rendition="hc:RedStroke">E</hi>r</w><w>gelichet</w><w>wol</w><w>dem</w><w>man</w></l>
@@ -10689,6 +10694,7 @@
                 </lg>
                 <lg>
                     <l n="4595"><lb n="23"/><w><hi rendition="hc:RedStroke">H</hi>erre</w><w>habt</w><w>güt</w><w>ſite</w></l>
+                    <fw ana="hc:Catchword"><lb facs="#b_96v-b"/><w>w<choice><am>ā</am><ex>an</ex></choice>n</w><w>ich</w></fw>
                     <pb n="97r"/>
                     <cb n="a"/>
                     <l n="4596"><lb n="1"/><w><hi rendition="hc:RedStroke">W</hi>ann</w><w>ich</w><w>üch</w><w>anders</w><w>nit</w><w>bite</w></l>
@@ -16401,6 +16407,7 @@
                     <l n="7435"><lb n="22"/><w><hi rendition="hc:RedStroke">D</hi>ie</w><w>rede</w><w>die</w><w>ir</w><w>hant</w><w>gethan</w></l>
                     <l n="7436"><lb n="23"/><w><hi rendition="hc:RedStroke">D</hi>y</w><w>wolt</w><w>ich</w><w>geſprochen</w><w>han</w></l>
                 </lg>
+                <fw ana="hc:Catchword"><lb facs="#b_156v-b"/><damage ana="hc:CutOff"><w>des</w><w>ir</w><w part="I">d</w></damage></fw>
                 <pb n="157r"/>
                 <cb n="a"/>
                 <lg>
@@ -16947,11 +16954,11 @@
                 </lg>
                 <lg>
                     <l n="7715"><lb n="19"/><w><hi rendition="hc:RedStroke"><choice><orig>J</orig><reg>I</reg></choice></hi>ch</w><w>teyle</w><w><choice><orig>j</orig><reg>i</reg></choice>r</w><metamark ana="hc:TranspositionMark">"</metamark><w xml:id="b_w_7715_4">lant</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><metamark ana="hc:TranspositionMark">"</metamark><w xml:id="b_w_7715_6">lüte</w><listTranspose>
-                        <transpose corresp="#b_w_7715_4 #b_w_7715_6">
-                            <ptr target="#b_w_7715_6"></ptr>
-                            <ptr target="#b_w_7715_4"></ptr>
-                        </transpose>
-                    </listTranspose></l>
+                            <transpose corresp="#b_w_7715_4 #b_w_7715_6">
+                                <ptr target="#b_w_7715_6"/>
+                                <ptr target="#b_w_7715_4"/>
+                            </transpose>
+                        </listTranspose></l>
                     <l n="7716"><lb n="20"/><w><hi rendition="hc:RedStroke">D</hi>es</w><w>ſyt</w><w>ir</w><w>bürge</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>pfant</w></l>
                 </lg>
                 <lg>
@@ -17520,6 +17527,7 @@
                 </lg>
                 <lg>
                     <l n="7979"><lb n="23"/><w><hi rendition="hc:RedStroke">E</hi>r</w><w>ſprach</w><w><choice><orig>j</orig><reg>i</reg></choice>r</w><w>habt</w><w>beſcheinet</w></l>
+                    <fw ana="hc:Catchword"><lb facs="#b_168v-b"/><damage ana="hc:CutOff"><w>vil</w><w part="I">wo</w></damage></fw>
                     <pb n="169r"/>
                     <cb n="a"/>
                     <l n="7980"><lb n="1"/><w><hi rendition="hc:RedStroke">V</hi>iel</w><w>wol</w><w>wie</w><w>ir</w><w>mich</w><w>meinet</w></l>
