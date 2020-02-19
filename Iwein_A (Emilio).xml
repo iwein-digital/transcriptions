@@ -13958,7 +13958,6 @@
                 <lg>
                     <l n="6837"><w>Bedenket</w><w>uwer</w><w part="I">her</w><metamark ana="hc:Hyphen">‒</metamark><lb break="no" n="8"/><w part="F">ſcaft</w><pc>·</pc></l>
                     <l n="6838"><w>daz</w><w>uwer</w><w>gelobede</w><w>habe</w><w>craft</w><pc>·</pc></l>
-                    <!--Revisado Victor 19/2/2020     -->
                 </lg>
                 <lg>
                     <l n="6839"><w>Sit</w><w>daz</w><w>ih</w><lb n="9"/><w>hie</w><w>geſiget</w><w>han</w><pc>·</pc></l>
@@ -14030,11 +14029,9 @@
                 </lg>
                 <lg>
                     <l n="6873"><w>Die</w><w>ir</w><w>niftele</w><w>ſiech</w><pb n="84r"/><cb n="a"/><lb n="1"/><w>liez</w><pc>·</pc></l>
-                    <l n="6874"><w>der</w><w>her</w><w>den</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="6878"><w>campzit</w><w>alſo</w><w>na</w><pc>·</pc></l>
-                    <!--FALTAN parte del v. 6874, los vv. 6875-6877 y parte del v. 6878!-->
+                    <l n="6878"><w>der</w><w>her</w><w>den</w><w>campzit</w><w>alſo</w><w>na</w><pc>·</pc><note ana="hc:TranscriptionNote" target="#xpath(//l[@n='6878'])">Der Beginn des Verses entspricht dem in dieser Hs. nicht vorhandenen V. 6874</note></l>
                 </lg>
                 <lg>
                     <l n="6879"><w>Daz</w><w join="right">in</w><w join="left">der</w><w>tage</w><lb n="2"/><w>zo</w><w>irre</w><w><choice><orig>u</orig><reg>v</reg></choice>art</w><pc>·</pc></l>
@@ -14045,7 +14042,7 @@
                     <l n="6882"><w>Ir</w><w>ſweſter</w><w>ir</w><w part="I">wider ſtri</w><lb n="4"/><w part="F">ten</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="6883"><w><choice><orig>w</orig><reg>wu</reg></choice>nden</w><w>ſie</w><w join="right">an</w><w join="left">der</w><w>kamp ſtat</w><pc>·</pc></l>
+                    <l n="6883"><w><choice><orig>w</orig><reg>vu</reg></choice>nden</w><w>ſie</w><w join="right">an</w><w join="left">der</w><w>kamp ſtat</w><pc>·</pc></l>
                     <l n="6884"><w>her</w><w>gawein</w><w>der</w><lb n="5"/><w>ſih</w><w>helen</w><w>bat</w><pc>·</pc></l>
                 </lg>
                 <lg>
@@ -14121,12 +14118,13 @@
                     <l n="6920"><w>daz</w><w join="right">ſi<choice><orig>v</orig><reg>u</reg></choice></w><w join="left">z</w><w>dur</w><w>got</w><w>tete</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="6921"><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><lb n="27"/><w>der</w><w>iungen</w><w>teilte</w><w>mite</w><pc>·</pc></l>
+                    <l n="6921"><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><lb n="27"/><w>der</w><w><choice><orig>i</orig><reg>j</reg></choice>ungen</w><w>teilte</w><w>mite</w><pc>·</pc></l>
                     <l n="6922"><w>deſ</w><w>antworte</w><w>ſie</w><w>mit</w><pb n="84v"/><cb n="a"/><lb n="1"/><w>ſulchen</w><w>ſite</w><pc>·</pc></l>
                 </lg>
                 <lg>
                     <l n="6923"><w join="right">Daz</w><w join="left">er</w><w>die</w><w>bite</w><w>moſte</w><w>lan</w><pc>·</pc></l>
                     <l n="6924"><w>Sie</w><w>wolte</w><lb n="2"/><w>daz</w><w>gewiſ</w><w>han</w><pc>·</pc></l>
+                    <!--Revisado Victor 19/2/2020 – Venga Emilio, que ya sólo falta un 15%!!     -->
                 </lg>
                 <lg>
                     <l n="6925"><w/><w/><w/><w/><w/><pc>·</pc></l>
