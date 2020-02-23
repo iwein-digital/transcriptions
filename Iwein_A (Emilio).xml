@@ -14124,12 +14124,10 @@
                 <lg>
                     <l n="6923"><w join="right">Daz</w><w join="left">er</w><w>die</w><w>bite</w><w>moſte</w><w>lan</w><pc>·</pc></l>
                     <l n="6924"><w>Sie</w><w>wolte</w><lb n="2"/><w>daz</w><w>gewiſ</w><w>han</w><pc>·</pc></l>
-                    <!--Revisado Victor 19/2/2020 – Venga Emilio, que ya sólo falta un 15%!!     -->
                 </lg>
                 <lg>
                     <l n="6925"><w>Ir</w><w>kempe</w><w><choice><orig>w</orig><reg>wu</reg></choice>rde</w><w>ſigehalt</w><pc>·</pc></l>
                     <l n="6925,1"><w>ze hant</w><lb n="3"/><w><choice><orig>w</orig><reg>wu</reg></choice>rden</w><w join="right">ine</w><w join="left">braht</w><pc>·</pc></l>
-                    <!--FALTAN los vv. 6926-7075!-->
                 </lg>
                 <lg>
                     <l n="7075"><w>Ros</w><w>die</w><w>liefen</w><w>drate</w><pc>·</pc></l>
@@ -14257,8 +14255,8 @@
                     <l n="7138"><w>die</w><w>ſcilte</w><w>hiwen</w><w>ſie</w><w>dan</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="7139"><w join="right">Si</w><w join="left"><subst><del rendition="hc:Strikethrough">m</del><add hei:placeRef="hc:Inline">n</add></subst>e</w><w>ruhten</w><w part="I">deſ</w><metamark ana="hc:Hyphen">‒</metamark><lb break="no" n="12"/><w part="F">me</w><pc>·</pc></l>
-                    <!--No estoy seguro de que haya tachado parte de la 'm' Mucho atrevimiento!-->
+                    <l n="7139"><w join="right">Si</w><w join="left">nie</w><w>ruhten</w><w part="I">deſ</w><metamark ana="hc:Hyphen">‒</metamark><lb break="no" n="12"/><w part="F">nie</w><pc>·</pc></l>
+                    <!--No estoy seguro de que haya tachado parte de la 'm' Mucho atrevimiento! TIENES RAZÓN, ADEMÁS EN ESTOS CASOS UTILIZA EL PUNTO.-->
                     <l n="7140"><w>daz</w><w>ſie</w><w>niderhalp</w><w>der</w><w>knie</w><pc>·</pc></l>
                 </lg>
                 <lg>
@@ -14267,7 +14265,7 @@
                 </lg>
                 <lg>
                     <l n="7143"><w>Sie</w><w part="I">entlu</w><metamark ana="hc:Hyphen">‒</metamark><lb break="no" n="14"/><w part="F">hen</w><w>creftiger</w><w>ſlege</w><pc>·</pc></l>
-                    <l n="7144"><w join="right">Me</w><w join="left">dan</w><w>ih</w><w>geſagen</w><w>m<subst><del rendition="hc:ImplicitlyDeleted">o</del><add hei:placeRef="hc:AboveLine">e</add></subst>ge</w><pc>·</pc></l>
+                    <l n="7144"><w join="right">Me</w><w join="left">dan</w><w>ih</w><w>geſagen</w><w>moͮge</w><pc>·</pc></l>
                 </lg>
                 <lg>
                     <l n="7145"><w>Ane</w><lb n="15"/><w>burgen</w><pc>·</pc><w>u<choice><am>n̄</am><ex>nd</ex></choice></w><w>pant</w><pc>·</pc></l>
@@ -14307,7 +14305,7 @@
                 </lg>
                 <lg>
                     <l n="7163"><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w><choice><orig>u</orig><reg>v</reg></choice>or</w><w>die</w><w part="I">ſcel</w><metamark ana="hc:Hyphen">‒</metamark><lb break="no" n="25"/><w part="F">tare</w><pc>·</pc></l>
-                    <l n="7164"><w>Boſer</w><w>geltare</w><pc>·</pc></l>
+                    <l n="7164"><w>Boſer</w><w>geltare</w></l>
                 </lg>
                 <lg>
                     <l n="7165"><w><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="1">S</hei:initial>ie</w><w>entluhen</w><w>beide</w><w>uz</w><lb n="26"/><w><choice><orig>u</orig><reg>v</reg></choice>oller</w><w>hant</w><pc>·</pc></l>
@@ -14322,16 +14320,16 @@
                     <l n="7170"><w>Me</w><lb n="2"/><w>u<choice><am>n̄</am><ex>nd</ex></choice></w><w>e</w><pc>·</pc><w>dan</w><w>nie</w><w>ſie</w><w>bat</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="7171"><w>ver legene</w><w>muzicheit</w><pc>·</pc></l>
+                    <l n="7171"><w>verlegene</w><w>muzicheit</w><pc>·</pc></l>
                     <l n="7172"><w>Iſt</w><lb n="3"/><w>gote</w><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>oh</w><w>der</w><w>werlte</w><w>leit</w><pc>·</pc></l>
                 </lg>
                 <lg>
                     <l n="7173"><w>Da</w><w>ne</w><w>lat</w><w>ſih</w><w>oh</w><w part="I">nie</w><lb n="4"/><w part="F">man</w><w>an</w><pc>·</pc></l>
-                    <l n="7174"><w>Niewen</w><w>ein</w><w><choice><orig>u</orig><reg>v</reg></choice>or legener</w><w>man</w><pc>·</pc></l>
+                    <l n="7174"><w>Niewen</w><w>ein</w><w><choice><orig>u</orig><reg>v</reg></choice>orlegener</w><w>man</w><pc>·</pc></l>
                 </lg>
                 <lg>
                     <l n="7175"><lb n="5"/><w><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">S</hei:initial>wer</w><w>gerne</w><w>ſtrebet</w><w>nah</w><w>eren</w><pc>·</pc></l>
-                    <l n="7176"><w>der</w><w>ſol</w><w>uil</w><w>ſtarke</w><lb n="6"/><w>keren</w><pc>·</pc></l>
+                    <l n="7176"><w>der</w><w>ſol</w><w><choice><orig>u</orig><reg>v</reg></choice>il</w><w>ſtarke</w><lb n="6"/><w>keren</w><pc>·</pc></l>
                 </lg>
                 <lg>
                     <l n="7177"><w>Alle</w><w>ſine</w><w>ſinne</w><pc>·</pc></l>
@@ -14359,17 +14357,15 @@
                 </lg>
                 <lg>
                     <l n="7189"><w>Sie</w><w>waren</w><w>zwene</w><w>mere</w><pc>·</pc></l>
-                    <l n="7190"><w part="I">kar</w><metamark ana="hc:Hyphen">‒</metamark><lb break="no" n="13"/><w part="F">ge</w><w>weſle re</w><pc>·</pc></l>
-                    <!--Hay un agujero en el ms., pero no parece que hubiese grafías ahí?-->
+                    <l n="7190"><w part="I">kar</w><metamark ana="hc:Hyphen">‒</metamark><lb break="no" n="13"/><w part="F">ge</w><w xml:id="A_w_7190_3">weſle re</w><pc>·</pc><note ana="hc:TranscriptionNote" target="#A_w_7190_3">Vor 're' Loch im Pergament, kein Textverlust bemerkbar</note></l>
                 </lg>
                 <lg>
                     <l n="7191"><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>untluhen</w><w>uz</w><w>ir</w><w><choice><orig>u</orig><reg>v</reg></choice>arende</w><lb n="14"/><w>got</w><pc>·</pc></l>
-                    <l n="7192"><w><choice><orig>v</orig><reg>u</reg></choice>f</w><w>einen</w><w>ſelzenen</w><w>mut</w><w/><pc>·</pc></l>
+                    <l n="7192"><w><choice><orig>v</orig><reg>u</reg></choice>f</w><w>einen</w><w>ſelzenen</w><w>mut</w><pc>·</pc></l>
                 </lg>
                 <lg>
                     <l n="7193"><w>Si</w><w>namen</w><w>wocher</w><lb n="15"/><w>dar</w><w>an</w><pc>·</pc></l>
                     <l n="7194"><w>Sam</w><w>zwene</w><pc>·</pc></l>
-                    <!--FALTAN parte del v. 7194 y el v. 7195!-->
                 </lg>
                 <lg>
                     <l n="7196"><w>harte</w><w><choice><orig>u</orig><reg>v</reg></choice>remeder</w><w>ſinne</w><pc>·</pc></l>
@@ -14440,7 +14436,7 @@
                 </lg>
                 <lg>
                     <l n="7229"><w>vil</w><w>ſere</w><lb n="8"/><w><choice><orig>u</orig><reg>v</reg></choice>ir ſcroten</w><pc>·</pc></l>
-                    <!--¿Qué pinta un punto en medio del 'virschroten'?-->
+                    <!--¿Qué pinta un punto en medio del 'virschroten'? 3 OPCIONES: o se le escapó la pluma, o quiso marcar que eso iba junto, o es una caquita de mosca :–)-->
                     <l n="7230"><w>daz</w><w>die</w><w>melien</w><w>roten</w><pc>·</pc></l>
                 </lg>
                 <lg>
@@ -14485,7 +14481,7 @@
                 </lg>
                 <lg>
                     <l n="7251"><lb n="20"/><w><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">D</hei:initial>ie</w><w>ruwe</w><w>wart</w><w><choice><orig>u</orig><reg>v</reg></choice>il</w><w>unlanc</w><pc>·</pc></l>
-                    <l n="7252"><w>vnz</w><w>iewider</w><lb n="21"/><w>uf</w><w>ſpranc</w><pc>·</pc></l>
+                    <l n="7252"><w><choice><orig>v</orig><reg>u</reg></choice>nz</w><w>iewider</w><lb n="21"/><w>uf</w><w>ſpranc</w><pc>·</pc></l>
                 </lg>
                 <lg>
                     <l n="7253"><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>liefen</w><w>a<choice><am>b͛</am><ex>ber</ex></choice></w><w>ein</w><w>ander</w><w>an</w><pc>·</pc></l>
@@ -14563,6 +14559,7 @@
                     <l n="7289"><w>Sie</w><w join="right"><choice><orig>u</orig><reg>v</reg></choice>irſaget</w><w join="left">eme</w><w>ſo</w><w/><w part="I">ſi</w><metamark ana="hc:Hyphen">‒</metamark><lb break="no" n="14"/><w part="F"/><pc>·</pc></l>
                     <!--COMPROBAR el verso! apenas legible al final     -->
                     <l n="7290"><w join="right">daz</w><w join="both">er</w><w join="left">ſ</w><w>ſie</w><w>niht</w><w>me</w><w>ne</w><w>wolte</w><w>biten</w><pc>·</pc></l>
+                    <!--Revisado Victor 23/2/2020     -->
                 </lg>
                 <lg>
                     <l n="7291"><w/><w/><w/><w/><w/><pc>·</pc></l>
