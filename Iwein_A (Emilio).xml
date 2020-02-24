@@ -30,6 +30,24 @@
             </listPrefixDef>
         </encodingDesc>
     </teiHeader>
+    <facsimile>
+        <surface ana="hc:Page" xml:id="A_1r" n="1r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0009/image"/>
+            <zone ana="hc:Column" xml:id="A_1r-a" n="a"/>
+        </surface>
+        <surface ana="hc:Page" xml:id="A_1v" n="1v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0010/image"/>
+            <zone ana="hc:Column" xml:id="A_1v-a" n="a"/>
+        </surface>
+        <surface ana="hc:Page" xml:id="A_2r" n="2r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0011/image"/>
+            <zone ana="hc:Column" xml:id="A_2r-a" n="a"/>
+        </surface>
+        <surface ana="hc:Page" xml:id="A_2v" n="2v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0012/image"/>
+            <zone ana="hc:Column" xml:id="A_2v-a" n="a"/>
+        </surface>
+    </facsimile>
     <text ana="hc:CompleteExpression hc:CourtlyRomance">
         <body>
             <div>
