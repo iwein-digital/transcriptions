@@ -14577,7 +14577,6 @@
                     <l n="7289"><w>Sie</w><w join="right"><choice><orig>u</orig><reg>v</reg></choice>irſaget</w><w join="left">eme</w><w>ſo</w><w/><w part="I">ſi</w><metamark ana="hc:Hyphen">‒</metamark><lb n="15"/><w part="F"/><pc>·</pc></l>
                     <!--COMPROBAR el verso! apenas legible al final     -->
                     <l n="7290"><w join="right">daz</w><w join="both">er</w><w join="left">ſ</w><w>ſie</w><w>niht</w><w>me</w><w>ne</w><w>wolte</w><w>biten</w><pc>·</pc></l>
-                    <!--Revisado Victor 23/2/2020     -->
                 </lg>
                 <lg>
                     <l n="7291"><lb n="16"/><w><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">D</hei:initial></w><w/><w/><w><choice><orig>i</orig><reg>j</reg></choice>ungere</w><w>geſah</w><pc>·</pc></l>
@@ -14619,7 +14618,11 @@
                     <l n="7309"><w>Zueh</w><w>dich</w><w>mit</w><w>guteme</w><w>heile</w><pc>·</pc></l>
                     <l n="7310"><lb n="27"/><w/><w/><w/><w/><w>teile</w><pc>·</pc></l>
                 </lg>
-                <lg> <l n="7311"><w>Dir</w><w>ſi</w><w><choice><orig>u</orig><reg>v</reg></choice>irlazen</w><w>ane</w><w/><pc>·</pc></l> <pb n="32r"/><cb n="a"/><l n="7312"><lb n="1"/><w>Beide</w><w>lant</w><w>u<choice><am>n̄</am><ex>nd</ex></choice></w><w>ſtrit</w><pc>·</pc></l><!--COMPROBAR todo el folio 86v.!--> </lg>
+                <lg>
+                    <l n="7311"><w>Dir</w><w>ſi</w><w><choice><orig>u</orig><reg>v</reg></choice>irlazen</w><w>ane</w><w/><pc>·</pc></l>
+                    <!--COMPROBAR todo el folio 86v.!--> <pb n="32r"/><cb n="a"/>
+                    <l n="7312"><lb n="1"/><w>Beide</w><w>lant</w><w>u<choice><am>n̄</am><ex>nd</ex></choice></w><w>ſtrit</w><pc>·</pc></l>
+                </lg>
                 <lg>
                     <l n="7313"><w>Deiſwar</w><w>ſint</w><w>ih</w><w>iſ</w><w>nit</w><w part="I">ha</w><metamark ana="hc:Hyphen">‒</metamark><lb break="no" n="2"/><w part="F">ben</w><w>ne</w><w>ſol</w><pc>·</pc></l>
                     <l n="7314"><w>Ih</w><w>ne</w><w>gan</w><w>iſ</w><w>niemanne</w><w>alſo</w><w>wol</w><pc>·</pc></l>
@@ -14691,6 +14694,7 @@
                 <lg>
                     <l n="7347"><w><choice><orig>V</orig><reg>U</reg></choice>nz</w><w>daz</w><w>die</w><w>naht</w><w>ane</w><w>gienc</w><pc>·</pc></l>
                     <l n="7348"><w join="right"><choice><orig>v</orig><reg>u</reg></choice>nd</w><w join="left">iz</w><lb n="23"/><w/><w><choice><orig>u</orig><reg>v</reg></choice>inſter</w><w/><w>under<choice><orig>u</orig><reg>v</reg></choice>ienc</w><pc>·</pc></l>
+                    <!--Revisado Victor 25/2/2020     -->
                 </lg>
                 <lg>
                     <l n="7349"><lb n="24"/><w><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">S</hei:initial>uſ</w><w>ſciet</w><w>ſie</w><w>beide</w><w>die</w><w>naht</w><pc>·</pc></l>
