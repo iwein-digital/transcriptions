@@ -7,23 +7,20 @@
             <titleStmt>
                 <title>Iwein-Fragm. U</title>
                 <author>Hartmann von Aue</author>
-                <respStmt>
-                    <resp>transcription</resp>
-                    <persName>Victor Millet</persName>
-                </respStmt>
+                <respStmt> <resp>transcription</resp> <persName>Victor Millet</persName> </respStmt>
             </titleStmt>
             <publicationStmt>
                 <publisher>UB Heidelberg</publisher>
             </publicationStmt>
             <sourceDesc>
                 <listWit>
-                    <witness xml:id="U"><msDesc>
+                    <witness xml:id="U"> <msDesc>
                         <msIdentifier>
                             <settlement>St. Paul im Lavanttal</settlement>
                             <repository>Stiftsbibliothek</repository>
                             <idno>Cod. 7/8</idno>
                         </msIdentifier>
-                        </msDesc></witness>
+                        </msDesc> </witness>
                 </listWit>
             </sourceDesc>
         </fileDesc>
@@ -33,6 +30,40 @@
             </listPrefixDef>
         </encodingDesc>
     </teiHeader>
+    <facsimile>
+        <surface ana="hc:Page" xml:id="U_1r" n="1r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/sbspl_cod_7_8/0001/image"/>
+            <zone ana="hc:Column" xml:id="U_1r-a" n="1r-a"/>
+        </surface>
+        <surface ana="hc:Page" xml:id="U_1v" n="1v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/sbspl_cod_7_8/0002/image"/>
+            <zone ana="hc:Column" xml:id="U_1v-a" n="1v-a"/>
+        </surface>
+        <surface ana="hc:Page" xml:id="U_2r" n="2r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/sbspl_cod_7_8/0003/image"/>
+            <zone ana="hc:Column" xml:id="U_2r-a" n="2r-a"/>
+        </surface>
+        <surface ana="hc:Page" xml:id="U_2v" n="2v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/sbspl_cod_7_8/0004/image"/>
+            <zone ana="hc:Column" xml:id="U_2v-a" n="2v-a"/>
+        </surface>
+        <surface ana="hc:Page" xml:id="U_3r" n="3r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/sbspl_cod_7_8/0005/image"/>
+            <zone ana="hc:Column" xml:id="U_3r-a" n="3r-a"/>
+        </surface>
+        <surface ana="hc:Page" xml:id="U_3v" n="3v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/sbspl_cod_7_8/0006/image"/>
+            <zone ana="hc:Column" xml:id="U_3v-a" n="3v-a"/>
+        </surface>
+        <surface ana="hc:Page" xml:id="U_4r" n="4r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/sbspl_cod_7_8/0007/image"/>
+            <zone ana="hc:Column" xml:id="U_4r-a" n="4r-a"/>
+        </surface>
+        <surface ana="hc:Page" xml:id="U_4v" n="4v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/sbspl_cod_7_8/0008/image"/>
+            <zone ana="hc:Column" xml:id="U_4v-a" n="4v-a"/>
+        </surface>
+    </facsimile>
     <text ana="hc:CourtlyRomance hc:ExpressionFragmentThroughLoss">
         <body>
             <div>
@@ -116,7 +147,8 @@
                 </lg>
                 <lg>
                     <l n="4139"><w><supplied>u</supplied>nt</w><w>ich</w><w>armeu</w><w><choice><orig>u</orig><reg>v</reg></choice>erlorne</w></l>
-                    <l n="4140"><lb n="21"/><w><choice><orig>u</orig><reg>v</reg></choice>er ſprach</w><w>mich</w><w><choice><orig>u</orig><reg>v</reg></choice>on</w><w>zorne</w></l>
+                    <l n="4140"><lb n="21"/><w><choice><orig>u</orig><reg>v</reg></choice>er
+        ſprach</w><w>mich</w><w><choice><orig>u</orig><reg>v</reg></choice>on</w><w>zorne</w></l>
                 </lg>
                 <lg>
                     <l n="4141"><w><choice><orig>vv</orig><reg>w</reg></choice>an</w><w>daz</w><w>iſt</w><w>gar</w><w>der</w><lb n="22"/><w>unſelden</w><w>ein</w><w>ſlach</w></l>
@@ -125,7 +157,8 @@
                 <pb n="1v"/>
                 <cb n="a"/>
                 <lg>
-                    <l n="4143"><lb n="1"/><w>bet<choice><orig>vv</orig><reg>w</reg></choice>ingen</w><w>er</w><w>uber ſprech</w><w>ſich</w></l>
+                    <l n="4143"><lb n="1"/><w>bet<choice><orig>vv</orig><reg>w</reg></choice>ingen</w><w>er</w><w>uber
+        ſprech</w><w>ſich</w></l>
                     <l n="4144"><w>laider</w><w>alſ</w><w>tet</w><w>ich</w><w>mih</w></l>
                 </lg>
                 <lg>
@@ -295,7 +328,7 @@
                     <l n="4242"><w>ſo</w><w>be<choice><orig>u</orig><reg>v</reg></choice>indet</w><w>mein</w><w>froͮ<choice><orig>vv</orig><reg>w</reg></choice>e</w></l>
                 </lg>
                 <lg>
-                    <l n="4243"><lb n="18"/><w>unt</w><w>waiz</w><w><choice><orig>vv͛</orig><reg><choice><abbr><am>w͛</am></abbr><expan><ex>wer</ex></expan></choice></reg></choice></w><w>ich</w><w>danne</w><w>bin</w></l>
+                    <l n="4243"><lb n="18"/><w>unt</w><w>waiz</w><w><choice><orig><choice><am>vv͛</am><ex>vver</ex></choice></orig><reg>wer</reg></choice></w><w>ich</w><w>danne</w><w>bin</w></l>
                     <l n="4244"><w>unt</w><w>daz</w><w>ich</w><w>lip</w><w>unde</w><w>ſin</w></l>
                 </lg>
                 <lg>
@@ -307,7 +340,7 @@
                     <l n="4248"><w>de</w><w>erbar<choice><am>ē</am><ex>en</ex></choice></w><w>krœne</w></l>
                 </lg>
                 <lg>
-                    <l n="4249"><w>die</w><w>ich</w><w><choice><orig>u</orig><reg>v</reg></choice>on</w><w>eu<choice><orig>vv͛</orig><reg><choice><abbr><am>w͛</am></abbr><expan><ex>wer</ex></expan></choice></reg></choice>en</w><w>ſchulden</w><lb n="21"/><w>truoch</w></l>
+                    <l n="4249"><w>die</w><w>ich</w><w><choice><orig>u</orig><reg>v</reg></choice>on</w><w>eu<choice><orig><choice><am>vv͛</am><ex>vver</ex></choice></orig><reg>wer</reg></choice>en</w><w>ſchulden</w><lb n="21"/><w>truoch</w></l>
                     <l n="4250"><w>ih</w><w>hete</w><w>eren</w><w>gnuͦch</w></l>
                 </lg>
                 <lg>
@@ -339,7 +372,7 @@
                     <l n="4262"><w>do</w><w>wart</w><w>iz</w><w>ime</w><w>gelobet</w></l>
                 </lg>
                 <lg>
-                    <l n="4263"><w>daz</w><w>er</w><w><choice><am>h͛</am><ex>her</ex></choice></w><w>i<choice><orig>vv</orig><reg>w</reg></choice>an</w><w><choice><orig>vv͛</orig><reg><choice><abbr><am>w͛</am></abbr><expan><ex>wer</ex></expan></choice></reg></choice>e</w></l>
+                    <l n="4263"><w>daz</w><w>er</w><w><choice><am>h͛</am><ex>her</ex></choice></w><w>i<choice><orig>vv</orig><reg>w</reg></choice>an</w><w><choice><orig><choice><am>vv͛</am><ex>vver</ex></choice></orig><reg>wer</reg></choice>e</w></l>
                     <l n="4264"><lb n="7"/><w>geringet</w><w>wart</w><w>ir</w><w>ſware</w></l>
                 </lg>
                 <lg>
@@ -347,7 +380,7 @@
                     <l n="4266"><lb n="8"/><w><choice><orig>v</orig><reg>u</reg></choice>nt</w><w>ſprach</w><w>alſ</w><w join="right">ſi</w><w join="left">z</w><w>och</w><w>mainde</w></l>
                 </lg>
                 <lg>
-                    <l n="4267"><w><supplied>M</supplied>ier</w><w>mach</w><w>nu</w><w>niht</w><lb n="9"/><w>ge<choice><orig>vv͛</orig><reg><choice><abbr><am>w͛</am></abbr><expan><ex>wer</ex></expan></choice></reg></choice>en</w></l>
+                    <l n="4267"><w><supplied>M</supplied>ier</w><w>mach</w><w>nu</w><w>niht</w><lb n="9"/><w>ge<choice><orig><choice><am>vv͛</am><ex>vver</ex></choice></orig><reg>wer</reg></choice>en</w></l>
                     <l n="4268"><w>ſit</w><w>daz</w><w>ich</w><w>mienen</w><w>herren</w></l>
                 </lg>
                 <lg>
@@ -380,895 +413,397 @@
                 </lg>
                 <gap ana="hc:CutOff"/>
                 <lg>
-                    <l n="4286"><w/><w/><w/><w/><w/><w/></l>
+                    <l n="4286"><lb n="16"/><w>rbunden</w></l>
                 </lg>
                 <lg>
-                    <l n="4287"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4288"><w/><w/><w/><w/><w/><w/></l>
+                    <l n="4287"><w>min</w><gap ana="hc:TornOff"/></l>
                 </lg>
                 <lg>
-                    <l n="4289"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4290"><w/><w/><w/><w/><w/><w/></l>
+                    <l n="4289"><lb n="17"/><w>daz</w><w>waz</w><w>wunderlich</w><w>komen</w></l>
+                    <l n="4290"><w>in</w><w>waſ</w><w>diu</w><w>kunegin</w><w part="I">gno</w><lb n="18" break="no"/><w part="F">men</w></l>
                 </lg>
                 <lg>
-                    <l n="4291"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4292"><w/><w/><w/><w/><w/><w/></l>
+                    <l n="4291"><w>daz</w><w>het</w><w>ein</w><w>riter</w><w>getan</w></l>
+                    <l n="4292"><w>den</w><w>wolden</w><w>ſi</w><w>gelaſtert</w><w>han</w></l>
                 </lg>
                 <lg>
-                    <l n="4293"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4294"><w/><w/><w/><w/><w/><w/></l>
+                    <l n="4293"><lb n="19"/><w>unt</w><w>geſchach</w><w>daz</w><w>in</w><w><choice><am>d’</am><ex>de</ex></choice>n</w><w>ſelben</w><w>tagen</w></l>
+                    <l n="4294"><w>do</w><w>ich</w><w>dar</w><w>waſ</w><w>kom<choice><am>ē</am><ex>en</ex></choice></w><lb n="20"/><w>durh</w><w>klag<choice><am>ē</am><ex>en</ex></choice></w></l>
                 </lg>
                 <lg>
-                    <l n="4295"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4296"><w/><w/><w/><w/><w/><w/></l>
+                    <l n="4295"><w>do</w><w>waſ</w><w>her</w><w>Ga<choice><orig>vv</orig><reg>w</reg></choice>ein</w><w>nah</w><w>getrichen</w></l>
+                    <l n="4296"><w>ich</w><w>horte</w><lb n="21"/><w>ſi</w><w>namechlich<choice><am>ē</am><ex>en</ex></choice></w></l>
                 </lg>
                 <lg>
-                    <l n="4297"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4298"><w/><w/><w/><w/><w/><w/></l>
+                    <l n="4297"><w>haben</w><w><choice><orig>v</orig><reg>u</reg></choice>mbe</w><w>die</w><w>fro<choice><orig>vv</orig><reg>w</reg></choice>en</w><w>zroze</w><w>klag</w></l>
+                    <l n="4298"><w><choice><orig>v</orig><reg>u</reg></choice>nt</w><lb n="22"/><w>umbe</w><w>ſich</w><w>nach</w><w><choice><orig>i</orig><reg>j</reg></choice>agen</w></l>
                 </lg>
                 <lg>
-                    <l n="4299"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4300"><w/><w/><w/><w/><w/><w/></l>
+                    <l n="4299"><w>wande</w><w>ſi</w><w><choice><orig>u</orig><reg>v</reg></choice>orhten</w><w>daz</w><w>er</w><w><choice><am>d’</am><ex>de</ex></choice>n</w><w>lip</w></l>
+                    <l n="4300"><w><choice><orig><choice><am>u͛</am><ex>uer</ex></choice></orig><reg>ver</reg></choice>lur</w><w/><w/><w/><w/><w/></l>
                 </lg>
+                <gap ana="hc:Lost"/>
+                <pb n="3r"/>
+                <cb n="a"/>
                 <lg>
-                    <l n="4301"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4302"><w/><w/><w/><w/><w/><w/></l>
+                    <l n="4526"><lb n="1"/><w>die</w><w>ſchande</w></l>
                 </lg>
                 <lg>
-                    <l n="4303"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4304"><w/><w/><w/><w/><w/><w/></l>
+                    <l n="4527"><w>er</w><w>vil</w><w>gerne</w><w>enbare</w></l>
+                    <l n="4528"><w><choice><orig>vv</orig><reg>w</reg></choice>elt</w><w>ir</w><w>ein</w><w><choice><orig>u</orig><reg>v</reg></choice>romd</w><gap ana="hc:CutOff"/></l>
                 </lg>
                 <lg>
-                    <l n="4305"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4306"><w/><w/><w/><w/><w/><w/></l>
+                    <l n="4529"><lb n="2"/><w>daz</w><w><choice><orig>vv</orig><reg>w</reg></choice>el</w><w>ich</w><w>eu</w><w>ſagen</w></l>
+                    <l n="4530"><w>ez</w><w>chom</w><w>in</w><w>diſen</w><w>ſuben</w><w>tagen</w></l>
                 </lg>
                 <lg>
-                    <l n="4307"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4308"><w/><w/><w/><w/><w/><w/></l>
+                    <l n="4531"><w>ei</w><gap ana="hc:CutOff"/><lb n="3"/><w>ten</w><w>dar</w></l>
+                    <l n="4532"><w><choice><orig>v</orig><reg>u</reg></choice>nt</w><w>nam</w><w>deſ</w><w><choice><orig>u</orig><reg>v</reg></choice>il</w><w>rehte</w><w><choice><orig>vv</orig><reg>w</reg></choice>ar</w></l>
                 </lg>
                 <lg>
-                    <l n="4309"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4310"><w/><w/><w/><w/><w/><w/></l>
+                    <l n="4533"><w>daz</w><w>z<choice><orig>v</orig><reg>u</reg></choice></w><w>den</w><w>ſel</w><gap ana="hc:CutOff"/></l>
+                    <l n="4534"><lb n="4"/><w>die</w><w>von</w><w>der</w><w>tavel run<choice><am>d’</am><ex>de</ex></choice></w></l>
                 </lg>
                 <lg>
-                    <l n="4311"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4312"><w/><w/><w/><w/><w/><w/></l>
+                    <l n="4535"><w>bei</w><w>ir</w><w>heren</w><w>ſizen</w><w>ſah</w></l>
+                    <l n="4536"><w>er</w><gap ana="hc:CutOff"/><lb n="5"/><w>in</w><w><choice><orig>v</orig><reg>u</reg></choice>nt</w><w>ſprach</w></l>
                 </lg>
                 <lg>
-                    <l n="4313"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4314"><w/><w/><w/><w/><w/><w/></l>
+                    <l n="4537"><w><choice><am>h͛</am><ex>her</ex></choice>re</w><w>auf</w><w>gnade</w><w>bin</w><w>ich</w><w>chomen</w></l>
+                    <l n="4538"><w>w</w><gap ana="hc:CutOff"/><lb n="6"/><w>e<choice><orig>v</orig><reg>u</reg></choice></w><w>han</w><w><choice><am>v͛</am><ex>ver</ex></choice>nomen</w></l>
                 </lg>
                 <lg>
-                    <l n="4315"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4316"><w/><w/><w/><w/><w/><w/></l>
+                    <l n="4539"><w>die</w><w>milte</w><w><choice><orig>v</orig><reg>u</reg></choice>nt</w><w>och</w><w>die</w><w>frumchait</w></l>
+                    <l n="4540"><gap ana="hc:CutOff"/><lb n="7"/><w>mier</w><w>ſi</w><w><choice><orig>v</orig><reg>u</reg></choice>n<choice><orig><choice><am>u͛</am><ex>uer</ex></choice></orig><reg>ver</reg></choice>ſait</w></l>
                 </lg>
                 <lg>
-                    <l n="4317"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4318"><w/><w/><w/><w/><w/><w/></l>
+                    <l n="4541"><w>einer</w><w>gabe</w><w>der</w><w>ich</w><w>ger</w></l>
+                    <l n="4542"><w>nach</w><w>der</w><w>bin</w><gap ana="hc:CutOff"/></l>
                 </lg>
                 <lg>
-                    <l n="4319"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4320"><w/><w/><w/><w/><w/><w/></l>
+                    <l n="4543"><gap ana="hc:CutOff"/><lb n="8"/><w>one</w><w>ſprach</w><w>der</w><w>kunec</w><w>artuſ</w></l>
+                    <l n="4544"><w>ſweſ</w><w>ir</w><w>gebietet</w><w>hie</w><w>ze</w><w>h</w><gap ana="hc:CutOff"/></l>
                 </lg>
                 <lg>
-                    <l n="4321"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4322"><w/><w/><w/><w/><w/><w/></l>
+                    <l n="4545"><lb n="9"/><w>ir</w><w>alleſ</w><w>gewert</w></l>
+                    <l n="4546"><w><choice><orig>v</orig><reg>u</reg></choice>nt</w><w>daz</w><w>ir</w><w>berechlicen</w><w>gert</w></l>
                 </lg>
                 <lg>
-                    <l n="4323"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4324"><w/><w/><w/><w/><w/><w/></l>
+                    <l n="4547"><w>er</w><w>ſpr</w><gap ana="hc:CutOff"/><lb n="10"/><w>mich</w><w>lazen</w></l>
+                    <l n="4548"><w>alſ</w><w>ich</w><w>von</w><w>e<choice><orig>v</orig><reg>u</reg></choice></w><w><choice><orig>u</orig><reg>v</reg></choice>ernomen</w></l>
                 </lg>
                 <lg>
-                    <l n="4325"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4326"><w/><w/><w/><w/><w/><w/></l>
+                    <l n="4549"><w>So</w><w>moh</w><gap ana="hc:CutOff"/><lb n="11"/><w>men</w></l>
+                    <l n="4550"><w>woldet</w><w>ir</w><w>ich</w><w>auz</w><w>nemen</w></l>
                 </lg>
                 <lg>
-                    <l n="4327"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4328"><w/><w/><w/><w/><w/><w/></l>
+                    <l n="4551"><w>ſ<choice><orig>vv</orig><reg>w</reg></choice>aſ</w><w>iz</w><w>nu</w><w>ſi</w><w>d</w><gap ana="hc:CutOff"/></l>
+                    <l n="4552"><gap ana="hc:CutOff"/><lb n="12"/><w>eret</w><w>mich</w><w>mit</w></l>
                 </lg>
                 <lg>
-                    <l n="4329"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4330"><w/><w/><w/><w/><w/><w/></l>
+                    <l n="4553"><w><choice><orig>v</orig><reg>u</reg></choice>nt</w><w>lat</w><w>die</w><w>bete</w><w>her</w><w>z<choice><orig>vͦ</orig><reg>uͦ</reg></choice><w>mir</w></w></l>
+                    <l n="4554"><gap ana="hc:CutOff"/><lb n="13"/><w>ir</w><w>anders</w><w>gar</w><w>enbir</w></l>
                 </lg>
                 <lg>
-                    <l n="4331"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4332"><w/><w/><w/><w/><w/><w/></l>
+                    <l n="4555"><w>daz</w><w><choice><orig>vv</orig><reg>w</reg></choice>ider rette</w><w>ch<choice><orig>v</orig><reg>u</reg></choice>n</w><gap ana="hc:CutOff"/></l>
+                    <l n="4556"><gap ana="hc:CutOff"/><lb n="14"/><w>ſhiet</w><w>er</w><w>von</w><w>ſinen</w><w>hueſ</w></l>
                 </lg>
                 <lg>
-                    <l n="4333"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4334"><w/><w/><w/><w/><w/><w/></l>
+                    <l n="4557"><w>vil</w><w>harte</w><w>zorn</w><gap ana="hc:CutOff"/></l>
+                    <l n="4558"><gap ana="hc:CutOff"/><lb n="15"/><w>ſprach</w><w>iz</w><w>iſt</w><w>manecvalt</w><w>man</w></l>
                 </lg>
                 <lg>
-                    <l n="4335"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4336"><w/><w/><w/><w/><w/><w/></l>
+                    <l n="4559"><w>an</w><w>dem</w><w>ku</w><gap ana="hc:CutOff"/></l>
                 </lg>
                 <lg>
-                    <l n="4337"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4338"><w/><w/><w/><w/><w/><w/></l>
+                    <l n="4566"><gap ana="hc:CutOff"/><lb n="16"/><w>alle</w></l>
                 </lg>
                 <lg>
-                    <l n="4339"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4340"><w/><w/><w/><w/><w/><w/></l>
+                    <l n="4567"><w>die</w><w>von</w><w>der</w><w>tavel run<choice><am>d’</am><ex>de</ex></choice></w></l>
+                    <l n="4568"><w><choice><orig>v</orig><reg>u</reg></choice>nt</w><w>ſprachen</w><w>m</w><gap ana="hc:CutOff"/><lb n="17"/><w>de</w></l>
                 </lg>
                 <lg>
-                    <l n="4341"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4342"><w/><w/><w/><w/><w/><w/></l>
+                    <l n="4569"><w>herre</w><w>waz</w><w>habet</w><w>ir</w><w>getan</w></l>
+                    <l n="4570"><w>welt</w><w>ir</w><w>dem</w><w>ri</w><gap ana="hc:CutOff"/></l>
                 </lg>
                 <lg>
-                    <l n="4343"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4344"><w/><w/><w/><w/><w/><w/></l>
+                    <l n="4571"><lb n="18"/><w><choice><orig>vv</orig><reg>w</reg></choice>em</w><w>habet</w><w>ir</w><w>noh</w><w>verſait</w></l>
+                    <l n="4572"><w>lat</w><w>ez</w><w>an</w><w>ſine</w><gap ana="hc:CutOff"/></l>
                 </lg>
                 <lg>
-                    <l n="4345"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4346"><w/><w/><w/><w/><w/><w/></l>
+                    <l n="4573"><lb n="19"/><w>er</w><w>lichet</w><w>ſich</w><w>wol</w><w>einem</w><w>man</w></l>
+                    <l n="4574"><w>der</w><w>betelichen</w><gap ana="hc:CutOff"/></l>
                 </lg>
                 <lg>
-                    <l n="4347"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4348"><w/><w/><w/><w/><w/><w/></l>
+                    <l n="4575"><lb n="20"/><w>ſheidet</w><gap ana="hc:Illegible"/><w>er</w><w>hinnen</w></l>
+                    <l n="4576"><w>mit</w><w join="right">ſuſt</w><w join="left">getane</w><w>din</w><gap ana="hc:CutOff"/></l>
                 </lg>
                 <lg>
-                    <l n="4349"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4350"><w/><w/><w/><w/><w/><w/></l>
+                    <l n="4577"><lb n="21"/><w>ſprichet</w><w>er</w><w>niemer</w><w>mere</w></l>
+                    <l n="4578"><w>de hain</w><w>e<choice><orig>v</orig><reg>u</reg></choice>rer</w><w>e</w><gap ana="hc:CutOff"/></l>
                 </lg>
+                <pb n="3v"/>
+                <cb n="a"/>
                 <lg>
-                    <l n="4351"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4352"><w/><w/><w/><w/><w/><w/></l>
+                    <l n="4579"><lb n="1"/><gap ana="hc:CutOff"/><unclear><w>nec</w><w>ſich</w><w>bedachte</w></unclear></l>
+                    <l n="4580"><w><choice><orig>v</orig><reg>u</reg></choice>nt</w><w>ſhuef</w><w>daz</w><w>man</w><w>im</w><w>brachte</w></l>
                 </lg>
                 <lg>
-                    <l n="4353"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4354"><w/><w/><w/><w/><w/><w/></l>
+                    <l n="4581"><lb n="2"/><gap ana="hc:CutOff"/><w>ſtate</w></l>
+                    <l n="4582"><w>ze</w><w>laiſten</w><w>ſweſ</w><w>er</w><w>gebate</w></l>
                 </lg>
                 <lg>
-                    <l n="4355"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4356"><w/><w/><w/><w/><w/><w/></l>
+                    <l n="4583"><w>oh</w><w join="right">bedorft</w><w join="left">er</w><lb n="3"/><gap ana="hc:CutOff"/><w>erhait</w></l>
+                    <l n="4584"><w>wande</w><w>ſin</w><w>wort</w><w><choice><orig>vv</orig><reg>w</reg></choice>aſ</w><w>ein</w><w>eit</w></l>
                 </lg>
                 <lg>
-                    <l n="4357"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4358"><w/><w/><w/><w/><w/><w/></l>
+                    <l n="4585"><w>do</w><w>bat</w><w>er</w><lb n="4"/><gap ana="hc:CutOff"/><w>evel</w><w>man</w></l>
+                    <l n="4586"><w>daz</w><w>er</w><w>ſolte</w><w>vuren</w><w>dan</w></l>
                 </lg>
                 <lg>
-                    <l n="4359"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4360"><w/><w/><w/><w/><w/><w/></l>
+                    <l n="4587"><w>ſin</w><w><choice><orig>vv</orig><reg>w</reg></choice>ip</w><lb n="5"/><gap ana="hc:CutOff"/></l>
+                    <l n="4588"><w>daz</w><w>hete</w><w>die</w><w>ſ<choice><am>ī</am><ex>in</ex></choice>ne</w></l>
                 </lg>
                 <lg>
-                    <l n="4361"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4362"><w/><w/><w/><w/><w/><w/></l>
+                    <l n="4589"><w>dem</w><w>kunege</w><w>nach</w><w>bnomen</w></l>
+                    <l n="4590"><lb n="6"/><gap ana="hc:CutOff"/><w>ch</w><w>wie</w><w>bin</w><w>ich</w><w><choice><orig>v</orig><reg>u</reg></choice>berkomen</w></l>
                 </lg>
                 <lg>
-                    <l n="4363"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4364"><w/><w/><w/><w/><w/><w/></l>
+                    <l n="4591"><w>die</w><w>diſen</w><w>rat</w><lb n="7"/><gap ana="hc:CutOff"/></l>
+                    <l n="4592"><w>habent</w><w>mich</w><w>gar</w><w><choice><orig>u</orig><reg>v</reg></choice>eraten</w></l>
                 </lg>
                 <lg>
-                    <l n="4365"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4366"><w/><w/><w/><w/><w/><w/></l>
+                    <l n="4593"><w><supplied>D</supplied>o</w><w join="right">in</w><w join="left">der</w><w>ri<choice><am>t͛</am><ex>ter</ex></choice></w><lb n="8"/><gap ana="hc:CutOff"/></l>
+                    <l n="4594"><w>do</w><w join="right">troſt</w><w join="both">er</w><w join="left">n</w><w><choice><orig>v</orig><reg>u</reg></choice>nt</w><w>ſprach</w></l>
                 </lg>
                 <lg>
-                    <l n="4367"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4368"><w/><w/><w/><w/><w/><w/></l>
+                    <l n="4595"><w>herre</w><del rendition="hc:Erased"><w>habet</w></del><w>habet</w><w>g<choice><orig>vͦ</orig><reg>uͦ</reg></choice>te</w><lb n="9"/><gap ana="hc:CutOff"/></l>
+                    <l n="4596"><w>ir</w><w>anderſ</w><w>nicht</w><w join="right">en</w><w join="left">bit</w></l>
                 </lg>
                 <lg>
-                    <l n="4369"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4370"><w/><w/><w/><w/><w/><w/></l>
+                    <l n="4597"><w><choice><orig>vv</orig><reg>w</reg></choice>an</w><w>mit</w><w>dem</w><lb n="10"/><gap ana="hc:CutOff"/></l>
+                    <l n="4598"><w>ich</w><w>ſei</w><w>v<choice><am>ō</am><ex>on</ex></choice></w><w>hinnen</w><w>bringe</w></l>
                 </lg>
                 <lg>
-                    <l n="4371"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4372"><w/><w/><w/><w/><w/><w/></l>
+                    <l n="4599"><w>ir</w><w>habt</w><w>der</w><w>beſten</w><lb n="11"/><gap ana="hc:CutOff"/></l>
+                    <l n="4600"><w>allen</w><w>den</w><w>erber</w></l>
                 </lg>
                 <lg>
-                    <l n="4373"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4374"><w/><w/><w/><w/><w/><w/></l>
+                    <l n="4601"><w>die</w><w>mier</w><w>durh</w><w>ſi</w><w>ritent</w><w>nach</w></l>
+                    <l n="4602"><lb n="12"/><gap ana="hc:CutOff"/><w>mier</w><w>nicht</w><w><choice><orig>vv</orig><reg>w</reg></choice>eſen</w><w>gah</w></l>
                 </lg>
                 <lg>
-                    <l n="4375"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4376"><w/><w/><w/><w/><w/><w/></l>
+                    <l n="4603"><w><choice><orig>vv</orig><reg>w</reg></choice>an</w><w>alſ</w><w>alle</w><lb n="13"/><gap ana="hc:CutOff"/></l>
+                    <l n="4604"><w><choice><orig>v</orig><reg>u</reg></choice>nt</w><w>wizet</w><w><choice><orig>vv</orig><reg>w</reg></choice>ol</w><w>ſ<choice><orig>vv</orig><reg>w</reg></choice>er</w><w>mich</w><w><choice><orig>i</orig><reg>j</reg></choice>age</w></l>
                 </lg>
                 <lg>
-                    <l n="4377"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4378"><w/><w/><w/><w/><w/><w/></l>
+                    <l n="4605"><w>daz</w><w>ich</w><lb n="14"/><gap ana="hc:CutOff"/><w>vil</w><w>me</w><w><choice><orig>vv</orig><reg>w</reg></choice>il</w><w>balder</w><w>riten</w></l>
+                    <l n="4606"><w>dar</w><w><choice><orig>v</orig><reg>u</reg></choice>mbe</w><lb n="15"/><gap ana="hc:CutOff"/></l>
                 </lg>
                 <lg>
-                    <l n="4379"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4380"><w/><w/><w/><w/><w/><w/></l>
+                    <l n="4607"><w>e</w><w>der</w><w>kunech</w><w>la<del rendition="hc:Erased">z</del>zen</w><w><choice><orig>vv</orig><reg>w</reg></choice>ar</w></l>
+                    <l n="4608"><w>daz</w><w>er</w><gap ana="hc:CutOff"/></l>
                 </lg>
                 <lg>
-                    <l n="4381"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4382"><w/><w/><w/><w/><w/><w/></l>
+                    <l n="4616"><lb n="16"/><gap ana="hc:CutOff"/><w>e</w></l>
                 </lg>
                 <lg>
-                    <l n="4383"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4384"><w/><w/><w/><w/><w/><w/></l>
+                    <l n="4617"><w><choice><orig>v</orig><reg>u</reg></choice>nt</w><w>mante</w><w>alſ</w><w>ſi</w><w>da</w><w>kunde</w></l>
+                    <l n="4618"><w>mit</w><w>gebarde</w><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><lb n="17"/><gap ana="hc:CutOff"/><w>e</w></l>
                 </lg>
                 <lg>
-                    <l n="4385"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4386"><w/><w/><w/><w/><w/><w/></l>
+                    <l n="4619"><w>daz</w><w>ſi</w><w>ſi</w><w>ledeget<choice><am>ē</am><ex>en</ex></choice></w><w>enzit</w></l>
+                    <l n="4620"><w>der</w><w>hof</w><w><choice><orig>vv</orig><reg>w</reg></choice>art</w><w>vordeſ</w><lb n="18"/><gap ana="hc:CutOff"/></l>
                 </lg>
                 <lg>
-                    <l n="4387"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4388"><w/><w/><w/><w/><w/><w/></l>
+                    <l n="4621"><gap ana="hc:CutOff"/><w>rte</w><w>nie</w><w>beſ<choice><orig>vv</orig><reg>w</reg></choice>art</w></l>
+                    <l n="4622"><w>wande</w><w>ſi</w><w><choice><orig>vv</orig><reg>w</reg></choice>aren</w><w>ge<choice><orig>v</orig><reg>u</reg></choice>nert</w></l>
                 </lg>
                 <lg>
-                    <l n="4389"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4390"><w/><w/><w/><w/><w/><w/></l>
+                    <l n="4623"><lb n="19"/><gap ana="hc:CutOff"/><w>uern</w><w>ſachen</w></l>
+                    <l n="4624"><w>da</w><w><choice><orig>vv</orig><reg>w</reg></choice>art</w><w>ein</w><w>michcel</w><w>gahen</w></l>
                 </lg>
                 <lg>
-                    <l n="4391"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4392"><w/><w/><w/><w/><w/><w/></l>
+                    <l n="4625"><w>ez</w><lb n="20"/><gap ana="hc:CutOff"/><w>nt</w><w>der</w></l>
+                    <l n="4626"><w>harnaſch</w><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>roſ</w><w>her</w></l>
                 </lg>
                 <lg>
-                    <l n="4393"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4394"><w/><w/><w/><w/><w/><w/></l>
+                    <l n="4627"><w><choice><orig>v</orig><reg>u</reg></choice>nt</w><w>ſwer</w><w>gera</w><lb n="21"/><gap ana="hc:CutOff"/></l>
+                    <l n="4628"><w>r</w><w>hoͮb</w><w>ſich</w><w>nach</w><w>auf</w><w>die</w><w>vart</w></l>
                 </lg>
                 <lg>
-                    <l n="4395"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4396"><w/><w/><w/><w/><w/><w/></l>
+                    <l n="4629"><w><choice><orig>v</orig><reg>u</reg></choice>nt</w><w>ſprachen</w><pb n="4r"/><cb n="a"/><lb n="1"/><w>ſin</w><w>wirt</w><w>g<choice><orig>v</orig><reg>u</reg></choice>t</w><w>rat</w></l>
+                    <l n="4630"><w>ſet</w><w>er iz</w><w>ſo</w><w>getailet</w><w>hat</w></l>
                 </lg>
                 <lg>
-                    <l n="4397"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4398"><w/><w/><w/><w/><w/><w/></l>
+                    <l n="4631"><w>er</w><w>vur</w><gap ana="hc:CutOff"/><lb n="2"/><w>re</w></l>
+                    <l n="4632"><w>ez</w><w join="right">en</w><w join="left">ſei</w><w>daz</w><w><choice><orig>v</orig><reg>u</reg></choice>nſer</w><w>here</w></l>
                 </lg>
                 <lg>
-                    <l n="4399"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4400"><w/><w/><w/><w/><w/><w/></l>
+                    <l n="4633"><w>mit</w><w>ime</w><w><choice><orig>vv</orig><reg>w</reg></choice>ider</w><gap ana="hc:CutOff"/></l>
+                    <l n="4634"><lb n="3"/><gap ana="hc:CutOff"/><w>one</w><w>ſprach</w></l>
                 </lg>
                 <lg>
-                    <l n="4401"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4402"><w/><w/><w/><w/><w/><w/></l>
+                    <l n="4635"><w join="right">i</w><w join="left">n</w><w>beſhirmet</w><w>der</w><w>tivel</w><w>noh</w><w>got</w></l>
+                    <l n="4636"><w>d</w><gap ana="hc:CutOff"/><lb n="4"/><w>laſterlichen</w><w>ſpot</w></l>
                 </lg>
                 <lg>
-                    <l n="4403"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4404"><w/><w/><w/><w/><w/><w/></l>
+                    <l n="4637"><w>an</w><w>miener</w><w>fro<choice><orig>vv</orig><reg>w</reg></choice>en</w><w>hat</w><w>getan</w></l>
+                    <l n="4638"><gap ana="hc:CutOff"/><lb n="5"/><w>im</w><w join="right">an</w><w join="left">den</w><w>lip</w><w>gan</w></l>
                 </lg>
                 <lg>
-                    <l n="4405"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4406"><w/><w/><w/><w/><w/><w/></l>
+                    <l n="4639"><w>ich</w><w>bin</w><w>truhſcheze</w><w>hie</w><w>z</w><gap ana="hc:CutOff"/></l>
+                    <l n="4640"><lb n="6"/><w>der</w><w>kunech</w><w>Artus</w></l>
                 </lg>
                 <lg>
-                    <l n="4407"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4408"><w/><w/><w/><w/><w/><w/></l>
+                    <l n="4641"><w>geſchuldiget</w><w>umbe</w><w>mich</w><gap ana="hc:CutOff"/></l>
+                    <l n="4642"><lb n="7"/><w>daz</w><w>ich</w><w>gerne</w><w>ledigen</w><w>ſchol</w></l>
                 </lg>
                 <lg>
-                    <l n="4409"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4410"><w/><w/><w/><w/><w/><w/></l>
+                    <l n="4643"><w>mine</w><w>fro<choice><orig>vv</orig><reg>w</reg></choice>en</w><gap ana="hc:CutOff"/></l>
+                    <l n="4644"><lb n="8"/><w join="right">de</w><w join="both">ſ</w><w join="left"><choice><orig>vv</orig><reg>w</reg></choice>ar</w><w>ez</w><w>get</w><w>im</w><w>an</w><w>den</w><w>lip</w></l>
                 </lg>
                 <lg>
-                    <l n="4411"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4412"><w/><w/><w/><w/><w/><w/></l>
+                    <l n="4645"><w>er</w><w><choice><orig>u</orig><reg>v</reg></choice>uͦret</w><w>ſi</w><w><choice><orig>v</orig><reg>u</reg></choice>nder</w><gap ana="hc:CutOff"/></l>
+                    <l n="4646"><lb n="9"/><w>niemer</w><w>eineſ</w><w>ho<choice><orig>u</orig><reg>v</reg></choice>eſ</w><w>lanch</w></l>
                 </lg>
                 <lg>
-                    <l n="4413"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4414"><w/><w/><w/><w/><w/><w/></l>
+                    <l n="4647"><w join="right">de</w><w join="both">ſ</w><w join="left"><choice><orig>vv</orig><reg>w</reg></choice>ar</w><w><choice><orig>v</orig><reg>u</reg></choice>nt</w><w>weſt</w><w>e</w><gap ana="hc:CutOff"/></l>
+                    <l n="4648"><lb n="10"/><w>er</w><w>ware</w><w>her</w><w join="right">ze</w><w join="left">hove</w><w>nie</w></l>
                 </lg>
                 <lg>
-                    <l n="4415"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4416"><w/><w/><w/><w/><w/><w/></l>
+                    <l n="4649"><w><choice><orig>v</orig><reg>u</reg></choice>f</w><w>ſuſ</w><w>getane</w><w>rede</w><w>ch</w><gap ana="hc:CutOff"/></l>
+                    <l n="4650"><gap ana="hc:CutOff"/><lb n="11"/><w>ſol</w><w>ſei</w><w>ſchiere</w><w>im</w><w>haben</w><w>gnomen</w></l>
                 </lg>
                 <lg>
-                    <l n="4417"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4418"><w/><w/><w/><w/><w/><w/></l>
+                    <l n="4651"><w><supplied>N</supplied><choice><orig>v</orig><reg>u</reg></choice></w><w>ſolt</w><w>ir</w><gap ana="hc:CutOff"/></l>
+                    <l n="4652"><lb n="12"/><w>dize</w><w>gmaine</w><w>nah</w><w>gahen</w></l>
                 </lg>
                 <lg>
-                    <l n="4419"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4420"><w/><w/><w/><w/><w/><w/></l>
+                    <l n="4653"><w>er</w><w>ſprach</w><w>waz</w><w>ſ</w><gap ana="hc:CutOff"/><lb n="13"/><w><choice><orig>u</orig><reg>v</reg></choice>uͦge</w><w>ſcal</w></l>
+                    <l n="4654"><w>daz</w><w>dire</w><w>hof</w><w><choice><orig>v</orig><reg>u</reg></choice>ber</w><w>al</w></l>
                 </lg>
                 <lg>
-                    <l n="4421"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4422"><w/><w/><w/><w/><w/><w/></l>
+                    <l n="4655"><w>durh</w><w>eine</w><gap ana="hc:CutOff"/><lb n="14"/><w>wil</w><w>rieten</w></l>
+                    <l n="4656"><w>ich</w><w>tr<choice><orig>w</orig><reg>uw</reg></choice>e</w><w>im</w><w><choice><orig>vv</orig><reg>w</reg></choice>ol</w><w>geſtriten</w></l>
                 </lg>
                 <lg>
-                    <l n="4423"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4424"><w/><w/><w/><w/><w/><w/></l>
+                    <l n="4657"><w>ic</w><gap ana="hc:CutOff"/><w>im</w><w>ein</w><w>her</w></l>
+                    <l n="4658"><w>er</w><w>ſezet</w><w>ſich</w><w>niemer</w><choice><orig>zvver</orig><reg><w>zu</w><w>wer</w></reg></choice></l>
                 </lg>
                 <lg>
-                    <l n="4425"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4426"><w/><w/><w/><w/><w/><w/></l>
+                    <l n="4659"><w>ſ</w><gap ana="hc:CutOff"/><lb n="15"/><w>ndet</w><w>daz</w><w join="right">i</w><w join="left">z</w><w>bin</w></l>
+                    <l n="4660"><w>nu</w><w>waz</w><w>hulf</w><w>a<choice><orig>v</orig><reg>u</reg></choice>ch</w><w>daz</w><w>in</w></l>
                 </lg>
                 <lg>
-                    <l n="4427"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4428"><w/><w/><w/><w/><w/><w/></l>
+                    <l n="4661"><gap ana="hc:CutOff"/><lb n="16"/><w><choice><orig>vv</orig><reg>w</reg></choice>ol</w><w>alle</w><w>hie</w><w>beſtan</w></l>
+                    <l n="4662"><w>ſit</w><w>ich</w><w join="right">mi</w><w join="left">z</w><w join="right">an</w><w join="left">genom</w><gap ana="hc:CutOff"/></l>
                 </lg>
                 <lg>
-                    <l n="4429"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4430"><w/><w/><w/><w/><w/><w/></l>
+                    <l n="4663"><gap ana="hc:CutOff"/><lb n="17"/><w>erlaze</w><w>i<choice><orig>v</orig><reg>u</reg></choice>h</w><w>aller</w><w>arbait</w></l>
+                    <l n="4664"><damage ana="hc:CutOff"><w>hir</w><w>mit</w><w>waſ</w></damage><gap ana="hc:CutOff"/></l>
                 </lg>
                 <lg>
-                    <l n="4431"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4432"><w/><w/><w/><w/><w/><w/></l>
+                    <l n="4671"><gap ana="hc:CutOff"/><lb n="18"/><w>zen</w><w>kreften</w><w>ſtach</w><w>er</w><w>in</w></l>
+                    <l n="4672"><w>enbor</w><damage ana="hc:CutOff"><w><choice><orig>v</orig><reg>u</reg></choice>ber</w><w>den</w></damage><gap ana="hc:CutOff"/></l>
                 </lg>
                 <lg>
-                    <l n="4433"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4434"><w/><w/><w/><w/><w/><w/></l>
+                    <l n="4673"><lb n="19"/><w>daz</w><w>in</w><w>ein</w><w>aſt</w><w>den</w><w>helm</w><w>gevie</w></l>
+                    <l n="4674"><w><choice><orig>v</orig><reg>u</reg></choice>nt</w><w><choice><orig>vv</orig><reg>w</reg></choice>ider</w><w>g</w><gap ana="hc:CutOff"/><w>hie</w></l>
                 </lg>
                 <lg>
-                    <l n="4435"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4436"><w/><w/><w/><w/><w/><w/></l>
+                    <l n="4675"><w><supplied>W</supplied>an</w><w>daz</w><w>in</w><w>ſin</w><w>geverte</w></l>
+                    <l n="4676"><w>der</w><w><choice><orig>v</orig><reg>u</reg></choice>bel</w><w>tu</w><gap ana="hc:CutOff"/></l>
                 </lg>
+                <pb n="4v"/>
+                <cb n="a"/>
                 <lg>
-                    <l n="4437"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4438"><w/><w/><w/><w/><w/><w/></l>
+                    <l n="4677"><lb n="1"/><gap ana="hc:CutOff"/><w>ſicherlich</w><w>tot</w></l>
+                    <l n="4678"><w>doch</w><w join="right">laid</w><w join="left">er</w><w>hangende</w><w>groeze</w><lb n="2"/><gap ana="hc:CutOff"/></l>
                 </lg>
                 <lg>
-                    <l n="4439"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4440"><w/><w/><w/><w/><w/><w/></l>
+                    <l n="4679"><gap ana="hc:CutOff"/><w>art</w><w>er</w><w>ledeget</w><w>laider</w><w>ſit</w></l>
+                    <l n="4680"><w>doch</w><w>hinc</w><w>er</w><w><choice><orig>v</orig><reg>u</reg></choice>n</w><lb n="3"/><gap ana="hc:CutOff"/><w>it</w></l>
                 </lg>
                 <lg>
-                    <l n="4441"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4442"><w/><w/><w/><w/><w/><w/></l>
+                    <l n="4681"><w>er</w><w>von</w><w>in</w><w>allen</w><w>lait</w></l>
+                    <l n="4682"><w>er</w><w>groeze</w><w>laſter</w><lb n="4"/><gap ana="hc:CutOff"/></l>
                 </lg>
                 <lg>
-                    <l n="4443"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4444"><w/><w/><w/><w/><w/><w/></l>
+                    <l n="4683"><w>der</w><w>erſte</w><w>waſ</w><w>kalograiant</w></l>
+                    <l n="4684"><w>der</w><w join="right">in</w><w join="left">da</w><w>han</w><lb n="5"/><gap ana="hc:CutOff"/><w>t</w></l>
                 </lg>
                 <lg>
-                    <l n="4445"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4446"><w/><w/><w/><w/><w/><w/></l>
+                    <l n="4685"><w>nicht</w><w>anderſ</w><w>wan</w><w>alſ</w><w>ein</w><w>diep</w></l>
+                    <l n="4686"><w><choice><am>d͛</am><ex>der</ex></choice></w><w>loſteſ</w><lb n="6"/><gap ana="hc:CutOff"/><w>waſ</w><w>im</w><w>liep</w></l>
                 </lg>
                 <lg>
-                    <l n="4447"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4448"><w/><w/><w/><w/><w/><w/></l>
+                    <l n="4687"><w><choice><orig>v</orig><reg>u</reg></choice>nt</w><w>gahte</w><w><choice><orig>u</orig><reg>v</reg></choice>uͦr</w><w>den</w><w>gaſt</w></l>
+                    <l n="4688"><lb n="7"/><gap ana="hc:CutOff"/><w>doc</w><w>deſ</w><w>gebraſt</w></l>
                 </lg>
                 <lg>
-                    <l n="4449"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4450"><w/><w/><w/><w/><w/><w/></l>
+                    <l n="4689"><w>daz</w><w>ime</w><w>nicht</w><w>alſam</w><w>ge</w><lb n="8"/><gap ana="hc:CutOff"/></l>
+                    <l n="4690"><gap ana="hc:CutOff"/><w>n<choice><am>d’</am><ex>de</ex></choice>rn</w><w>och</w><w>da</w><w>nider</w><w>ſtach</w></l>
                 </lg>
                 <lg>
-                    <l n="4451"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4452"><w/><w/><w/><w/><w/><w/></l>
+                    <l n="4691"><w>die</w><w>in</w><w>ſit</w><w>hang<choice><am>ē</am><ex>en</ex></choice></w><lb n="9"/><gap ana="hc:CutOff"/></l>
+                    <l n="4692"><gap ana="hc:CutOff"/><w>bnam</w><w>ir</w><w>gahen</w></l>
                 </lg>
                 <lg>
-                    <l n="4453"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4454"><w/><w/><w/><w/><w/><w/></l>
+                    <l n="4693"><w>ir</w><w><choice><orig>v</orig><reg>u</reg></choice>n<choice><orig>vv</orig><reg>w</reg></choice>ile</w><w><choice><orig>v</orig><reg>u</reg></choice>nt</w><w>ſein</w><w>ſhal</w><lb n="10"/><gap ana="hc:CutOff"/></l>
+                    <l n="4694"><gap ana="hc:CutOff"/><w>anelich</w><w><choice><orig>u</orig><reg>v</reg></choice>uͦr</w><w>rait</w></l>
                 </lg>
                 <lg>
-                    <l n="4455"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4456"><w/><w/><w/><w/><w/><w/></l>
+                    <l n="4695"><w>in</w><w>rait</w><w>uf</w><w>dem</w><w>ge</w><lb n="11"/><gap ana="hc:CutOff"/></l>
+                    <l n="4696"><gap ana="hc:CutOff"/><w>ineſ</w><w>der</w><w><choice><orig>vv</orig><reg>w</reg></choice>ilde</w></l>
                 </lg>
                 <lg>
-                    <l n="4457"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4458"><w/><w/><w/><w/><w/><w/></l>
+                    <l n="4697"><w><choice><orig>v</orig><reg>u</reg></choice>nt</w><w>prach</w><w>uf</w><w>ime</w><w>ſin</w><w>ſper</w></l>
+                    <l n="4698"><lb n="12"/><gap ana="hc:CutOff"/><w>rt</w><w>och</w><w>er</w></l>
                 </lg>
                 <lg>
-                    <l n="4459"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4460"><w/><w/><w/><w/><w/><w/></l>
+                    <l n="4699"><w>geſezet</w><w>auf</w><w>daz</w><w>graſ</w></l>
+                    <l n="4700"><w>alſ</w><w>lanc</w><lb n="13"/><gap ana="hc:CutOff"/><w><choice><orig>vv</orig><reg>w</reg></choice>aſ</w></l>
                 </lg>
                 <lg>
-                    <l n="4461"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4462"><w/><w/><w/><w/><w/><w/></l>
+                    <l n="4703"><w>dar</w><w>erreit</w><w>in</w><w>hehenet</w></l>
+                    <l n="4704"><w>dem</w><w>ſel</w><lb n="14"/><gap ana="hc:CutOff"/><w>tet</w></l>
                 </lg>
                 <lg>
-                    <l n="4463"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4464"><w/><w/><w/><w/><w/><w/></l>
+                    <l n="4701"><w>Saigre<choice><orig>mͦ</orig><reg>mo</reg></choice>r</w><w>erreit</w><w join="right">in</w><w join="left">do</w></l>
+                    <l n="4702"><w>dem</w><w>geſcah</w><lb n="15"/><gap ana="hc:CutOff"/></l>
                 </lg>
                 <lg>
-                    <l n="4465"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4466"><w/><w/><w/><w/><w/><w/></l>
+                    <l n="4705"><gap ana="hc:CutOff"/><w>blecherin</w><w><choice><orig>v</orig><reg>u</reg></choice>nt</w><w>millemargot</w></l>
+                    <l n="4706"><w><choice><orig>vv</orig><reg>w</reg></choice>urden</w><lb n="16"/><gap ana="hc:CutOff"/><w>ber</w><w>ſpot</w></l>
                 </lg>
                 <lg>
-                    <l n="4467"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4468"><w/><w/><w/><w/><w/><w/></l>
+                    <l n="4707"><w>mit</w><w join="right">ſo</w><w join="left">getanem</w><w><choice><orig>v</orig><reg>u</reg></choice>nge<choice><orig>u</orig><reg>v</reg></choice>elle</w></l>
+                    <l n="4708"><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><lb n="17"/><gap ana="hc:CutOff"/><w>ir</w><w>geſelle</w></l>
                 </lg>
                 <lg>
-                    <l n="4469"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4470"><w/><w/><w/><w/><w/><w/></l>
+                    <l n="4709"><w>daz</w><w>ich</w><w>ſei</w><w>alle</w><w>nenne</w></l>
+                    <l n="4710"><w>die</w><w>ich</w><lb n="18"/><gap ana="hc:CutOff"/></l>
                 </lg>
                 <lg>
-                    <l n="4471"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4472"><w/><w/><w/><w/><w/><w/></l>
+                    <l n="4711"><gap ana="hc:CutOff"/><damage ana="hc:CutOff"><w>z</w><w>iſt</w><w>alſ</w><w>guet</w><w>vermitten</w></damage></l>
+                    <l n="4712"><damage ana="hc:CutOff"><w>wan</w><w>alle</w><w>die</w></damage></l>
                 </lg>
+                <gap ana="hc:CutOff"/>
                 <lg>
-                    <l n="4473"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4474"><w/><w/><w/><w/><w/><w/></l>
+                    <l n="4719"><lb n="19"/><gap ana="hc:CutOff"/><w>waſ</w><w>er</w><w>nindr</w><w>da</w></l>
+                    <l n="4720"><w join="right">er</w><w join="left">kom</w><w>aber</w><w>ſa</w></l>
                 </lg>
                 <lg>
-                    <l n="4475"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4476"><w/><w/><w/><w/><w/><w/></l>
+                    <l n="4721"><w>mo</w><lb n="20"/><gap ana="hc:CutOff"/><w>tag</w></l>
+                    <l n="4722"><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>durh</w><w>deſ</w><w>chunegeſ</w><w>chlage</w></l>
                 </lg>
                 <lg>
-                    <l n="4477"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4478"><w/><w/><w/><w/><w/><w/></l>
+                    <l n="4723"><w>iſt</w><w>er</w><w>nah</w><lb n="21"/><gap ana="hc:CutOff"/></l>
+                    <l n="4724"><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>wil</w><w>in</w><w>manechlichen</w></l>
                 </lg>
                 <lg>
-                    <l n="4479"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4480"><w/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="4481"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4482"><w/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="4483"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4484"><w/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="4485"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4486"><w/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="4487"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4488"><w/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="4489"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4490"><w/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="4491"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4492"><w/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="4493"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4494"><w/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="4495"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4496"><w/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="4497"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4498"><w/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="4499"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4500"><w/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="4501"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4502"><w/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="4503"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4504"><w/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="4505"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4506"><w/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="4507"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4508"><w/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="4509"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4510"><w/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="4511"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4512"><w/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="4513"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4514"><w/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="4515"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4516"><w/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="4517"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4518"><w/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="4519"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4520"><w/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="4521"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4522"><w/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="4523"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4524"><w/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="4525"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4526"><w/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="4527"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4528"><w/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="4529"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4530"><w/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="4531"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4532"><w/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="4533"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4534"><w/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="4535"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4536"><w/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="4537"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4538"><w/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="4539"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4540"><w/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="4541"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4542"><w/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="4543"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4544"><w/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="4545"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4546"><w/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="4547"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4548"><w/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="4549"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4550"><w/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="4551"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4552"><w/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="4553"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4554"><w/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="4555"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4556"><w/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="4557"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4558"><w/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="4559"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4560"><w/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="4561"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4562"><w/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="4563"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4564"><w/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="4565"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4566"><w/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="4567"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4568"><w/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="4569"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4570"><w/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="4571"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4572"><w/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="4573"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4574"><w/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="4575"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4576"><w/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="4577"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4578"><w/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="4579"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4580"><w/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="4581"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4582"><w/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="4583"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4584"><w/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="4585"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4586"><w/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="4587"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4588"><w/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="4589"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4590"><w/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="4591"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4592"><w/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="4593"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4594"><w/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="4595"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4596"><w/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="4597"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4598"><w/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="4599"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4600"><w/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="4601"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4602"><w/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="4603"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4604"><w/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="4605"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4606"><w/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="4607"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4608"><w/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="4609"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4610"><w/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="4611"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4612"><w/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="4613"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4614"><w/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="4615"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4616"><w/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="4617"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4618"><w/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="4619"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4620"><w/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="4621"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4622"><w/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="4623"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4624"><w/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="4625"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4626"><w/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="4627"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4628"><w/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="4629"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4630"><w/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="4631"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4632"><w/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="4633"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4634"><w/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="4635"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4636"><w/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="4637"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4638"><w/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="4639"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4640"><w/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="4641"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4642"><w/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="4643"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4644"><w/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="4645"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4646"><w/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="4647"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4648"><w/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="4649"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4650"><w/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="4651"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4652"><w/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="4653"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4654"><w/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="4655"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4656"><w/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="4657"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4658"><w/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="4659"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4660"><w/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="4661"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4662"><w/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="4663"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4664"><w/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="4665"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4666"><w/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="4667"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4668"><w/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="4669"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4670"><w/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="4671"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4672"><w/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="4673"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4674"><w/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="4675"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4676"><w/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="4677"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4678"><w/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="4679"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4680"><w/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="4681"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4682"><w/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="4683"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4684"><w/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="4685"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4686"><w/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="4687"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4688"><w/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="4689"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4690"><w/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="4691"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4692"><w/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="4693"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4694"><w/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="4695"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4696"><w/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="4697"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4698"><w/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="4699"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4700"><w/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="4701"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4702"><w/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="4703"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4704"><w/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="4705"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4706"><w/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="4707"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4708"><w/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="4709"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4710"><w/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="4711"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4712"><w/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="4713"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4714"><w/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="4715"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4716"><w/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="4717"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4718"><w/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="4719"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4720"><w/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="4721"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4722"><w/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="4723"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4724"><w/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="4725"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4726"><w/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="4727"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4728"><w/><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="4729"><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4730"><w/><w/><w/><w/><w/><w/></l>
+                    <l n="4725"><w><choice><orig>vv</orig><reg>w</reg></choice>ider</w><w>g<choice><orig>vv</orig><reg>w</reg></choice><choice><am>ī</am><ex>in</ex></choice>n<choice><am>ē</am><ex>en</ex></choice></w><gap ana="hc:CutOff"/></l>
                 </lg>
             </div>
         </body>
