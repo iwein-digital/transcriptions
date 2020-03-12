@@ -1008,13 +1008,12 @@
                     <l n="470"><w>daz</w><w>mih</w><w>da</w><w>bi</w><w>eme</w><w>weſen</w><lb ana="hc:DependentLine hc:RunOverLineBelow" n="11a"/><w>bedroz</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="471"><lb n="12"/><metamark ana="hc:Cueinitial">d</metamark><w><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">D</hei:initial>oͮ</w><w>ih</w><w>alſo</w><w>na</w><w>quam</w><pc>·</pc></l>
+                    <l n="471"><lb n="12"/><metamark ana="hc:CueInitial">d</metamark><w><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">D</hei:initial>oͮ</w><w>ih</w><w>alſo</w><w>na</w><w>quam</w><pc>·</pc></l>
                     <l n="472"><lb n="13"/><w join="right">daz</w><w join="left">er</w><w>min</w><w>ware</w><w>genam</w><pc>·</pc></l>
                 </lg>
                 <lg>
                     <l n="473"><w>Zehant</w><lb n="14"/><w>ſah</w><w>ih</w><w>en</w><w>uf</w><w>ſtan</w><pc>·</pc></l>
-                    <l n="474"><w><choice><orig>v</orig><reg>u</reg></choice>nde</w><w>na
-        he</w><w>zoͮ</w><w>mir</w><w>gan</w><pc>·</pc></l>
+                    <l n="474"><w><choice><orig>v</orig><reg>u</reg></choice>nde</w><w>nahe</w><w>zoͮ</w><w>mir</w><w>gan</w><pc>·</pc></l>
                 </lg>
                 <lg>
                     <l n="475"><lb n="15"/><w>weder</w><w>wider</w><w>mih</w><w>ſin</w><w>mot</w><pc>·</pc></l>
@@ -1033,7 +1032,7 @@
                     <l n="482"><w><choice><orig>v</orig><reg>u</reg></choice>nde</w><w>bat</w><lb n="20"/><w>mir</w><w>ſagen</w><w>mare</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="483"><w>Ih</w><w>ſprah</w><w>biſtu</w><w>ovel</w><w>oder</w><lb n="21"/><w>goͮt</w><pc>·</pc></l>
+                    <l n="483"><w>Ih</w><w>ſprah</w><w join="right">biſ</w><w join="left">tu</w><w>ovel</w><w>oder</w><lb n="21"/><w>goͮt</w><pc>·</pc></l>
                     <l n="484"><w>her</w><w>ſprach</w><w>ſwer</w><w>mir</w><w>niene</w><w>toͮt</w><pc>·</pc></l>
                 </lg>
                 <lg>
@@ -1042,11 +1041,12 @@
                 </lg>
                 <lg>
                     <l n="487"><w>Waz</w><w>creaturen</w><w join="right">biſ</w><w join="left">tu</w><pc>·</pc></l>
-                    <l n="488"><lb n="24"/><w>Ein</w><w>man</w><w>alſo</w><w>du</w><w>geſeſ</w><w>mi</w><pc>·</pc></l>
+                    <l n="488"><lb n="24"/><w>Ein</w><w>man</w><w>alſo</w><w>du</w><w>geſeſ</w><w>im</w><pc>·</pc></l>
+                    <!--Henrici lee 'nu' en lugar de 'im'?-->
                 </lg>
                 <lg>
-                    <l n="489"><w>Nu</w><w>ge ſage</w><w>mir</w><lb n="25"/><w>waz</w><w>din</w><w>anbacht</w><w>ſi</w><pc>·</pc></l>
-                    <l n="490"><w>da</w><w>ſten</w><w>ih</w><w>diſſen</w><w>deren</w><pb n="7v"/><cb n="a"/><lb n="1"/><w>bi</w><pc>·</pc></l>
+                    <l n="489"><w>Nu</w><w>geſage</w><w>mir</w><lb n="25"/><w>waz</w><w>din</w><w>anbacht</w><w>ſi</w><pc>·</pc></l>
+                    <l n="490"><w>da</w><w>ſten</w><w>ih</w><w>diſſen</w><w>deren</w><pc>·</pc><pb n="7v"/><cb n="a"/><lb n="1"/><w>bi</w></l>
                 </lg>
                 <lg>
                     <l n="491"><w>Nu</w><w>ſage</w><w>mir</w><w>tonͮt</w><w>ſie</w><w>dir</w><w>iht</w><pc>·</pc></l>
