@@ -1,0 +1,168 @@
+﻿@namespace hei "https://digi.ub.uni-heidelberg.de/schema/tei/heiEDITIONS";
+
+@font-face {
+  font-family: JunicodeFr;
+  src: url('font/Junicode.ttf');
+}
+
+* {
+    font-family: JunicodeFr;
+}
+
+*[hei|color~="Red"]{
+    color: red;
+}
+
+*[hei|color~="Blue"]{
+    color: blue;
+}
+
+*[hei|color~="Gold"]{
+    color: gold;
+}
+
+add[place~='above']{
+    position:relative;
+    top: -0.5em;
+    font-size: 80%;
+}
+
+c {
+	-oxy-display-tags: none;
+	-oxy-placeholder-content: "-";
+}
+
+cb {
+    content: "cb";
+    -oxy-append-content: oxy_attributes(); 
+}
+
+choice {
+    -oxy-display-tags: none;
+}
+
+del {
+	text-decoration: line-through;
+	-oxy-display-tags: none;
+}
+
+div {
+    font-size: xx-small;
+    padding: 0em;
+    margin: 0em;
+}
+
+head{
+    display: block;
+    font-size: large;
+}
+
+hi{
+    	-oxy-display-tags: none;
+    	background-color: white;
+    	/*border-top: solid 10px;
+    	padding-top: 0.5px;
+    	border-color: red;*/
+}
+
+hi[rendition~="hc:RedStroke"],hi[rendition~="hc:RedRetrace"]{
+    text-decoration: underline;
+    text-decoration-color: red;
+    color: black;
+}
+
+del[rendition~="hc:RedStrikethrough"]{
+    text-decoration: line-through;
+    -oxy-display-tags: none;
+    text-decoration-color: red;
+}
+
+hi[rendition~="hc:Versal"]{
+    text-decoration: underline;
+    text-decoration-color: #003366;
+    color: black;
+    font-size: x-large;
+}
+
+hei|initial{
+    font-weight: bold;
+    font-size: xx-large;
+}
+
+l {
+    content: attr(n)"-";
+    font-size: large;
+    display: block;
+}
+
+l[rend~="indent"]{
+    margin-left: 20px;    
+}
+
+lb {
+    font-size: small;
+    content: "("attr(n)")";
+    -oxy-display-tags: none;
+}
+
+lb:hover {
+    -oxy-prepend-content: oxy_xpath(
+    'if (preceding::cb[1]/@n) then( concat(preceding::pb[1]/@n,"-",preceding::cb[1]/@n) ) else (preceding::pb[1]/@n)'
+    );
+    background-color:#e6e6fa;
+/*    'if (preceding::cb[1]/@n) then( string-join(preceding::pb[1]/@n,preceding::cb[1]/@n) ) else (preceding::pb[1]/@n)'*/
+}
+
+lg{
+    margin-left: 15px;
+    font-size: small;
+    -oxy-prepend-content: "lg";
+    padding: 0px;
+}
+
+mod[type=phase]{
+    font-size: small;
+    -oxy-prepend-content: "[";
+}
+
+
+p{
+    font-size: large;
+    display: block;
+}
+
+pb {
+    content: "pb";
+    -oxy-append-content: oxy_attributes(); 
+}
+
+teiHeader{
+    visibility:-oxy-collapse-text;
+    -oxy-display-tags: none;
+}
+
+titleStmt > title:first-child {
+    visibility: visible;
+    display: block;
+    font-size: large;
+    font: bold;
+}
+
+w {
+    background-color: white;
+    -oxy-show-placeholder: always;
+    -oxy-placeholder-content: "w";
+    -oxy-display-tags: none;
+    display: inline;
+    -oxy-prepend-content: " ";
+    -oxy-editable: true;
+}
+
+w[join~="left"]  {
+    -oxy-prepend-content: '–';
+}
+
+ w[join~="both"]{
+    -oxy-prepend-content: '–';
+}
+

@@ -1,7 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://digi.ub.uni-heidelberg.de/schema/tei/heiEDITIONS/tei_hes.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://digi.ub.uni-heidelberg.de/schema/tei/heiEDITIONS/tei_hes.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:hei="https://digi.ub.uni-heidelberg.de/schema/tei/heiEDITIONS" ana="hc:IWDDocument">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://digi.ub.uni-heidelberg.de/schema/tei/heiEDITIONS/tei_hes.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://digi.ub.uni-heidelberg.de/schema/tei/heiEDITIONS/tei_hes.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:hei="https://digi.ub.uni-heidelberg.de/schema/tei/heiEDITIONS" ana="hc:IWDDocument">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -32,11 +29,11 @@
     </teiHeader>
     <facsimile>
         <surface ana="hc:Page" xml:id="C_1r" n="1r">
-            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bsb_cgm191/0001/image"/>
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bsb_cgm191/0001"/>
             <zone ana="hc:Column" xml:id="C_1r-a" n="1r-a"/>
         </surface>
         <surface ana="hc:Page" xml:id="C_1v" n="1v">
-            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bsb_cgm191/0002/image"/>
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bsb_cgm191/0002" mimeType="image/*"/>
             <zone ana="hc:Column" xml:id="C_1v-a" n="1v-a"/>
         </surface>
     </facsimile>

@@ -1,7 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://digi.ub.uni-heidelberg.de/schema/tei/heiEDITIONS/tei_hes.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://digi.ub.uni-heidelberg.de/schema/tei/heiEDITIONS/tei_hes.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:hei="https://digi.ub.uni-heidelberg.de/schema/tei/heiEDITIONS" ana="hc:IWDDocument">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://digi.ub.uni-heidelberg.de/schema/tei/heiEDITIONS/tei_hes.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://digi.ub.uni-heidelberg.de/schema/tei/heiEDITIONS/tei_hes.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:hei="https://digi.ub.uni-heidelberg.de/schema/tei/heiEDITIONS" ana="hc:IWDDocument">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -38,6 +35,37 @@
             </listPrefixDef>
         </encodingDesc>
     </teiHeader>
+    
+    <facsimile>
+        <surface xml:id="K_1r" ana="hc:Page" n="1r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit//0000"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="K_1r-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="K_1r-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="K_1v" ana="hc:Page" n="1v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit//0001" mimeType="image/*"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="K_1v-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="K_1v-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="K_2r" ana="hc:Page" n="2r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit//0002" mimeType="image/*"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="K_2r-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="K_2r-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="K_2v" ana="hc:Page" n="2v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit//0003" mimeType="image/*"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="K_2v-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="K_2v-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+    </facsimile>
     <text ana="hc:CourtlyRomance hc:ExpressionFragmentThroughLoss">
         <body>
             <div>
@@ -125,7 +153,7 @@
                     <l n="2440"><lb n="6"/><w>So</w><w>volleclich</w><w>hogezith</w></l>
                 </lg>
                 <lg>
-                    <l n="2441"><lb n="7"/><w>I<gap ana="hc:Illegible"></gap></w><w>dem</w><w>lande</w><gap ana="hc:Illegible"></gap><w>mere</w></l>
+                    <l n="2441"><lb n="7"/><w>I<gap ana="hc:Illegible"/></w><w>dem</w><w>lande</w><gap ana="hc:Illegible"/><w>mere</w></l>
                     <l n="2442"><lb n="8"/><w>Da</w><w>w<choice><am>z</am><ex>az</ex></choice></w><w>wonne</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>ere</w></l>
                 </lg>
                 <lg>
@@ -141,7 +169,7 @@
                     <l n="2448"><lb n="14"/><w>Der</w><w>k<choice><orig>v́</orig><reg>ú</reg></choice>nic</w><w>artus</w><w>als</w><w>er</w><w>sw<choice><orig>vͦ</orig><reg>uͦ</reg></choice>r</w></l>
                 </lg>
                 <lg>
-                    <l n="2449"><lb n="15"/><w>Z<choice><orig>vͦ</orig><reg>uͦ</reg></choice></w><w>d</w><gap ana="hc:Illegible"></gap><w>nen</w><w>mit</w><w>her</w></l>
+                    <l n="2449"><lb n="15"/><w>Z<choice><orig>vͦ</orig><reg>uͦ</reg></choice></w><w>d</w><gap ana="hc:Illegible"/><w>nen</w><w>mit</w><w>her</w></l>
                 </lg>
                 <gap ana="hc:CutOff"/>
                 <cb n="b"/>
@@ -266,7 +294,7 @@
                 </lg>
                 <lg>
                     <l n="2581"><lb n="12"/><w><choice><orig>V</orig><reg>U</reg></choice>nd</w><w>her</w><w>der</w><w>her</w><w>chey</w></l>
-                    <l n="2582"><lb n="13"/><w>Swie</w><w>boͤse</w><w>ir</w><w>wenit</w><w>d<choice><am>z</am><ex>az</ex></choice></w><w>er</w><w>s<gap ana="hc:CutOff"></gap></w></l>
+                    <l n="2582"><lb n="13"/><w>Swie</w><w>boͤse</w><w>ir</w><w>wenit</w><w>d<choice><am>z</am><ex>az</ex></choice></w><w>er</w><w>s<gap ana="hc:CutOff"/></w></l>
                 </lg>
                 <lg>
                     <l n="2583"><lb n="14"/><gap ana="hc:CutOff"/><w><choice><orig>v</orig><reg>u</reg></choice>nz</w><w>an</w><w>di<choice><orig>v</orig><reg>u</reg></choice></w><gap ana="hc:CutOff"/></l>

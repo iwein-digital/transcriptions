@@ -1,0 +1,38 @@
+﻿l {
+    /*-oxy-placeholder-content: "line";*/
+    /*-oxy-display-tags: ;*/
+    font-size: 1.5em;
+    display: block;
+    /*-oxy-foldable:true;*/
+}
+
+w {
+	/*-oxy-placeholder-content: "word";*/
+    /*-oxy-display-tags: none;*/
+    display: inline;
+    /*font-size: 1.5em;	*/
+}
+
+hi{
+    
+}
+
+c {
+	-oxy-display-tags: none;
+	-oxy-placeholder-content: "-";
+}
+
+am {
+	/*-oxy-foldable:true;
+	-oxy-folded:true;*/
+	visibility:-oxy-collapse-text;
+	-oxy-display-tags: none;
+}
+
+ex {
+	/*visibility:-oxy-collapse-text;*/
+	/*background-color: "red";*/
+	/*-oxy-display-tags: none;*/
+	/*-oxy-foldable:true;*/
+/*	-oxy-folded:true;*/
+}

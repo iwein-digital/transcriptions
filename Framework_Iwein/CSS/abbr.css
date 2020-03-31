@@ -1,0 +1,17 @@
+﻿am {
+	-oxy-display-tags: none;
+	-oxy-prepend-content: "";
+	font: bold;
+}
+
+
+ex {
+	visibility:-oxy-collapse-text;
+	-oxy-display-tags: none;
+	font-size: smaller;
+}
+
+choice:hover > ex{
+    visibility: visible;
+    background-color:#e6e6fa;
+}

@@ -1,0 +1,21 @@
+﻿
+ex {
+	-oxy-display-tags: none;
+	font: bold;
+}
+
+choice:hover > am {
+    visibility: visible;
+    background-color:#e6e6fa;
+}
+
+choice:focus > am {
+    visibility: visible;
+    background-color:#e6e6fa;
+}
+
+am {
+	-oxy-display-tags: none;
+	visibility:-oxy-collapse-text;
+	font-size: smaller;
+}
