@@ -488,7 +488,7 @@
                     <l n="1380"><lb n="2"/><w>vor</w><w>zorne</w><w>tobet</w><w>ir</w><w><choice><am>d͛</am><ex>der</ex></choice></w><w>m<choice><orig>vͦ</orig><reg>uͦ</reg></choice>t</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="1381"><lb n="3"/><w><hei:initial hei:heightLines="2" hei:color="Blue">Z</hei:initial>e</w><w>got</w><w>h<choice><orig>v</orig><reg>u</reg></choice>p</w><w>di<choice><orig>v</orig><reg>u</reg></choice></w><w>vrowe</w><w>ir</w><w>zorn</w><pc>·</pc></l>
+                    <l n="1381"><lb n="3"/><w><hei:initial hei:heightLines="2" hei:color="Blue">Z</hei:initial>e</w><w>got</w><w>h<choice><orig>v</orig><reg>u</reg></choice>p</w><w>di<choice><orig>v</orig><reg>u</reg></choice></w><w>vrowe</w><w>ir</w><w>zorn</w><pc>·</pc><metamark ana="hc:CueInitial" hei:placeRef="hc:PageMarginRight">z</metamark></l>
                     <l n="1382"><lb n="4"/><w>ſi</w><w>ſprach</w><w>herre</w><w>ich</w><w>han</w><w>ver lorn</w><pc>·</pc></l>
                 </lg>
                 <lg>
@@ -503,17 +503,11 @@
                     <l n="1387"><lb n="9"/><w><hi rendition="hc:Versal">D</hi>az</w><w>im</w><w>von</w><w>gehiweren</w><w>dingen</w><pc>·</pc></l>
                     <l n="1388"><lb n="10"/><w>niht</w><w>moht</w><w>miſſelingen</w><pc>·</pc></l>
                 </lg>
-                <lg>
+                <lg ana="hc:Quatrain">
                     <l n="1389"><lb n="11"/><w><hi rendition="hc:Versal">D</hi>az</w><w>iſt</w><w>niwan</w><w>alſo</w><w>chomen</w><pc>·</pc></l>
-                    <!-- reimt mit V. 1390, Korrespondenz einfügen -->
-                </lg>
-                <lg>
                     <l n="1391"><lb n="12"/><w>daz</w><w>iſt</w><w>ein</w><w><choice><orig>v</orig><reg>u</reg></choice>nſ<unclear>icht</unclear>ich</w><w>geiſt</w><pc>·</pc></l>
                     <l n="1392"><lb n="13"/><w><hi rendition="hc:Versal">G</hi>ot</w><w>herre</w><w>d<choice><orig>v</orig><reg>u</reg></choice></w><w>wol</w><w>weiſt</w><pc>·</pc></l>
-                </lg>
-                <lg>
                     <l n="1390"><lb n="14"/><w>daz</w><w>im</w><w>den</w><w>lip</w><w>hat</w><w>benomen</w></l>
-                    <!-- reimt mit V. 1389, Korrespondenz einfügen -->
                 </lg>
                 <lg>
                     <l n="1393"><lb n="15"/><w><hi rendition="hc:Versal">S</hi>wer</w><w>er</w><w>anders</w><w>wære</w><pc>·</pc></l>
@@ -610,7 +604,7 @@
                     <l n="1438"><lb n="12"/><w>die</w><w>ich</w><w>da</w><w>hore</w><w>ob</w><w>dem</w><w>grabe</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="1439"><lb n="13"/><w><hei:initial hei:heightLines="2" hei:color="Red">D</hei:initial>ie</w><w>rede</w><w>meind</w><w>er</w><w>ninder</w><w>ſo</w><pc>·</pc></l>
+                    <l n="1439"><lb n="13"/><w><hei:initial hei:heightLines="2" hei:color="Red">D</hei:initial>ie</w><w>rede</w><w>meind</w><w>er</w><w>ninder</w><w>ſo</w><pc>·</pc><metamark ana="hc:CueInitial" hei:placeRef="hc:PageMarginLeft">d</metamark></l>
                     <l n="1440"><lb n="14"/><w>wan</w><w join="right">er</w><w join="left">n</w><w>gabe</w><w>dar<choice><orig>v</orig><reg>u</reg></choice>mbe</w><w>niht</w><w>ſtro</w><pc>·</pc></l>
                 </lg>
                 <lg>
@@ -849,7 +843,7 @@
                     <l n="1556"><lb n="34"/><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>ein</w><w>wachſendi<choice><orig>v</orig><reg>u</reg></choice></w><w>not</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="1557"><lb n="35"/><w><hei:initial hei:heightLines="2" hei:color="Red">H</hei:initial>ie</w><w>het</w><w>ſich</w><w>di<choice><orig>v</orig><reg>u</reg></choice></w><w>minne</w><pc>·</pc></l>
+                    <l n="1557"><lb n="35"/><w><hei:initial hei:heightLines="2" hei:color="Red">H</hei:initial>ie</w><w>het</w><w>ſich</w><w>di<choice><orig>v</orig><reg>u</reg></choice></w><w>minne</w><pc>·</pc><metamark ana="hc:CueInitial" hei:placeRef="hc:PageMarginLeft">h</metamark></l>
                     <l n="1558"><lb n="36"/><w>nach</w><w>ſwachem</w><w>ſinne</w></l>
                 </lg>
                 <lg>
@@ -922,7 +916,7 @@
                     <l n="1592"><lb n="22"/><w>ſ<choice><orig>v</orig><reg>u</reg></choice>s</w><w>ſolde</w><w>ſi</w><w>z<choice><orig>v</orig><reg>u</reg></choice></w><w>cheren</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="1593"><lb n="23"/><w><hei:initial hei:color="Blue" hei:heightLines="2">D</hei:initial>o</w><w>man</w><w>den</w><w>wirt</w><w>begr<choice><orig>v</orig><reg>u</reg></choice>eb</w><pc>·</pc><w>do</w><w>ſchiet</w><pc>·</pc></l>
+                    <l n="1593"><lb n="23"/><w><hei:initial hei:color="Blue" hei:heightLines="2">D</hei:initial>o</w><w>man</w><w>den</w><w>wirt</w><w>begr<choice><orig>v</orig><reg>u</reg></choice>eb</w><pc>·</pc><w>do</w><w>ſchiet</w><pc>·</pc><metamark ana="hc:CueInitial" hei:placeRef="hc:PageMarginRight">d</metamark></l>
                     <l n="1594"><lb n="24"/><w>ſich</w><w>di<choice><orig>v</orig><reg>u</reg></choice></w><w>riwige</w><w>diet</w><pc>·</pc></l>
                 </lg>
                 <lg>
@@ -1548,8 +1542,7 @@
                 </lg>
                 <lg>
                     <l n="1901"><lb n="43"/><w><hi rendition="hc:Versal">M</hi>ines</w><w>herren</w><w>wandel</w><w>han</w><pc>·</pc></l>
-                    <l n="1902"><lb n="44"/><w join="right">ſo</w><w join="left">ne</w><w>wilz</w><w>di<choice><orig>v</orig><reg>u</reg></choice></w><w>werd</w><w>ſo</w><w>niht</w><w><choice><am>v͛</am><ex>ver</ex></choice>ſtan</w><pc>·</pc></l>
-                    <!-- 'werd' statt 'werld' vgl. V. 2092 -->
+                    <l n="1902"><lb n="44"/><w join="right">ſo</w><w join="left">ne</w><w join="right">wil</w><w join="left">z</w><w>di<choice><orig>v</orig><reg>u</reg></choice></w><w xml:id="E_w_1902_6">werd</w><w>ſo</w><w>niht</w><w><choice><am>v͛</am><ex>ver</ex></choice>ſtan</w><pc>·</pc><note ana="hc:TranscriptionNote" target="#E_w_1902_6">Zu 'werd' statt 'werld' vgl. V. 2092</note></l>
                 </lg>
                 <lg>
                     <l n="1903"><lb n="45"/><w><hi rendition="hc:Versal">a</hi>lſ</w><w>ez</w><w>doch</w><w>got</w><w>iſt</w><w>erchant</w></l>
@@ -1757,7 +1750,7 @@
                 <pb n="4v"/>
                 <cb n="a"/>
                 <lg>
-                    <l n="2003"><lb n="1"/><w xml:id="E_w_2003_1"><supplied><hi rendition="hc:Versal">D</hi></supplied>i<choice><orig>v</orig><reg>u</reg></choice></w><w>magt</w><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>her</w><w>ywein</w><pc>·</pc><note target="#E_w_2003_1">Nicht ausgeführte Initiale D</note></l>
+                    <l n="2003"><lb n="1"/><metamark ana="hc:CueInitial" hei:placeRef="hc:PageMarginLeft">d</metamark><w><supplied><hei:initial ana="hc:Lombard">D</hei:initial></supplied>i<choice><orig>v</orig><reg>u</reg></choice></w><w>magt</w><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>her</w><w>ywein</w><pc>·</pc></l>
                     <l n="2004"><lb n="2"/><w>beg<choice><orig>v</orig><reg>u</reg></choice>nden</w><w>ahten</w><w><choice><orig>v</orig><reg>u</reg></choice>n<choice><am>d͛</am><ex>der</ex></choice></w><w>in</w><w>zwein</w><pc>·</pc></l>
                 </lg>
                 <lg>
@@ -1935,8 +1928,7 @@
                 </lg>
                 <lg>
                     <l n="2091"><lb n="41"/><w><hi rendition="hc:Versal">D</hi>az</w><w>er</w><w>mir</w><w join="right">ze</w><w>herren</w><w>zimt</w><pc>·</pc></l>
-                    <l n="2092"><lb n="42"/><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>ſwenn</w><w>ez</w><w>di<choice><orig>v</orig><reg>u</reg></choice></w><w>werd</w><w>vernimt</w><pc>·</pc></l>
-                    <!-- 'werd' statt 'werld' vgl. V. 1902 -->
+                    <l n="2092"><lb n="42"/><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>ſwenn</w><w>ez</w><w>di<choice><orig>v</orig><reg>u</reg></choice></w><w xml:id="E_w_2092_5">werd</w><w>vernimt</w><pc>·</pc><note ana="hc:TranscriptionNote" target="#E_w_2092_5">Zu 'werd' statt 'werld' vgl. V. 1902</note></l>
                 </lg>
                 <lg>
                     <l n="2093"><lb n="43"/><w><hi rendition="hc:Versal">d</hi>az</w><w>ſi</w><w join="right">mir</w><w join="left">z</w><w>niht</w><w>gewizen</w><w>chan</w><pc>·</pc></l>
@@ -1957,7 +1949,7 @@
                     <l n="2100"><lb n="2"/><w>ich</w><w>nim</w><w>in</w><w join="right">ze</w><w>manne</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="2101"><lb n="3"/><w><hei:initial hei:color="Red" hei:heightLines="2">S</hei:initial>i</w><w>ſprach</w><w>vrowe</w><w>ez</w><w>d<choice><orig>v</orig><reg>u</reg></choice>nchet</w><w>mih</w><w>g<add hei:placeRef="hc:AboveLine"><choice><orig>vͦ</orig><reg>uͦ</reg></choice>t</add></w></l>
+                    <l n="2101"><lb n="3"/><w><hei:initial hei:color="Red" hei:heightLines="2">S</hei:initial>i</w><w>ſprach</w><w>vrowe</w><w>ez</w><w>d<choice><orig>v</orig><reg>u</reg></choice>nchet</w><w>mih</w><w>g<add hei:placeRef="hc:AboveLine"><choice><orig>vͦ</orig><reg>uͦ</reg></choice>t</add></w><metamark ana="hc:CueInitial" hei:placeRef="hc:PageMarginLeft">ſ</metamark></l>
                     <l n="2102"><lb n="4"/><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>gan</w><w>i<choice><orig>v</orig><reg>u</reg></choice></w><w>wol</w><w>daz</w><w>ir</w><w>d<choice><am>ē</am><ex>en</ex></choice></w><w>m<choice><orig>vͦ</orig><reg>uͦ</reg></choice>t</w><pc>·</pc></l>
                 </lg>
                 <lg>
@@ -2249,7 +2241,7 @@
                     <l n="2244"><lb n="2"/><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>daz</w><w>herze</w><w>da</w><w>bi</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="2245"><lb n="3"/><w><hei:initial hei:color="Red" hei:heightLines="2">S</hei:initial><choice><orig>v</orig><reg>u</reg></choice>s</w><w>ſt<choice><orig>v</orig><reg>u</reg></choice>nt</w><w>er</w><w><choice><orig>vͦ</orig><reg>uͦ</reg></choice>f</w><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice><w>gie</w><w>dan</w></w><pc>·</pc></l>
+                    <l n="2245"><lb n="3"/><w><hei:initial hei:color="Red" hei:heightLines="2">S</hei:initial><choice><orig>v</orig><reg>u</reg></choice>s</w><w>ſt<choice><orig>v</orig><reg>u</reg></choice>nt</w><w>er</w><w><choice><orig>vͦ</orig><reg>uͦ</reg></choice>f</w><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice><w>gie</w><w>dan</w></w><pc>·</pc><metamark ana="hc:CueInitial " hei:placeRef="hc:PageMarginRight">ſ</metamark></l>
                     <l n="2246"><lb n="4"/><w>mit</w><w>vro<choice><orig>v</orig><reg>u</reg></choice>den</w><w>alſ</w><w>ein</w><w>ſelich</w><w>man</w><pc>·</pc></l>
                 </lg>
                 <lg>
@@ -2606,7 +2598,7 @@
                     <l n="2420"><lb n="34"/><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>gaben</w><w>im</w><w>vrowen</w><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>lant</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="2421"><lb n="35"/><w><hei:initial hei:color="Red" hei:heightLines="2">V</hei:initial>rowe</w><w>la<choice><orig>v</orig><reg>u</reg></choice>din</w><w>hiez</w><w>ſin</w><w>wip</w><pc>·</pc></l>
+                    <l n="2421"><lb n="35"/><w><hei:initial hei:color="Red" hei:heightLines="2">V</hei:initial>rowe</w><w>la<choice><orig>v</orig><reg>u</reg></choice>din</w><w>hiez</w><w>ſin</w><w>wip</w><pc>·</pc><metamark ana="hc:CueInitial " hei:placeRef="hc:PageMarginLeft">v</metamark></l>
                     <l n="2422"><lb n="36"/><w>ſi</w><w>ch<choice><orig>v</orig><reg>u</reg></choice>nde</w><w>im</w><w>leben</w><w><choice><orig>v</orig><reg>u</reg></choice>n<choice><am>dʼ</am><ex>de</ex></choice></w><w>lip</w></l>
                 </lg>
                 <lg>
@@ -3057,7 +3049,7 @@
                     <l n="2642"><lb n="16"/><w>wan</w><w>er</w><w>was</w><w>laſters</w><w>wol</w><w>gewon</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="2643"><lb n="17"/><w><hei:initial hei:color="Blue" hei:heightLines="2">S</hei:initial><choice><orig>vͦ</orig><reg>uͦ</reg></choice>s</w><w>het</w><w>der</w><w>ſtrit</w><w>ende</w><pc>·</pc></l>
+                    <l n="2643"><lb n="17"/><w><hei:initial hei:color="Blue" hei:heightLines="2">S</hei:initial><choice><orig>vͦ</orig><reg>uͦ</reg></choice>s</w><w>het</w><w>der</w><w>ſtrit</w><w>ende</w><pc>·</pc><metamark ana="hc:CueInitial" hei:placeRef="hc:PageMarginRight">ſ</metamark></l>
                     <l n="2644"><lb n="18"/><w>mit</w><w>ſiner</w><w>miſſewende</w><pc>·</pc></l>
                 </lg>
                 <lg>
@@ -3207,7 +3199,7 @@
                     <l n="2716"><lb n="42"/><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>ich</w><w>i<choice><orig>v</orig><reg>u</reg></choice></w><w>ſage</w><w>n<choice><orig>v</orig><reg>u</reg></choice></w><w>war</w><w>an</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="2717"><lb n="43"/><w><hei:initial hei:color="Red" hei:heightLines="2">D</hei:initial>i<choice><orig>v</orig><reg>u</reg></choice></w><w><choice><orig>i</orig><reg>j</reg></choice><choice><orig>v</orig><reg>u</reg></choice>nch</w><w>vrowe</w><w>hiez</w><w>l<choice><orig>vͦ</orig><reg>uͦ</reg></choice>net</w><pc>·</pc></l>
+                    <l n="2717"><lb n="43"/><metamark ana="hc:CueInitial " hei:placeRef="hc:PageMarginRight">d</metamark><w><hei:initial hei:color="Red" hei:heightLines="2">D</hei:initial>i<choice><orig>v</orig><reg>u</reg></choice></w><w><choice><orig>i</orig><reg>j</reg></choice><choice><orig>v</orig><reg>u</reg></choice>nch</w><w>vrowe</w><w>hiez</w><w>l<choice><orig>vͦ</orig><reg>uͦ</reg></choice>net</w><pc>·</pc></l>
                     <l n="2718"><lb n="44"/><w>di<choice><orig>v</orig><reg>u</reg></choice></w><w>ſo</w><w>beſcheidenlichen</w><w>tet</w><pc>·</pc></l>
                 </lg>
                 <lg>
@@ -3467,7 +3459,7 @@
                     <l n="2844"><lb n="26"/><w>moht</w><w>ich</w><w>dem</w><w>h<choice><orig>vͦ</orig><reg>uͦ</reg></choice>s</w><w>geringen</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="2845"><lb n="27"/><w><hei:initial hei:color="Blue" hei:heightLines="2">S</hei:initial>o</w><w>beginnet</w><w>er</w><w>tro<choice><orig>v</orig><reg>u</reg></choice>ren</w><w><choice><orig>v</orig><reg>u</reg></choice>n<choice><am>dʼ</am><ex>de</ex></choice></w><w>chlagen</w></l>
+                    <l n="2845"><lb n="27"/><w><hei:initial hei:color="Blue" hei:heightLines="2">S</hei:initial>o</w><w>beginnet</w><w>er</w><w>tro<choice><orig>v</orig><reg>u</reg></choice>ren</w><w><choice><orig>v</orig><reg>u</reg></choice>n<choice><am>dʼ</am><ex>de</ex></choice></w><w>chlagen</w><metamark ana="hc:CueInitial " hei:placeRef="hc:PageMarginRight">ſ</metamark></l>
                     <l n="2846"><lb n="28"/><w><choice><orig>v</orig><reg>u</reg></choice>n<choice><am>dʼ</am><ex>de</ex></choice></w><w>ſinen</w><w>geſten</w><w>ſagen</w><pc>·</pc></l>
                 </lg>
                 <lg>
@@ -3773,7 +3765,7 @@
                     <l n="2994"><lb n="32"/><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>beleip</w><w>ſin</w><w>he<subst><del rendition="hc:Adapted">t</del><add rendition="hc:Adapted">r</add></subst>rze</w><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>daz</w><w>wip</w></l>
                 </lg>
                 <lg>
-                    <l n="2995"><lb n="33"/><w><hei:initial ana="hc:Lombard" hei:color="Blue" hei:heightLines="2">D</hei:initial>o</w><w>ſprach</w><w>ich</w><w>min</w><w>vrow</w><w>minne</w></l>
+                    <l n="2995"><lb n="33"/><w><hei:initial ana="hc:Lombard" hei:color="Blue" hei:heightLines="2">D</hei:initial>o</w><w>ſprach</w><w>ich</w><w>min</w><w>vrow</w><w>minne</w><metamark ana="hc:CueInitial " hei:placeRef="hc:PageMarginLeft">d</metamark></l>
                     <l n="2996"><lb n="34"/><w>n<choice><orig>v</orig><reg>u</reg></choice></w><w>d<choice><orig>v</orig><reg>u</reg></choice>nchet</w><w>mine</w><w>ſinne</w><pc>·</pc></l>
                 </lg>
                 <lg>
@@ -4354,7 +4346,7 @@
                     <l n="3282"><lb n="30"/><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>wol</w><w>vor</w><w>h<choice><orig>v</orig><reg>u</reg></choice>nger</w><w>genas</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="3283"><lb n="31"/><w><hei:initial ana="hc:Lombard" hei:color="Blue" hei:heightLines="2">D</hei:initial>o</w><w>er</w><w>des</w><w>alle</w><w>wile</w><w>gephlach</w></l>
+                    <l n="3283"><lb n="31"/><w><hei:initial ana="hc:Lombard" hei:color="Blue" hei:heightLines="2">D</hei:initial>o</w><w>er</w><w>des</w><w>alle</w><w>wile</w><w>gephlach</w><metamark ana="hc:CueInitial " hei:placeRef="hc:PageMarginLeft">d</metamark></l>
                     <l n="3284"><lb n="32"/><w>er</w><w>lief</w><w><choice><orig>v</orig><reg>u</reg></choice>mb</w><w>einen</w><w>mitt<choice><am>ē</am><ex>en</ex></choice></w><w>tach</w></l>
                 </lg>
                 <lg>
@@ -4509,7 +4501,7 @@
                     <l n="3358"><lb n="10"/><w>dem</w><w>iſt</w><w>er</w><w>n<choice><orig>v</orig><reg>u</reg></choice></w><w><choice><orig>v</orig><reg>u</reg></choice>ngelich</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="3359"><lb n="11"/><w><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">E</hei:initial>R</w><w>lief</w><w>n<choice><orig>v</orig><reg>u</reg></choice></w><w>nachet</w><w>beider</w></l>
+                    <l n="3359"><lb n="11"/><w><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">E</hei:initial>R</w><w>lief</w><w>n<choice><orig>v</orig><reg>u</reg></choice></w><w>nachet</w><w>beider</w><metamark ana="hc:CueInitial " hei:placeRef="hc:PageMarginLeft">e</metamark></l>
                     <l n="3360"><lb n="12"/><w>der</w><w>ſinne</w><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>der</w><w>chleider</w></l>
                 </lg>
                 <lg>
@@ -4581,7 +4573,7 @@
                     <l n="3394"><lb n="46"/><w>daz</w><w>er</w><w>in</w><w>den</w><w>ſchanden</w><w>was</w><w>geſehn</w></l>
                 </lg>
                 <lg>
-                    <l n="3395"><lb n="47"/><w><hei:initial ana="hc:Lombard" hei:color="Blue" hei:heightLines="2">N</hei:initial><choice><orig>v</orig><reg>u</reg></choice></w><w>was</w><w>di<choice><orig>v</orig><reg>u</reg></choice></w><w>eine</w><w>von</w><w>den</w><w>drin</w></l>
+                    <l n="3395"><lb n="47"/><w><hei:initial ana="hc:Lombard" hei:color="Blue" hei:heightLines="2">N</hei:initial><choice><orig>v</orig><reg>u</reg></choice></w><w>was</w><w>di<choice><orig>v</orig><reg>u</reg></choice></w><w>eine</w><w>von</w><w>den</w><w>drin</w><metamark ana="hc:CueInitial " hei:placeRef="hc:PageMarginLeft">n</metamark></l>
                     <l n="3396"><lb n="48"/><w><choice><am>d͛</am><ex>der</ex></choice></w><w>zweier</w><w>vrowen</w><w><choice><orig>v</orig><reg>u</reg></choice>nder</w><w>in</w><pc>·</pc></l>
                 </lg>
                 <cb n="b"/>
@@ -4976,7 +4968,7 @@
                 </lg>
                 <cb n="b"/>
                 <lg>
-                    <l n="3595"><lb n="1"/><w><hei:initial ana="hc:Lombard" hei:color="Blue" hei:heightLines="2">A</hei:initial>lſ</w><w>er</w><w>bedahte</w><w>die</w><w>ſwarzen</w><w>lich</w><pc>·</pc></l>
+                    <l n="3595"><lb n="1"/><w><hei:initial ana="hc:Lombard" hei:color="Blue" hei:heightLines="2">A</hei:initial>lſ</w><w>er</w><w>bedahte</w><w>die</w><w>ſwarzen</w><w>lich</w><pc>·</pc><metamark ana="hc:CueInitial " hei:placeRef="hc:ColumnMarginLeft">a</metamark></l>
                     <l n="3596"><lb n="2"/><w>do</w><w>wart</w><w>er</w><w>einem</w><w>ritter</w><w>gelich</w><pc>·</pc></l>
                 </lg>
                 <lg>
@@ -5020,7 +5012,7 @@
                     <l n="3616"><lb n="22"/><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>ant<choice><orig>w</orig><reg>wu</reg></choice>rt</w><w>im</w><w>da</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="3617"><lb n="23"/><w><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">S</hei:initial>i</w><w>ſ<choice><am>pᷓ</am><ex>pra</ex></choice>ch</w><w>wer</w><w>r<choice><orig>vͦ</orig><reg>uͦ</reg></choice>ft</w><w>da</w><w>wer</w></l>
+                    <l n="3617"><lb n="23"/><w><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">S</hei:initial>i</w><w>ſ<choice><am>pᷓ</am><ex>pra</ex></choice>ch</w><w>wer</w><w>r<choice><orig>vͦ</orig><reg>uͦ</reg></choice>ft</w><w>da</w><w>wer</w><metamark ana="hc:CueInitial " hei:placeRef="hc:PageMarginRight">ſ</metamark></l>
                     <l n="3618"><lb n="24"/><w>er</w><w>ſprach</w><w>vrowe</w><w>chert</w><w>her</w><pc>·</pc></l>
                 </lg>
                 <lg>
@@ -5060,7 +5052,7 @@
                     <l n="3636"><lb n="42"/><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>gedien</w><w>ez</w><w>immer</w><w>alſ</w><w>ich</w><w>ſol</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="3637"><lb n="43"/><w><hei:initial ana="hc:Lombard" hei:color="Blue" hei:heightLines="2">S</hei:initial>i</w><w>ſprach</w><w>ritter</w><w>daz</w><w>ſi</w><w>gitan</w></l>
+                    <l n="3637"><lb n="43"/><w><hei:initial ana="hc:Lombard" hei:color="Blue" hei:heightLines="2">S</hei:initial>i</w><w>ſprach</w><w>ritter</w><w>daz</w><w>ſi</w><w>gitan</w><metamark ana="hc:CueInitial " hei:placeRef="hc:PageMarginRight">ſ</metamark></l>
                     <l n="3638"><lb n="44"/><w>ich</w><w>wil</w><w>min</w><w>reiſe</w><w>d<choice><orig>v</orig><reg>u</reg></choice>rch</w><w>i<choice><orig>v</orig><reg>u</reg></choice></w><w>lan</w><pc>·</pc></l>
                 </lg>
                 <lg>
@@ -5617,7 +5609,7 @@
                     <l n="3910"><lb n="28"/><w>daz</w><w>gaz</w><w><choice><am>d͛</am><ex>der</ex></choice></w><w>lewe</w><w><choice><orig>v</orig><reg>u</reg></choice>nz</w><w>an</w><w>di<choice><orig>v</orig><reg>u</reg></choice></w><w>bein</w></l>
                 </lg>
                 <lg>
-                    <l n="3911"><lb n="29"/><w><hei:initial ana="hc:Lombard" hei:color="Blue" hei:heightLines="2">H</hei:initial>er</w><w>ywein</w><w>leit</w><w>ſich</w><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice><w>ſlief</w></w></l>
+                    <l n="3911"><lb n="29"/><w><hei:initial ana="hc:Lombard" hei:color="Blue" hei:heightLines="2">H</hei:initial>er</w><w>ywein</w><w>leit</w><w>ſich</w><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice><w>ſlief</w></w><metamark ana="hc:CueInitial " hei:placeRef="hc:PageMarginRight">h</metamark></l>
                     <l n="3912"><lb n="30"/><w><choice><am>d͛</am><ex>der</ex></choice></w><w>lewe</w><w>wachet</w><w><choice><orig>v</orig><reg>u</reg></choice>n<choice><am>dʼ</am><ex>de</ex></choice></w><w>lief</w><pc>·</pc></l>
                 </lg>
                 <lg>
@@ -6101,7 +6093,7 @@
                     <l n="4152"><lb n="26"/><w>ob</w><w>man</w><w>mir</w><w>noch</w><w>ein</w><w><choice><orig>i</orig><reg>j</reg></choice>ar</w><w>bîte</w></l>
                 </lg>
                 <lg>
-                    <l n="4153"><lb n="27"/><w><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">D</hei:initial>er</w><w>rede</w><w>giengen</w><w>ſi</w><w>do</w><w>nah</w><pc>·</pc></l>
+                    <l n="4153"><lb n="27"/><w><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">D</hei:initial>er</w><w>rede</w><w>giengen</w><w>ſi</w><w>do</w><w>nah</w><pc>·</pc><metamark ana="hc:CueInitial " hei:placeRef="hc:PageMarginRight">d</metamark></l>
                     <l n="4154"><lb n="28"/><w>wan</w><w>mir</w><w>was</w><w>ein</w><w>teil</w><w join="right">ze</w><w join="left">gach</w></l>
                 </lg>
                 <lg>
@@ -6349,7 +6341,7 @@
                     <l n="4274"><lb n="4"/><w>daz</w><w>iwer</w><w>iht</w><w>wære</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="4275"><lb n="5"/><w><hei:initial ana="hc:Lombard" hei:color="Blue" hei:heightLines="2">E</hei:initial>r</w><w>ſ<choice><am>pᷓ</am><ex>pra</ex></choice>ch</w><w>min</w><w>vrow</w><w>l<choice><orig>vͦ</orig><reg>uͦ</reg></choice>net</w><pc>·</pc></l>
+                    <l n="4275"><lb n="5"/><w><hei:initial ana="hc:Lombard" hei:color="Blue" hei:heightLines="2">E</hei:initial>r</w><w>ſ<choice><am>pᷓ</am><ex>pra</ex></choice>ch</w><w>min</w><w>vrow</w><w>l<choice><orig>vͦ</orig><reg>uͦ</reg></choice>net</w><pc>·</pc><metamark ana="hc:CueInitial " hei:placeRef="hc:PageMarginRight">e</metamark></l>
                     <l n="4276"><lb n="6"/><w>wo</w><w>was</w><w><choice><am>d͛</am><ex>der</ex></choice></w><w>noch</w><w>ie</w><w>tet</w><pc>·</pc></l>
                 </lg>
                 <lg>
@@ -6369,7 +6361,7 @@
                     <l n="4284"><lb n="14"/><w>des</w><w>ir</w><w>an</w><w>in</w><w>het</w><w>gegert</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="4285"><lb n="15"/><w><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">S</hei:initial>i</w><w>ſ<choice><am>pᷓ</am><ex>pra</ex></choice>ch</w><w>het</w><w>ich</w><w>den</w><w>v<choice><orig>vͦ</orig><reg>uͦ</reg></choice>nden</w><pc>·</pc></l>
+                    <l n="4285"><lb n="15"/><w><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">S</hei:initial>i</w><w>ſ<choice><am>pᷓ</am><ex>pra</ex></choice>ch</w><w>het</w><w>ich</w><w>den</w><w>v<choice><orig>vͦ</orig><reg>uͦ</reg></choice>nden</w><pc>·</pc><metamark ana="hc:CueInitial " hei:placeRef="hc:PageMarginRight">ſ</metamark></l>
                     <l n="4286"><lb n="16"/><w>ſo</w><w>het</w><w>ich</w><w><choice><orig>v</orig><reg>u</reg></choice>ber</w><w><choice><orig>w</orig><reg>wu</reg></choice>nden</w><pc>·</pc></l>
                 </lg>
                 <lg>
@@ -6405,7 +6397,7 @@
                     <l n="4302"><lb n="32"/><w join="right">er</w><w join="left">n</w><w>erv<choice><orig>v</orig><reg>u</reg></choice>re</w><w>wie</w><w>ſi</w><w>wære</w><w>genomen</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="4303"><lb n="33"/><w><hei:initial ana="hc:Lombard" hei:color="Blue" hei:heightLines="2">N</hei:initial><choice><orig>vͦ</orig><reg>uͦ</reg></choice></w><w>was</w><w>im</w><w>daz</w><w>mære</w><pc>·</pc></l>
+                    <l n="4303"><lb n="33"/><w><hei:initial ana="hc:Lombard" hei:color="Blue" hei:heightLines="2">N</hei:initial><choice><orig>vͦ</orig><reg>uͦ</reg></choice></w><w>was</w><w>im</w><w>daz</w><w>mære</w><pc>·</pc><metamark ana="hc:CueInitial " hei:placeRef="hc:PageMarginRight">n</metamark></l>
                     <l n="4304"><lb n="34"/><w>d<choice><orig>v</orig><reg>u</reg></choice>rch</w><w>ſinen</w><w>geſellen</w><w>ſwære</w><pc>·</pc></l>
                 </lg>
                 <lg>
@@ -6429,7 +6421,7 @@
                     <l n="4314"><lb n="44"/><w>oder</w><w>ich</w><w>lige</w><w>d<choice><orig>v</orig><reg>u</reg></choice>rch</w><w>iwern</w><w>willen</w><w>tot</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="4315"><lb n="45"/><w><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">S</hei:initial>i</w><w>ſprach</w><w>lieber</w><w>herre</w><pc>·</pc></l>
+                    <l n="4315"><lb n="45"/><w><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">S</hei:initial>i</w><w>ſprach</w><w>lieber</w><w>herre</w><pc>·</pc><metamark ana="hc:CueInitial " hei:placeRef="hc:PageMarginRight">ſ</metamark></l>
                     <l n="4316"><lb n="46"/><w>ſo</w><w>ſt<choice><orig>v</orig><reg>u</reg></choice>d</w><w>i<choice><orig>v</orig><reg>u</reg></choice>ch</w><w>al</w><w>ze</w><w>verre</w><pc>·</pc></l>
                 </lg>
                 <lg>
@@ -6499,7 +6491,7 @@
                     <l n="4348"><lb n="30"/><w>o<choice><am>d͛</am><ex>der</ex></choice></w><w>ich</w><w>ſlach</w><w>ſi<choice><orig>v</orig><reg>u</reg></choice></w><w>alle</w><w>dri</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="4349"><lb n="31"/><w><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">N</hei:initial><choice><orig>v</orig><reg>u</reg></choice></w><w>was</w><w>ir</w><w>d<choice><orig>v</orig><reg>u</reg></choice>rch</w><w>ſin</w><w>vr<choice><orig>v</orig><reg>u</reg></choice>mcheit</w></l>
+                    <l n="4349"><lb n="31"/><w><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">N</hei:initial><choice><orig>v</orig><reg>u</reg></choice></w><w>was</w><w>ir</w><w>d<choice><orig>v</orig><reg>u</reg></choice>rch</w><w>ſin</w><w>vr<choice><orig>v</orig><reg>u</reg></choice>mcheit</w><metamark ana="hc:CueInitial " hei:placeRef="hc:PageMarginLeft">n</metamark></l>
                     <l n="4350"><lb n="32"/><w>ir</w><w>vr<choice><orig>v</orig><reg>u</reg></choice>m</w><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>ir</w><w>ere</w><w>leit</w><pc>·</pc></l>
                 </lg>
                 <lg>
@@ -6515,7 +6507,7 @@
                     <l n="4356"><lb n="38"/><w>ſo</w><w>lie</w><w join="right">ſi</w><w join="left">z</w><w>ſin</w><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice><w>m<choice><orig>v</orig><reg>u</reg></choice>s</w><w>ez</w><w>lan</w></w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="4357"><lb n="39"/><w join="right"><hei:initial ana="hc:Lombard" hei:color="Blue" hei:heightLines="2">D</hei:initial>o</w><w join="left">ne</w><w>twelt</w><w>er</w><w>da</w><w>niht</w><w>me</w><pc>·</pc></l>
+                    <l n="4357"><lb n="39"/><w join="right"><hei:initial ana="hc:Lombard" hei:color="Blue" hei:heightLines="2">D</hei:initial>o</w><w join="left">ne</w><w>twelt</w><w>er</w><w>da</w><w>niht</w><w>me</w><pc>·</pc><metamark ana="hc:CueInitial " hei:placeRef="hc:PageMarginLeft">d</metamark></l>
                     <l n="4358"><lb n="40"/><w>ſin</w><w>le<choice><orig>v</orig><reg>u</reg></choice></w><w>volget</w><w>im</w><w>alſ</w><w>e</w><pc>·</pc></l>
                 </lg>
                 <lg>
@@ -6894,7 +6886,7 @@
                     <l n="4542"><lb n="32"/><w>nach</w><w>der</w><w><subst><del rendition="hc:Adapted">in</del><add rendition="hc:Adapted">b</add></subst>in</w><w>ich</w><w>chomen</w><w>her</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="4543"><lb n="33"/><w><hei:initial ana="hc:Lombard" hei:color="Blue" hei:heightLines="2">D</hei:initial>o</w><w>ſprach</w><w><choice><am>d͛</am><ex>der</ex></choice></w><w>ch<choice><orig>v</orig><reg>u</reg></choice>nch</w><w>art<choice><orig>v</orig><reg>u</reg></choice>s</w></l>
+                    <l n="4543"><lb n="33"/><w><hei:initial ana="hc:Lombard" hei:color="Blue" hei:heightLines="2">D</hei:initial>o</w><w>ſprach</w><w><choice><am>d͛</am><ex>der</ex></choice></w><w>ch<choice><orig>v</orig><reg>u</reg></choice>nch</w><w>art<choice><orig>v</orig><reg>u</reg></choice>s</w><metamark ana="hc:CueInitial " hei:placeRef="hc:PageMarginLeft">d</metamark></l>
                     <l n="4544"><lb n="34"/><w>ſwes</w><w>ir</w><w>gebittet</w><w>hie</w><w>ze</w><w>h<choice><orig>vͦ</orig><reg>uͦ</reg></choice>s</w><pc>·</pc></l>
                 </lg>
                 <lg>
@@ -7065,7 +7057,7 @@
                     <l n="4624"><lb n="20"/><w>da</w><w>wart</w><w>michel</w><w>nach</w><w>gahen</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="4625"><lb n="21"/><w><hei:initial ana="hc:Lombard" hei:color="Blue" hei:heightLines="2">H</hei:initial>ie</w><w>r<choice><orig>v</orig><reg>u</reg></choice>ft</w><w>dirre</w><w>dort</w><w>der</w><pc>·</pc></l>
+                    <l n="4625"><lb n="21"/><w><hei:initial ana="hc:Lombard" hei:color="Blue" hei:heightLines="2">H</hei:initial>ie</w><w>r<choice><orig>v</orig><reg>u</reg></choice>ft</w><w>dirre</w><w>dort</w><w>der</w><pc>·</pc><metamark ana="hc:CueInitial " hei:placeRef="hc:PageMarginLeft">h</metamark></l>
                     <l n="4626"><lb n="22"/><w>harnaſch</w><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>ors</w><w>her</w><pc>·</pc></l>
                 </lg>
                 <lg>
@@ -7353,7 +7345,7 @@
                     <l n="4766"><lb n="18"/><w>alſ</w><w>man</w><w>lieben</w><w>gaſt</w><w>ſol</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="4767"><lb n="19"/><w><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">D</hei:initial>o</w><w>ſprach</w><w><choice><am>d͛</am><ex>der</ex></choice></w><w>wirt</w><w>mich</w><w>d<choice><orig>v</orig><reg>u</reg></choice>nchet</w><w>g<choice><orig>vͦ</orig><reg>uͦ</reg></choice>t</w><pc>·</pc></l>
+                    <l n="4767"><lb n="19"/><w><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">D</hei:initial>o</w><w>ſprach</w><w><choice><am>d͛</am><ex>der</ex></choice></w><w>wirt</w><w>mich</w><w>d<choice><orig>v</orig><reg>u</reg></choice>nchet</w><w>g<choice><orig>vͦ</orig><reg>uͦ</reg></choice>t</w><pc>·</pc><metamark ana="hc:CueInitial " hei:placeRef="hc:PageMarginRight">d</metamark></l>
                     <l n="4768"><lb n="20"/><w>daz</w><w>ir</w><w>vil</w><w>dienſthaften</w><w>m<choice><orig>vͦ</orig><reg>uͦ</reg></choice>t</w></l>
                 </lg>
                 <lg>
@@ -7978,7 +7970,7 @@
                     <l n="5074"><lb n="38"/><w>ſam</w><w>ez</w><w>ein</w><w>h<choice><orig>v</orig><reg>u</reg></choice>s</w><w>wære</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="5075"><lb n="39"/><w><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">V</hei:initial>on</w><w>des</w><w>riſen</w><w>valle</w><pc>·</pc></l>
+                    <l n="5075"><lb n="39"/><w><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">V</hei:initial>on</w><w>des</w><w>riſen</w><w>valle</w><pc>·</pc><metamark ana="hc:CueInitial " hei:placeRef="hc:PageMarginRight">v</metamark></l>
                     <l n="5076"><lb n="40"/><w>vro<choice><orig>v</orig><reg>u</reg></choice>ten</w><w>ſi</w><w>ſich</w><w>alle</w></l>
                 </lg>
                 <lg>
@@ -8016,7 +8008,7 @@
                     <l n="5092"><lb n="8"/><w>di<choice><orig>v</orig><reg>u</reg></choice></w><w>da</w><w>d<choice><orig>v</orig><reg>u</reg></choice>rch</w><w>in</w><w>gevangen</w><w>lach</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="5093"><lb n="9"/><w><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">D</hei:initial>er</w><w>wirt</w><w>beg<choice><orig>v</orig><reg>u</reg></choice>nde</w><w>ſtarche</w><w>biten</w></l>
+                    <l n="5093"><lb n="9"/><w><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">D</hei:initial>er</w><w>wirt</w><w>beg<choice><orig>v</orig><reg>u</reg></choice>nde</w><w>ſtarche</w><w>biten</w><metamark ana="hc:CueInitial " hei:placeRef="hc:PageMarginLeft">d</metamark></l>
                     <l n="5094"><lb n="10"/><w>daz</w><w>wære</w><w>alſ</w><w>g<choice><orig>v</orig><reg>u</reg></choice>t</w><w>vermiten</w><pc>·</pc></l>
                 </lg>
                 <lg>
@@ -8032,7 +8024,7 @@
                     <l n="5100"><lb n="16"/><w>daz</w><w>gnaden</w><w>vil</w><w>manch</w><w>valt</w></l>
                 </lg>
                 <lg>
-                    <l n="5101"><lb n="17"/><w><hei:initial ana="hc:Lombard" hei:color="Blue" hei:heightLines="2">D</hei:initial>az</w><w>erhort</w><w>von</w><w>in</w><w>zwein</w></l>
+                    <l n="5101"><lb n="17"/><w><hei:initial ana="hc:Lombard" hei:color="Blue" hei:heightLines="2">D</hei:initial>az</w><w>erhort</w><w>von</w><w>in</w><w>zwein</w><metamark ana="hc:CueInitial " hei:placeRef="hc:PageMarginLeft">d</metamark></l>
                     <l n="5102"><lb n="18"/><w>do</w><w>ſ<choice><am>pᷓ</am><ex>pra</ex></choice>ch</w><w>min</w><w>her</w><w>ywein</w></l>
                 </lg>
                 <lg>
@@ -8153,7 +8145,7 @@
                     <l n="5160"><lb n="28"/><w>wan</w><w>ſi</w><w>het</w><w>ſich</w><w>deſ</w><w>libes</w><w>bewegen</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="5161"><lb n="29"/><w><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">D</hei:initial>o</w><w>ſi</w><w>ſich</w><w>miſſetroſte</w><pc>·</pc></l>
+                    <l n="5161"><lb n="29"/><w><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">D</hei:initial>o</w><w>ſi</w><w>ſich</w><w>miſſetroſte</w><pc>·</pc><metamark ana="hc:CueInitial " hei:placeRef="hc:PageMarginRight">d</metamark></l>
                     <l n="5162"><lb n="30"/><w>daz</w><w>ſi</w><w>nieman</w><w>loſte</w></l>
                 </lg>
                 <lg>
@@ -8316,7 +8308,7 @@
                     <l n="5240"><lb n="12"/><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>zeiget</w><w join="right">im</w><w join="left">ſ</w><w>alle</w><w>dri</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="5241"><lb n="13"/><w><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">D</hei:initial>o</w><w>ſprach</w><w><choice><am>d͛</am><ex>der</ex></choice></w><w>dr<choice><orig>v</orig><reg>u</reg></choice>hſæze</w></l>
+                    <l n="5241"><lb n="13"/><w><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">D</hei:initial>o</w><w>ſprach</w><w><choice><am>d͛</am><ex>der</ex></choice></w><w>dr<choice><orig>v</orig><reg>u</reg></choice>hſæze</w><metamark ana="hc:CueInitial " hei:placeRef="hc:PageMarginRight">d</metamark></l>
                     <l n="5242"><lb n="14"/><w>er</w><w>iſt</w><w>gen<choice><orig>v</orig><reg>u</reg></choice>ch</w><w>t<choice><orig>v</orig><reg>u</reg></choice>mpræze</w><pc>·</pc></l>
                 </lg>
                 <lg>
@@ -8360,7 +8352,7 @@
                     <l n="5262"><lb n="34"/><w>di<choice><orig>v</orig><reg>u</reg></choice></w><w>i<choice><orig>v</orig><reg>u</reg></choice></w><w>an</w><w>den</w><w>lip</w><w>m<choice><orig>vͦ</orig><reg>uͦ</reg></choice>z</w><w>gan</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="5263"><lb n="35"/><w><hei:initial ana="hc:Lombard" hei:color="Blue" hei:heightLines="2">D</hei:initial>o</w><w>ſprach</w><w><choice><am>d͛</am><ex>der</ex></choice></w><w>ritter</w><w>mit</w><w>d<choice><am>ē</am><ex>em</ex></choice></w><w>le<choice><orig>v</orig><reg>u</reg></choice>n</w></l>
+                    <l n="5263"><lb n="35"/><w><hei:initial ana="hc:Lombard" hei:color="Blue" hei:heightLines="2">D</hei:initial>o</w><w>ſprach</w><w><choice><am>d͛</am><ex>der</ex></choice></w><w>ritter</w><w>mit</w><w>d<choice><am>ē</am><ex>em</ex></choice></w><w>le<choice><orig>v</orig><reg>u</reg></choice>n</w><metamark ana="hc:CueInitial " hei:placeRef="hc:PageMarginRight">d</metamark></l>
                     <l n="5264"><lb n="36"/><w>ir</w><w>m<choice><orig>vͦ</orig><reg>uͦ</reg></choice>get</w><w>mir</w><w>harte</w><w>vil</w><w>gedre<choice><orig>v</orig><reg>u</reg></choice>n</w><pc>·</pc></l>
                 </lg>
                 <lg>
@@ -8398,7 +8390,7 @@
                     <l n="5280"><lb n="4"/><w>danne</w><w>an</w><w>iwer</w><w>geſelleſchaft</w></l>
                 </lg>
                 <lg>
-                    <l n="5281"><lb n="5"/><w><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">D</hei:initial>o</w><w>ſprach</w><w><choice><am>d͛</am><ex>der</ex></choice></w><w>dr<choice><orig>v</orig><reg>u</reg></choice>hſæze</w><pc>·</pc></l>
+                    <l n="5281"><lb n="5"/><w><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">D</hei:initial>o</w><w>ſprach</w><w><choice><am>d͛</am><ex>der</ex></choice></w><w>dr<choice><orig>v</orig><reg>u</reg></choice>hſæze</w><pc>·</pc><metamark ana="hc:CueInitial " hei:placeRef="hc:PageMarginLeft">d</metamark></l>
                     <l n="5282"><lb n="6"/><w>ſwes</w><w>ich</w><w>mich</w><w>vermæze</w><pc>·</pc></l>
                 </lg>
                 <lg>
@@ -8618,11 +8610,10 @@
                 </lg>
                 <lg>
                     <l n="5392"><lb n="17"/><w><hi rendition="hc:Versal">D</hi>ie</w><w>mangen</w><w>ſlach</w><w>grozzen</w></l>
-                    <l n="5393"><lb n="18"/><w>heten</w><w>enphangen</w><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>gegeben</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="5393"><lb n="19"/><w><hi rendition="hc:Versal">H</hi>eten</w><w>enphangen</w><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>gegeben</w><pc>·</pc></l>
-                    <!--VORSICHT: Doppelte Vers-Nummer!!     -->
+                    <l n="5393"><lb n="18"/><w>heten</w><w>enphangen</w><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>gegeben</w><pc>·</pc></l>
+                    <l n="5393,1" hei:replicates="#xpath(//l[@n='5393'])"><lb n="19"/><w><hi rendition="hc:Versal">H</hi>eten</w><w>enphangen</w><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>gegeben</w><pc>·</pc></l>
                     <l n="5394"><lb n="20"/><w>werten</w><w>ſi</w><w>n<choice><orig>v</orig><reg>u</reg></choice></w><w>daz</w><w>leben</w><pc>·</pc></l>
                 </lg>
                 <lg>
@@ -8727,7 +8718,7 @@
                     <l n="5444"><lb n="22"/><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>v<choice><orig>v</orig><reg>u</reg></choice>rbaz</w><w>danne</w><w>er</w><w>ſ<choice><orig>v</orig><reg>u</reg></choice>chte</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="5445"><lb n="23"/><w><hei:initial ana="hc:Lombard" hei:color="Blue" hei:heightLines="2">D</hei:initial>i<choice><orig>v</orig><reg>u</reg></choice></w><w><choice><orig>i</orig><reg>j</reg></choice><choice><orig>v</orig><reg>u</reg></choice>nchvrowe</w><w>l<choice><orig>vͦ</orig><reg>uͦ</reg></choice>net</w><w>waſ</w><w>vil</w><w>vro</w><pc>·</pc></l>
+                    <l n="5445"><lb n="23"/><w><hei:initial ana="hc:Lombard" hei:color="Blue" hei:heightLines="2">D</hei:initial>i<choice><orig>v</orig><reg>u</reg></choice></w><w><choice><orig>i</orig><reg>j</reg></choice><choice><orig>v</orig><reg>u</reg></choice>nchvrowe</w><w>l<choice><orig>vͦ</orig><reg>uͦ</reg></choice>net</w><w>waſ</w><w>vil</w><w>vro</w><pc>·</pc><metamark ana="hc:CueInitial " hei:placeRef="hc:PageMarginRight">d</metamark></l>
                     <l n="5446"><lb n="24"/><w>wan</w><w>ez</w><w>zoch</w><w>ir</w><w>alſo</w><pc>·</pc></l>
                 </lg>
                 <lg>
@@ -8767,7 +8758,7 @@
                     <l n="5464"><lb n="42"/><w>lat</w><w>mich</w><w>i<choice><orig>v</orig><reg>u</reg></choice>ch</w><w>machen</w><w>geſ<choice><orig>vͦ</orig><reg>uͦ</reg></choice>nt</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="5465"><lb n="43"/><w><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">S</hei:initial><choice><orig>v</orig><reg>u</reg></choice>s</w><w>ſprach</w><w><choice><am>d͛</am><ex>der</ex></choice></w><w>nam</w><w>loſe</w><w>do</w></l>
+                    <l n="5465"><lb n="43"/><w><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">S</hei:initial><choice><orig>v</orig><reg>u</reg></choice>s</w><w>ſprach</w><w><choice><am>d͛</am><ex>der</ex></choice></w><w>nam</w><w>loſe</w><w>do</w><metamark ana="hc:CueInitial " hei:placeRef="hc:PageMarginRight">ſ</metamark></l>
                     <l n="5466"><lb n="44"/><w join="right">ich</w><w join="left">n</w><w>gewinn</w><w>gemach</w><w>noch</w><w>wi<choice><am>dʼ</am><ex>de</ex></choice></w><w>vro</w></l>
                 </lg>
                 <lg>
@@ -8797,7 +8788,7 @@
                     <l n="5478"><lb n="8"/><w>ob</w><w>ſi</w><w>niht</w><w>groz</w><w>herzenleit</w></l>
                 </lg>
                 <lg>
-                    <l n="5479"><lb n="9"/><w><choice><orig><hei:initial ana="hc:Lombard" hei:color="Blue" hei:heightLines="2">V</hei:initial></orig><reg><hei:initial ana="hc:Lombard" hei:color="Blue" hei:heightLines="2">U</hei:initial></reg></choice>f</w><w>in</w><w join="right"><subst><del rendition="hc:Erased">g</del><add hei:placeRef="hc:Superimposed">z</add></subst>e</w><w join="left">ſprechen</w><w>hat</w></l>
+                    <l n="5479"><lb n="9"/><w><choice><orig><hei:initial ana="hc:Lombard" hei:color="Blue" hei:heightLines="2">V</hei:initial></orig><reg><hei:initial ana="hc:Lombard" hei:color="Blue" hei:heightLines="2">U</hei:initial></reg></choice>f</w><w>in</w><w join="right"><subst><del rendition="hc:Erased">g</del><add hei:placeRef="hc:Superimposed">z</add></subst>e</w><w join="left">ſprechen</w><w>hat</w><metamark ana="hc:CueInitial " hei:placeRef="hc:PageMarginLeft">v</metamark></l>
                     <l n="5480"><lb n="10"/><w>er</w><w>ſprach</w><w>nimmer</w><w>werde</w><w>min</w><w>rat</w><pc>·</pc></l>
                 </lg>
                 <lg>
@@ -8853,7 +8844,7 @@
                     <l n="5506"><lb n="36"/><w>da</w><w>erchennet</w><w>mich</w><w>bi</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="5507"><lb n="37"/><w><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">D</hei:initial>i<choice><orig>v</orig><reg>u</reg></choice></w><w>vrowe</w><w>ſ<choice><am>pᷓ</am><ex>pra</ex></choice>ch</w><w>wie</w><w>mach</w><w>daz</w><w>cho<choice><am>m̄</am><ex>men</ex></choice></w><pc>·</pc></l>
+                    <l n="5507"><lb n="37"/><w><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">D</hei:initial>i<choice><orig>v</orig><reg>u</reg></choice></w><w>vrowe</w><w>ſ<choice><am>pᷓ</am><ex>pra</ex></choice>ch</w><w>wie</w><w>mach</w><w>daz</w><w>cho<choice><am>m̄</am><ex>men</ex></choice></w><pc>·</pc><metamark ana="hc:CueInitial " hei:placeRef="hc:PageMarginLeft">d</metamark></l>
                     <l n="5508"><lb n="38"/><w>daz</w><w>ich</w><w>von</w><w>i<choice><orig>v</orig><reg>u</reg></choice></w><w>niht</w><w>han</w><w><choice><am>v͛</am><ex>ver</ex></choice>nomen</w><pc>·</pc></l>
                 </lg>
                 <lg>
@@ -9085,7 +9076,7 @@
                     <l n="5620"><lb n="6"/><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>o<choice><orig>v</orig><reg>u</reg></choice>ch</w><w>den</w><w>le<choice><orig>v</orig><reg>u</reg></choice>n</w><w>ſin<choice><am>ē</am><ex>en</ex></choice></w><w>geverten</w></l>
                 </lg>
                 <lg>
-                    <l n="5621"><lb n="7"/><w><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">D</hei:initial>a</w><w>mit</w><w>entwelt</w><w>er</w><w>vierzeh<choice><am>ē</am><ex>en</ex></choice></w><w>naht</w><pc>·</pc></l>
+                    <l n="5621"><lb n="7"/><w><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">D</hei:initial>a</w><w>mit</w><w>entwelt</w><w>er</w><w>vierzeh<choice><am>ē</am><ex>en</ex></choice></w><w>naht</w><pc>·</pc><metamark ana="hc:CueInitial " hei:placeRef="hc:PageMarginRight">d</metamark></l>
                     <l n="5622"><lb n="8"/><w><choice><orig>v</orig><reg>u</reg></choice>nz</w><w>daz</w><w>er</w><w>ſines</w><w>libes</w><w>maht</w></l>
                 </lg>
                 <lg>
@@ -9113,7 +9104,8 @@
                     <l n="5634"><lb n="20"/><w>zwo</w><w><choice><orig>i</orig><reg>j</reg></choice><choice><orig>v</orig><reg>u</reg></choice>nchvrowen</w><w>lie</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="5635"><lb n="21"/><w><hei:initial ana="hc:Lombard" hei:color="Blue" hei:heightLines="2">N</hei:initial><del rendition="hc:Erased">n</del><choice><orig>vͦ</orig><reg>uͦ</reg></choice></w><w>wolde</w><w>di<choice><orig>v</orig><reg>u</reg></choice></w><w>alte</w></l>
+                    <l n="5635"><lb n="21"/><w><hei:initial ana="hc:Lombard" hei:color="Blue" hei:heightLines="2">N</hei:initial><del rendition="hc:Erased">n</del><choice><orig>vͦ</orig><reg>uͦ</reg></choice></w><w>wolde</w><w>di<choice><orig>v</orig><reg>u</reg></choice></w><w>alte</w><metamark ana="hc:CueInitial " hei:placeRef="hc:PageMarginRight">n</metamark></l>
+                    <!--borrón ao lado da metamark n? 3?      -->
                     <l n="5636"><lb n="22"/><w>die</w><w><choice><orig>i</orig><reg>j</reg></choice><choice><orig>v</orig><reg>u</reg></choice>ngen</w><w>mit</w><w>gewalte</w><pc>·</pc></l>
                 </lg>
                 <lg>
@@ -9171,7 +9163,7 @@
                 <pb n="23v"/>
                 <cb n="a"/>
                 <lg>
-                    <l n="5663"><lb n="1"/><w><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">D</hei:initial>itz</w><w>marhte</w><w>di<choice><orig>v</orig><reg>u</reg></choice></w><w><choice><orig>v</orig><reg>u</reg></choice>ng<choice><orig>vͦ</orig><reg>uͦ</reg></choice>te</w><pc>·</pc></l>
+                    <l n="5663"><lb n="1"/><w><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">D</hei:initial>itz</w><w>marhte</w><w>di<choice><orig>v</orig><reg>u</reg></choice></w><w><choice><orig>v</orig><reg>u</reg></choice>ng<choice><orig>vͦ</orig><reg>uͦ</reg></choice>te</w><pc>·</pc><metamark ana="hc:CueInitial " hei:placeRef="hc:PageMarginLeft">d</metamark></l>
                     <l n="5664"><lb n="2"/><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>ahte</w><w>in</w><w>ir</w><w>m<choice><orig>vͦ</orig><reg>uͦ</reg></choice>te</w></l>
                 </lg>
                 <lg>
@@ -9356,7 +9348,7 @@
                     <l n="5754"><lb n="44"/><w>ob</w><w>ſi</w><w>noch</w><w>ein</w><w><choice><orig>i</orig><reg>j</reg></choice>ar</w><w>bite</w><pc>·</pc></l>
                 </lg>
                 <lg>
-                    <l n="5755"><lb n="45"/><w><hei:initial ana="hc:Lombard" hei:color="Blue" hei:heightLines="2">N</hei:initial><choice><orig>vͦ</orig><reg>uͦ</reg></choice></w><w>wart</w><w>der</w><w>champh</w><w>geſprochen</w><pc>·</pc></l>
+                    <l n="5755"><lb n="45"/><w><hei:initial ana="hc:Lombard" hei:color="Blue" hei:heightLines="2">N</hei:initial><choice><orig>vͦ</orig><reg>uͦ</reg></choice></w><w>wart</w><w>der</w><w>champh</w><w>geſprochen</w><pc>·</pc><metamark ana="hc:CueInitial " hei:placeRef="hc:PageMarginRight">n</metamark></l>
                     <l n="5756"><lb n="46"/><w><choice><orig>v</orig><reg>u</reg></choice>ber</w><w>ſehſ</w><w>wochen</w><pc>·</pc></l>
                 </lg>
                 <lg>
