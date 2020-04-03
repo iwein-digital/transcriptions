@@ -27,22 +27,719 @@
             </listPrefixDef>
         </encodingDesc>
     </teiHeader>
+    
     <facsimile>
-        <surface ana="hc:Page" xml:id="A_1r" n="1r">
-            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0009" mimeType="image/*"/>
-            <zone ana="hc:Column" xml:id="A_1r-a" n="a" rotate="0"/>
+        <surface xml:id="A_1r" ana="hc:Page" n="1r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0009"/>
+            <zone xml:id="A_1r-a" ana="hc:Column hc:TextZone" n="a"/>
         </surface>
-        <surface ana="hc:Page" xml:id="A_1v" n="1v">
-            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0010" mimeType="image/*"/>
-            <zone ana="hc:Column" xml:id="A_1v-a" n="a" rotate="0"/>
+        <surface xml:id="A_1v" ana="hc:Page" n="1v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0010"/>
+            <zone xml:id="A_1v-a" ana="hc:Column hc:TextZone" n="a"/>
         </surface>
-        <surface ana="hc:Page" xml:id="A_2r" n="2r">
-            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0011" mimeType="image/*"/>
-            <zone ana="hc:Column" xml:id="A_2r-a" n="a" rotate="0"/>
+        <surface xml:id="A_2r" ana="hc:Page" n="2r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0011"/>
+            <zone xml:id="A_2r-a" ana="hc:Column hc:TextZone" n="a"/>
         </surface>
-        <surface ana="hc:Page" xml:id="A_2v" n="2v">
-            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0012" mimeType="image/*"/>
-            <zone ana="hc:Column" xml:id="A_2v-a" n="a" rotate="0"/>
+        <surface xml:id="A_2v" ana="hc:Page" n="2v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0012"/>
+            <zone xml:id="A_2v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_3r" ana="hc:Page" n="3r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0013"/>
+            <zone xml:id="A_3r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_3v" ana="hc:Page" n="3v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0014"/>
+            <zone xml:id="A_3v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_4r" ana="hc:Page" n="4r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0015"/>
+            <zone xml:id="A_4r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_4v" ana="hc:Page" n="4v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0016"/>
+            <zone xml:id="A_4v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_5r" ana="hc:Page" n="5r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0017"/>
+            <zone xml:id="A_5r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_5v" ana="hc:Page" n="5v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0018"/>
+            <zone xml:id="A_5v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_6r" ana="hc:Page" n="6r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0019"/>
+            <zone xml:id="A_6r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_6v" ana="hc:Page" n="6v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0020"/>
+            <zone xml:id="A_6v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_7ar" ana="hc:Page" n="7ar">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0021"/>
+            <zone xml:id="A_7ar-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_7av" ana="hc:Page" n="7av">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0022"/>
+            <zone xml:id="A_7av-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_7br" ana="hc:Page" n="7br">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0023"/>
+            <zone xml:id="A_7br-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_7bv" ana="hc:Page" n="7bv">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0024"/>
+            <zone xml:id="A_7bv-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_8r" ana="hc:Page" n="8r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0025"/>
+            <zone xml:id="A_8r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_8v" ana="hc:Page" n="8v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0026"/>
+            <zone xml:id="A_8v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_9r" ana="hc:Page" n="9r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0027"/>
+            <zone xml:id="A_9r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_9v" ana="hc:Page" n="9v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0028"/>
+            <zone xml:id="A_9v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_10r" ana="hc:Page" n="10r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0029"/>
+            <zone xml:id="A_10r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_10v" ana="hc:Page" n="10v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0030"/>
+            <zone xml:id="A_10v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_11r" ana="hc:Page" n="11r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0031"/>
+            <zone xml:id="A_11r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_11v" ana="hc:Page" n="11v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0032"/>
+            <zone xml:id="A_11v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_12r" ana="hc:Page" n="12r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0033"/>
+            <zone xml:id="A_12r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_12v" ana="hc:Page" n="12v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0034"/>
+            <zone xml:id="A_12v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_13r" ana="hc:Page" n="13r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0035"/>
+            <zone xml:id="A_13r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_13v" ana="hc:Page" n="13v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0036"/>
+            <zone xml:id="A_13v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_14r" ana="hc:Page" n="14r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0037"/>
+            <zone xml:id="A_14r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_14v" ana="hc:Page" n="14v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0038"/>
+            <zone xml:id="A_14v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_15r" ana="hc:Page" n="15r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0039"/>
+            <zone xml:id="A_15r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_15v" ana="hc:Page" n="15v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0040"/>
+            <zone xml:id="A_15v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_16r" ana="hc:Page" n="16r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0041"/>
+            <zone xml:id="A_16r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_16v" ana="hc:Page" n="16v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0042"/>
+            <zone xml:id="A_16v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_17r" ana="hc:Page" n="17r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0043"/>
+            <zone xml:id="A_17r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_17v" ana="hc:Page" n="17v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0044"/>
+            <zone xml:id="A_17v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_18r" ana="hc:Page" n="18r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0045"/>
+            <zone xml:id="A_18r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_18v" ana="hc:Page" n="18v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0046"/>
+            <zone xml:id="A_18v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_19r" ana="hc:Page" n="19r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0047"/>
+            <zone xml:id="A_19r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_19v" ana="hc:Page" n="19v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0048"/>
+            <zone xml:id="A_19v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_20r" ana="hc:Page" n="20r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0049"/>
+            <zone xml:id="A_20r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_20v" ana="hc:Page" n="20v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0050"/>
+            <zone xml:id="A_20v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_21r" ana="hc:Page" n="21r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0051"/>
+            <zone xml:id="A_21r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_21v" ana="hc:Page" n="21v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0052"/>
+            <zone xml:id="A_21v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_22r" ana="hc:Page" n="22r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0053"/>
+            <zone xml:id="A_22r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_22v" ana="hc:Page" n="22v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0054"/>
+            <zone xml:id="A_22v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_23r" ana="hc:Page" n="23r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0055"/>
+            <zone xml:id="A_23r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_23v" ana="hc:Page" n="23v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0056"/>
+            <zone xml:id="A_23v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_40r" ana="hc:Page" n="40r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0057"/>
+            <zone xml:id="A_40r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_40v" ana="hc:Page" n="40v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0058"/>
+            <zone xml:id="A_40v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_41r" ana="hc:Page" n="41r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0059"/>
+            <zone xml:id="A_41r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_41v" ana="hc:Page" n="41v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0060"/>
+            <zone xml:id="A_41v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_42r" ana="hc:Page" n="42r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0061"/>
+            <zone xml:id="A_42r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_42v" ana="hc:Page" n="42v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0062"/>
+            <zone xml:id="A_42v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_43r" ana="hc:Page" n="43r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0063"/>
+            <zone xml:id="A_43r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_43v" ana="hc:Page" n="43v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0064"/>
+            <zone xml:id="A_43v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_44r" ana="hc:Page" n="44r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0065"/>
+            <zone xml:id="A_44r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_44v" ana="hc:Page" n="44v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0066"/>
+            <zone xml:id="A_44v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_45r" ana="hc:Page" n="45r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0067"/>
+            <zone xml:id="A_45r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_45v" ana="hc:Page" n="45v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0068"/>
+            <zone xml:id="A_45v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_46r" ana="hc:Page" n="46r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0069"/>
+            <zone xml:id="A_46r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_46v" ana="hc:Page" n="46v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0070"/>
+            <zone xml:id="A_46v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_47r" ana="hc:Page" n="47r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0071"/>
+            <zone xml:id="A_47r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_47v" ana="hc:Page" n="47v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0072"/>
+            <zone xml:id="A_47v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_48r" ana="hc:Page" n="48r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0073"/>
+            <zone xml:id="A_48r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_48v" ana="hc:Page" n="48v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0074"/>
+            <zone xml:id="A_48v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_49r" ana="hc:Page" n="49r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0075"/>
+            <zone xml:id="A_49r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_49v" ana="hc:Page" n="49v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0076"/>
+            <zone xml:id="A_49v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_50r" ana="hc:Page" n="50r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0077"/>
+            <zone xml:id="A_50r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_50v" ana="hc:Page" n="50v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0078"/>
+            <zone xml:id="A_50v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_51r" ana="hc:Page" n="51r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0079"/>
+            <zone xml:id="A_51r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_51v" ana="hc:Page" n="51v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0080"/>
+            <zone xml:id="A_51v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_52r" ana="hc:Page" n="52r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0081"/>
+            <zone xml:id="A_52r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_52v" ana="hc:Page" n="52v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0082"/>
+            <zone xml:id="A_52v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_53r" ana="hc:Page" n="53r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0083"/>
+            <zone xml:id="A_53r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_53v" ana="hc:Page" n="53v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0084"/>
+            <zone xml:id="A_53v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_54r" ana="hc:Page" n="54r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0085"/>
+            <zone xml:id="A_54r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_54v" ana="hc:Page" n="54v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0086"/>
+            <zone xml:id="A_54v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_55r" ana="hc:Page" n="55r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0087"/>
+            <zone xml:id="A_55r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_55v" ana="hc:Page" n="55v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0088"/>
+            <zone xml:id="A_55v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_56v" ana="hc:Page" n="56v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0089"/>
+            <zone xml:id="A_56v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_57r" ana="hc:Page" n="57r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0090"/>
+            <zone xml:id="A_57r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_57v" ana="hc:Page" n="57v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0091"/>
+            <zone xml:id="A_57v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_58r" ana="hc:Page" n="58r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0092"/>
+            <zone xml:id="A_58r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_58v" ana="hc:Page" n="58v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0093"/>
+            <zone xml:id="A_58v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_59r" ana="hc:Page" n="59r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0094"/>
+            <zone xml:id="A_59r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_59v" ana="hc:Page" n="59v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0095"/>
+            <zone xml:id="A_59v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_60r" ana="hc:Page" n="60r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0096"/>
+            <zone xml:id="A_60r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_60v" ana="hc:Page" n="60v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0097"/>
+            <zone xml:id="A_60v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_61r" ana="hc:Page" n="61r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0098"/>
+            <zone xml:id="A_61r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_61v" ana="hc:Page" n="61v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0099"/>
+            <zone xml:id="A_61v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_61ar" ana="hc:Page" n="61ar">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0100"/>
+            <zone xml:id="A_61ar-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_61av" ana="hc:Page" n="61av">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0101"/>
+            <zone xml:id="A_61av-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_62r" ana="hc:Page" n="62r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0102"/>
+            <zone xml:id="A_62r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_62v" ana="hc:Page" n="62v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0103"/>
+            <zone xml:id="A_62v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_63r" ana="hc:Page" n="63r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0104"/>
+            <zone xml:id="A_63r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_63v" ana="hc:Page" n="63v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0105"/>
+            <zone xml:id="A_63v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_64r" ana="hc:Page" n="64r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0106"/>
+            <zone xml:id="A_64r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_64v" ana="hc:Page" n="64v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0107"/>
+            <zone xml:id="A_64v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_65ar" ana="hc:Page" n="65ar">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0108"/>
+            <zone xml:id="A_65ar-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_65av" ana="hc:Page" n="65av">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0109"/>
+            <zone xml:id="A_65av-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_66r" ana="hc:Page" n="66r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0110"/>
+            <zone xml:id="A_66r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_66v" ana="hc:Page" n="66v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0111"/>
+            <zone xml:id="A_66v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_67r" ana="hc:Page" n="67r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0112"/>
+            <zone xml:id="A_67r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_67v" ana="hc:Page" n="67v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0113"/>
+            <zone xml:id="A_67v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_68r" ana="hc:Page" n="68r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0114"/>
+            <zone xml:id="A_68r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_68v" ana="hc:Page" n="68v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0115"/>
+            <zone xml:id="A_68v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_69r" ana="hc:Page" n="69r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0116"/>
+            <zone xml:id="A_69r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_69v" ana="hc:Page" n="69v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0117"/>
+            <zone xml:id="A_69v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_70r" ana="hc:Page" n="70r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0118"/>
+            <zone xml:id="A_70r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_70v" ana="hc:Page" n="70v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0119"/>
+            <zone xml:id="A_70v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_24r" ana="hc:Page" n="24r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0120"/>
+            <zone xml:id="A_24r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_24v" ana="hc:Page" n="24v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0121"/>
+            <zone xml:id="A_24v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_25r" ana="hc:Page" n="25r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0122"/>
+            <zone xml:id="A_25r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_25v" ana="hc:Page" n="25v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0123"/>
+            <zone xml:id="A_25v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_26r" ana="hc:Page" n="26r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0124"/>
+            <zone xml:id="A_26r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_26v" ana="hc:Page" n="26v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0125"/>
+            <zone xml:id="A_26v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_27r" ana="hc:Page" n="27r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0126"/>
+            <zone xml:id="A_27r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_27v" ana="hc:Page" n="27v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0127"/>
+            <zone xml:id="A_27v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_28r" ana="hc:Page" n="28r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0128"/>
+            <zone xml:id="A_28r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_28v" ana="hc:Page" n="28v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0129"/>
+            <zone xml:id="A_28v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_29r" ana="hc:Page" n="29r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0130"/>
+            <zone xml:id="A_29r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_29v" ana="hc:Page" n="29v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0131"/>
+            <zone xml:id="A_29v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_30r" ana="hc:Page" n="30r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0132"/>
+            <zone xml:id="A_30r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_30v" ana="hc:Page" n="30v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0133"/>
+            <zone xml:id="A_30v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_31r" ana="hc:Page" n="31r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0134"/>
+            <zone xml:id="A_31r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_31v" ana="hc:Page" n="31v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0135"/>
+            <zone xml:id="A_31v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_71r" ana="hc:Page" n="71r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0136"/>
+            <zone xml:id="A_71r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_71v" ana="hc:Page" n="71v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0137"/>
+            <zone xml:id="A_71v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_72r" ana="hc:Page" n="72r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0138"/>
+            <zone xml:id="A_72r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_72v" ana="hc:Page" n="72v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0139"/>
+            <zone xml:id="A_72v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_73r" ana="hc:Page" n="73r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0140"/>
+            <zone xml:id="A_73r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_73v" ana="hc:Page" n="73v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0141"/>
+            <zone xml:id="A_73v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_74r" ana="hc:Page" n="74r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0142"/>
+            <zone xml:id="A_74r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_74v" ana="hc:Page" n="74v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0143"/>
+            <zone xml:id="A_74v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_75r" ana="hc:Page" n="75r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0144"/>
+            <zone xml:id="A_75r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_75v" ana="hc:Page" n="75v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0145"/>
+            <zone xml:id="A_75v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_76r" ana="hc:Page" n="76r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0146"/>
+            <zone xml:id="A_76r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_76v" ana="hc:Page" n="76v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0147"/>
+            <zone xml:id="A_76v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_77r" ana="hc:Page" n="77r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0148"/>
+            <zone xml:id="A_77r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_77v" ana="hc:Page" n="77v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0149"/>
+            <zone xml:id="A_77v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_78r" ana="hc:Page" n="78r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0150"/>
+            <zone xml:id="A_78r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_78v" ana="hc:Page" n="78v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0151"/>
+            <zone xml:id="A_78v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_79r" ana="hc:Page" n="79r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0152"/>
+            <zone xml:id="A_79r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_79v" ana="hc:Page" n="79v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0153"/>
+            <zone xml:id="A_79v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_80r" ana="hc:Page" n="80r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0154"/>
+            <zone xml:id="A_80r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_80v" ana="hc:Page" n="80v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0155"/>
+            <zone xml:id="A_80v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_81r" ana="hc:Page" n="81r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0156"/>
+            <zone xml:id="A_81r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_81v" ana="hc:Page" n="81v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0157"/>
+            <zone xml:id="A_81v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_82r" ana="hc:Page" n="82r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0158"/>
+            <zone xml:id="A_82r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_82v" ana="hc:Page" n="82v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0159"/>
+            <zone xml:id="A_82v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_83r" ana="hc:Page" n="83r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0160"/>
+            <zone xml:id="A_83r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_83v" ana="hc:Page" n="83v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0161"/>
+            <zone xml:id="A_83v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_84r" ana="hc:Page" n="84r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0162"/>
+            <zone xml:id="A_84r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_84v" ana="hc:Page" n="84v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0163"/>
+            <zone xml:id="A_84v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_85r" ana="hc:Page" n="85r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0164"/>
+            <zone xml:id="A_85r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_85v" ana="hc:Page" n="85v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0165"/>
+            <zone xml:id="A_85v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_86r" ana="hc:Page" n="86r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0166"/>
+            <zone xml:id="A_86r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_86v" ana="hc:Page" n="86v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0167"/>
+            <zone xml:id="A_86v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_32r" ana="hc:Page" n="32r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0168"/>
+            <zone xml:id="A_32r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_32v" ana="hc:Page" n="32v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0169"/>
+            <zone xml:id="A_32v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_33r" ana="hc:Page" n="33r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0170"/>
+            <zone xml:id="A_33r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_33v" ana="hc:Page" n="33v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0171"/>
+            <zone xml:id="A_33v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_34r" ana="hc:Page" n="34r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0172"/>
+            <zone xml:id="A_34r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_34v" ana="hc:Page" n="34v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0173"/>
+            <zone xml:id="A_34v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_35r" ana="hc:Page" n="35r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0174"/>
+            <zone xml:id="A_35r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_35v" ana="hc:Page" n="35v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0175"/>
+            <zone xml:id="A_35v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_36r" ana="hc:Page" n="36r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0176"/>
+            <zone xml:id="A_36r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_36v" ana="hc:Page" n="36v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0177"/>
+            <zone xml:id="A_36v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_37r" ana="hc:Page" n="37r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0178"/>
+            <zone xml:id="A_37r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_37v" ana="hc:Page" n="37v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0179"/>
+            <zone xml:id="A_37v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_38r" ana="hc:Page" n="38r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0180"/>
+            <zone xml:id="A_38r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_38v" ana="hc:Page" n="38v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0181"/>
+            <zone xml:id="A_38v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_39r" ana="hc:Page" n="39r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0182"/>
+            <zone xml:id="A_39r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_39v" ana="hc:Page" n="39v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0183"/>
+            <zone xml:id="A_39v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_87r" ana="hc:Page" n="87r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0184"/>
+            <zone xml:id="A_87r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_87v" ana="hc:Page" n="87v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0185"/>
+            <zone xml:id="A_87v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="A_88r" ana="hc:Page" n="88r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/cpg397/0186"/>
+            <zone xml:id="A_88r-a" ana="hc:Column hc:TextZone" n="a"/>
         </surface>
     </facsimile>
     <text ana="hc:CompleteExpression hc:CourtlyRomance">
