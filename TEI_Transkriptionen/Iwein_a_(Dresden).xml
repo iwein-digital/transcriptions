@@ -38,6 +38,7 @@
     <text ana="hc:CompleteExpression hc:CourtlyRomance">
         <body>
             <div>
+                <gap ana="hc:Lost" n="52" unit="lines"/>
                 <pb n="1r"/>
                 <cb n="1r-a"/>
                 <lg>
@@ -988,120 +989,11 @@
                 </lg>
                 <lg>
                     <l n="517"><lb n="29"/><w>Sy</w><w>en</w><w>tün</w><w>dir</w><w>n<choice><am>ū</am><ex>um</ex></choice><choice><am>m͛</am><ex>mer</ex></choice></w><w>keyn</w><w>leyt</w></l>
-                    <pb n="9r"/>
+                </lg>
+                    <gap xml:id="a_gap_518" ana="hc:Lost" n="56" unit="lines"/><note ana="hc:TranscriptionNote" target="#a_gap_518">Das verlorene Blatt 9 wurde im Auftrag des Bibliothekars der fürstlichen Bibliothek in Bernburg, Johann Ludwig Anton Rust, von Johann Christoph Gottsched oder jemandem in dessen Auftrag durch ein neues Blatt ersetzt, auf dem der fehlende Text nach der Dresdner Hs. Mscr. M 65 (Iwein f) eingetragen worden war. Das ebenfalls fehlende erste Blatt konnte nicht auf gleiche Weise ersetzt werden, weil der Anfang auf in f fehlt. In Gegenteil: da in f zwei Blätter am Anfang fehlen wurden im gleichen Zuge die Verse 53–93 aus a in der Hs. f nachgetragen</note>
+                    <pb n="10r"/>
                     <cb n="a"/>
-                    <l n="518"><lb/><w></w><w></w><w></w><w></w><w></w><w></w></l>
-                </lg>
                 <lg>
-                    <l n="519"><lb/><w></w><w></w><w></w><w></w><w></w><w></w></l>
-                    <l n="520"><lb/><w></w><w></w><w></w><w></w><w></w><w></w></l>
-                </lg>
-                <lg>
-                    <l n="521"><lb/><w></w><w></w><w></w><w></w><w></w><w></w></l>
-                    <l n="522"><lb/><w></w><w></w><w></w><w></w><w></w><w></w></l>
-                </lg>
-                <lg>
-                    <l n="523"><lb/><w></w><w></w><w></w><w></w><w></w><w></w></l>
-                    <l n="524"><lb/><w></w><w></w><w></w><w></w><w></w><w></w></l>
-                </lg>
-                <lg>
-                    <l n="525"><lb/><w></w><w></w><w></w><w></w><w></w><w></w></l>
-                    <l n="526"><lb/><w></w><w></w><w></w><w></w><w></w><w></w></l>
-                </lg>
-                <lg>
-                    <l n="527"><lb/><w></w><w></w><w></w><w></w><w></w><w></w></l>
-                    <l n="528"><lb/><w></w><w></w><w></w><w></w><w></w><w></w></l>
-                </lg>
-                <lg>
-                    <l n="529"><lb/><w></w><w></w><w></w><w></w><w></w><w></w></l>
-                    <l n="530"><lb/><w></w><w></w><w></w><w></w><w></w><w></w></l>
-                </lg>
-                <lg>
-                    <l n="531"><lb/><w></w><w></w><w></w><w></w><w></w><w></w></l>
-                    <l n="532"><lb/><w></w><w></w><w></w><w></w><w></w><w></w></l>
-                </lg>
-                <lg>
-                    <l n="533"><lb/><w></w><w></w><w></w><w></w><w></w><w></w></l>
-                    <l n="534"><lb/><w></w><w></w><w></w><w></w><w></w><w></w></l>
-                </lg>
-                <lg>
-                    <l n="535"><lb/><w></w><w></w><w></w><w></w><w></w><w></w></l>
-                    <l n="536"><lb/><w></w><w></w><w></w><w></w><w></w><w></w></l>
-                </lg>
-                <lg>
-                    <l n="537"><lb/><w></w><w></w><w></w><w></w><w></w><w></w></l>
-                    <l n="538"><lb/><w></w><w></w><w></w><w></w><w></w><w></w></l>
-                </lg>
-                <lg>
-                    <l n="539"><lb/><w></w><w></w><w></w><w></w><w></w><w></w></l>
-                    <l n="540"><lb/><w></w><w></w><w></w><w></w><w></w><w></w></l>
-                </lg>
-                <lg>
-                    <l n="541"><lb/><w></w><w></w><w></w><w></w><w></w><w></w></l>
-                    <l n="542"><lb/><w></w><w></w><w></w><w></w><w></w><w></w></l>
-                </lg>
-                <lg>
-                    <l n="543"><lb/><w></w><w></w><w></w><w></w><w></w><w></w></l>
-                    <l n="544"><lb/><w></w><w></w><w></w><w></w><w></w><w></w></l>
-                </lg>
-                <lg>
-                    <l n="545"><lb/><w></w><w></w><w></w><w></w><w></w><w></w></l>
-                    <l n="546"><lb/><w></w><w></w><w></w><w></w><w></w><w></w></l>
-                </lg>
-                <lg>
-                    <l n="547"><lb/><w></w><w></w><w></w><w></w><w></w><w></w></l>
-                    <l n="548"><lb/><w></w><w></w><w></w><w></w><w></w><w></w></l>
-                </lg>
-                <lg>
-                    <l n="549"><lb/><w></w><w></w><w></w><w></w><w></w><w></w></l>
-                    <l n="550"><lb/><w></w><w></w><w></w><w></w><w></w><w></w></l>
-                </lg>
-                <lg>
-                    <l n="551"><lb/><w></w><w></w><w></w><w></w><w></w><w></w></l>
-                    <l n="552"><lb/><w></w><w></w><w></w><w></w><w></w><w></w></l>
-                </lg>
-                <lg>
-                    <l n="553"><lb/><w></w><w></w><w></w><w></w><w></w><w></w></l>
-                    <l n="554"><lb/><w></w><w></w><w></w><w></w><w></w><w></w></l>
-                </lg>
-                <lg>
-                    <l n="555"><lb/><w></w><w></w><w></w><w></w><w></w><w></w></l>
-                    <l n="556"><lb/><w></w><w></w><w></w><w></w><w></w><w></w></l>
-                </lg>
-                <lg>
-                    <l n="557"><lb/><w></w><w></w><w></w><w></w><w></w><w></w></l>
-                    <l n="558"><lb/><w></w><w></w><w></w><w></w><w></w><w></w></l>
-                </lg>
-                <lg>
-                    <l n="559"><lb/><w></w><w></w><w></w><w></w><w></w><w></w></l>
-                    <l n="560"><lb/><w></w><w></w><w></w><w></w><w></w><w></w></l>
-                </lg>
-                <lg>
-                    <l n="561"><lb/><w></w><w></w><w></w><w></w><w></w><w></w></l>
-                    <l n="562"><lb/><w></w><w></w><w></w><w></w><w></w><w></w></l>
-                </lg>
-                <lg>
-                    <l n="563"><lb/><w></w><w></w><w></w><w></w><w></w><w></w></l>
-                    <l n="564"><lb/><w></w><w></w><w></w><w></w><w></w><w></w></l>
-                </lg>
-                <lg>
-                    <l n="565"><lb/><w></w><w></w><w></w><w></w><w></w><w></w></l>
-                    <l n="566"><lb/><w></w><w></w><w></w><w></w><w></w><w></w></l>
-                </lg>
-                <lg>
-                    <l n="567"><lb/><w></w><w></w><w></w><w></w><w></w><w></w></l>
-                    <l n="568"><lb/><w></w><w></w><w></w><w></w><w></w><w></w></l>
-                </lg>
-                <lg>
-                    <l n="569"><lb/><w></w><w></w><w></w><w></w><w></w><w></w></l>
-                    <l n="570"><lb/><w></w><w></w><w></w><w></w><w></w><w></w></l>
-                </lg>
-                <lg>
-                    <l n="571"><lb/><w></w><w></w><w></w><w></w><w></w><w></w></l>
-                    <l n="572"><lb/><w></w><w></w><w></w><w></w><w></w><w></w></l>
-                </lg>
-                <lg>
-                    <l n="573"><lb/><w></w><w></w><w></w><w></w><w></w><w></w></l>
                     <l n="574"><lb/><w></w><w></w><w></w><w></w><w></w><w></w></l>
                 </lg>
                 <lg>
