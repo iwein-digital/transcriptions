@@ -1,7 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://digi.ub.uni-heidelberg.de/schema/tei/heiEDITIONS/tei_hes.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://digi.ub.uni-heidelberg.de/schema/tei/heiEDITIONS/tei_hes.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:hei="https://digi.ub.uni-heidelberg.de/schema/tei/heiEDITIONS" ana="hc:IWDDocument">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://digi.ub.uni-heidelberg.de/schema/tei/heiEDITIONS/tei_hes.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://digi.ub.uni-heidelberg.de/schema/tei/heiEDITIONS/tei_hes.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:hei="https://digi.ub.uni-heidelberg.de/schema/tei/heiEDITIONS" ana="hc:IWDDocument">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -17,7 +14,7 @@
             </publicationStmt>
             <sourceDesc>
                 <listWit>
-                    <witness xml:id="A">
+                    <witness xml:id="p">
                         <msDesc>
                             <msIdentifier>
                                 <settlement>Paris</settlement>
@@ -36,20 +33,1511 @@
         </encodingDesc>
     </teiHeader>
     <facsimile>
-        <surface ana="hc:Page" n="1r" xml:id="p_1r">
-            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0007" mimeType="image/*"></graphic>
-            <zone ana="hc:TextZone" xml:id="p_1r-1"><!-- Titelei-Zone --></zone>
-            <zone ana="hc:TextZone" xml:id="p_1r-2"><!-- Signatur_Zone --></zone>
-            <zone ana="hc:TextZone" xml:id="p_1r-3"><!-- Besitzvermerk-Zone --></zone>
-            <zone ana="hc:TableZone" xml:id="p_1r-4"><!-- Zone für Sator-Quadrat --></zone>
-            <zone ana="hc:ImageZone" xml:id="p_1r-5"><!-- Zone für Bild --></zone>
-            <zone ana="hc:Column" n="a" xml:id="p_1r-a"><!-- Textspalte --></zone>
+        <surface xml:id="p_1r" ana="hc:Page" n="1r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit//0007"/>
+            <zone xml:id="p_1r-b" ana="hc:TextZone"/><!-- Titelei-Zone -->
+            <zone xml:id="p_1r-c" ana="hc:TextZone"/><!-- Signatur_Zone -->
+            <zone xml:id="p_1r-d" ana="hc:TextZone"/><!-- Besitzvermerk-Zone -->
+            <zone xml:id="p_1r-e" ana="hc:TableZone"/><!-- Zone für Sator-Quadrat -->
+            <zone xml:id="p_1r-f" ana="hc:ImageZone"/><!-- Zone für Bild -->
+            <zone xml:id="p_1r-a" ana="hc:Column hc:TextZone" n="a"></zone>
+        </surface>
+        <surface xml:id="p_1v" ana="hc:Page" n="1v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0008"/>
+            <zone xml:id="p_1v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_2r" ana="hc:Page" n="2r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0009"/>
+            <zone xml:id="p_2r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_2v" ana="hc:Page" n="2v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0010"/>
+            <zone xml:id="p_2v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_3r" ana="hc:Page" n="3r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0011"/>
+            <zone xml:id="p_3r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_3v" ana="hc:Page" n="3v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0012"/>
+            <zone xml:id="p_3v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_4r" ana="hc:Page" n="4r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0013"/>
+            <zone xml:id="p_4r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_4v" ana="hc:Page" n="4v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0014"/>
+            <zone xml:id="p_4v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_5r" ana="hc:Page" n="5r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0015"/>
+            <zone xml:id="p_5r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_5v" ana="hc:Page" n="5v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0016"/>
+            <zone xml:id="p_5v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_6r" ana="hc:Page" n="6r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0017"/>
+            <zone xml:id="p_6r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_6v" ana="hc:Page" n="6v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0018"/>
+            <zone xml:id="p_6v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_7r" ana="hc:Page" n="7r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0019"/>
+            <zone xml:id="p_7r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_7v" ana="hc:Page" n="7v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0020"/>
+            <zone xml:id="p_7v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_8r" ana="hc:Page" n="8r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0021"/>
+            <zone xml:id="p_8r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_8v" ana="hc:Page" n="8v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0022"/>
+            <zone xml:id="p_8v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_9r" ana="hc:Page" n="9r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0023"/>
+            <zone xml:id="p_9r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_9v" ana="hc:Page" n="9v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0024"/>
+            <zone xml:id="p_9v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_10r" ana="hc:Page" n="10r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0025"/>
+            <zone xml:id="p_10r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_10v" ana="hc:Page" n="10v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0026"/>
+            <zone xml:id="p_10v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_11r" ana="hc:Page" n="11r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0027"/>
+        </surface>
+        <surface xml:id="p_11v" ana="hc:Page" n="11v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0028"/>
+            <zone xml:id="p_11v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_12r" ana="hc:Page" n="12r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0029"/>
+            <zone xml:id="p_12r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_12v" ana="hc:Page" n="12v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0030"/>
+            <zone xml:id="p_12v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_13r" ana="hc:Page" n="13r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0031"/>
+            <zone xml:id="p_13r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_13v" ana="hc:Page" n="13v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0032"/>
+            <zone xml:id="p_13v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_14r" ana="hc:Page" n="14r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0033"/>
+            <zone xml:id="p_14r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_14v" ana="hc:Page" n="14v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0034"/>
+            <zone xml:id="p_14v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_15r" ana="hc:Page" n="15r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0035"/>
+            <zone xml:id="p_15r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_15v" ana="hc:Page" n="15v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0036"/>
+            <zone xml:id="p_15v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_16r" ana="hc:Page" n="16r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0037"/>
+            <zone xml:id="p_16r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_16v" ana="hc:Page" n="16v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0038"/>
+            <zone xml:id="p_16v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_17r" ana="hc:Page" n="17r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0039"/>
+            <zone xml:id="p_17r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_17v" ana="hc:Page" n="17v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0040"/>
+            <zone xml:id="p_17v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_18r" ana="hc:Page" n="18r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0041"/>
+            <zone xml:id="p_18r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_18v" ana="hc:Page" n="18v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0042"/>
+            <zone xml:id="p_18v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_19r" ana="hc:Page" n="19r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0043"/>
+            <zone xml:id="p_19r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_19v" ana="hc:Page" n="19v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0044"/>
+            <zone xml:id="p_19v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_20r" ana="hc:Page" n="20r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0045"/>
+            <zone xml:id="p_20r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_20v" ana="hc:Page" n="20v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0046"/>
+            <zone xml:id="p_20v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_21r" ana="hc:Page" n="21r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0047"/>
+            <zone xml:id="p_21r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_21v" ana="hc:Page" n="21v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0048"/>
+            <zone xml:id="p_21v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_22r" ana="hc:Page" n="22r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0049"/>
+            <zone xml:id="p_22r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_22v" ana="hc:Page" n="22v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0050"/>
+            <zone xml:id="p_22v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_23r" ana="hc:Page" n="23r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0051"/>
+            <zone xml:id="p_23r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_23v" ana="hc:Page" n="23v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0052"/>
+            <zone xml:id="p_23v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_24r" ana="hc:Page" n="24r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0053"/>
+            <zone xml:id="p_24r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_24v" ana="hc:Page" n="24v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0054"/>
+            <zone xml:id="p_24v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_25r" ana="hc:Page" n="25r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0055"/>
+            <zone xml:id="p_25r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_25v" ana="hc:Page" n="25v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0056"/>
+            <zone xml:id="p_25v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_26r" ana="hc:Page" n="26r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0057"/>
+            <zone xml:id="p_26r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_26v" ana="hc:Page" n="26v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0058"/>
+            <zone xml:id="p_26v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_27r" ana="hc:Page" n="27r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0059"/>
+            <zone xml:id="p_27r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_27v" ana="hc:Page" n="27v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0060"/>
+            <zone xml:id="p_27v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_28r" ana="hc:Page" n="28r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0061"/>
+            <zone xml:id="p_28r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_28v" ana="hc:Page" n="28v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0062"/>
+            <zone xml:id="p_28v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_29r" ana="hc:Page" n="29r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0063"/>
+            <zone xml:id="p_29r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_29v" ana="hc:Page" n="29v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0064"/>
+            <zone xml:id="p_29v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_30r" ana="hc:Page" n="30r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0065"/>
+            <zone xml:id="p_30r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_30v" ana="hc:Page" n="30v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0066"/>
+            <zone xml:id="p_30v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_31r" ana="hc:Page" n="31r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0067"/>
+            <zone xml:id="p_31r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_31v" ana="hc:Page" n="31v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0068"/>
+            <zone xml:id="p_31v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_32r" ana="hc:Page" n="32r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0069"/>
+            <zone xml:id="p_32r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_32v" ana="hc:Page" n="32v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0070"/>
+            <zone xml:id="p_32v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_33r" ana="hc:Page" n="33r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0071"/>
+            <zone xml:id="p_33r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_33v" ana="hc:Page" n="33v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0072"/>
+            <zone xml:id="p_33v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_34r" ana="hc:Page" n="34r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0073"/>
+            <zone xml:id="p_34r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_34v" ana="hc:Page" n="34v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0074"/>
+            <zone xml:id="p_34v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_35r" ana="hc:Page" n="35r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0075"/>
+            <zone xml:id="p_35r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_35v" ana="hc:Page" n="35v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0076"/>
+            <zone xml:id="p_35v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_36r" ana="hc:Page" n="36r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0077"/>
+            <zone xml:id="p_36r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_36v" ana="hc:Page" n="36v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0078"/>
+            <zone xml:id="p_36v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_37r" ana="hc:Page" n="37r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0079"/>
+            <zone xml:id="p_37r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_37v" ana="hc:Page" n="37v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0080"/>
+            <zone xml:id="p_37v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_38r" ana="hc:Page" n="38r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0081"/>
+            <zone xml:id="p_38r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_38v" ana="hc:Page" n="38v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0082"/>
+            <zone xml:id="p_38v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_39r" ana="hc:Page" n="39r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0083"/>
+            <zone xml:id="p_39r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_39v" ana="hc:Page" n="39v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0084"/>
+            <zone xml:id="p_39v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_40r" ana="hc:Page" n="40r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0085"/>
+            <zone xml:id="p_40r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_40v" ana="hc:Page" n="40v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0086"/>
+            <zone xml:id="p_40v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_41r" ana="hc:Page" n="41r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0087"/>
+            <zone xml:id="p_41r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_41v" ana="hc:Page" n="41v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0088"/>
+            <zone xml:id="p_41v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_42r" ana="hc:Page" n="42r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0089"/>
+            <zone xml:id="p_42r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_42v" ana="hc:Page" n="42v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0090"/>
+            <zone xml:id="p_42v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_43r" ana="hc:Page" n="43r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0091"/>
+            <zone xml:id="p_43r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_43v" ana="hc:Page" n="43v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0092"/>
+            <zone xml:id="p_43v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_44r" ana="hc:Page" n="44r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0093"/>
+            <zone xml:id="p_44r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_44v" ana="hc:Page" n="44v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0094"/>
+            <zone xml:id="p_44v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_45r" ana="hc:Page" n="45r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0095"/>
+            <zone xml:id="p_45r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_45v" ana="hc:Page" n="45v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0096"/>
+            <zone xml:id="p_45v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_46r" ana="hc:Page" n="46r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0097"/>
+            <zone xml:id="p_46r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_46v" ana="hc:Page" n="46v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0098"/>
+            <zone xml:id="p_46v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_47r" ana="hc:Page" n="47r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0099"/>
+            <zone xml:id="p_47r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_47v" ana="hc:Page" n="47v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0100"/>
+            <zone xml:id="p_47v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_48r" ana="hc:Page" n="48r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0101"/>
+            <zone xml:id="p_48r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_48v" ana="hc:Page" n="48v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0102"/>
+            <zone xml:id="p_48v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_49r" ana="hc:Page" n="49r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0103"/>
+            <zone xml:id="p_49r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_49v" ana="hc:Page" n="49v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0104"/>
+            <zone xml:id="p_49v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_50r" ana="hc:Page" n="50r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0105"/>
+            <zone xml:id="p_50r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_50v" ana="hc:Page" n="50v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0106"/>
+            <zone xml:id="p_50v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_51r" ana="hc:Page" n="51r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0107"/>
+            <zone xml:id="p_51r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_51v" ana="hc:Page" n="51v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0108"/>
+            <zone xml:id="p_51v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_52r" ana="hc:Page" n="52r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0109"/>
+            <zone xml:id="p_52r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_52v" ana="hc:Page" n="52v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0110"/>
+            <zone xml:id="p_52v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_53r" ana="hc:Page" n="53r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0111"/>
+            <zone xml:id="p_53r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_53v" ana="hc:Page" n="53v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0112"/>
+            <zone xml:id="p_53v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_54r" ana="hc:Page" n="54r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0113"/>
+            <zone xml:id="p_54r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_54v" ana="hc:Page" n="54v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0114"/>
+            <zone xml:id="p_54v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_55r" ana="hc:Page" n="55r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0115"/>
+            <zone xml:id="p_55r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_55v" ana="hc:Page" n="55v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0116"/>
+            <zone xml:id="p_55v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_56r" ana="hc:Page" n="56r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0117"/>
+            <zone xml:id="p_56r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_56v" ana="hc:Page" n="56v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0118"/>
+            <zone xml:id="p_56v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_57r" ana="hc:Page" n="57r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0119"/>
+            <zone xml:id="p_57r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_57v" ana="hc:Page" n="57v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0120"/>
+            <zone xml:id="p_57v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_58r" ana="hc:Page" n="58r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0121"/>
+            <zone xml:id="p_58r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_58v" ana="hc:Page" n="58v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0122"/>
+            <zone xml:id="p_58v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_59r" ana="hc:Page" n="59r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0123"/>
+            <zone xml:id="p_59r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_59v" ana="hc:Page" n="59v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0124"/>
+            <zone xml:id="p_59v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_60r" ana="hc:Page" n="60r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0125"/>
+            <zone xml:id="p_60r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_60v" ana="hc:Page" n="60v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0126"/>
+            <zone xml:id="p_60v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_61r" ana="hc:Page" n="61r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0127"/>
+            <zone xml:id="p_61r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_61v" ana="hc:Page" n="61v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0128"/>
+            <zone xml:id="p_61v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_62r" ana="hc:Page" n="62r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0129"/>
+            <zone xml:id="p_62r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_62v" ana="hc:Page" n="62v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0130"/>
+            <zone xml:id="p_62v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_63r" ana="hc:Page" n="63r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0131"/>
+            <zone xml:id="p_63r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_63v" ana="hc:Page" n="63v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0132"/>
+            <zone xml:id="p_63v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_64r" ana="hc:Page" n="64r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0133"/>
+            <zone xml:id="p_64r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_64v" ana="hc:Page" n="64v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0134"/>
+            <zone xml:id="p_64v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_65r" ana="hc:Page" n="65r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0135"/>
+            <zone xml:id="p_65r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_65v" ana="hc:Page" n="65v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0136"/>
+            <zone xml:id="p_65v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_66r" ana="hc:Page" n="66r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0137"/>
+            <zone xml:id="p_66r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_66v" ana="hc:Page" n="66v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0138"/>
+            <zone xml:id="p_66v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_67r" ana="hc:Page" n="67r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0139"/>
+            <zone xml:id="p_67r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_67v" ana="hc:Page" n="67v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0140"/>
+            <zone xml:id="p_67v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_68r" ana="hc:Page" n="68r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0141"/>
+            <zone xml:id="p_68r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_68v" ana="hc:Page" n="68v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0142"/>
+            <zone xml:id="p_68v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_69r" ana="hc:Page" n="69r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0143"/>
+            <zone xml:id="p_69r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_69v" ana="hc:Page" n="69v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0144"/>
+            <zone xml:id="p_69v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_70r" ana="hc:Page" n="70r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0145"/>
+            <zone xml:id="p_70r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_70v" ana="hc:Page" n="70v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0146"/>
+            <zone xml:id="p_70v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_71r" ana="hc:Page" n="71r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0147"/>
+            <zone xml:id="p_71r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_71v" ana="hc:Page" n="71v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0148"/>
+            <zone xml:id="p_71v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_72r" ana="hc:Page" n="72r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0149"/>
+            <zone xml:id="p_72r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_72v" ana="hc:Page" n="72v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0150"/>
+            <zone xml:id="p_72v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_73r" ana="hc:Page" n="73r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0151"/>
+            <zone xml:id="p_73r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_73v" ana="hc:Page" n="73v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0152"/>
+            <zone xml:id="p_73v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_74r" ana="hc:Page" n="74r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0153"/>
+            <zone xml:id="p_74r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_74v" ana="hc:Page" n="74v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0154"/>
+            <zone xml:id="p_74v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_75r" ana="hc:Page" n="75r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0155"/>
+            <zone xml:id="p_75r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_75v" ana="hc:Page" n="75v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0156"/>
+            <zone xml:id="p_75v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_76r" ana="hc:Page" n="76r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0157"/>
+            <zone xml:id="p_76r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_76v" ana="hc:Page" n="76v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0158"/>
+            <zone xml:id="p_76v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_77r" ana="hc:Page" n="77r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0159"/>
+            <zone xml:id="p_77r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_77v" ana="hc:Page" n="77v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0160"/>
+            <zone xml:id="p_77v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_78r" ana="hc:Page" n="78r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0161"/>
+            <zone xml:id="p_78r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_78v" ana="hc:Page" n="78v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0162"/>
+            <zone xml:id="p_78v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_79r" ana="hc:Page" n="79r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0163"/>
+            <zone xml:id="p_79r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_79v" ana="hc:Page" n="79v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0164"/>
+            <zone xml:id="p_79v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_80r" ana="hc:Page" n="80r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0165"/>
+            <zone xml:id="p_80r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_80v" ana="hc:Page" n="80v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0166"/>
+            <zone xml:id="p_80v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_81r" ana="hc:Page" n="81r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0167"/>
+            <zone xml:id="p_81r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_81v" ana="hc:Page" n="81v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0168"/>
+            <zone xml:id="p_81v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_82r" ana="hc:Page" n="82r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0169"/>
+            <zone xml:id="p_82r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_82v" ana="hc:Page" n="82v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0170"/>
+            <zone xml:id="p_82v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_83r" ana="hc:Page" n="83r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0171"/>
+            <zone xml:id="p_83r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_83v" ana="hc:Page" n="83v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0172"/>
+            <zone xml:id="p_83v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_84r" ana="hc:Page" n="84r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0173"/>
+            <zone xml:id="p_84r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_84v" ana="hc:Page" n="84v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0174"/>
+            <zone xml:id="p_84v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_85r" ana="hc:Page" n="85r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0175"/>
+            <zone xml:id="p_85r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_85v" ana="hc:Page" n="85v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0176"/>
+            <zone xml:id="p_85v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_86r" ana="hc:Page" n="86r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0177"/>
+            <zone xml:id="p_86r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_86v" ana="hc:Page" n="86v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0178"/>
+            <zone xml:id="p_86v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_87r" ana="hc:Page" n="87r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0179"/>
+            <zone xml:id="p_87r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_87v" ana="hc:Page" n="87v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0180"/>
+            <zone xml:id="p_87v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_88r" ana="hc:Page" n="88r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0181"/>
+            <zone xml:id="p_88r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_88v" ana="hc:Page" n="88v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0182"/>
+            <zone xml:id="p_88v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_89r" ana="hc:Page" n="89r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0183"/>
+            <zone xml:id="p_89r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_89v" ana="hc:Page" n="89v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0184"/>
+            <zone xml:id="p_89v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_90r" ana="hc:Page" n="90r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0185"/>
+            <zone xml:id="p_90r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_90v" ana="hc:Page" n="90v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0186"/>
+            <zone xml:id="p_90v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_91r" ana="hc:Page" n="91r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0187"/>
+            <zone xml:id="p_91r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_91v" ana="hc:Page" n="91v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0188"/>
+            <zone xml:id="p_91v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_92r" ana="hc:Page" n="92r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0189"/>
+            <zone xml:id="p_92r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_92v" ana="hc:Page" n="92v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0190"/>
+            <zone xml:id="p_92v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_93r" ana="hc:Page" n="93r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0191"/>
+            <zone xml:id="p_93r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_93v" ana="hc:Page" n="93v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0192"/>
+            <zone xml:id="p_93v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_94r" ana="hc:Page" n="94r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0193"/>
+            <zone xml:id="p_94r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_94v" ana="hc:Page" n="94v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0194"/>
+            <zone xml:id="p_94v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_95r" ana="hc:Page" n="95r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0195"/>
+            <zone xml:id="p_95r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_95v" ana="hc:Page" n="95v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0196"/>
+            <zone xml:id="p_95v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_96r" ana="hc:Page" n="96r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0197"/>
+            <zone xml:id="p_96r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_96v" ana="hc:Page" n="96v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0198"/>
+            <zone xml:id="p_96v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_97r" ana="hc:Page" n="97r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0199"/>
+            <zone xml:id="p_97r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_97v" ana="hc:Page" n="97v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0200"/>
+            <zone xml:id="p_97v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_98r" ana="hc:Page" n="98r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0201"/>
+            <zone xml:id="p_98r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_98v" ana="hc:Page" n="98v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0202"/>
+            <zone xml:id="p_98v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_99r" ana="hc:Page" n="99r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0203"/>
+            <zone xml:id="p_99r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_99v" ana="hc:Page" n="99v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0304"/>
+            <zone xml:id="p_99v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_100r" ana="hc:Page" n="100r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0205"/>
+            <zone xml:id="p_100r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_100v" ana="hc:Page" n="100v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0206"/>
+            <zone xml:id="p_100v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_101r" ana="hc:Page" n="101r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0207"/>
+            <zone xml:id="p_101r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_101v" ana="hc:Page" n="101v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0208"/>
+            <zone xml:id="p_101v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_102r" ana="hc:Page" n="102r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0209"/>
+            <zone xml:id="p_102r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_102v" ana="hc:Page" n="102v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0210"/>
+            <zone xml:id="p_102v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_103r" ana="hc:Page" n="103r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0211"/>
+            <zone xml:id="p_103r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_103v" ana="hc:Page" n="103v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0212"/>
+            <zone xml:id="p_103v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_104r" ana="hc:Page" n="104r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0213"/>
+            <zone xml:id="p_104r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_104v" ana="hc:Page" n="104v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0214"/>
+            <zone xml:id="p_104v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_105r" ana="hc:Page" n="105r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0215"/>
+            <zone xml:id="p_105r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_105v" ana="hc:Page" n="105v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0216"/>
+            <zone xml:id="p_105v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_106r" ana="hc:Page" n="106r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0217"/>
+            <zone xml:id="p_106r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_106v" ana="hc:Page" n="106v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0218"/>
+            <zone xml:id="p_106v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_107r" ana="hc:Page" n="107r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0219"/>
+            <zone xml:id="p_107r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_107v" ana="hc:Page" n="107v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0220"/>
+            <zone xml:id="p_107v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_108r" ana="hc:Page" n="108r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0221"/>
+            <zone xml:id="p_108r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_108v" ana="hc:Page" n="108v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0222"/>
+            <zone xml:id="p_108v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_109r" ana="hc:Page" n="109r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0223"/>
+            <zone xml:id="p_109r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_109v" ana="hc:Page" n="109v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0224"/>
+            <zone xml:id="p_109v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_110r" ana="hc:Page" n="110r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0225"/>
+            <zone xml:id="p_110r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_110v" ana="hc:Page" n="110v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0226"/>
+            <zone xml:id="p_110v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_111r" ana="hc:Page" n="111r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0227"/>
+            <zone xml:id="p_111r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_111v" ana="hc:Page" n="111v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0228"/>
+            <zone xml:id="p_111v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_112r" ana="hc:Page" n="112r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0229"/>
+            <zone xml:id="p_112r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_112v" ana="hc:Page" n="112v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0230"/>
+            <zone xml:id="p_112v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_113r" ana="hc:Page" n="113r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0231"/>
+            <zone xml:id="p_113r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_113v" ana="hc:Page" n="113v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0232"/>
+            <zone xml:id="p_113v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_114r" ana="hc:Page" n="114r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0233"/>
+            <zone xml:id="p_114r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_114v" ana="hc:Page" n="114v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0234"/>
+            <zone xml:id="p_114v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_115r" ana="hc:Page" n="115r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0235"/>
+            <zone xml:id="p_115r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_115v" ana="hc:Page" n="115v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0236"/>
+            <zone xml:id="p_115v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_116r" ana="hc:Page" n="116r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0237"/>
+            <zone xml:id="p_116r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_116v" ana="hc:Page" n="116v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0238"/>
+            <zone xml:id="p_116v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_117r" ana="hc:Page" n="117r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0239"/>
+            <zone xml:id="p_117r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_117v" ana="hc:Page" n="117v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0240"/>
+            <zone xml:id="p_117v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_118r" ana="hc:Page" n="118r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0241"/>
+            <zone xml:id="p_118r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_118v" ana="hc:Page" n="118v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0242"/>
+            <zone xml:id="p_118v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_119r" ana="hc:Page" n="119r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0243"/>
+            <zone xml:id="p_119r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_119v" ana="hc:Page" n="119v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0244"/>
+            <zone xml:id="p_119v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_120r" ana="hc:Page" n="120r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0245"/>
+            <zone xml:id="p_120r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_120v" ana="hc:Page" n="120v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0246"/>
+            <zone xml:id="p_120v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_121r" ana="hc:Page" n="121r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0247"/>
+            <zone xml:id="p_121r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_121v" ana="hc:Page" n="121v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0248"/>
+            <zone xml:id="p_121v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_122r" ana="hc:Page" n="122r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0249"/>
+            <zone xml:id="p_122r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_122v" ana="hc:Page" n="122v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0250"/>
+            <zone xml:id="p_122v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_123r" ana="hc:Page" n="123r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0251"/>
+            <zone xml:id="p_123r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_123v" ana="hc:Page" n="123v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0252"/>
+            <zone xml:id="p_123v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_124r" ana="hc:Page" n="124r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0253"/>
+            <zone xml:id="p_124r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_124v" ana="hc:Page" n="124v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0254"/>
+            <zone xml:id="p_124v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_125r" ana="hc:Page" n="125r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0255"/>
+            <zone xml:id="p_125r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_125v" ana="hc:Page" n="125v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0256"/>
+            <zone xml:id="p_125v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_126r" ana="hc:Page" n="126r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0257"/>
+            <zone xml:id="p_126r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_126v" ana="hc:Page" n="126v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0258"/>
+            <zone xml:id="p_126v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_127r" ana="hc:Page" n="127r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0259"/>
+            <zone xml:id="p_127r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_127v" ana="hc:Page" n="127v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0260"/>
+            <zone xml:id="p_127v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_128r" ana="hc:Page" n="128r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0261"/>
+            <zone xml:id="p_128r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_128v" ana="hc:Page" n="128v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0262"/>
+            <zone xml:id="p_128v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_129r" ana="hc:Page" n="129r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0263"/>
+            <zone xml:id="p_129r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_129v" ana="hc:Page" n="129v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0264"/>
+            <zone xml:id="p_129v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_134r" ana="hc:Page" n="134r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0265"/>
+            <zone xml:id="p_134r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_134v" ana="hc:Page" n="134v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0266"/>
+            <zone xml:id="p_134v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_135r" ana="hc:Page" n="135r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0267"/>
+            <zone xml:id="p_135r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_135v" ana="hc:Page" n="135v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0268"/>
+            <zone xml:id="p_135v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_136r" ana="hc:Page" n="136r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0269"/>
+            <zone xml:id="p_136r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_136v" ana="hc:Page" n="136v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0270"/>
+            <zone xml:id="p_136v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_137r" ana="hc:Page" n="137r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0271"/>
+            <zone xml:id="p_137r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_137v" ana="hc:Page" n="137v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0272"/>
+            <zone xml:id="p_137v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_130r" ana="hc:Page" n="130r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0273"/>
+            <zone xml:id="p_130r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_130v" ana="hc:Page" n="130v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0274"/>
+            <zone xml:id="p_130v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_131r" ana="hc:Page" n="131r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0275"/>
+            <zone xml:id="p_131r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_131v" ana="hc:Page" n="131v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0276"/>
+            <zone xml:id="p_131v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_132r" ana="hc:Page" n="132r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0277"/>
+            <zone xml:id="p_132r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_132v" ana="hc:Page" n="132v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0278"/>
+            <zone xml:id="p_132v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_133r" ana="hc:Page" n="133r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0279"/>
+            <zone xml:id="p_133r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_133v" ana="hc:Page" n="133v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0280"/>
+            <zone xml:id="p_133v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_138r" ana="hc:Page" n="138r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0281"/>
+            <zone xml:id="p_138r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_138v" ana="hc:Page" n="138v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0282"/>
+            <zone xml:id="p_138v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_139r" ana="hc:Page" n="139r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0283"/>
+            <zone xml:id="p_139r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_139v" ana="hc:Page" n="139v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0284"/>
+            <zone xml:id="p_139v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_140r" ana="hc:Page" n="140r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0285"/>
+            <zone xml:id="p_140r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_140v" ana="hc:Page" n="140v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0286"/>
+            <zone xml:id="p_140v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_141r" ana="hc:Page" n="141r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0287"/>
+            <zone xml:id="p_141r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_141v" ana="hc:Page" n="141v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0288"/>
+            <zone xml:id="p_141v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_142r" ana="hc:Page" n="142r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0289"/>
+            <zone xml:id="p_142r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_142v" ana="hc:Page" n="142v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0290"/>
+            <zone xml:id="p_142v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_143r" ana="hc:Page" n="143r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0291"/>
+            <zone xml:id="p_143r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_143v" ana="hc:Page" n="143v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0292"/>
+            <zone xml:id="p_143v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_144r" ana="hc:Page" n="144r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0293"/>
+            <zone xml:id="p_144r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_144v" ana="hc:Page" n="144v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0294"/>
+            <zone xml:id="p_144v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_145r" ana="hc:Page" n="145r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0295"/>
+            <zone xml:id="p_145r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_145v" ana="hc:Page" n="145v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0296"/>
+            <zone xml:id="p_145v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_146r" ana="hc:Page" n="146r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0297"/>
+            <zone xml:id="p_146r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_146v" ana="hc:Page" n="146v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0298"/>
+            <zone xml:id="p_146v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_147r" ana="hc:Page" n="147r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0299"/>
+            <zone xml:id="p_147r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="p_147r-b" ana="hc:TextZone hc:MarginalZone"/>
+        </surface>
+        <surface xml:id="p_147v" ana="hc:Page" n="147v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0300"/>
+            <zone xml:id="p_147v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_148r" ana="hc:Page" n="148r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0301"/>
+            <zone xml:id="p_148r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_148v" ana="hc:Page" n="148v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0302"/>
+            <zone xml:id="p_148v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_149r" ana="hc:Page" n="149r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0303"/>
+            <zone xml:id="p_149r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_149v" ana="hc:Page" n="149v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0304"/>
+            <zone xml:id="p_149v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_150r" ana="hc:Page" n="150r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0305"/>
+            <zone xml:id="p_150r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_150v" ana="hc:Page" n="150v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0306"/>
+            <zone xml:id="p_150v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_151r" ana="hc:Page" n="151r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0307"/>
+            <zone xml:id="p_151r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_151v" ana="hc:Page" n="151v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0308"/>
+            <zone xml:id="p_151v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_152r" ana="hc:Page" n="152r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0309"/>
+            <zone xml:id="p_152r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_152v" ana="hc:Page" n="152v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0310"/>
+            <zone xml:id="p_152v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_153r" ana="hc:Page" n="153r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0311"/>
+            <zone xml:id="p_153r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_153v" ana="hc:Page" n="153v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0312"/>
+            <zone xml:id="p_153v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_154r" ana="hc:Page" n="154r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0313"/>
+            <zone xml:id="p_154r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_154v" ana="hc:Page" n="154v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0314"/>
+            <zone xml:id="p_154v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_155r" ana="hc:Page" n="155r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0315"/>
+            <zone xml:id="p_155r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_155v" ana="hc:Page" n="155v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0316"/>
+            <zone xml:id="p_155v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_156r" ana="hc:Page" n="156r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0317"/>
+            <zone xml:id="p_156r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_156v" ana="hc:Page" n="156v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0318"/>
+            <zone xml:id="p_156v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_157r" ana="hc:Page" n="157r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0319"/>
+            <zone xml:id="p_157r-a" ana="hc:Column hc:TextZone" n="a"></zone>
+        </surface>
+        <surface xml:id="p_157v" ana="hc:Page" n="157v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0320"/>
+            <zone xml:id="p_157v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_158r" ana="hc:Page" n="158r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0321"/>
+            <zone xml:id="p_158r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_158v" ana="hc:Page" n="158v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0322"/>
+            <zone xml:id="p_158v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_159r" ana="hc:Page" n="159r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0323"/>
+            <zone xml:id="p_159r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_159v" ana="hc:Page" n="159v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0324"/>
+            <zone xml:id="p_159v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_160r" ana="hc:Page" n="160r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0325"/>
+            <zone xml:id="p_160r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_160v" ana="hc:Page" n="160v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0326"/>
+            <zone xml:id="p_160v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_161r" ana="hc:Page" n="161r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0327"/>
+            <zone xml:id="p_161r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_161v" ana="hc:Page" n="161v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0328"/>
+            <zone xml:id="p_161v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_162r" ana="hc:Page" n="162r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0329"/>
+            <zone xml:id="p_162r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_162v" ana="hc:Page" n="162v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0330"/>
+            <zone xml:id="p_162v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_163r" ana="hc:Page" n="163r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0331"/>
+            <zone xml:id="p_163r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_163v" ana="hc:Page" n="163v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0332"/>
+            <zone xml:id="p_163v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_164r" ana="hc:Page" n="164r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0333"/>
+            <zone xml:id="p_164r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_164v" ana="hc:Page" n="164v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0334"/>
+            <zone xml:id="p_164v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_165r" ana="hc:Page" n="165r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0335"/>
+            <zone xml:id="p_165r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_165v" ana="hc:Page" n="165v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0336"/>
+            <zone xml:id="p_165v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_166r" ana="hc:Page" n="166r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0337"/>
+            <zone xml:id="p_166r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_166v" ana="hc:Page" n="166v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0338"/>
+            <zone xml:id="p_166v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_167r" ana="hc:Page" n="167r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0339"/>
+            <zone xml:id="p_167r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_167v" ana="hc:Page" n="167v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0340"/>
+            <zone xml:id="p_167v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_168r" ana="hc:Page" n="168r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0341"/>
+            <zone xml:id="p_168r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_168v" ana="hc:Page" n="168v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0342"/>
+            <zone xml:id="p_168v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_169r" ana="hc:Page" n="169r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0343"/>
+            <zone xml:id="p_169r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_169v" ana="hc:Page" n="169v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0344"/>
+            <zone xml:id="p_169v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_170r" ana="hc:Page" n="170r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0345"/>
+            <zone xml:id="p_170r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_170v" ana="hc:Page" n="170v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0346"/>
+            <zone xml:id="p_170v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_171r" ana="hc:Page" n="171r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0347"/>
+            <zone xml:id="p_171r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_171v" ana="hc:Page" n="171v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0348"/>
+            <zone xml:id="p_171v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_176r" ana="hc:Page" n="176r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0349"/>
+            <zone xml:id="p_176r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_176v" ana="hc:Page" n="176v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0350"/>
+            <zone xml:id="p_176v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_177r" ana="hc:Page" n="177r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0351"/>
+            <zone xml:id="p_177r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_177v" ana="hc:Page" n="177v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0352"/>
+            <zone xml:id="p_177v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_178r" ana="hc:Page" n="178r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0353"/>
+            <zone xml:id="p_178r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_178v" ana="hc:Page" n="178v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0354"/>
+            <zone xml:id="p_178v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_179r" ana="hc:Page" n="179r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0355"/>
+            <zone xml:id="p_179r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_179v" ana="hc:Page" n="179v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0356"/>
+            <zone xml:id="p_179v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_180r" ana="hc:Page" n="180r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0357"/>
+            <zone xml:id="p_180r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_180v" ana="hc:Page" n="180v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0358"/>
+            <zone xml:id="p_180v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_172r" ana="hc:Page" n="172r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0359"/>
+            <zone xml:id="p_172r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_172v" ana="hc:Page" n="172v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0360"/>
+            <zone xml:id="p_172v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_173r" ana="hc:Page" n="173r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0361"/>
+            <zone xml:id="p_173r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_173v" ana="hc:Page" n="173v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0362"/>
+            <zone xml:id="p_173v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_174r" ana="hc:Page" n="174r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0363"/>
+            <zone xml:id="p_174r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_174v" ana="hc:Page" n="174v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0364"/>
+            <zone xml:id="p_174v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_175r" ana="hc:Page" n="175r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0365"/>
+            <zone xml:id="p_175r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_175v" ana="hc:Page" n="175v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0366"/>
+            <zone xml:id="p_175v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_181r" ana="hc:Page" n="181r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0367"/>
+        </surface>
+        <surface xml:id="p_181v" ana="hc:Page" n="181v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0368"/>
+            <zone xml:id="p_181v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_182r" ana="hc:Page" n="182r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0369"/>
+            <zone xml:id="p_182r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_182v" ana="hc:Page" n="182v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0370"/>
+            <zone xml:id="p_182v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_183r" ana="hc:Page" n="183r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0371"/>
+            <zone xml:id="p_183r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_183v" ana="hc:Page" n="183v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0372"/>
+            <zone xml:id="p_183v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_184r" ana="hc:Page" n="184r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0373"/>
+            <zone xml:id="p_184r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_184v" ana="hc:Page" n="184v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0374"/>
+            <zone xml:id="p_184v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_185r" ana="hc:Page" n="185r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0375"/>
+            <zone xml:id="p_185r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_185v" ana="hc:Page" n="185v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0376"/>
+            <zone xml:id="p_185v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_186r" ana="hc:Page" n="186r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0377"/>
+            <zone xml:id="p_186r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_186v" ana="hc:Page" n="186v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0378"/>
+            <zone xml:id="p_186v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_187r" ana="hc:Page" n="187r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0379"/>
+            <zone xml:id="p_187r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="p_187v" ana="hc:Page" n="187v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0380"/>
+            <zone xml:id="p_187v-a" ana="hc:Column hc:TextZone" n="a"/>
         </surface>
     </facsimile>
     <text ana="hc:CompleteExpression hc:CourtlyRomance">
         <front>
             <pb n="1r"/>
-            <milestone ana="hc:ZoneBeginning" facs="#p_1r-1"/>
+            <milestone ana="hc:ZoneBeginning" facs="#p_1r-b"/>
             <lb n="1"/>
             <docAuthor xml:lang="lat">
                 <persName>
@@ -63,12 +1551,12 @@
                 <titlePart>Der Ritter mitt dem<lb n="4"/>löwen
                 </titlePart>
             </docTitle>
-            <milestone ana="hc:ZoneBeginning" facs="#p_1r-2"/>
+            <milestone ana="hc:ZoneBeginning" facs="#p_1r-c"/>
             <ab ana="hc:Shelfmark">
                 <lb n="1"/>Suppl. fr. 
                 <lb n="2"/>1060
             </ab>
-            <milestone ana="hc:ZoneBeginning" facs="#p_1r-3"/>
+            <milestone ana="hc:ZoneBeginning" facs="#p_1r-d"/>
             <ab ana="hc:OwnershipInscription" xml:lang="lat">
                 <lb n="1"/>Collegij Societatis 
                 <lb n="2"/>Jesv Luxemburgi. <!-- am Ende vielleicht kein "i", viell. Abkürzung für "Luxemburgensis" --> 
@@ -76,14 +1564,14 @@
                 <lb n="4"/>Bergerott vidua D. Consiliarij
                 <lb n="5"/>Bergerott
             </ab>
-            <milestone ana="hc:ZoneBeginning" facs="#p_1r-4"/>
+            <milestone ana="hc:ZoneBeginning" facs="#p_1r-e"/>
             <table rows="5" cols="6">
                 <row>
                     <cell>s</cell>
                     <cell>a</cell>
                     <cell>t</cell>
                     <cell>o</cell>
-                    <cell><gap></gap></cell>
+                    <cell><gap/></cell>
                     <cell>r</cell>
                 </row>
                 <row>
@@ -91,7 +1579,7 @@
                     <cell>r</cell>
                     <cell>e</cell>
                     <cell>p</cell>
-                    <cell><gap></gap></cell>
+                    <cell><gap/></cell>
                     <cell>o</cell>
                 </row>
                 <row>
@@ -99,7 +1587,7 @@
                     <cell>e</cell>
                     <cell>n</cell>
                     <cell>e</cell>
-                    <cell><gap></gap></cell>
+                    <cell><gap/></cell>
                     <cell>t</cell>
                 </row>
                 <row>
@@ -107,7 +1595,7 @@
                     <cell>p</cell>
                     <cell>e</cell>
                     <cell>r</cell>
-                    <cell><gap></gap></cell>
+                    <cell><gap/></cell>
                     <cell>a</cell>
                 </row>
                 <row>
@@ -115,23 +1603,25 @@
                     <cell>o</cell>
                     <cell>t</cell>
                     <cell>a</cell>
-                    <cell><gap></gap></cell>
+                    <cell><gap/></cell>
                     <cell>s</cell>
                 </row>
             </table>
-            <milestone ana="hc:ZoneBeginning" facs="#p_1r-5"/>
+            <milestone ana="hc:ZoneBeginning" facs="#p_1r-f"/>
             <figure>
-                <figDesc>...Bild eines Mannes...</figDesc>
+                <figDesc>Bild eines Mannes, stark abgenutzt</figDesc>
             </figure>
         </front>
         <body>
             <div>
+                <cb n="a"/>
                 <lg>
                     <l n="1"><lb n="1"/><w><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="10">S</hei:initial>o</w><w>wer</w><w>an</w><w>rechte</w><lb n="2"/><w>güte</w></l>
                     <l n="2"><w>wendet</w><w>ſin</w><lb n="3"/><w>gemü<gap ana="hc:TornOff" unit="chars" n="3"/></w></l>
                 </lg>
                 <lg>
-                    <l n="3"><w>em</w><w>vol</w><gap ana="hc:TornOff" unit="lines" n="5"/></l>
+                    <l n="3"><w>em</w><w>vol</w></l>
+                    <gap ana="hc:TornOff" unit="lines" n="5"/>
                 </lg>
                 <pb n="1v"/>
                 <cb n="a"/>
@@ -4715,7 +6205,7 @@
                     <l n="2599"><lb n="16"/><w><hi rendition="hc:RedStroke">W</hi>ie</w><w>daz</w><w>fallen</w><w>were</w></l>
                     <l n="2600"><lb n="17"/><w><hi rendition="hc:RedStroke">E</hi>s</w><w>iſt</w><w>doch</w><w>laſter bere</w></l>
                 </lg>
-                <pb n="61v"/>
+                <pb n="60v"/>
                 <cb n="a"/>
                 <lb n="1"/>
                 <label ana="hc:SummaryLabel"><hi hei:color="Red"><w>Hie</w><w>hette</w><w>her</w><w>ywein</w><w><choice><am>h͛</am><ex>her</ex></choice>n</w><w>kaÿ</w><w>ſin</w><w>roſz</w><w>ane</w><w>gew<choice><am>ō</am><ex>on</ex></choice>nen</w></hi></label>
@@ -12641,6 +14131,7 @@
                 <lg>
                     <l n="6625"><lb n="22"/><w><hi rendition="hc:RedStroke">D</hi>as</w><w>ich</w><w>ir</w><w>mochte</w><w>gezemen</w></l>
                     <pb n="157r"/>
+                    <cb n="a"/>
                     <l n="6626"><lb n="1"/><w><hi rendition="hc:RedStroke">E</hi>yn</w><w>frowe</w><w>ſol</w><w>eyn<choice><am>ē</am><ex>en</ex></choice></w><w>hern</w><w>nem<choice><am>ē</am><ex>en</ex></choice></w></l>
                 </lg>
                 <lg>
@@ -14890,14 +16381,13 @@
                 <lg>
                     <l n="7861"><lb n="1"/><w><hi rendition="hc:RedStroke">E</hi>s</w><w>mag</w><w>wol</w><w>ſin</w><w>das</w><w>es</w><w>geſchicht</w></l>
                     <l n="7862"><lb n="2"/><w><hi rendition="hc:RedStroke"><choice><orig>J</orig><reg>I</reg></choice></hi>ch</w><w>verſehe</w><w join="right">mich</w><w join="left">s</w><w>nicht</w></l>
-                    <!--Revisado Victor 6/6/2020     -->
                 </lg>
                 <lg>
                     <l n="7863"><lb n="3"/><w><hi rendition="hc:RedStroke">S</hi>y</w><w>ſprach</w><w>du</w><w>ſolt</w><w>die</w><w>rede</w><w>lan</w></l>
                     <l n="7864"><lb n="4"/><w><hi rendition="hc:RedStroke"><choice><orig>J</orig><reg>I</reg></choice></hi>ch</w><w>han</w><w>gedinge</w><w>noch</w><w>wan</w></l>
                 </lg>
                 <lg>
-                    <l n="7865"><lb n="5"/><w><hi rendition="hc:RedStroke">D</hi>as</w><w>ich</w><w>in</w><w><choice><orig>v</orig><reg>u</reg></choice>mmerme</w><w>gefinde</w></l>
+                    <l n="7865"><lb n="5"/><w><hi rendition="hc:RedStroke">D</hi>as</w><w>ich</w><w>in</w><w join="right"><choice><orig>v</orig><reg>u</reg></choice>mmer</w><w join="left">me</w><w>gefinde</w></l>
                     <l n="7866"><lb n="6"/><w><hi rendition="hc:RedStroke"><choice><orig>J</orig><reg>I</reg></choice></hi>n</w><w>allem</w><w>myme</w><w>geſinde</w></l>
                 </lg>
                 <lg>
@@ -14906,7 +16396,7 @@
                 </lg>
                 <lg>
                     <l n="7869"><lb n="9"/><w><hi rendition="hc:RedStroke">D</hi>en</w><w>ritter</w><w>der</w><w>den</w><w>riſen</w><w>erſlüg</w></l>
-                    <l n="7870"><lb n="10"/><w><hi rendition="hc:RedStroke">U</hi>nde</w><w>mich</w><w>des</w><w>laſters</w><w>uber</w><w>trug</w></l>
+                    <l n="7870"><lb n="10"/><w><hi rendition="hc:RedStroke">U</hi>nde</w><w>mich</w><w>des</w><w>laſters</w><w>uber trug</w></l>
                 </lg>
                 <lg>
                     <l n="7871"><lb n="11"/><w><hi rendition="hc:RedStroke">W</hi>an</w><w>er</w><w>mich</w><w>von</w><w>dem</w><w>roſte</w></l>
@@ -15023,12 +16513,12 @@
                     <l n="7924"><lb n="1"/><w><hi rendition="hc:RedStroke">F</hi>rowe</w><w>lunet</w><w>ſtabete</w><w>den</w><w>eit</w></l>
                 </lg>
                 <lg>
-                    <l n="7925"><lb n="2"/><w><hi rendition="hc:RedStroke">O</hi>be</w><w>mir</w><w>den</w><w>herre</w><w>komet</w></l>
+                    <l n="7925"><lb n="2"/><w><hi rendition="hc:RedStroke">O</hi>be</w><w>mir</w><w>der</w><w>herre</w><w>komet</w></l>
                     <l n="7926"><lb n="3"/><w><hi rendition="hc:RedStroke"><choice><orig>V</orig><reg>U</reg></choice></hi>nde</w><w>mir</w><w>zu</w><w>myner</w><w>not</w><w>fromet</w></l>
                 </lg>
                 <lg>
                     <l n="7927"><lb n="4"/><w><hi rendition="hc:RedStroke">M</hi>it</w><w>dem</w><w>der</w><w>lewe</w><w>farende</w><w>iſt</w></l>
-                    <l n="7928"><lb n="5"/><w><hi rendition="hc:RedStroke">D</hi>as</w><w>ich</w><w>one</w><w>argeliſt</w></l>
+                    <l n="7928"><lb n="5"/><w><hi rendition="hc:RedStroke">D</hi>as</w><w>ich</w><w>one</w><w join="right">arge</w><w join="left">liſt</w></l>
                 </lg>
                 <lg>
                     <l n="7929"><lb n="6"/><w><hi rendition="hc:RedStroke">M</hi>yn</w><w>macht</w><w><choice><orig>v</orig><reg>u</reg></choice>nde</w><w>mynen</w><w>ſyn</w></l>
@@ -15064,7 +16554,6 @@
                 </lg>
                 <lg>
                     <l n="7945"><lb n="22"/><w><hi rendition="hc:RedStroke">D</hi>o</w><w>ſie</w><w>der</w><w>fart</w><w>beguͦnde</w></l>
-                    <!--faltan versos     -->
                 </lg>
                     <pb n="184r"/>
                     <cb n="a"/>
@@ -15082,15 +16571,14 @@
                 </lg>
                 <lg>
                     <l n="7979"><lb n="7"/><w><hi rendition="hc:RedStroke">E</hi>r</w><w>ſprach</w><w>ir</w><w>beſcheyn<choice><am>ē</am><ex>en</ex></choice>t</w></l>
-                    <l n="7980"><lb n="8"/><w><hi rendition="hc:RedStroke"><choice><orig>U</orig><reg>V</reg></choice></hi>il</w><w>wol</w><w>wie</w><gap ana="hc:Perforated" unit="chars" n="4"/><w><gap ana="hc:Perforated" unit="chars" n="1"/>eynent</w></l>
-                    <!--falta palabra mich posiblemente e letra m         -->
+                    <l n="7980"><lb n="8"/><w><hi rendition="hc:RedStroke"><choice><orig>U</orig><reg>V</reg></choice></hi>il</w><w>wol</w><w>wie</w><gap ana="hc:Perforated" n="4" unit="chars"/><w><gap ana="hc:Perforated" unit="chars" n="1"/>eynent</w></l>
                 </lg>
                 <lg>
                     <l n="7981"><lb n="9"/><w><hi rendition="hc:RedStroke"><choice><orig>J</orig><reg>I</reg></choice></hi>ch</w><w>forthe</w><w>ſere</w><w><choice><orig>v</orig><reg>u</reg></choice>nde</w><w>iſt</w><w>myne</w><w>clage</w></l>
                     <l n="7982"><lb n="10"/><w><hi rendition="hc:RedStroke">D</hi>as</w><w>mir</w><w>gutes</w><w><choice><orig>v</orig><reg>u</reg></choice>nde</w><w>tage</w></l>
                 </lg>
                 <lg>
-                    <l n="7983"><lb n="11"/><w><hi rendition="hc:RedStroke">O</hi>der</w><w>beider</w><w>zer</w><w>rynne</w></l>
+                    <l n="7983"><lb n="11"/><w><hi rendition="hc:RedStroke">O</hi>der</w><w>beider</w><w>zer rynne</w></l>
                     <l n="7984"><lb n="12"/><w><hi rendition="hc:RedStroke">E</hi>e</w><w>ich</w><w>die</w><w>ſelben</w><w>mynne</w></l>
                 </lg>
                 <lg>
@@ -15185,7 +16673,7 @@
                 </lg>
                 <lg>
                     <l n="8027"><lb n="15"/><w><hi rendition="hc:RedStroke">D</hi>as</w><w>er</w><w>kom<choice><am>ē</am><ex>en</ex></choice></w><w>were</w></l>
-                    <l n="8028"><lb n="16"/><w><hi rendition="hc:RedStroke">D</hi>o</w><w>hatt<choice><am>ē</am><ex>en</ex></choice></w><w>ſye</w><w>die</w><w>keyne</w><w>mere</w></l>
+                    <l n="8028"><lb n="16"/><w><hi rendition="hc:RedStroke">D</hi>o</w><w>hatt<choice><am>ē</am><ex>en</ex></choice></w><w>ſye</w><w>die keyne</w><w>mere</w></l>
                 </lg>
                 <lg>
                     <l n="8029"><lb n="17"/><w><hi rendition="hc:RedStroke">A</hi>lſo</w><w>gerne</w><w><choice><am>v͛</am><ex>ver</ex></choice>nom<choice><am>ē</am><ex>en</ex></choice></w></l>
@@ -15196,7 +16684,7 @@
                     <l n="8032"><lb n="20"/><w><hi rendition="hc:RedStroke">O</hi>b</w><w>das</w><w>mit</w><w>fuge</w><w>mag</w><w>geſchehen</w></l>
                 </lg>
                 <lg>
-                    <l n="8033"><lb n="21"/><w><hi rendition="hc:RedStroke">N</hi>u</w><w>gang</w><w>en</w><w>weg</w><w><choice><orig>v</orig><reg>u</reg></choice>nde</w><w join="right">er</w><w join="left">far</w></l>
+                    <l n="8033"><lb n="21"/><w><hi rendition="hc:RedStroke">N</hi>u</w><w>gang</w><w>en</w><w>weg</w><w><choice><orig>v</orig><reg>u</reg></choice>nde</w><w>erfar</w></l>
                     <pb n="185v"/>
                     <cb n="a"/>
                     <l n="8034"><lb n="1"/><w><hi rendition="hc:RedStroke">W</hi>il</w><w>er</w><w>her</w><w>oder</w><w>ſal</w><w>ich</w><w>dar</w></l>
@@ -15218,7 +16706,7 @@
                     <l n="8042"><lb n="9"/><w><hi rendition="hc:RedStroke">S</hi>o</w><w>viel</w><w>er</w><w>ir</w><w>zu</w><w>fuͦſſe</w></l>
                 </lg>
                 <lg>
-                    <l n="8043"><lb n="10"/><w><hi rendition="hc:RedStroke">U</hi>nde</w><w>hatte</w><w>doch</w><w>de</w><w>keyne</w><w>bet</w></l>
+                    <l n="8043"><lb n="10"/><w><hi rendition="hc:RedStroke">U</hi>nde</w><w>hatte</w><w>doch</w><w>de keyne</w><w>bet</w></l>
                     <l n="8044"><lb n="11"/><w><hi rendition="hc:RedStroke">D</hi>o</w><w>ſprach</w><w>frowe</w><w>luͦnet</w></l>
                 </lg>
                 <lg>
@@ -15257,7 +16745,7 @@
                     <l n="8072"><lb n="6"/><w><hi rendition="hc:RedStroke">W</hi>anne</w><w>er</w><w>keyne</w><w>frowe</w><w>hat</w></l>
                 </lg>
                 <lg>
-                    <l n="8073"><lb n="7"/><w><hi rendition="hc:RedStroke">N</hi>och</w><w>gew<choice><am>ȳ</am><ex>yn</ex></choice>net</w><w>noch</w><w><add hei:placeRef="hc:AboveLine">nie</add></w><w>gewan</w></l>
+                    <l n="8073"><lb n="7"/><w><hi rendition="hc:RedStroke">N</hi>och</w><w>gew<choice><am>ȳ</am><ex>yn</ex></choice>net</w><w>noch</w><metamark ana="hc:InsertionMark ">˰</metamark><add hei:placeRef="hc:AboveLine"><w>nie</w><metamark ana="hc:InsertionMark ">˰</metamark></add><w>gewan</w></l>
                     <l n="8074"><lb n="8"/><w><hi rendition="hc:RedStroke">D</hi>as</w><w>iſt</w><w>her</w><w>ywin</w><w>uwer</w><w>man</w></l>
                 </lg>
                 <lg>
@@ -15315,7 +16803,7 @@
                     <l n="8100"><lb n="13"/><w><hi rendition="hc:RedStroke"><choice><orig>V</orig><reg>U</reg></choice></hi>nde</w><w>den</w><w>k<choice><am>ū</am><ex>um</ex></choice>mer</w><w>den</w><w>er</w><w>truͦg</w></l>
                 </lg>
                 <lg>
-                    <l n="8101"><lb n="14"/><w><hi rendition="hc:RedStroke">E</hi>yn</w><w>ende</w><w>ſalte</w><w>han</w></l>
+                    <l n="8101"><lb n="14"/><w><hi rendition="hc:RedStroke">E</hi>yn</w><w>ende</w><w>ſalte</w><w>han</w><note ana="hc:Gloss" resp="Victor Millet">Eintrag von späterer Hand, zum Teil die Schrift überzeichnend: "– · = A Ɔ"</note></l>
                     <!--Marca      -->
                     <l n="8102"><lb n="15"/><w><hi rendition="hc:RedStroke">E</hi>r</w><w>ſprach</w><w>ich</w><w>han</w><w>miſſetan</w></l>
                 </lg>
@@ -15343,7 +16831,7 @@
                 </lg>
                 <lg>
                     <l n="8141"><lb n="5"/><w><hi rendition="hc:RedStroke">S</hi>choͤne</w><w>ſynne</w><w><choice><orig>v</orig><reg>u</reg></choice>nde</w><w>jugent</w></l>
-                    <l n="8142"><lb n="6"/><w><hi rendition="hc:RedStroke">O</hi>ne</w><w>ander</w><w><choice><orig>v</orig><reg>u</reg></choice>ntuͤg<choice><am>ē</am><ex>en</ex></choice>t</w></l>
+                    <l n="8142"><lb n="6"/><w><hi rendition="hc:RedStroke">O</hi>ne</w><w>ander</w><w><choice><orig>v</orig><reg>u</reg></choice>ntuͦg<choice><am>ē</am><ex>en</ex></choice>t</w></l>
                 </lg>
                 <lg>
                     <l n="8143"><lb n="7"/><w><hi rendition="hc:RedStroke">W</hi>erdent</w><w>die</w><w>geſellen</w></l>
@@ -15398,9 +16886,11 @@
             </div>
         </body>
         <back>
-            <trailer ana="hc:Colophon"><w><hi rendition="hc:RedStroke">A</hi>men</w><metamark ana="hc:DecorativeMarker"><hi rendition="hc:RedStroke">⁘</hi></metamark></trailer>
-            <trailer><label ana="hc:SummaryLabel"><hi hei:color="Red"><w>Hie</w><w>hat</w><w>der</w><w>ritter</w><w>mit</w><w>d<choice><am>ē</am><ex>en</ex></choice></w><w>lewen</w><w>e<choice><am>ȳ</am><ex>yn</ex></choice></w><w>ende</w></hi></label></trailer>
-            <trailer><label ana="hc:SummaryLabel"><hi hei:color="Red"><w>Got</w><w><choice><orig>v</orig><reg>u</reg></choice>ns</w><w>ſine</w><w>gnode</w><w>ſende</w><metamark ana="hc:DecorativeMarker">⁖</metamark></hi></label></trailer>
+            <trailer ana="hc:Colophon">
+                <lb n="11"/><w><hi rendition="hc:RedStroke">A</hi>men</w><metamark ana="hc:DecorativeMarker"><hi rendition="hc:RedStroke">⁘</hi></metamark>
+                <lb n="12"/><hi hei:color="Red"><w>Hie</w><w>hat</w><w>der</w><w>ritter</w><w>mit</w><w>d<choice><am>ē</am><ex>en</ex></choice></w><w>lewen</w><w>e<choice><am>ȳ</am><ex>yn</ex></choice></w><w>ende</w></hi>
+                <lb n="13"/><hi hei:color="Red"><w>Got</w><w><choice><orig>v</orig><reg>u</reg></choice>ns</w><w>ſine</w><w>gnode</w><w>ſende</w><metamark ana="hc:DecorativeMarker">⁖</metamark></hi>
+            </trailer>
         </back>
     </text>
 </TEI>
