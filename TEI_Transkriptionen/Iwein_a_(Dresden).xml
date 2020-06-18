@@ -7430,7 +7430,7 @@
                 <lg>
                     <l n="3731"><lb n="5"/><w><hi rendition="hc:Versal">M</hi>üſtin</w><w>ſy</w><w>ym</w><w>alle</w><w><choice><orig>v</orig><reg>u</reg></choice>nſtëtlichin</w></l>
                     <l n="3732"><lb n="6"/><w><hi rendition="hc:Versal">V</hi>on</w><w><choice><am>d͛</am><ex>der</ex></choice></w><w>wartin</w><w>entwichin</w></l>
-                    <l n="3732,1"><lb n="7"/><del rendition="hc:Strikethrough hc:Underdotted hc:Overdotted"><w><hi rendition="hc:Versal"><choice><orig>V</orig><reg>U</reg></choice></hi>nd</w><w>yn</w><w>den</w><w>ſyg</w><w>laſzin</w></del></l>
+                    <lb n="7"/><delSpan spanTo="#delspan_a_1" rendition="hc:Strikethrough hc:Underdotted hc:Overdotted"/><l n="3732,1" hei:replicates="#xpath(//l[@n='3743'])"><w><hi rendition="hc:Versal"><choice><orig>V</orig><reg>U</reg></choice></hi>nd</w><w>yn</w><w>den</w><w>ſyg</w><w>laſzin</w></l><anchor xml:id="delspan_a_1"/>
                 </lg>
                 <lg>
                     <l n="3733"><lb n="8"/><w><hi rendition="hc:Versal">D</hi>o</w><w>bekoberten</w><w>ſy</w><w>ſich</w></l>
