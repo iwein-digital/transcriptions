@@ -51,6 +51,7 @@
                     <l n="7"><lb n="7"/><w><hi rendition="hc:RedStroke">N</hi>ach</w><w>lobe</w><w>kunde</w><w>ſtritten</w></l>
                     <l n="8"><lb n="8"/><w><hi rendition="hc:RedStroke">E</hi>r</w><w>hett</w><w>by</w><w>ſinen</w><w>czytten</w></l>
                 </lg>
+                <!-- Vanessa, observa que xa metín a etiqueta <hi> en cada primeira palabra de vers. Co tabulador saltas directamente a ela. Pero cando hai iniciais, tes que borrála! -->
                 <lg>
                     <l n="9"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                     <l n="10"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
@@ -8556,8 +8557,10 @@
                     <l n="4260"><lb/><w/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <!-- Inicio Raquel, fol 359 do ms. -->
+                <pb n="359"/>
+                <cb n="a"/>
                 <lg>
-                    <l n="4261"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="4261"><lb n="1"/><w/><w/><w/><w/><w/><w/></l>
                     <l n="4262"><lb/><w/><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
