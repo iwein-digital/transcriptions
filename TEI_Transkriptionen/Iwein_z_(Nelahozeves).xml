@@ -7,21 +7,18 @@
             <titleStmt>
                 <title>Iwein-Hs.</title>
                 <author>Hartmann von Aue</author>
-                <respStmt>
-                    <resp>transcription</resp>
-                    <persName>##</persName>
-                </respStmt>
+                <respStmt> <resp>transcription</resp> <persName>Vanessa Prada Obes</persName> <persName>Raquel Souto Janeiro</persName> </respStmt>
             </titleStmt>
             <publicationStmt>
                 <publisher>UB Heidelberg</publisher>
             </publicationStmt>
             <sourceDesc>
                 <listWit>
-                    <witness xml:id="#"><msDesc>
+                    <witness xml:id="z"><msDesc>
                         <msIdentifier>
-                            <settlement>##</settlement>
-                            <repository>##</repository>
-                            <idno>##</idno>
+                            <settlement>Nelahozeves</settlement>
+                            <repository>Lobkowicz Collections</repository>
+                            <idno>Cod. VI Fc 26</idno>
                         </msIdentifier>
                         </msDesc></witness>
                 </listWit>
@@ -36,1827 +33,1827 @@
     <text ana="hc:CourtlyRomance">
         <body>
             <div>
-                <pb n="1r"/>
+                <pb n="299"/>
                 <cb n="a"/>
                 <lg>
-                    <l n="1"><lb n="1"/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="2"><lb n="2"/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="1"><lb n="1"/><hi hei:color="Red"><w><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="3">W</hei:initial>er</w><w>an</w><w>rechten</w><w>guͤte</w></hi></l>
+                    <l n="2"><lb n="2"/><hi hei:color="Red"><w>wendet</w><w>ſin</w><w>gemuͤte</w></hi></l>
                 </lg>
                 <lg>
-                    <l n="3"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="4"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="3"><lb n="3"/><hi hei:color="Red"><w>Dem</w><w>volget</w><w>ſeld</w><w><choice><orig>u</orig><reg>v</reg></choice>nd</w><w>ere</w></hi></l>
+                    <l n="4"><lb n="4"/><hi hei:color="Red"><w>Das</w><w>gyt</w><w>gewiſſe</w><w>lere</w></hi></l>
                 </lg>
                 <lg>
-                    <l n="5"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="6"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="5"><lb n="5"/><hi hei:color="Red"><w>ku̍ng</w><w>artus</w><w>der</w><w>guͦte</w></hi></l>
+                    <l n="6"><lb n="6"/><hi hei:color="Red"><w>Der</w><w>mit</w><w>ritters</w><w>muͦte</w></hi></l>
                 </lg>
                 <lg>
-                    <l n="7"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="8"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="7"><lb n="7"/><w><hi rendition="hc:RedStroke">N</hi>ach</w><w>lobe</w><w>kunde</w><w>ſtritten</w></l>
+                    <l n="8"><lb n="8"/><w><hi rendition="hc:RedStroke">E</hi>r</w><w>hett</w><w>by</w><w>ſinen</w><w>czytten</w></l>
                 </lg>
                 <lg>
-                    <l n="9"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="10"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="9"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="10"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="11"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="12"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="11"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="12"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="13"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="14"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="13"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="14"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="15"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="16"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="15"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="16"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="17"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="18"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="17"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="18"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="19"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="20"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="19"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="20"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="21"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="22"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="21"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="22"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="23"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="24"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="23"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="24"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="25"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="26"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="25"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="26"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="27"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="28"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="27"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="28"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="29"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="30"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="29"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="30"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="31"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="32"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="31"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="32"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="33"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="34"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="33"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="34"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="35"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="36"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="35"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="36"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="37"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="38"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="37"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="38"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="39"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="40"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="39"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="40"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="41"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="42"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="41"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="42"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="43"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="44"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="43"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="44"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="45"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="46"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="45"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="46"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="47"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="48"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="47"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="48"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="49"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="50"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="49"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="50"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="51"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="52"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="51"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="52"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="53"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="54"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="53"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="54"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="55"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="56"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="55"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="56"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="57"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="58"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="57"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="58"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="59"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="60"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="59"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="60"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="61"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="62"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="61"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="62"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="63"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="64"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="63"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="64"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="65"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="66"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="65"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="66"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="67"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="68"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="67"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="68"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="69"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="70"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="69"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="70"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="71"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="72"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="71"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="72"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="73"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="74"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="73"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="74"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="75"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="76"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="75"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="76"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="77"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="78"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="77"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="78"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="79"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="80"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="79"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="80"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="81"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="82"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="81"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="82"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="83"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="84"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="83"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="84"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="85"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="86"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="85"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="86"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="87"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="88"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="87"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="88"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="89"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="90"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="89"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="90"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="91"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="92"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="91"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="92"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="93"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="94"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="93"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="94"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="95"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="96"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="95"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="96"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="97"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="98"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="97"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="98"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="99"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="100"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="99"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="100"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="101"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="102"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="101"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="102"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="103"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="104"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="103"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="104"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="105"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="106"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="105"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="106"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="107"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="108"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="107"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="108"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="109"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="110"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="109"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="110"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="111"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="112"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="111"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="112"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="113"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="114"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="113"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="114"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="115"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="116"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="115"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="116"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="117"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="118"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="117"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="118"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="119"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="120"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="119"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="120"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="121"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="122"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="121"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="122"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="123"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="124"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="123"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="124"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="125"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="126"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="125"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="126"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="127"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="128"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="127"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="128"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="129"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="130"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="129"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="130"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="131"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="132"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="131"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="132"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="133"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="134"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="133"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="134"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="135"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="136"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="135"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="136"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="137"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="138"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="137"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="138"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="139"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="140"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="139"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="140"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="141"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="142"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="141"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="142"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="143"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="144"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="143"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="144"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="145"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="146"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="145"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="146"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="147"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="148"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="147"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="148"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="149"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="150"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="149"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="150"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="151"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="152"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="151"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="152"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="153"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="154"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="153"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="154"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="155"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="156"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="155"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="156"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="157"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="158"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="157"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="158"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="159"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="160"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="159"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="160"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="161"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="162"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="161"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="162"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="163"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="164"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="163"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="164"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="165"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="166"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="165"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="166"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="167"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="168"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="167"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="168"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="169"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="170"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="169"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="170"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="171"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="172"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="171"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="172"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="173"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="174"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="173"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="174"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="175"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="176"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="175"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="176"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="177"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="178"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="177"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="178"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="179"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="180"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="179"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="180"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="181"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="182"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="181"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="182"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="183"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="184"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="183"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="184"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="185"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="186"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="185"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="186"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="187"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="188"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="187"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="188"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="189"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="190"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="189"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="190"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="191"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="192"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="191"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="192"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="193"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="194"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="193"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="194"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="195"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="196"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="195"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="196"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="197"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="198"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="197"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="198"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="199"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="200"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="199"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="200"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="201"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="202"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="201"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="202"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="203"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="204"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="203"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="204"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="205"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="206"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="205"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="206"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="207"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="208"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="207"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="208"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="209"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="210"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="209"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="210"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="211"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="212"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="211"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="212"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="213"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="214"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="213"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="214"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="215"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="216"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="215"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="216"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="217"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="218"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="217"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="218"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="219"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="220"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="219"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="220"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="221"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="222"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="221"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="222"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="223"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="224"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="223"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="224"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="225"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="226"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="225"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="226"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="227"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="228"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="227"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="228"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="229"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="230"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="229"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="230"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="231"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="232"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="231"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="232"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="233"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="234"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="233"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="234"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="235"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="236"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="235"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="236"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="237"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="238"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="237"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="238"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="239"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="240"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="239"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="240"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="241"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="242"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="241"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="242"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="243"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="244"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="243"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="244"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="245"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="246"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="245"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="246"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="247"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="248"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="247"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="248"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="249"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="250"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="249"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="250"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="251"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="252"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="251"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="252"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="253"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="254"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="253"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="254"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="255"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="256"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="255"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="256"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="257"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="258"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="257"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="258"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="259"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="260"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="259"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="260"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="261"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="262"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="261"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="262"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="263"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="264"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="263"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="264"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="265"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="266"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="265"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="266"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="267"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="268"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="267"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="268"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="269"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="270"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="269"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="270"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="271"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="272"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="271"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="272"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="273"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="274"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="273"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="274"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="275"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="276"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="275"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="276"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="277"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="278"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="277"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="278"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="279"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="280"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="279"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="280"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="281"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="282"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="281"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="282"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="283"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="284"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="283"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="284"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="285"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="286"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="285"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="286"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="287"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="288"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="287"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="288"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="289"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="290"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="289"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="290"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="291"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="292"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="291"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="292"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="293"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="294"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="293"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="294"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="295"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="296"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="295"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="296"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="297"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="298"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="297"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="298"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="299"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="300"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="299"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="300"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="301"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="302"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="301"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="302"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="303"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="304"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="303"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="304"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="305"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="306"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="305"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="306"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="307"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="308"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="307"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="308"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="309"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="310"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="309"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="310"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="311"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="312"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="311"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="312"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="313"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="314"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="313"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="314"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="315"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="316"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="315"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="316"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="317"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="318"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="317"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="318"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="319"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="320"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="319"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="320"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="321"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="322"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="321"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="322"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="323"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="324"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="323"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="324"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="325"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="326"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="325"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="326"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="327"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="328"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="327"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="328"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="329"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="330"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="329"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="330"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="331"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="332"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="331"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="332"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="333"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="334"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="333"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="334"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="335"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="336"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="335"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="336"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="337"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="338"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="337"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="338"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="339"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="340"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="339"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="340"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="341"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="342"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="341"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="342"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="343"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="344"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="343"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="344"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="345"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="346"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="345"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="346"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="347"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="348"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="347"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="348"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="349"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="350"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="349"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="350"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="351"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="352"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="351"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="352"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="353"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="354"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="353"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="354"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="355"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="356"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="355"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="356"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="357"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="358"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="357"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="358"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="359"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="360"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="359"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="360"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="361"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="362"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="361"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="362"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="363"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="364"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="363"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="364"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="365"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="366"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="365"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="366"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="367"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="368"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="367"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="368"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="369"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="370"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="369"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="370"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="371"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="372"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="371"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="372"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="373"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="374"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="373"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="374"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="375"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="376"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="375"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="376"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="377"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="378"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="377"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="378"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="379"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="380"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="379"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="380"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="381"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="382"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="381"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="382"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="383"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="384"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="383"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="384"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="385"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="386"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="385"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="386"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="387"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="388"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="387"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="388"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="389"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="390"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="389"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="390"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="391"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="392"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="391"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="392"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="393"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="394"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="393"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="394"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="395"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="396"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="395"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="396"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="397"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="398"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="397"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="398"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="399"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="400"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="399"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="400"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="401"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="402"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="401"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="402"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="403"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="404"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="403"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="404"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="405"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="406"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="405"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="406"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="407"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="408"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="407"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="408"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="409"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="410"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="409"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="410"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="411"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="412"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="411"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="412"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="413"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="414"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="413"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="414"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="415"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="416"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="415"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="416"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="417"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="418"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="417"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="418"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="419"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="420"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="419"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="420"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="421"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="422"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="421"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="422"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="423"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="424"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="423"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="424"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="425"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="426"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="425"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="426"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="427"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="428"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="427"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="428"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="429"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="430"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="429"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="430"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="431"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="432"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="431"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="432"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="433"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="434"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="433"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="434"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="435"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="436"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="435"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="436"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="437"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="438"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="437"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="438"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="439"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="440"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="439"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="440"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="441"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="442"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="441"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="442"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="443"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="444"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="443"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="444"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="445"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="446"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="445"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="446"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="447"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="448"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="447"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="448"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="449"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="450"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="449"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="450"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="451"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="452"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="451"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="452"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="453"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="454"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="453"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="454"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="455"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="456"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="455"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="456"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="457"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="458"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="457"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="458"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="459"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="460"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="459"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="460"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="461"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="462"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="461"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="462"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="463"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="464"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="463"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="464"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="465"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="466"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="465"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="466"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="467"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="468"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="467"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="468"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="469"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="470"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="469"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="470"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="471"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="472"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="471"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="472"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="473"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="474"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="473"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="474"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="475"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="476"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="475"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="476"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="477"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="478"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="477"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="478"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="479"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="480"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="479"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="480"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="481"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="482"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="481"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="482"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="483"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="484"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="483"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="484"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="485"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="486"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="485"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="486"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="487"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="488"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="487"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="488"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="489"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="490"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="489"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="490"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="491"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="492"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="491"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="492"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="493"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="494"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="493"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="494"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="495"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="496"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="495"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="496"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="497"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="498"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="497"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="498"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="499"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="500"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="499"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="500"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="501"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="502"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="501"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="502"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="503"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="504"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="503"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="504"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="505"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="506"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="505"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="506"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="507"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="508"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="507"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="508"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="509"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="510"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="509"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="510"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="511"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="512"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="511"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="512"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="513"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="514"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="513"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="514"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="515"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="516"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="515"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="516"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="517"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="518"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="517"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="518"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="519"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="520"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="519"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="520"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="521"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="522"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="521"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="522"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="523"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="524"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="523"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="524"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="525"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="526"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="525"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="526"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="527"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="528"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="527"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="528"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="529"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="530"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="529"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="530"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="531"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="532"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="531"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="532"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="533"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="534"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="533"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="534"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="535"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="536"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="535"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="536"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="537"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="538"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="537"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="538"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="539"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="540"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="539"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="540"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="541"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="542"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="541"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="542"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="543"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="544"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="543"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="544"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="545"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="546"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="545"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="546"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="547"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="548"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="547"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="548"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="549"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="550"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="549"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="550"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="551"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="552"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="551"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="552"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="553"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="554"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="553"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="554"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="555"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="556"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="555"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="556"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="557"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="558"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="557"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="558"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="559"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="560"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="559"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="560"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="561"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="562"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="561"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="562"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="563"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="564"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="563"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="564"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="565"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="566"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="565"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="566"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="567"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="568"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="567"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="568"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="569"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="570"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="569"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="570"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="571"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="572"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="571"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="572"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="573"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="574"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="573"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="574"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="575"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="576"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="575"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="576"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="577"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="578"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="577"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="578"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="579"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="580"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="579"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="580"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="581"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="582"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="581"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="582"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="583"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="584"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="583"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="584"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="585"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="586"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="585"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="586"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="587"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="588"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="587"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="588"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="589"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="590"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="589"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="590"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="591"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="592"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="591"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="592"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="593"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="594"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="593"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="594"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="595"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="596"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="595"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="596"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="597"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="598"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="597"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="598"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="599"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="600"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="599"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="600"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="601"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="602"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="601"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="602"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="603"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="604"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="603"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="604"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="605"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="606"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="605"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="606"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="607"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="608"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="607"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="608"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="609"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="610"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="609"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="610"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="611"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="612"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="611"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="612"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="613"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="614"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="613"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="614"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="615"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="616"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="615"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="616"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="617"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="618"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="617"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="618"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="619"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="620"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="619"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="620"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="621"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="622"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="621"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="622"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="623"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="624"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="623"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="624"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="625"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="626"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="625"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="626"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="627"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="628"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="627"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="628"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="629"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="630"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="629"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="630"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="631"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="632"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="631"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="632"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="633"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="634"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="633"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="634"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="635"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="636"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="635"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="636"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="637"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="638"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="637"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="638"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="639"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="640"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="639"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="640"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="641"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="642"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="641"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="642"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="643"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="644"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="643"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="644"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="645"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="646"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="645"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="646"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="647"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="648"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="647"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="648"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="649"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="650"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="649"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="650"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="651"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="652"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="651"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="652"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="653"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="654"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="653"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="654"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="655"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="656"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="655"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="656"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="657"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="658"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="657"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="658"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="659"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="660"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="659"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="660"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="661"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="662"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="661"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="662"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="663"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="664"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="663"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="664"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="665"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="666"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="665"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="666"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="667"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="668"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="667"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="668"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="669"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="670"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="669"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="670"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="671"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="672"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="671"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="672"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="673"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="674"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="673"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="674"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="675"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="676"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="675"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="676"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="677"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="678"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="677"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="678"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="679"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="680"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="679"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="680"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="681"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="682"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="681"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="682"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="683"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="684"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="683"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="684"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="685"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="686"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="685"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="686"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="687"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="688"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="687"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="688"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="689"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="690"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="689"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="690"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="691"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="692"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="691"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="692"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="693"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="694"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="693"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="694"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="695"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="696"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="695"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="696"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="697"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="698"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="697"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="698"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="699"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="700"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="699"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="700"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="701"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="702"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="701"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="702"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="703"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="704"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="703"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="704"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="705"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="706"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="705"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="706"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="707"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="708"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="707"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="708"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="709"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="710"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="709"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="710"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="711"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="712"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="711"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="712"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="713"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="714"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="713"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="714"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="715"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="716"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="715"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="716"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="717"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="718"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="717"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="718"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="719"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="720"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="719"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="720"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="721"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="722"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="721"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="722"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="723"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="724"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="723"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="724"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="725"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="726"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="725"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="726"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="727"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="728"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="727"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="728"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="729"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="730"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="729"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="730"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="731"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="732"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="731"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="732"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="733"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="734"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="733"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="734"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="735"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="736"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="735"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="736"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="737"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="738"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="737"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="738"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="739"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="740"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="739"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="740"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="741"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="742"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="741"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="742"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="743"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="744"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="743"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="744"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="745"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="746"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="745"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="746"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="747"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="748"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="747"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="748"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="749"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="750"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="749"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="750"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="751"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="752"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="751"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="752"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="753"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="754"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="753"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="754"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="755"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="756"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="755"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="756"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="757"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="758"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="757"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="758"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="759"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="760"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="759"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="760"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="761"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="762"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="761"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="762"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="763"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="764"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="763"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="764"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="765"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="766"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="765"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="766"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="767"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="768"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="767"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="768"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="769"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="770"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="769"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="770"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="771"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="772"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="771"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="772"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="773"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="774"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="773"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="774"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="775"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="776"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="775"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="776"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="777"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="778"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="777"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="778"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="779"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="780"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="779"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="780"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="781"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="782"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="781"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="782"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="783"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="784"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="783"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="784"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="785"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="786"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="785"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="786"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="787"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="788"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="787"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="788"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="789"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="790"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="789"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="790"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="791"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="792"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="791"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="792"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="793"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="794"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="793"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="794"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="795"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="796"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="795"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="796"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="797"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="798"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="797"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="798"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="799"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="800"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="799"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="800"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="801"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="802"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="801"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="802"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="803"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="804"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="803"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="804"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="805"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="806"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="805"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="806"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="807"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="808"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="807"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="808"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="809"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="810"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="809"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="810"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="811"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="812"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="811"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="812"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="813"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="814"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="813"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="814"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="815"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="816"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="815"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="816"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="817"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="818"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="817"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="818"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="819"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="820"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="819"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="820"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="821"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="822"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="821"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="822"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="823"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="824"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="823"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="824"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="825"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="826"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="825"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="826"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="827"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="828"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="827"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="828"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="829"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="830"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="829"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="830"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="831"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="832"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="831"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="832"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="833"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="834"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="833"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="834"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="835"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="836"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="835"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="836"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="837"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="838"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="837"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="838"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="839"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="840"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="839"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="840"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="841"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="842"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="841"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="842"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="843"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="844"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="843"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="844"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="845"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="846"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="845"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="846"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="847"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="848"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="847"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="848"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="849"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="850"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="849"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="850"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="851"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="852"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="851"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="852"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="853"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="854"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="853"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="854"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="855"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="856"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="855"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="856"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="857"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="858"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="857"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="858"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="859"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="860"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="859"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="860"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="861"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="862"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="861"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="862"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="863"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="864"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="863"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="864"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="865"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="866"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="865"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="866"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="867"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="868"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="867"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="868"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="869"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="870"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="869"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="870"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="871"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="872"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="871"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="872"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="873"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="874"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="873"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="874"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="875"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="876"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="875"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="876"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="877"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="878"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="877"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="878"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="879"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="880"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="879"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="880"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="881"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="882"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="881"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="882"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="883"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="884"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="883"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="884"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="885"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="886"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="885"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="886"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="887"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="888"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="887"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="888"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="889"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="890"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="889"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="890"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="891"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="892"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="891"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="892"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="893"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="894"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="893"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="894"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="895"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="896"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="895"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="896"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="897"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="898"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="897"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="898"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="899"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="900"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="899"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="900"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="901"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="902"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="901"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="902"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="903"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="904"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="903"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="904"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="905"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="906"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="905"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="906"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="907"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="908"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="907"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="908"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
-                    <l n="909"><lb/><w/><w/><w/><w/><w/><w/></l>
-                    <l n="910"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="909"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="910"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
                     <l n="911"><lb/><w/><w/><w/><w/><w/><w/></l>
@@ -8558,6 +8555,7 @@
                     <l n="4259"><lb/><w/><w/><w/><w/><w/><w/></l>
                     <l n="4260"><lb/><w/><w/><w/><w/><w/><w/></l>
                 </lg>
+                <!-- Inicio Raquel, fol 359 do ms. -->
                 <lg>
                     <l n="4261"><lb/><w/><w/><w/><w/><w/><w/></l>
                     <l n="4262"><lb/><w/><w/><w/><w/><w/><w/></l>
