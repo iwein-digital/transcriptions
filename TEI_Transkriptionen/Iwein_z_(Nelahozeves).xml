@@ -31,10 +31,15 @@
         </encodingDesc>
     </teiHeader>
     <text ana="hc:CourtlyRomance">
+        <front>
+            <pb n="299"/>
+            <cb n="a"/>
+            <docTitle>
+                <titlePart> <lb n="0"/> <hi hei:color="Red"><w>Das</w><w>buͦch</w><w>von </w><w>her</w><w>ywin</w></hi> </titlePart>
+            </docTitle>
+        </front>
         <body>
             <div>
-                <pb n="299"/>
-                <cb n="a"/>
                 <lg>
                     <l n="1"><lb n="1"/><hi hei:color="Red"><w><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="3">W</hei:initial>er</w><w>an</w><w>rechten</w><w>guͤte</w></hi></l>
                     <l n="2"><lb n="2"/><hi hei:color="Red"><w>wendet</w><w>ſin</w><w>gemuͤte</w></hi></l>
