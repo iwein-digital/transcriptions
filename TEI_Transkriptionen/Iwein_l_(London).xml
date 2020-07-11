@@ -349,7 +349,6 @@
                 <lg>
                     <l n="153"><lb n="3"/><w>Du</w><w>heteſt</w><w>diz</w><w>geſprochen</w></l>
                     <l n="154"><lb n="4"/><w>Du</w><w>bareſt</w><w part="I">pey</w><w>namen</w><w>zebrochen</w></l>
-                    <!--como no Lachmann aparece "benamen" entendo que "pey" e "namen" son en realidade unha palabra que no manuscrito aparece separada, pero non sei como indicalo-->
                 </lg>
                 <lg>
                     <l n="155"><lb n="5"/><w>Wan</w><w>das</w><w>wais</w><w>got</w><w>vil</w><w>wol</w></l>
@@ -360,12 +359,12 @@
                     <l n="158"><lb n="8"/><w><choice><orig>V</orig><reg>U</reg></choice>nd</w><w>wider</w><w>dein</w><w>er</w><w>ſtrebet</w></l>
                 </lg>
                 <lg>
-                    <l n="159"><lb n="9"/><w><supplied><hei:initial ana="hc:Lombard" hei:heightLines="4">K</hei:initial></supplied>ay</w><w>den</w><w>zorn</w><w>nicht</w><w><choice><am>v͛</am><ex>er</ex></choice>treueȳ</w></l>
-                    <l n="160"><lb n="10"/><w>Er</w><w>ſprach</w><w>ſraiv</w><w>es</w><w>iſt</w><w>genueȳ</w></l>
+                    <l n="159"><lb n="9"/><w><supplied><hei:initial ana="hc:Lombard" hei:heightLines="4">K</hei:initial></supplied>ay</w><w>den</w><w>zorn</w><w>nicht</w><w><choice><am>v͛</am><ex>er</ex></choice>treueg</w></l>
+                    <l n="160"><lb n="10"/><w>Er</w><w>ſprach</w><w>ſraiv</w><w>es</w><w>iſt</w><w>genueg</w></l>
                 </lg>
                 <lg>
-                    <l n="161"><lb n="11"/><w>Ir</w><w>habet</w><w/><w>zeml</w><w>geſayt</w></l>
-                    <l n="162"><lb n="12"/><w><choice><orig>V</orig><reg>U</reg></choice><choice><am/><choice><am>n̄</am><ex>nd</ex></choice></choice></w><w>hiet</w><w/><w/><w>ain</w><w>tayl</w><w><choice><am>v͛</am><ex>er</ex></choice>deit</w></l>
+                    <l n="161"><lb n="11"/><w>Ir</w><w>habet</w><w join="right">mir</w><w join="left">s</w><w>auch</w><w join="right">ze</w><w join="left"><choice><orig>u</orig><reg>v</reg></choice>il</w><w>geſayt</w></l>
+                    <l n="162"><lb n="12"/><w><choice><orig>V</orig><reg>U</reg></choice><choice><am/><choice><am>n̄</am><ex>nd</ex></choice></choice></w><w>hiet</w><w><subst><del rendition="hc:Adapted">e</del><add rendition="hc:Adapted">I</add></subst>r</w><w>es</w><w>ain</w><w>tayl</w><w><choice><am>v͛</am><ex>er</ex></choice>deit</w></l>
                 </lg>
                 <lg>
                     <l n="163"><lb/><w/><w/><w/><w/><w/><w/></l>
