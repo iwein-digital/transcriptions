@@ -7,25 +7,20 @@
             <titleStmt>
                 <title>Iwein-Hs. a</title>
                 <author>Hartmann von Aue</author>
-                <respStmt>
-                    <resp>transcription</resp>
-                    <persName>Victor Millet</persName>
-                </respStmt>
+                <respStmt> <resp>transcription</resp> <persName>Victor Millet</persName> </respStmt>
             </titleStmt>
             <publicationStmt>
                 <publisher>UB Heidelberg</publisher>
             </publicationStmt>
             <sourceDesc>
                 <listWit>
-                    <witness xml:id="a">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>Dresden</settlement>
-                                <repository>Sächsische Landesbibliothek – Staats- und Universitätsbibliothek</repository>
-                                <idno>Mscr. M 175</idno>
-                            </msIdentifier>
-                        </msDesc>
-                    </witness>
+                    <witness xml:id="a"> <msDesc>
+                        <msIdentifier>
+                            <settlement>Dresden</settlement>
+                            <repository>Sächsische Landesbibliothek – Staats- und Universitätsbibliothek</repository>
+                            <idno>Mscr. M 175</idno>
+                        </msIdentifier>
+                        </msDesc> </witness>
                 </listWit>
             </sourceDesc>
         </fileDesc>
@@ -14251,6 +14246,7 @@
                 <lg>
                     <l n="7079"><lb n="25"/><w><hi rendition="hc:Versal">D</hi>az</w><w>ſy</w><w>yn</w><w>nyt</w><w>entwancktin</w></l>
                     <pb n="141r"/>
+                    <cb n="a"/>
                     <l n="7080"><lb n="1"/><w><hi rendition="hc:Versal">S</hi>y</w><w join="right">en</w><w join="left">vortin</w><w>noch</w><w join="right">en</w><w join="left">ſancktin</w></l>
                 </lg>
                 <lg>
@@ -14270,132 +14266,139 @@
                     <l n="7090"><lb n="9"/><w><hi rendition="hc:Versal">D</hi>er</w><w>den</w><w>man</w><w>willigin</w><w>kan</w></l>
                 </lg>
                 <lg>
-                    <l n="7091"><lb/><w><hi rendition="hc:Versal"/></w><w/><w/><w/><w/><w/></l>
-                    <l n="7092"><lb/><w><hi rendition="hc:Versal"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="7091"><lb n="10"/><w><hi rendition="hc:Versal">D</hi>az</w><w>wart</w><w>do wol</w><w>erczeigt</w></l>
+                    <l n="7092"><lb n="11"/><w><hi rendition="hc:Versal">W</hi>enn</w><w>ez</w><w>was</w><w>geneigt</w></l>
                 </lg>
                 <lg>
-                    <l n="7093"><lb/><w><hi rendition="hc:Versal"/></w><w/><w/><w/><w/><w/></l>
-                    <l n="7094"><lb/><w><hi rendition="hc:Versal"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="7093"><lb n="12"/><w><hi rendition="hc:Versal">I</hi>r</w><w>ywe<choice><am>d͛</am><ex>der</ex></choice>s</w><w>ſo</w><w>ſere</w></l>
+                    <l n="7094"><lb n="13"/><w><hi rendition="hc:Versal">D</hi>az</w><w>er</w><w>do</w><w>vor</w><w>ny</w><w>m<choice><am>e͛</am><ex>ere</ex></choice></w></l>
                 </lg>
                 <lg>
-                    <l n="7095"><lb/><w><hi rendition="hc:Versal"/></w><w/><w/><w/><w/><w/></l>
-                    <l n="7096"><lb/><w><hi rendition="hc:Versal"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="7095"><lb n="14"/><w><hi rendition="hc:Versal">S</hi>o</w><w>nohe</w><w>kam</w><w>dem</w><w>vall</w></l>
+                    <l n="7096"><lb n="15"/><w><hi rendition="hc:Versal">E</hi>r</w><w join="right">en</w><w join="left">vÿl</w><w>auch</w><w>gein</w><w>tal</w></l>
                 </lg>
                 <lg>
-                    <l n="7097"><lb/><w><hi rendition="hc:Versal"/></w><w/><w/><w/><w/><w/></l>
-                    <l n="7098"><lb/><w><hi rendition="hc:Versal"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="7097"><lb n="16"/><w><hi rendition="hc:Versal">D</hi>az</w><w>yr</w><w>ÿwe<choice><am>d͛</am><ex>der</ex></choice></w><w>beſaz</w></l>
+                    <l n="7098"><lb n="17"/><w><hi rendition="hc:Versal">D</hi>az</w><w join="right">en</w><w join="left">meynte</w><w>nyt</w><w>wenn</w><w>daz</w></l>
                 </lg>
                 <lg>
-                    <l n="7099"><lb/><w><hi rendition="hc:Versal"/></w><w/><w/><w/><w/><w/></l>
-                    <l n="7100"><lb/><w><hi rendition="hc:Versal"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="7099"><lb n="18"/><w><hi rendition="hc:Versal">D</hi>az</w><w>dy</w><w>ſper</w><w>nyt</w><w>gancz</w><w>blibin</w></l>
+                    <l n="7100"><lb n="19"/><w><hi rendition="hc:Versal">S</hi>y</w><w>komen</w><w>dar</w><w>getribin</w></l>
                 </lg>
                 <lg>
-                    <l n="7101"><lb/><w><hi rendition="hc:Versal"/></w><w/><w/><w/><w/><w/></l>
-                    <l n="7102"><lb/><w><hi rendition="hc:Versal"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="7101"><lb n="20"/><w><hi rendition="hc:Versal">M</hi>it</w><w>alſo</w><w>willeger</w><w>krafft</w></l>
+                    <l n="7102"><lb n="21"/><w><hi rendition="hc:Versal">D</hi>az</w><w>yr</w><w>ywe<choice><am>d͛</am><ex>der</ex></choice>s</w><w>ſchafft</w></l>
                 </lg>
                 <lg>
-                    <l n="7103"><lb/><w><hi rendition="hc:Versal"/></w><w/><w/><w/><w/><w/></l>
-                    <l n="7104"><lb/><w><hi rendition="hc:Versal"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="7103"><lb n="22"/><w><hi rendition="hc:Versal">W</hi>ol</w><w>yn</w><w>hun<choice><am>d͛</am><ex>der</ex></choice>t</w><w>ſtuckin</w><w>brach</w></l>
+                    <l n="7104"><lb n="23"/><w><hi rendition="hc:Versal"><choice><orig>V</orig><reg>U</reg></choice></hi>nd</w><w>daz</w><w>m<choice><am>ē</am><ex>en</ex></choice>neclich</w><w>iach</w></l>
                 </lg>
                 <lg>
-                    <l n="7105"><lb/><w><hi rendition="hc:Versal"/></w><w/><w/><w/><w/><w/></l>
-                    <l n="7106"><lb/><w><hi rendition="hc:Versal"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="7105"><lb n="24"/><w><hi rendition="hc:Versal">E</hi>r</w><w>en</w><w>geſe</w><w>scho<choice><am>n͛</am><ex>ner</ex></choice></w><w>ſach</w><w>ny</w></l>
+                    <pb n="141v"/>
+                    <cb n="a"/>
+                    <l n="7106"><lb n="1"/><w><hi rendition="hc:Versal">E</hi>z</w><w>lyffin</w><w>krauwiryn</w><w>hy</w></l>
                 </lg>
                 <lg>
-                    <l n="7107"><lb/><w><hi rendition="hc:Versal"/></w><w/><w/><w/><w/><w/></l>
-                    <l n="7108"><lb/><w><hi rendition="hc:Versal"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="7107"><lb n="2"/><w><hi rendition="hc:Versal">B</hi>eidinthalbin</w><w>garczün</w><w>gnüg</w></l>
+                    <l n="7108"><lb n="3"/><w><hi rendition="hc:Versal">D</hi>er</w><w>ywe<choice><am>d͛</am><ex>der</ex></choice></w><w>trüg</w></l>
                 </lg>
                 <lg>
-                    <l n="7109"><lb/><w><hi rendition="hc:Versal"/></w><w/><w/><w/><w/><w/></l>
-                    <l n="7110"><lb/><w><hi rendition="hc:Versal"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="7109"><lb n="4"/><w><hi rendition="hc:Versal">E</hi>yn</w><w>ſper</w><w>o<choice><am>d͛</am><ex>der</ex></choice></w><w>czwey</w></l>
+                    <l n="7110"><lb n="5"/><w><hi rendition="hc:Versal">M</hi>an</w><w>hort</w><w>nyt</w><w>wann</w><w>geſchrey</w></l>
                 </lg>
                 <lg>
-                    <l n="7111"><lb/><w><hi rendition="hc:Versal"/></w><w/><w/><w/><w/><w/></l>
-                    <l n="7112"><lb/><w><hi rendition="hc:Versal"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="7111"><lb n="6"/><w><hi rendition="hc:Versal">W</hi>o</w><w>nü</w><w>ſper</w><w>wo</w><w>nü</w><w>ſper</w></l>
+                    <l n="7112"><lb n="7"/><w><hi rendition="hc:Versal">D</hi>iz</w><w>iſt</w><w>hin</w><w>e<choice><am>ȳ</am><ex>yn</ex></choice></w><w>an<choice><am>d͛</am><ex>der</ex></choice>s</w><w>her</w></l>
                 </lg>
                 <lg>
-                    <l n="7113"><lb/><w><hi rendition="hc:Versal"/></w><w/><w/><w/><w/><w/></l>
-                    <l n="7114"><lb/><w><hi rendition="hc:Versal"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="7113"><lb n="8"/><w><hi rendition="hc:Versal">D</hi>o</w><w>wart</w><w>vil</w><w>geſtochin</w></l>
+                    <l n="7114"><lb n="9"/><w><hi rendition="hc:Versal"><choice><orig>V</orig><reg>U</reg></choice></hi>nd</w><w>gar</w><w>dy</w><w>ſper</w><w>czü brochin</w></l>
                 </lg>
                 <lg>
-                    <l n="7115"><lb/><w><hi rendition="hc:Versal"/></w><w/><w/><w/><w/><w/></l>
-                    <l n="7116"><lb/><w><hi rendition="hc:Versal"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="7115"><lb n="10"/><w><hi rendition="hc:Versal">D</hi>y</w><w>ſy</w><w>do</w><w>ge habin</w><w>machtin</w></l>
+                    <l n="7116"><lb n="11"/><w><hi rendition="hc:Versal">H</hi>ettin</w><w>ſy</w><w>auch</w><w>gevochtin</w></l>
                 </lg>
                 <lg>
-                    <l n="7117"><lb/><w><hi rendition="hc:Versal"/></w><w/><w/><w/><w/><w/></l>
-                    <l n="7118"><lb/><w><hi rendition="hc:Versal"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="7117"><lb n="12"/><w><hi rendition="hc:Versal">C</hi>zu</w><w>roſſe</w><w>mit</w><w>den</w><w>ſwertin</w></l>
+                    <l n="7118"><lb n="13"/><w><hi rendition="hc:Versal">D</hi>az</w><w>ſy</w><w>ny</w><w>gegertin</w></l>
                 </lg>
                 <lg>
-                    <l n="7119"><lb/><w><hi rendition="hc:Versal"/></w><w/><w/><w/><w/><w/></l>
-                    <l n="7120"><lb/><w><hi rendition="hc:Versal"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="7119"><lb n="14"/><w><hi rendition="hc:Versal">D</hi>az</w><w>wer</w><w>der</w><w>arm<choice><am>ē</am><ex>en</ex></choice></w><w>roſſe</w><w>tot</w></l>
+                    <l n="7120"><lb n="15"/><w><hi rendition="hc:Versal">D</hi>o</w><w>von</w><w>ſo</w><w>was</w><w>yn</w><w>beydin</w><w>not</w></l>
                 </lg>
                 <lg>
-                    <l n="7121"><lb/><w><hi rendition="hc:Versal"/></w><w/><w/><w/><w/><w/></l>
-                    <l n="7122"><lb/><w><hi rendition="hc:Versal"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="7121"><lb n="16"/><w><hi rendition="hc:Versal">D</hi>az</w><w>ſy</w><w>dy</w><w>ros</w><w><choice><am>v͛</am><ex>ver</ex></choice> mittin</w></l>
+                    <l n="7122"><lb n="17"/><w><hi rendition="hc:Versal"><choice><orig>V</orig><reg>U</reg></choice></hi>nd</w><w>czü</w><w>fuſze</w><w>ſtrittin</w></l>
                 </lg>
                 <lg>
-                    <l n="7123"><lb/><w><hi rendition="hc:Versal"/></w><w/><w/><w/><w/><w/></l>
-                    <l n="7124"><lb/><w><hi rendition="hc:Versal"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="7123"><lb n="18"/><w><hi rendition="hc:Versal">I</hi>n</w><w>hettin</w><w>dy</w><w>ros</w><w>nyt</w><w>geton</w></l>
+                    <l n="7124"><lb n="19"/><w><hi rendition="hc:Versal">S</hi>y</w><w join="right">lyſzin</w><w join="left">iz</w><w>an</w><w>den</w><w>lip</w><w>gon</w></l>
                 </lg>
                 <lg>
-                    <l n="7125"><lb/><w><hi rendition="hc:Versal"/></w><w/><w/><w/><w/><w/></l>
-                    <l n="7126"><lb/><w><hi rendition="hc:Versal"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="7125"><lb n="20"/><w><hi rendition="hc:Versal">I</hi>ch</w><w>ſag</w><w>uch</w><w>waz</w><w>ſÿ</w><w>totin</w></l>
+                    <l n="7126"><lb n="21"/><w><hi rendition="hc:Versal"><subst><del rendition="hc:Adapted">S</del><add rendition="hc:Adapted">D</add></subst></hi>o</w><w>ſy</w><w>czuſ<choice><am>ā</am><ex>am</ex></choice>men</w><w>trotin</w></l>
                 </lg>
                 <lg>
-                    <l n="7127"><lb/><w><hi rendition="hc:Versal"/></w><w/><w/><w/><w/><w/></l>
-                    <l n="7128"><lb/><w><hi rendition="hc:Versal"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="7127"><lb n="22"/><w><hi rendition="hc:Versal">D</hi>y</w><w>czwene</w><w>kampf</w><w>wiſin</w></l>
+                    <l n="7128"><lb n="23"/><w><hi rendition="hc:Versal">S</hi>y</w><w>enſpartin</w><w>nyt</w><w>daz</w><w>yſin</w></l>
                 </lg>
                 <lg>
-                    <l n="7129"><lb/><w><hi rendition="hc:Versal"/></w><w/><w/><w/><w/><w/></l>
-                    <l n="7130"><lb/><w><hi rendition="hc:Versal"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="7129"><lb n="24"/><w><hi rendition="hc:Versal">D</hi>o</w><w>mit</w><w>der</w><w>lip</w><w>was</w><w>bewart</w></l>
+                    <pb n="142r"/>
+                    <cb n="a"/>
+                    <l n="7130"><lb n="1"/><w><hi rendition="hc:Versal">D</hi>y</w><w>ſwert</w><w>wurd<choice><am>n̄</am><ex>en</ex></choice></w><w>nÿt</w><w>geſpart</w></l>
                 </lg>
                 <lg>
-                    <l n="7131"><lb/><w><hi rendition="hc:Versal"/></w><w/><w/><w/><w/><w/></l>
-                    <l n="7132"><lb/><w><hi rendition="hc:Versal"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="7131"><lb n="2"/><w><hi rendition="hc:Versal">S</hi>y</w><w>worn</w><w>der</w><w>ſchilt</w></l>
+                    <l n="7132"><lb n="3"/><w><hi rendition="hc:Versal">A</hi>n</w><w>eyn an<choice><am>d͛</am><ex>der</ex></choice></w><w>hart</w><w>milt</w></l>
                 </lg>
                 <lg>
-                    <l n="7133"><lb/><w><hi rendition="hc:Versal"/></w><w/><w/><w/><w/><w/></l>
-                    <l n="7134"><lb/><w><hi rendition="hc:Versal"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="7133"><lb n="4"/><w><hi rendition="hc:Versal">D</hi>en</w><w>ſchiltin</w><w>worn</w><w>ſy</w><w>geha<subst><del rendition="hc:Adapted">r</del><add rendition="hc:Adapted">z</add></subst></w></l>
+                    <l n="7134"><lb n="5"/><w><hi rendition="hc:Versal">I</hi>r</w><w>ywe<choice><am>d͛</am><ex>der</ex></choice></w><w>gedochte</w><w>dacz</w></l>
                 </lg>
                 <lg>
-                    <l n="7135"><lb/><w><hi rendition="hc:Versal"/></w><w/><w/><w/><w/><w/></l>
-                    <l n="7136"><lb/><w><hi rendition="hc:Versal"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="7135"><lb n="6"/><w><hi rendition="hc:Versal">W</hi>az</w><w>taüg</w><w>myr</w><w>myn</w><w>erbeit</w></l>
+                    <l n="7136"><lb n="7"/><w><hi rendition="hc:Versal">B</hi>iz</w><w>er</w><w>den</w><w>ſchylt</w><w>vor</w><w>ym</w><w>treit</w></l>
                 </lg>
                 <lg>
-                    <l n="7137"><lb/><w><hi rendition="hc:Versal"/></w><w/><w/><w/><w/><w/></l>
-                    <l n="7138"><lb/><w><hi rendition="hc:Versal"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="7137"><lb n="8"/><w><hi rendition="hc:Versal">S</hi>o</w><w>iſt</w><w>er</w><w>gar</w><w>ein</w><w>ſic<choice><am>h͛</am><ex>her</ex></choice></w><w>man</w></l>
+                    <l n="7138"><lb n="9"/><w><hi rendition="hc:Versal">D</hi>y</w><w>ſchilde</w><w>hywin</w><w>ſy</w><w>dan</w></l>
                 </lg>
                 <lg>
-                    <l n="7139"><lb/><w><hi rendition="hc:Versal"/></w><w/><w/><w/><w/><w/></l>
-                    <l n="7140"><lb/><w><hi rendition="hc:Versal"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="7139"><lb n="10"/><w><hi rendition="hc:Versal">S</hi>y</w><w join="right">en</w><w join="left">gertin</w><w>daz</w><w>ny</w></l>
+                    <l n="7140"><lb n="11"/><w><hi rendition="hc:Versal">D</hi>az</w><w>ſy</w><w>ni<choice><am>d͛</am><ex>der</ex></choice>halb</w><w>der</w><w>kny</w></l>
                 </lg>
                 <lg>
-                    <l n="7141"><lb/><w><hi rendition="hc:Versal"/></w><w/><w/><w/><w/><w/></l>
-                    <l n="7142"><lb/><w><hi rendition="hc:Versal"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="7141"><lb n="12"/><w><hi rendition="hc:Versal">D</hi>o key<choice><am>n͛</am><ex>ner</ex></choice></w><w>ſlege</w><w>totin</w><w>war</w></l>
+                    <l n="7142"><lb n="13"/><w><hi rendition="hc:Versal">D</hi>o</w><w>ſy</w><w>der</w><w>ſchilde</w><w>wurden</w><w>bar</w></l>
                 </lg>
                 <lg>
-                    <l n="7143"><lb/><w><hi rendition="hc:Versal"/></w><w/><w/><w/><w/><w/></l>
-                    <l n="7144"><lb/><w><hi rendition="hc:Versal"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="7143"><lb n="14"/><w><hi rendition="hc:Versal">S</hi>y</w><w>tribin</w><w>krefftiger</w><w>ſlege</w><w>gnüg</w></l>
+                    <l n="7143,1"><lb n="15"/><del rendition="hc:Strikethrough"><w><hi rendition="hc:Versal">M</hi>er</w><w>dann</w><w>ich</w></del><w>Ir</w><w>ein</w><w>dem</w><w>an<choice><am>d͛</am><ex>der</ex></choice>n</w><w>galt</w><w>gnüg</w></l>
+                    <!--Das Durchgestrichene ist der Anfang des Lachmann-Verses-->
                 </lg>
                 <lg>
-                    <l n="7145"><lb/><w><hi rendition="hc:Versal"/></w><w/><w/><w/><w/><w/></l>
-                    <l n="7146"><lb/><w><hi rendition="hc:Versal"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="7145"><lb n="16"/><w><hi rendition="hc:Versal">O</hi>ne</w><w>bürgin</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>one</w><w>pfant</w></l>
+                    <l n="7145,1"><lb n="17"/><w><hi rendition="hc:Versal">W</hi>art</w><w>nach</w><w>gelde</w><w>nyt</w><w>geſant</w></l>
                 </lg>
                 <lg>
-                    <l n="7147"><lb/><w><hi rendition="hc:Versal"/></w><w/><w/><w/><w/><w/></l>
-                    <l n="7148"><lb/><w><hi rendition="hc:Versal"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="7147"><lb n="18"/><w><hi rendition="hc:Versal">W</hi>er</w><w><choice><am>g͛</am><ex>ger</ex></choice>ne</w><w>giltet</w><w>daz</w><w>iſt</w><w>gut</w></l>
+                    <l n="7148"><lb n="19"/><w><hi rendition="hc:Versal">W</hi>enn</w><w>hot</w><w>er</w><w>borges</w><w>müt</w></l>
                 </lg>
                 <lg>
-                    <l n="7149"><lb/><w><hi rendition="hc:Versal"/></w><w/><w/><w/><w/><w/></l>
-                    <l n="7150"><lb/><w><hi rendition="hc:Versal"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="7149"><lb n="20"/><w><hi rendition="hc:Versal">S</hi>o</w><w>mag</w><w>er</w><w>wol</w><w>borgin</w></l>
+                    <l n="7150"><lb n="21"/><w><hi rendition="hc:Versal">D</hi>az</w><w>müſtin</w><w>ſy</w><w>beſorgin</w></l>
                 </lg>
                 <lg>
-                    <l n="7151"><lb/><w><hi rendition="hc:Versal"/></w><w/><w/><w/><w/><w/></l>
-                    <l n="7152"><lb/><w><hi rendition="hc:Versal"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="7151"><lb n="22"/><w><hi rendition="hc:Versal">W</hi>er</w><w>borget</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>nyt</w><w join="right">en</w><w join="left">giltet</w></l>
+                    <l n="7152"><lb n="23"/><w><hi rendition="hc:Versal">D</hi>az</w><w>er</w><w>des</w><w>lichte</w><w join="right">en</w><w join="left">giltet</w></l>
                 </lg>
                 <lg>
-                    <l n="7153"><lb/><w><hi rendition="hc:Versal"/></w><w/><w/><w/><w/><w/></l>
-                    <l n="7154"><lb/><w><hi rendition="hc:Versal"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="7153"><lb n="24"/><w><hi rendition="hc:Versal">B</hi>orgtin</w><w>ſy</w><w>alle</w><w>one</w><w>geltin</w></l>
+                    <pb n="142v"/>
+                    <cb n="a"/>
+                    <l n="7154"><lb n="1"/><w><hi rendition="hc:Versal"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
                     <l n="7155"><lb/><w><hi rendition="hc:Versal"/></w><w/><w/><w/><w/><w/></l>
