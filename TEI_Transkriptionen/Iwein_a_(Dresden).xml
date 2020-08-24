@@ -67,6 +67,7 @@
         <surface xml:id="a_5v" ana="hc:Page" n="5v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/slub_m175/0038"/>
             <zone xml:id="a_5v-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="a_5v-b" ana="hc:MarginalZone" n="b"/>
         </surface>
         <surface xml:id="a_6r" ana="hc:Page" n="6r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/slub_m175/0039"/>
@@ -103,6 +104,7 @@
         <surface xml:id="a_11r" ana="hc:Page" n="11r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/slub_m175/0049"/>
             <zone xml:id="a_11r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="a_11r-b" ana="hc:MarginalZone" n="b"/>
         </surface>
         <surface xml:id="a_11v" ana="hc:Page" n="11v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/slub_m175/0050"/>
@@ -195,10 +197,12 @@
         <surface xml:id="a_22v" ana="hc:Page" n="22v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/slub_m175/0072"/>
             <zone xml:id="a_22v-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="a_22v-b" ana="hc:MarginalZone" n="b"/>
         </surface>
         <surface xml:id="a_23r" ana="hc:Page" n="23r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/slub_m175/0073"/>
             <zone xml:id="a_23r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="a_23r-b" ana="hc:MarginalZone" n="b"/>
         </surface>
         <surface xml:id="a_23v" ana="hc:Page" n="23v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/slub_m175/0074"/>
@@ -295,6 +299,7 @@
         <surface xml:id="a_35r" ana="hc:Page" n="35r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/slub_m175/0097"/>
             <zone xml:id="a_35r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="a_35r-b" ana="hc:MarginalZone" n="b"></zone>
         </surface>
         <surface xml:id="a_35v" ana="hc:Page" n="35v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/slub_m175/0098"/>
@@ -387,10 +392,12 @@
         <surface xml:id="a_46v" ana="hc:Page" n="46v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/slub_m175/0120"/>
             <zone xml:id="a_46v-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="a_46v-b" ana="hc:MarginalZone" n="b"/>
         </surface>
         <surface xml:id="a_47r" ana="hc:Page" n="47r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/slub_m175/0121"/>
             <zone xml:id="a_47r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="a_47r-b" ana="hc:MarginalZone" n="b"/>
         </surface>
         <surface xml:id="a_47v" ana="hc:Page" n="47v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/slub_m175/0122"/>
@@ -483,10 +490,12 @@
         <surface xml:id="a_58v" ana="hc:Page" n="58v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/slub_m175/0144"/>
             <zone xml:id="a_58v-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="a_58v-b" ana="hc:MarginalZone" n="b"/>
         </surface>
         <surface xml:id="a_59r" ana="hc:Page" n="59r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/slub_m175/0145"/>
             <zone xml:id="a_59r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="a_59r-b" ana="hc:MarginalZone" n="b"/>
         </surface>
         <surface xml:id="a_59v" ana="hc:Page" n="59v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/slub_m175/0146"/>
@@ -579,10 +588,12 @@
         <surface xml:id="a_70v" ana="hc:Page" n="70v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/slub_m175/0168"/>
             <zone xml:id="a_70v-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="a_70v-b" ana="hc:MarginalZone" n="b"/>
         </surface>
         <surface xml:id="a_71r" ana="hc:Page" n="71r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/slub_m175/0169"/>
             <zone xml:id="a_71r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="a_71r-b" ana="hc:MarginalZone" n="b"/>
         </surface>
         <surface xml:id="a_71v" ana="hc:Page" n="71v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/slub_m175/0170"/>
@@ -675,10 +686,12 @@
         <surface xml:id="a_82v" ana="hc:Page" n="82v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/slub_m175/0192"/>
             <zone xml:id="a_82v-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="a_82v-b" ana="hc:MarginalZone" n="b"/>
         </surface>
         <surface xml:id="a_83r" ana="hc:Page" n="83r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/slub_m175/0193"/>
             <zone xml:id="a_83r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="a_83r-b" ana="hc:MarginalZone" n="b"/>
         </surface>
         <surface xml:id="a_83v" ana="hc:Page" n="83v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/slub_m175/0194"/>
@@ -771,10 +784,12 @@
         <surface xml:id="a_94v" ana="hc:Page" n="94v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/slub_m175/0216"/>
             <zone xml:id="a_94v-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="a_94v-b" ana="hc:MarginalZone" n="b"/>
         </surface>
         <surface xml:id="a_95r" ana="hc:Page" n="95r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/slub_m175/0217"/>
             <zone xml:id="a_95r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="a_95r-b" ana="hc:MarginalZone" n="b"/>
         </surface>
         <surface xml:id="a_95v" ana="hc:Page" n="95v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/slub_m175/0218"/>
@@ -867,10 +882,12 @@
         <surface xml:id="a_106v" ana="hc:Page" n="106v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/slub_m175/0240"/>
             <zone xml:id="a_106v-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="a_106v-b" ana="hc:MarginalZone" n="b"/>
         </surface>
         <surface xml:id="a_107r" ana="hc:Page" n="107r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/slub_m175/0241"/>
             <zone xml:id="a_107r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="a_107r-b" ana="hc:MarginalZone" n="b"/>
         </surface>
         <surface xml:id="a_107v" ana="hc:Page" n="107v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/slub_m175/0242"/>
@@ -967,6 +984,7 @@
         <surface xml:id="a_119r" ana="hc:Page" n="119r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/slub_m175/0265"/>
             <zone xml:id="a_119r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="a_119r-b" ana="hc:MarginalZone" n="b"/>
         </surface>
         <surface xml:id="a_119v" ana="hc:Page" n="119v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/slub_m175/0266"/>
@@ -1063,6 +1081,7 @@
         <surface xml:id="a_131r" ana="hc:Page" n="131r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/slub_m175/0289"/>
             <zone xml:id="a_131r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="a_131r-b" ana="hc:MarginalZone" n="b"/>
         </surface>
         <surface xml:id="a_131v" ana="hc:Page" n="131v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/slub_m175/0290"/>
@@ -1159,6 +1178,7 @@
         <surface xml:id="a_143r" ana="hc:Page" n="143r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/slub_m175/0313"/>
             <zone xml:id="a_143r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="a_143r-b" ana="hc:MarginalZone" n="b"/>
         </surface>
         <surface xml:id="a_143v" ana="hc:Page" n="143v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/slub_m175/0314"/>
@@ -1255,6 +1275,7 @@
         <surface xml:id="a_156r" ana="hc:Page" n="156r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/slub_m175/0339"/>
             <zone xml:id="a_156r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="a_156r-b" ana="hc:MarginalZone" n="b"/>
         </surface>
         <surface xml:id="a_156v" ana="hc:Page" n="156v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/slub_m175/0340"/>
@@ -1854,8 +1875,8 @@
                     <l n="324"><lb n="13"/><w>Ez</w><w>waz</w><w>alczü</w><w>ſchyr</w><w>getan</w></l>
                 </lg>
                 <lg>
-                    <l n="325"><lb n="13a"/><add hei:placeRef="hc:PageMarginLeft"><gap ana="hc:CutOff"/><w>en</w><w>ruchte</w><lb n="13b"/><w><gap ana="hc:CutOff"/>e</w><w>ez</w><w><choice><orig>v</orig><reg>u</reg></choice>m<choice><am>m͛</am><ex>mer</ex></choice></w><w>ſin</w></add></l>
-                    <l n="326"><lb n="14"/><w>Ein</w><w>ſcharlachez</w><w>mentelin</w></l>
+                    <l n="325"><milestone ana="hc:ZoneShift" facs="#a_5v-b"/><lb n="13a"/><add hei:placeRef="hc:PageMarginLeft"><gap ana="hc:CutOff"/><w>en</w><w>ruchte</w><lb n="13b"/><w><gap ana="hc:CutOff"/>e</w><w>ez</w><w><choice><orig>v</orig><reg>u</reg></choice>m<choice><am>m͛</am><ex>mer</ex></choice></w><w>ſin</w></add></l>
+                    <l n="326"><milestone ana="hc:ZoneShift" facs="#a_5v-a"/><lb n="14"/><w>Ein</w><w>ſcharlachez</w><w>mentelin</w></l>
                 </lg>
                 <lg>
                     <l n="327"><lb n="15"/><w>Daz</w><w>gab</w><w>ſy</w><w>myr</w><w>an</w></l>
@@ -2359,6 +2380,7 @@
                 </lg>
                 <pb n="11r"/>
                 <cb n="a"/>
+                <fw ana="hc:Catchword"><lb facs="#a_11r-b" n="1"></lb>####</fw>
                 <lg>
                     <l n="627"><lb n="1"/><w>Nicht</w><w>ſcho<choice><am>n͛</am><ex>ner</ex></choice></w><w>wan</w><w>er</w><w><choice><orig>v</orig><reg>u</reg></choice>ff</w><w>gat</w></l>
                     <l n="628"><lb n="2"/><w><choice><orig>V</orig><reg>U</reg></choice>nd</w><w>yn</w><w>des</w><w>luftes</w><w>trube</w><w><choice><am>v͛</am><ex>ver</ex></choice> lat</w></l>
@@ -3787,7 +3809,9 @@
                     <l n="1329"><lb n="24"/><w><hi rendition="hc:Versal">S</hi>y</w><w join="right">en</w><w join="left">ſparte</w><w>mit</w><w>ir</w><w>hende</w></l>
                     <l n="1330"><lb n="25"/><w><hi rendition="hc:Versal">D</hi>az</w><w>har</w><w>noch</w><w>daz</w><w>gebende</w></l>
                 </lg>
+                <fw ana="hc:Catchword"><lb facs="#a_22v-b" n="1"/>####</fw>
                 <pb n="23r"/>
+                <fw ana="hc:Catchword"><lb facs="#a_23r-b" n="1"/>####</fw>
                 <cb n="a"/>
                 <lg>
                     <l n="1331"><lb n="1"/><w>Wo</w><w>ir</w><w>daz</w><w>bloz</w><w>der ſchein</w></l>
@@ -5103,6 +5127,7 @@
                 <lg>
                     <l n="1965"><lb n="27"/><w><hi rendition="hc:Versal">D</hi>az</w><w>wil</w><w>ich</w><w>wol</w><w>mit</w><w><choice><orig>v</orig><reg>u</reg></choice>ch</w><w>behabin</w></l>
                     <pb n="35r"/>
+                    <fw ana="hc:Catchword"><lb facs="#a_35r-b" n="1"/>####</fw>
                     <cb n="a"/>
                     <l n="1966"><lb n="1"/><w><hi rendition="hc:Versal">W</hi>an</w><w>yr</w><w>habet</w><w>yn</w><w>begraben</w></l>
                 </lg>
@@ -6301,7 +6326,9 @@
                     <l n="2563"><lb n="22"/><w><hi rendition="hc:Versal"><choice><orig>V</orig><reg>U</reg></choice></hi>nd</w><w>ſyn</w><w>tëgelichin</w><w>ſpot</w></l>
                     <l n="2564"><lb n="23"/><w><hi rendition="hc:Versal">D</hi>es</w><w>lobet</w><w>hër</w><w>ywyn</w><w>got</w></l>
                 </lg>
+                <fw ana="hc:Catchword"><lb facs="#a_46v-b" n="1"/>####</fw>
                 <pb n="47r"/>
+                <fw ana="hc:Catchword"><lb facs="#a_47r-b" n="1"/>####</fw>
                 <cb n="a"/>
                 <lg>
                     <l n="2565"><lb n="1"/><w><hi rendition="hc:Versal">A</hi>uch</w><w>ſage</w><w>ich</w><w>uch</w><w>ein</w><w>m<choice><am>e͛</am><ex>ere</ex></choice></w></l>
@@ -7529,7 +7556,9 @@
                     <l n="3161"><lb n="22"/><w><hi rendition="hc:Versal">D</hi>az</w><w>ſich</w><w>eyn</w><w>wyp</w><w>wi<choice><am>d͛</am><ex>der</ex></choice></w><w>dy</w><w>man</w></l>
                     <l n="3162"><lb n="23"/><w><hi rendition="hc:Versal">N</hi><choice><am>ū</am><ex>um</ex></choice><choice><am>m͛</am><ex>mer</ex></choice></w><w>wol</w><w>behuten</w><w>kan</w></l>
                 </lg>
+                <fw ana="hc:Catchword"><lb facs="#a_58v-b" n="1"/>####</fw>
                 <pb n="59r"/>
+                <fw ana="hc:Catchword"><lb facs="#a_59r-b" n="1"/>####</fw>
                 <cb n="a"/>
                 <lg>
                     <l n="3163"><lb n="1"/><w><hi rendition="hc:Versal">C</hi>zwar</w><w><choice><orig>v</orig><reg>u</reg></choice>ns</w><w>was</w><w>mit</w><w>uch</w><w>czu</w><w>gach</w></l>
@@ -8621,7 +8650,9 @@
                     <l n="3699"><lb n="21"/><w><hi rendition="hc:Versal">D</hi>es</w><w>beſtin</w><w>harniſch</w><w>daz</w><w>man</w><w>vant</w></l>
                     <l n="3700"><lb n="22"/><w><hi rendition="hc:Versal"><choice><orig>V</orig><reg>U</reg></choice></hi>nd</w><w>daz</w><w>ſchönſte</w><w>ros</w><w><choice><orig>v̈</orig><reg>u</reg></choice><choice><am>b͛</am><ex>ber</ex></choice></w><w>alliz</w><w>lant</w></l>
                 </lg>
+                <fw ana="hc:Catchword"><lb facs="#a_70v-b" n="1"/>####</fw>
                 <pb n="71r"/>
+                <fw ana="hc:Catchword"><lb facs="#a_71r-b" n="1"/>####</fw>
                 <cb n="a"/>
                 <lg>
                     <l n="3701"><lb n="1"/><metamark ana="hc:CueInitial ">n</metamark><w><supplied><hei:initial ana="hc:Lombard" hei:heightLines="2">N</hei:initial></supplied><choice><orig>v</orig><reg>u</reg></choice></w><w>was</w><w>bereite</w><w>der</w><w>gaſt</w></l>
@@ -9775,8 +9806,10 @@
                 </lg>
                 <lg>
                     <l n="4259"><lb n="22"/><w><hi rendition="hc:Versal">D</hi>o</w><w>hulffet</w><w>yr</w><w>myr</w><w><choice><orig>v</orig><reg>u</reg></choice>ſ<choice><am>z͛</am><ex>zer</ex></choice></w><w>ſorgin</w></l>
+                    <fw ana="hc:Catchword"><lb facs="#a_82v-b" n="1"/>####</fw>
                     <pb n="83r"/>
                     <cb n="a"/>
+                    <fw ana="hc:Catchword"><lb facs="#a_83r-b" n="1"/>####</fw>
                     <l n="4260"><lb n="1"/><w><hi rendition="hc:Versal">A</hi>ſo</w><w>tun</w><w>ich</w><w>morgin</w></l>
                 </lg>
                 <lg>
@@ -10923,7 +10956,9 @@
                 </lg>
                 <lg>
                     <l n="4821"><lb n="23"/><w><hi rendition="hc:Versal">E</hi>r</w><w>horte</w><w>eyn</w><w>meſſe</w><w>frü</w></l>
+                    <fw ana="hc:Catchword"><lb facs="#a_94v-b" n="b"/>####</fw>
                     <pb n="95r"/>
+                    <fw ana="hc:Catchword"><lb facs="#a_95r-b" n="b"/>####</fw>
                     <cb n="a"/>
                     <l n="4822"><lb n="1"/><w><hi rendition="hc:Versal"><choice><orig>V</orig><reg>U</reg></choice></hi>nd</w><w>bereitte</w><w>ſich</w><w>dar</w><w>czü</w></l>
                 </lg>
@@ -12111,7 +12146,9 @@
                 </lg>
                 <lg>
                     <l n="5419"><lb n="24"/><w><hi rendition="hc:Versal">G</hi>ewan</w><w>er</w><w>czornis</w><w>alſo</w><w>vil</w></l>
+                    <fw ana="hc:Catchword" facs="#a_106v-b" n="b">####</fw>
                     <pb n="107r"/>
+                    <fw ana="hc:Catchword"><lb facs="#a_107r-b" n="b"/>####</fw>
                     <cb n="a"/>
                     <l n="5420"><lb n="1"/><w><hi rendition="hc:Versal">D</hi>az</w><w>ër</w><w>ſy</w><w>brochte</w><w><choice><orig>v</orig><reg>u</reg></choice>ff</w><w>daz</w><w>czil</w></l>
                 </lg>
@@ -13276,6 +13313,7 @@
                 <lg>
                     <l n="5987"><lb n="23"/><w><hi rendition="hc:Versal">D</hi>iſin</w><w>ſegin</w><w>tet</w><w>ſÿ</w><w>für</w><w>ſich</w></l>
                     <pb n="119r"/>
+                    <fw ana="hc:QuireSignature"><lb facs="#a_119r-b" n="b"/><num value="11">xi</num></fw>
                     <cb n="a"/>
                     <l n="5987,1" hei:replicates="#xpath(//l[@n='5987'])"><lb n="1"/><w><hi rendition="hc:Versal">D</hi>iſen</w><w>ſegin</w><w>tet</w><w>ſy</w><w>vur</w><w>ſich</w></l>
                     <!--Verswiederholung! Wechsel der Schreiber-Hand?     -->
@@ -14493,6 +14531,7 @@
                     <l n="6578"><lb n="23"/><w><hi rendition="hc:Versal">D</hi>az</w><w>er</w><w>an<choice><am>d͛</am><ex>der</ex></choice>s</w><w>nyt</w><w join="right">en</w><w join="left">pflack</w></l>
                 </lg>
                 <pb n="131r"/>
+                <fw ana="hc:QuireSignature"><lb facs="#a_131r-b" n="b"/><num value="12">xii</num></fw>
                 <cb n="a"/>
                 <lg>
                     <l n="6579"><lb n="1"/><w><hi rendition="hc:Versal">D</hi>er</w><w join="right">en</w><w join="left">weiz</w><w>nyt</w><w>daz</w><w>ein</w><w>bi<choice><am>d͛</am><ex>der</ex></choice></w><w>man</w></l>
@@ -15708,6 +15747,7 @@
                 <lg>
                     <l n="7247"><lb n="24"/><w><hi rendition="hc:Versal">E</hi>z</w><w>wart</w><w>do</w><w>von</w><w>yn</w><w>beidin</w></l>
                     <pb n="143r"/>
+                    <fw ana="hc:QuireSignature"><lb facs="#a_143r-b" n="b"/><num value="13">xiii</num></fw>
                     <cb n="a"/>
                     <l n="7248"><lb n="1"/><w><hi rendition="hc:Versal">E</hi>in</w><w>gemütlich</w><w>ſcheydin</w></l>
                 </lg>
@@ -16903,6 +16943,7 @@
                     <l n="7970"><lb n="24"/><w><hi rendition="hc:Versal">D</hi>az</w><w>yr</w><w>abir</w><w>myn</w><w><choice><am>h͛</am><ex>her</ex></choice>re</w></l>
                 </lg>
                 <pb n="156r"/>
+                <fw ana="hc:QuireSignature"><lb facs="#a_156r-b" n="b"/><num value="14">xiiii</num></fw>
                 <cb n="a"/>
                 <lg>
                     <l n="7971"><lb n="1"/><w><hi rendition="hc:Versal">W</hi>erdin</w><w>ſullet</w><w>yn</w><w>kürc<choice><am>z͛</am><ex>zer</ex></choice></w><w>friſt</w></l>
