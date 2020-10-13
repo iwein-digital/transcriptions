@@ -56,7 +56,7 @@
                     <l n="7"><lb n="7"/><w><hi rendition="hc:RedStroke">N</hi>ach</w><w>lobe</w><w>kunde</w><w>ſtritten</w></l>
                     <l n="8"><lb n="8"/><w><hi rendition="hc:RedStroke">E</hi>r</w><w>hett</w><w>by</w><w>ſinen</w><w>czytten</w></l>
                 </lg>
-                <!-- Vanessa, observa que xa metín a etiqueta <hi> en cada primeira palabra de vers. Co tabulador saltas directamente a ela. Pero cando hai iniciais, tes que borrála! -->
+                <!-- Vanessa, observa que xa metín a etiqueta <hi> en cada primeira palabra de verso. Co tabulador saltas directamente a ela. Pero cando hai iniciais, tes que borrála antes de poñer o código da inicial (ctrl+i) -->
                 <lg>
                     <l n="9"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                     <l n="10"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
@@ -9047,7 +9047,7 @@ MOI BEN RAQUEL!! É un bo comenzo, nótase, dentro deste trozo que fixeches, com
                 <lg>
                     <l n="4563"><lb n="21"/><w>Wes</w><w>er</w><w>in</w><w>gebette</w></l>
                     <l n="4564"><lb n="22"/><w>Sin</w><w>er</w><w>ſin</w><subst><del rendition="hc:Strikethrough"><w>ſtaͤte</w></del><add hei:placeRef="hc:Inline"><w><choice><orig>v</orig><reg>u</reg></choice>nſtaͤte</w></add></subst></l>
-                    <!--Creo que o de borrar palabras aínda non o pillei ben SE É A PALABRA ENTEIRA, O 'DEL' VAI POR FORA DA 'W'. E A MAIORES TES QUE POÑER UN 'SUBST', PORQUE SUBSTITÚA UNHA PALABRA POLA OUTRA   -->
+                    <!--Creo que o de borrar palabras aínda non o pillei ben SE É A PALABRA ENTEIRA, O 'DEL' VAI POR FORA DA 'W'. E A MAIORES TES QUE POÑER UN 'SUBST', PORQUE SUBSTITÚE UNHA PALABRA POLA OUTRA   -->
                 </lg>
                 <lg>
                     <l n="4565"><lb n="23"/><w>Dem</w><w>er</w><w>wol</w><w>gefalle</w></l>
