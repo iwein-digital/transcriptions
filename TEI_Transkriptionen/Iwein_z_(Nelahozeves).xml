@@ -35,7 +35,7 @@
             <pb n="299"/>
             <cb n="a"/>
             <docTitle>
-                <titlePart> <lb n="0"/> <hi hei:color="Red"><w>Das</w><w>buͦch</w><w>von </w><w>her</w><w>ywin</w></hi> </titlePart>
+                <titlePart> <lb n="0"/> <hi hei:color="Red"><w>Das</w><w>buͦch</w><w>von</w><w>her</w><w>ywin</w></hi> </titlePart>
             </docTitle>
         </front>
         <body>
@@ -56,117 +56,118 @@
                     <l n="7"><lb n="7"/><w><hi rendition="hc:RedStroke">N</hi>ach</w><w>lobe</w><w>kunde</w><w>ſtritten</w></l>
                     <l n="8"><lb n="8"/><w><hi rendition="hc:RedStroke">E</hi>r</w><w>hett</w><w>by</w><w>ſinen</w><w>czytten</w></l>
                 </lg>
-                <!-- Vanessa, observa que xa metín a etiqueta <hi> en cada primeira palabra de verso. Co tabulador saltas directamente a ela. Pero cando hai iniciais, tes que borrála antes de poñer o código da inicial (ctrl+i) -->
                 <lg>
-                    <l n="9"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
-                    <l n="10"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="9"><lb n="9"/><w><hi rendition="hc:RedStroke">G</hi>elebet</w><w>alſo</w><w>ſchone</w></l>
+                    <l n="10"><lb n="10"/><w><hi rendition="hc:RedStroke">D</hi>as</w><w>er</w><w>die</w><w>erent</w><w>krone</w></l>
                 </lg>
                 <lg>
-                    <l n="11"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
-                    <l n="12"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="11"><lb n="11"/><w><hi rendition="hc:RedStroke">T</hi>ruͦg</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>noch</w><w>ſie</w><w>nieman</w><w>tret</w></l>
+                    <l n="12"><lb n="12"/><w><hi rendition="hc:RedStroke">D</hi>as</w><w>habent</w><w>die</w><w>warhait</w></l>
                 </lg>
                 <lg>
-                    <l n="13"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
-                    <l n="14"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="13"><lb n="13"/><w><hi rendition="hc:RedStroke">S</hi>ine</w><w>land lu̍te</w></l>
+                    <l n="14"><lb n="14"/><w><hi rendition="hc:RedStroke">S</hi>ie</w><w><choice><orig>i</orig><reg>j</reg></choice>ehend</w><w>er</w><w>leb</w><w>noch</w><w>hu̍te</w></l>
                 </lg>
                 <lg>
-                    <l n="15"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
-                    <l n="16"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="16"><lb n="15"/><w><hi rendition="hc:RedStroke">I</hi>m</w><w>iſt</w><w>der</w><w>lib</w><w>erſtorben</w></l>
+                    <l n="15"><lb n="16"/><w><hi rendition="hc:RedStroke">E</hi>r</w><w>hett</w><w>das</w><w>lob</w><w>erworben</w></l>
                 </lg>
                 <lg>
-                    <l n="17"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
-                    <l n="18"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="17"><lb n="17"/><w><hi rendition="hc:RedStroke">D</hi>az</w><w>doch</w><w>lobet</w><w>y<choice><am>m̄</am><ex>mm</ex></choice>er</w><w>ſin</w><w>name</w></l>
+                    <l n="18"><lb n="18"/><w><hi rendition="hc:RedStroke">E</hi>r</w><w>iſt</w><w>laſterlicher</w><w>ſchame</w></l>
                 </lg>
                 <lg>
-                    <l n="19"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
-                    <l n="20"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="19"><lb n="19"/><w><hi rendition="hc:RedStroke">Y</hi>mmer</w><w>vil</w><w>gar</w><w>erwert</w></l>
+                    <l n="20"><lb n="20"/><w><hi rendition="hc:RedStroke">D</hi>er</w><w>noch</w><w>nach</w><w>ſinem</w><w>ſitten</w><w>foͤrt</w></l>
                 </lg>
                 <lg>
-                    <l n="21"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
-                    <l n="22"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="21"><lb n="21"/><w><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">A</hei:initial>in</w><w>ritter</w><w>der</w><w>gelert</w><w>was</w></l>
+                    <l n="22"><lb n="22"/><w><hi rendition="hc:RedStroke"><choice><orig>V</orig><reg>U</reg></choice></hi>nd</w><w join="right">er</w><w join="left">s</w><w>an</w><w>ainem</w><w>buͦch</w><add hei:placeRef="hc:Inline"><w>laſz</w></add></l>
                 </lg>
                 <lg>
-                    <l n="23"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
-                    <l n="24"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="23"><lb n="23"/><del rendition="hc:RedStrikethrough"><w>laſz</w></del><w><hi rendition="hc:RedStroke"><choice><orig>V</orig><reg>U</reg></choice></hi>nd</w><w>wenn</w><w>er</w><w>ſine</w><w>ſtunde</w></l>
+                    <l n="24"><lb n="24"/><w><hi rendition="hc:RedStroke">N</hi>it</w><w>wol</w><w>bewenten</w><w>kunde</w></l>
                 </lg>
                 <lg>
-                    <l n="25"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
-                    <l n="26"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="25"><lb n="25"/><w><hi rendition="hc:RedStroke">D</hi>o</w><w>er</w><w>doch</w><w>dichten</w><w>pflag</w></l>
+                    <l n="26"><lb n="26"/><w><hi rendition="hc:RedStroke">D</hi>as</w><w>man</w><w>gerne</w><w>hoͤren</w><w>mag</w></l>
                 </lg>
                 <lg>
-                    <l n="27"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
-                    <l n="28"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="27"><lb n="27"/><w><hi rendition="hc:RedStroke">D</hi>o</w><w>koͤrt</w><w>er</w><w>ſinen</w><w>fliſz</w><w>an</w></l>
+                    <l n="28"><lb n="28"/><w><hi rendition="hc:RedStroke">D</hi>er</w><w>was</w><w>genant</w><w>hartman</w><note ana="hc:TranscriptionNote" resp="Victor">Von späterer Hand doppelt unterstrichen</note></l>
                 </lg>
                 <lg>
-                    <l n="29"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
-                    <l n="30"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="29"><lb n="29"/><w><hi rendition="hc:RedStroke"><choice><orig>V</orig><reg>U</reg></choice></hi>nd</w><w>was</w><w>ain</w><w>öwere</w></l>
+                    <l n="30"><lb n="30"/><w><hi rendition="hc:RedStroke">D</hi>er</w><w>tichtet</w><w>diſe</w><w>mere</w></l>
                 </lg>
                 <lg>
-                    <l n="31"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
-                    <l n="32"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="31"><lb n="31"/><w><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">E</hei:initial>S</w><w>het</w><w>der</w><w>ku̍ng</w><w>artus</w></l>
+                    <l n="32"><lb n="32"/><w><hi rendition="hc:RedStroke">Z</hi>uͦ</w><w>karidel</w><w join="right">in</w><w join="left">ſin</w><w>huſz</w></l>
+                </lg>
+                <cb n="b"/>
+                <lg>
+                    <l n="33"><lb n="1"/><w><hi rendition="hc:RedStroke">Z</hi>e</w><w>ainem</w><w>pfin<subst><del rendition="hc:Adapted">ſta</del><add rendition="hc:Adapted">gſt</add></subst>ag</w><w>geleit</w></l>
+                    <l n="34"><lb n="2"/><w><hi rendition="hc:RedStroke">N</hi>ach</w><w>richer</w><w>gewonhait</w></l>
                 </lg>
                 <lg>
-                    <l n="33"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
-                    <l n="34"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="35"><lb n="3"/><w><hi rendition="hc:RedStroke">A</hi>in</w><w>alſo</w><w>ſchoͤne</w><w>hochzÿt</w></l>
+                    <l n="36"><lb n="4"/><w><hi rendition="hc:RedStroke">D</hi>as</w><w>er</w><w>da</w><w><choice><orig>u</orig><reg>v</reg></choice>or</w><w>noch</w><w>ſid</w></l>
                 </lg>
                 <lg>
-                    <l n="35"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
-                    <l n="36"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="37"><lb n="5"/><w><hi rendition="hc:RedStroke">E</hi>n kain</w><w>ſchöners</w><w>nie</w><w>gewan</w></l>
+                    <l n="38"><lb n="6"/><w><hi rendition="hc:RedStroke">D</hi>es</w><w>war<del rendition="hc:Strikethrough">d</del></w><w>des</w><w>was</w><w>ain</w><w>boͤſer</w><w>man</w></l>
                 </lg>
                 <lg>
-                    <l n="37"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
-                    <l n="38"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="39"><lb n="7"/><w><hi rendition="hc:RedStroke">I</hi><subst><del rendition="hc:Adapted">m</del><add rendition="hc:Adapted">n</add></subst></w><w>vil</w><w>ſchwachem</w><w>werde</w></l>
+                    <l n="40"><lb n="8"/><w><hi rendition="hc:RedStroke">V</hi>on</w><w><choice><orig>v̍</orig><reg>u</reg></choice>ch</w><w>geſamlet</w><w><choice><orig>v</orig><reg>u</reg></choice>ff</w><w>der</w><w>erde</w></l>
                 </lg>
                 <lg>
-                    <l n="39"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
-                    <l n="40"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="41"><lb n="9"/><w><hi rendition="hc:RedStroke">B</hi>y</w><w>nie</w><w>mannes</w><w>zyten</w><w>anderſchwa</w></l>
+                    <l n="42"><lb n="10"/><w><hi rendition="hc:RedStroke">S</hi>o</w><w>menig</w><w>guͦt</w><w>ritter</w><w>als</w><w>da</w></l>
                 </lg>
                 <lg>
-                    <l n="41"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
-                    <l n="42"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="43"><lb n="11"/><w><hi rendition="hc:RedStroke">O</hi>ch</w><w>ward</w><w>im</w><w join="right">ze</w><w join="left">lone</w><w>gegeben</w></l>
+                    <l n="44"><lb n="12"/><w><hi rendition="hc:RedStroke">A</hi>n</w><w>allen</w><w>wiſz</w><w>ain</w><w>wunſchlich</w><w>leben</w></l>
                 </lg>
                 <lg>
-                    <l n="43"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
-                    <l n="44"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="45"><lb n="13"/><w><hi rendition="hc:RedStroke">I</hi>m</w><w>liebet</w><w>der</w><w>hof</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>der</w><w>lib</w></l>
+                    <l n="46"><lb n="14"/><w><hi rendition="hc:RedStroke">M</hi>enig</w><w>man</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>wu<choice><am>n̄</am><ex>nn</ex></choice>iglich</w><w>wib</w></l>
                 </lg>
                 <lg>
-                    <l n="45"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
-                    <l n="46"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="47"><lb n="15"/><w><hi rendition="hc:RedStroke">D</hi>ie</w><w>ſchoͤnſten</w><w>von</w><w>den</w><w>richen</w></l>
+                    <l n="48"><lb n="16"/><w><hi rendition="hc:RedStroke">M</hi>ich</w><w><choice><orig>i</orig><reg>j</reg></choice>amert</w><w>ſicherlichen</w></l>
                 </lg>
                 <lg>
-                    <l n="47"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
-                    <l n="48"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="49"><lb n="17"/><w><hi rendition="hc:RedStroke"><choice><orig>V</orig><reg>U</reg></choice></hi>nd</w><w>hu̍lff</w><w>es</w><w><choice><orig>v̍</orig><reg>u</reg></choice>tz</w><w>ich</w><w>woͤlt</w><w>es</w><w>klagen</w></l>
+                    <l n="50"><lb n="18"/><w><hi rendition="hc:RedStroke">D</hi>as</w><w>nun</w><w>by</w><w><choice><orig>v</orig><reg>u</reg></choice>nſern</w><w>tagen</w></l>
                 </lg>
                 <lg>
-                    <l n="49"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
-                    <l n="50"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="51"><lb n="19"/><w><hi rendition="hc:RedStroke">S</hi>olich</w><w>froͤd</w><w>nimmer</w><w>werden</w><w>mag</w></l>
+                    <l n="52"><lb n="20"/><w><hi rendition="hc:RedStroke">D</hi>er</w><w>man</w><w>czuͦ</w><w>den</w><w>czyten</w><w>pflag</w></l>
                 </lg>
                 <lg>
-                    <l n="51"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
-                    <l n="52"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="53"><lb n="21"/><w><hi rendition="hc:RedStroke">D</hi>och</w><w>muͤſſen</w><w>wir</w><w>och</w><w>geneſen</w></l>
+                    <l n="54"><lb n="22"/><w><hi rendition="hc:RedStroke">I</hi>ch</w><w join="right">en</w><w join="left">wolt</w><w>doch</w><w>nit</w><w>ſin</w><w>geweſen</w></l>
                 </lg>
                 <lg>
-                    <l n="53"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
-                    <l n="54"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="55"><lb n="23"/><w><hi rendition="hc:RedStroke">D</hi>as</w><w>ich</w><w>nun</w><w>nit</w><w join="right">en</w><w join="left">ware</w></l>
+                    <l n="56"><lb n="24"/><w><hi rendition="hc:RedStroke">D</hi>as</w><w><choice><orig>v</orig><reg>u</reg></choice>ns</w><w>doch</w><w>mit</w><w>ir</w><w>mere</w></l>
                 </lg>
                 <lg>
-                    <l n="55"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
-                    <l n="56"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="57"><lb n="25"/><w><hi rendition="hc:RedStroke">R</hi>echt</w><w>woll</w><w>weſen</w><w>ſol</w></l>
+                    <l n="58"><lb n="26"/><w><hi rendition="hc:RedStroke">D</hi>och</w><w>daten</w><w>in</w><w>die</w><w>werck</w><w>wol</w></l>
                 </lg>
                 <lg>
-                    <l n="57"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
-                    <l n="58"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="59"><lb n="27"/><w><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="1">A</hei:initial><hi rendition="hc:RedStroke">R</hi>tus</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>du̍</w><w>ku̍ngin</w></l>
+                    <l n="60"><lb n="28"/><w><hi rendition="hc:RedStroke">I</hi>r</w><w>yetweders</w><w><choice><orig>v</orig><reg>u</reg></choice>nder</w><w>in</w></l>
                 </lg>
                 <lg>
-                    <l n="59"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
-                    <l n="60"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="61"><lb n="29"/><w><hi rendition="hc:RedStroke">S</hi>ich</w><w><choice><orig>v</orig><reg>u</reg></choice>ff</w><w>ir</w><w>aller</w><w>willen</w><w>flaiſz</w></l>
+                    <l n="62"><lb n="30"/><w><hi rendition="hc:RedStroke">D</hi>o</w><w>man</w><w>des</w><w>pfingſttages</w><w>erbaiſz</w></l>
                 </lg>
+                <pb n="300"/>
                 <lg>
-                    <l n="61"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
-                    <l n="62"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
-                </lg>
-                <lg>
-                    <l n="63"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="63"><lb n="1"/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                     <l n="64"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
@@ -9154,11 +9155,10 @@
                 <lg>
                     <l n="4645"><lb n="19"/><w>Er</w><w>gefuͤrt</w><w><choice><orig>v̍</orig><reg>u̍</reg></choice>ber</w><w>minen</w><w>danck</w></l>
                     <l n="4646"><lb n="20"/><w>Nu̍mer</w><w><choice><orig>v̍</orig><reg>u̍</reg></choice>ber</w><w>ains</w><w>ſperſz</w><w>lang</w></l>
-                    <!--Revisado Victor 24/10/2020     -->
                 </lg>
                 <lg>
                     <l n="4662"><lb n="21"/><w>Sid</w><w>ich</w><w>mich</w><w>es</w><w>angenommen</w><w>han</w></l>
-                    <!--eliminei dende o verso 4647 - 4661. Engadín: 4662,1     -->
+                    <!--eliminei dende o verso 4647 - 4661. Engadín: 4662,1     BEN!!-->
                     <l n="4662,1"><lb n="22"/><w>Es</w><w>muͦſz</w><w>mir</w><w>an</w><w>das</w><w>leben</w><w>gan</w></l>
                 </lg>
                 <lg>
@@ -9171,7 +9171,7 @@
                 </lg>
                 <lg>
                     <l n="4667"><lb n="27"/><w>Zuͦ</w><w>ſinen</w><w><choice><orig>v</orig><reg>u</reg></choice>neren</w></l>
-                    <l n="4668"><lb n="28"/><w>Als</w><w>er</w><w>den</w><w>gaſp</w><w>batt</w><w>keren</w></l>
+                    <l n="4668"><lb n="28"/><w>Als</w><w>er</w><w>den</w><w>gaſt</w><w>batt</w><w>keren</w></l>
                 </lg>
                 <lg>
                     <l n="4669"><lb n="29"/><w>Das</w><w>was</w><w>in</w><w>ain</w><w>walde</w></l>
@@ -9182,14 +9182,14 @@
                     <l n="4672"><lb n="32"/><w>Enbor</w><w><choice><orig>v</orig><reg>u</reg></choice>ſz</w><w>dem</w><w>ſattel</w><w>hin</w></l>
                 </lg>
                 <lg>
-                    <l n="4673"><lb n="33"/><w>Das</w><w>in</w><w>ain</w><w>aſcht</w><w>den</w><w>helm</w><w>ſieng</w></l>
+                    <l n="4673"><lb n="33"/><w>Das</w><w>im</w><w>ain</w><w>aſcht</w><w>den</w><w>helm</w><w>ſieng</w></l>
                     <cb n="a"/>
                     <l n="4674"><lb n="1"/><w><choice><orig>V</orig><reg>U</reg></choice>nd</w><w>by</w><w>der</w><w>gurgel</w><w>hieng</w></l>
                 </lg>
                 <lg>
                     <l n="4675"><lb n="2"/><w><choice><orig>V</orig><reg>U</reg></choice>nd</w><w>wa<choice><am>n̄</am><ex>nn</ex></choice></w><w>ſin</w><w>gefoͤrte</w></l>
                     <l n="4676"><lb n="3"/><w>Der</w><w>u̍bel</w><w>tu̍fel</w><w>in</w><w>ernerte</w></l>
-                    <!--o de "tufel" é unha liña vertical?     -->
+                    <!--o de "tufel" é unha liña vertical?   PSÉ, SI, SAIULLE MAL, PERO É O QUE PON  -->
                 </lg>
                 <lg>
                     <l n="4677"><lb n="4"/><w>So</w><w>waͤr</w><w>er</w><w>benamen</w><w>tod</w></l>
@@ -9197,7 +9197,7 @@
                 </lg>
                 <lg>
                     <l n="4679"><lb n="6"/><w>Er</w><w>ward</w><w>laider</w><w>ledig</w><w>ſid</w></l>
-                    <l n="4680"><lb n="7"/><w>Da</w><w>hieng</w><w>er</w><w>da</w><w><choice><orig>v</orig><reg>u</reg></choice>ntz</w><w>an</w><w>die</w><w>syt</w></l>
+                    <l n="4680"><lb n="7"/><w>Da</w><w>hieng</w><w>er</w><w>da</w><w><choice><orig>v</orig><reg>u</reg></choice>ntz</w><w>an</w><w>die</w><w>zyt</w></l>
                 </lg>
                 <lg>
                     <l n="4681"><lb n="8"/><w>Das</w><w>er</w><w>vor</w><w>in</w><w>allen</w><w>laid</w></l>
@@ -9209,7 +9209,7 @@
                 </lg>
                 <lg>
                     <l n="4685"><lb n="12"/><w>Nit</w><w>anders</w><w>da<choice><am>n̄</am><ex>nn</ex></choice></w><w>ain</w><w>dieb</w></l>
-                    <!--imaxínome que "dan" é abreviatura de "dann"?     -->
+                    <!--imaxínome que "dan" é abreviatura de "dann"?     CORRECTO-->
                     <l n="4686"><lb n="13"/><w>Der</w><w>erloſzt</w><w>in</w><w>nit</w><w>wa<choice><am>n̄</am><ex>nn</ex></choice></w><w>es</w><w>was</w><w>im</w><w>liep</w></l>
                 </lg>
                 <lg>
@@ -9219,23 +9219,23 @@
                 </lg>
                 <lg>
                     <l n="4689"><lb n="16"/><w>Das</w><w>im</w><w>nit</w><w>alſo</w><w>geſchach</w></l>
-                    <l n="4690"><lb n="17"/><w>Wa<choice><am>n̄</am><ex>nn</ex></choice></w><w>er</w><w>in</w><w>such</w><w>der</w><w>inder</w><w>ſtach</w></l>
+                    <l n="4690"><lb n="17"/><w>Wa<choice><am>n̄</am><ex>nn</ex></choice></w><w>er</w><w>in</w><w>ouch</w><w>der nider</w><w>ſtach</w></l>
                 </lg>
                 <lg>
                     <l n="4691"><lb n="18"/><w>Die</w><w>in</w><w>ſid</w><w>hangen</w><w>ſahen</w></l>
                     <l n="4692"><lb n="19"/><w>Den</w><w>benam</w><w>er</w><w>ir</w><w>gahen</w></l>
                 </lg>
                 <lg>
-                    <l n="4693"><lb n="20"/><w>Der</w><w><choice><orig>v</orig><reg>u</reg></choice>nwill</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>ſin</w><w>ſchahkait</w></l>
+                    <l n="4693"><lb n="20"/><w>Der</w><w><choice><orig>v</orig><reg>u</reg></choice>nwill</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>ſin</w><w>ſchalckait</w></l>
                     <l n="4694"><lb n="21"/><w>Das</w><w>menglich</w><w>der</w><w>fu̍r</w><w>rait</w></l>
                 </lg>
                 <lg>
-                    <l n="4695"><lb n="22"/><w>In</w><w>er</w><w>rait</w><w><choice><orig>v</orig><reg>u</reg></choice>ff</w><w>ain</w><w>gefilde</w></l>
+                    <l n="4695"><lb n="22"/><w>In</w><w>er rait</w><w><choice><orig>v</orig><reg>u</reg></choice>ff</w><w>aim</w><w>gefilde</w></l>
                     <l n="4696"><lb n="23"/><w>Donides</w><w>der</w><w>wilde</w></l>
                 </lg>
                 <lg>
-                    <l n="4697"><lb n="24"/><w><choice><orig>V</orig><reg>U</reg></choice>nd</w><w>brach</w><w>uff</w><w>im</w><w>ſinſper</w></l>
-                    <!--non estou moi segura da última palabra: non sei se "pp" ou "sp".     -->
+                    <l n="4697"><lb n="24"/><w><choice><orig>V</orig><reg>U</reg></choice>nd</w><w>brach</w><w><choice><orig>v</orig><reg>u</reg></choice>ff</w><w>im</w><w>ſin</w><w>ſper</w></l>
+                    <!--non estou moi segura da última palabra: non sei se "pp" ou "sp".   É 'SP', FAI UNHA ESPECIE DE LIGATURA  -->
                     <l n="4698"><lb n="25"/><w>Da</w><w>mit</w><w>ward</w><w>auch</w><w>er</w></l>
                 </lg>
                 <lg>
@@ -9253,16 +9253,14 @@
                 </lg>
                 <lg>
                     <l n="4721"><lb n="32"/><w>Mornetz</w><w>an</w><w>dem</w><w>naͤchſten</w><w>tage</w></l>
-                    <!--no manuscrito "andem" aparece xunto, pero eu teño que escribilo separado. Escríboo simplemente separado ou teño que facer algo máis?      -->
+                    <!--no manuscrito "andem" aparece xunto, pero eu teño que escribilo separado. Escríboo simplemente separado ou teño que facer algo máis?   A) SI, CANDO 2 PALABRAS ESTÁN ESCRITAS XUNTAS, PERO VAN SEPARADAS, etiquetámolas por separado pero poñemos un atributo 'join' (poste na 1ª das palabras, pulsas ctrl+J e xa cho fai). B) ESTE CASO PARÉCEME DUBIDOSO: ESTÁN MOI XUNTAS, PERO HAI UNHA MÍNIMA SEPARACIÓN. Nos casos dubidosos eu sempre suxiro facélo como estaría ben, é dicir neste caso tal e como o fixeches.  -->
                     <pb n="364"/>
                 <cb n="a"/>
                     <l n="4722"><lb n="1"/><w><choice><orig>V</orig><reg>U</reg></choice>nd</w><w>durch</w><w>des</w><w>ku̍nges</w><w>klage</w></l>
-                    <!--4723-24 eliminados     -->
                 </lg>
                 <lg>
                     <l n="4725"><lb n="2"/><w>Wider</w><w>gewi<choice><am>n̄</am><ex>nn</ex></choice>en</w><w>ſin</w><w>wib</w></l>
                     <l n="4726"><lb n="3"/><w>Oder</w><w>verlieren</w><w>den</w><w>lib</w></l>
-                    <!--eliminados 4727-4732     -->
                 </lg>
                 <lg>
                     <l n="4733"><lb n="4"/><w>Min</w><w>wib</w><w>iſt</w><w>ſin</w><w>ſchweſter</w></l>
@@ -9293,18 +9291,18 @@
                     <l n="4746"><lb n="17"/><w><choice><orig>V</orig><reg>U</reg></choice>nd</w><w>der</w><w>es</w><w>an</w><w>den</w><w>lib</w><w>gaut</w></l>
                 </lg>
                 <lg>
-                    <l n="4747"><lb n="18"/><w>Kain</w><w>ich</w><w>nit</w><w>dar</w><w>in</w><w>zyt</w></l>
+                    <l n="4747"><lb n="18"/><w>Kom</w><w>ich</w><w>nit</w><w>dar</w><w>in</w><w>zyt</w></l>
                     <!--Non estou segura da primeira palabra     -->
                     <l n="4748"><lb n="19"/><w>Ob</w><w>ir</w><w>des</w><w>gewiſz</w><w>ſid</w></l>
                 </lg>
                 <lg>
-                    <l n="4749"><lb n="20"/><w>Das</w><w><choice><orig>v</orig><reg>u</reg></choice>n<subst><del rendition=" hc:Overwritten">d</del><add hei:placeRef="hc:Inline">s</add></subst></w><w>der</w><w>ryſz</w><w>komet</w><w>ſo</w><w>fruͦ</w></l>
-                    <!--para non variar non sei se o borrado está ben: puxen que estaba "overwritten".      -->
+                    <l n="4749"><lb n="20"/><w>Das</w><w><choice><orig>v</orig><reg>u</reg></choice>n<subst><del rendition="hc:Adapted">d</del><add rendition="hc:Adapted">s</add></subst></w><w>der</w><w>ryſz</w><w>komet</w><w>ſo</w><w>fruͦ</w></l>
+                    <!--para non variar non sei se o borrado está ben: puxen que estaba "overwritten".  ESTÁ BEN RESOLTO, SO QUE ESTOS CASOS OS MARCAMOS COMO 'ADAPTED'    -->
                     <l n="4750"><lb n="21"/><w>We<choice><am>n̄</am><ex>nn</ex></choice></w><w>ich</w><w>min</w><w>recht</w><w>gethuͦ</w></l>
-                    <!--na última palabra teño dúbidas se é "gechuo" ou "gethuo" porque vexo o "c" moi pouco redondeado e máis próximo a un "t", pero non estou de todo segura.     -->
+                    <!--na última palabra teño dúbidas se é "gechuo" ou "gethuo" porque vexo o "c" moi pouco redondeado e máis próximo a un "t", pero non estou de todo segura.  ESTÁ PERFECTO   -->
                 </lg>
                 <lg>
-                    <l n="4751"><lb n="22"/><w>Das</w><w>ich</w><w>im</w><w>angeſige</w></l>
+                    <l n="4751"><lb n="22"/><w>Das</w><w>ich</w><w>im</w><w join="right">an</w><w join="left">geſige</w></l>
                     <l n="4752"><lb n="23"/><w>Ob</w><w>er</w><w>vor</w><w>mir</w><w>tod</w><w>gelige</w></l>
                 </lg>
                 <lg>
@@ -9316,14 +9314,14 @@
                     <l n="4756"><lb n="27"/><w>So</w><w>will</w><w>ich</w><w>in</w><w>durch</w><w><choice><orig>v̍</orig><reg>u̍</reg></choice>ch</w><w>beſtan</w></l>
                 </lg>
                 <lg>
-                    <l n="4757"><lb n="28"/><w><choice><orig>V</orig><reg>U</reg></choice>nd</w><w>durch</w><w>wer</w><w>edel</w><w>wib</w></l>
-                    <!--     sobre o "w" da terceira palabra hai unha liña vertical? é dicir, pode haber liñas verticais sobre consoantes?-->
+                    <l n="4757"><lb n="28"/><w><choice><orig>V</orig><reg>U</reg></choice>nd</w><w>durch</w><w><choice><orig>w̍</orig><reg>uw</reg></choice>er</w><w>edel</w><w>wib</w></l>
+                    <!--     sobre o "w" da terceira palabra hai unha liña vertical? é dicir, pode haber liñas verticais sobre consoantes? RECORDA QUE A 'W' É SEMICONSONANTE NESA ÉPOCA, COMO NO INGLÉS. As veces escriben 'w' para dicir 'wu' ou 'uw'. Neste caso sería 'úwer' (> euer). Considerámolo 'regularización', de xeito que regularizamos 'w > uw' e poñémole a rayiña na 'w' da <orig>-->
                     <l n="4758"><lb n="29"/><w>Wa<choice><am>n̄</am><ex>nn</ex></choice></w><w>mir</w><w>iſt</w><w>min</w><w>ſelbs</w><w>lib</w></l>
                 </lg>
                 <lg>
                     <l n="4759"><lb n="30"/><w>Nit</w><w>lieber</w><w>da<choice><am>n̄</am><ex>nn</ex></choice></w><w>ir</w><w>bruͦder</w><w>iſt</w></l>
-                    <l n="4760"><lb n="31"/><w>Nun</w><w>kam</w><w>gegen</w><w>im</w><w>an</w><w>der</w><w>friſt</w></l>
-                    <!--a mesma dúbida de "andem" de arriba pero con "ander".     -->
+                    <l n="4760"><lb n="31"/><w>Nun</w><w>kam</w><w>gegen</w><w>im</w><w join="right">an</w><w join="left">der</w><w>friſt</w></l>
+                    <!--a mesma dúbida de "andem" de arriba pero con "ander".  AQUÍ PARÉCEME MÁIS CLARO E PÚXENLLE O 'JOIN'   -->
                 </lg>
                 <lg>
                     <l n="4761"><lb n="32"/><w>Des</w><w>wirttes</w><w>tochter</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>ſin</w><w>wib</w></l>
@@ -9339,12 +9337,12 @@
                     <l n="4766"><lb n="5"/><w>Als</w><w>man</w><w>den</w><w>lieben</w><w>gaſt</w><w>ſol</w></l>
                 </lg>
                 <lg>
-                    <l n="4767"><lb n="6"/><w>So</w><w>ſprach</w><w>der</w><w>wirt</w><w>mich</w><w>dunket</w><w>guͦt</w></l>
-                    <l n="4768"><lb n="7"/><w>Das</w><w>vil</w><w>dieſt</w><w>haften</w><w>muͦt</w></l>
+                    <l n="4767"><lb n="6"/><w>Do</w><w>ſprach</w><w>der</w><w>wirt</w><w>mich</w><w>dunket</w><w>guͦt</w></l>
+                    <l n="4768"><lb n="7"/><w>Das</w><w>vil</w><w>dieſt haften</w><w>muͦt</w></l>
                 </lg>
                 <lg>
-                    <l n="4769"><lb n="8"/><w>Tragen</w><w>werm</w><w>gaſte</w></l>
-                    <!--A mesma dúbida coa segunda palabra: as consoantes poden levar liñas verticais?     -->
+                    <l n="4769"><lb n="8"/><w>Tragen</w><w><choice><orig>w̍</orig><reg>uw</reg></choice>erm</w><w>gaſte</w></l>
+                    <!--A mesma dúbida coa segunda palabra: as consoantes poden levar liñas verticais?   MESMA RESPOSTA !! -->
                     <l n="4770"><lb n="9"/><w>Er</w><w>het</w><w>ſich</w><w>alſo</w><w>vaſte</w></l>
                 </lg>
                 <lg>
@@ -9361,7 +9359,7 @@
                 </lg>
                 <lg>
                     <l n="4777"><lb n="16"/><w>Er</w><w>woͤl</w><w>durch</w><w><choice><orig>v</orig><reg>u</reg></choice>ns</w><w>tod</w><w>ligen</w></l>
-                    <l n="4778"><lb n="17"/><w>Oder</w><w>dem</w><w>ryſe</w><w>angeſigen</w></l>
+                    <l n="4778"><lb n="17"/><w>Oder</w><w>dem</w><w>ryſe</w><w join="right">an</w><w join="left">geſigen</w></l>
                 </lg>
                 <lg>
                     <l n="4779"><lb n="18"/><w>Dem</w><w>ich</w><w>ſo</w><w>vil</w><w>vertragen</w><w>nuͦſz</w></l>
@@ -9369,11 +9367,11 @@
                 </lg>
                 <lg>
                     <l n="4781"><lb n="20"/><w>Das</w><w>iſt</w><w>min</w><w>gebott</w></l>
-                    <l n="4782"><lb n="21"/><metamark ana="hc:CueInitial ">h</metamark><w><supplied><hei:initial ana="hc:Lombard" hei:heightLines="2">H</hei:initial></supplied>Er</w><w>ywin</w><w>ſprach</w><w>nun</w><w>woͤle</w><w>got</w></l>
+                    <l n="4782"><lb n="21"/><metamark ana="hc:CueInitial ">h</metamark><w><supplied><hei:initial ana="hc:Lombard" hei:heightLines="2">H</hei:initial></supplied>Er</w><w>ywin</w><w>ſprach</w><w join="right">nu</w><w join="left">n</w><w>woͤlle</w><w>got</w></l>
                 </lg>
                 <lg>
-                    <l n="4783"><lb n="22"/><w>Nit</w><w>das</w><w>mir</w><w>die</w><w><choice><orig>v</orig><reg>u</reg></choice>nzucht</w><w>geſchehe</w></l>
-                    <l n="4784"><lb n="23"/><w>Das</w><w>ich</w><w>zuͦ</w><w>minen</w><w>fuͤſſen</w><w>ſehen</w></l>
+                    <l n="4783"><lb n="22"/><w>Nit</w><pc>·</pc><w>das</w><w>mir</w><w>die</w><w><choice><orig>v</orig><reg>u</reg></choice>nzucht</w><w>geſchehe</w></l>
+                    <l n="4784"><lb n="23"/><w>Das</w><w>ich</w><w>zuͦ</w><w>minen</w><w>fuͤſſen</w><w>ſehe<del rendition="hc:Strikethrough">n</del></w></l>
                 </lg>
                 <lg>
                     <l n="4785"><lb n="24"/><w>Du̍</w><w>mines</w><w>her</w><w>gawins</w><w>ſchweſter</w><w>iſt</w></l>
@@ -9395,6 +9393,7 @@
                 <lg>
                     <l n="4811"><lb n="32"/><w>Sie</w><w>bryſzten</w><w>ſer</w><w>ſinen</w><w>muͦt</w></l>
                     <l n="4812"><lb n="33"/><w>Er</w><w>ducht</w><w>ſy</w><w>biderb</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>guͦt</w></l>
+                    <!--Revisado Victor 29/10/2020 – MOI BEN RAQUEL, COMO MELLORACHES!! XA LEVAS 500 VERSOS E BO RITMO     -->
                 </lg>
                 <pb n="365"/>
                 <cb n="a"/>
