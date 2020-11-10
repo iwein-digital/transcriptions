@@ -9687,9 +9687,8 @@
                 </lg>
                 <lg>
                     <l n="5047"><lb n="2"/><w>Do</w><w>ſchluͦg</w><w>im</w><w>der</w><w>ryſz</w><w>ainen</w><w>ſchlag</w></l>
-                    <!--Revisado Victor 7/11/2020     -->
-                    <l n="5048"><lb n="3"/><w>Das</w><w>er</w><w>viruer</w><w>ſ<choice><am>m̄</am><ex>mm</ex></choice>et</w><w>lag</w></l>
-                    <!--Non entendo a segunda palabra. Non sei tampouco se a terceira é correcta.     -->
+                    <l n="5048"><lb n="3"/><w>Das</w><w>er</w><w><choice><orig>v</orig><reg>u</reg></choice>n<choice><orig>u</orig><reg>v</reg></choice>er ſi<choice><am>n̄</am><ex>n</ex></choice>et</w><w>lag</w></l>
+                    <!--Non entendo a segunda palabra. Non sei tampouco se a terceira é correcta.  NON, ESA ERA DIFÍCIL!!-->
                 </lg>
                 <lg>
                     <l n="5049"><lb n="4"/><w>Fornen</w><w>uf</w><w>dem</w><w>roſz</w><w>fúr</w><w>tod</w></l>
@@ -9705,13 +9704,17 @@
                 </lg>
                 <lg>
                     <l n="5055"><lb n="10"/><w>Von</w><w>der</w><w>achſel</w><w>herab</w></l>
-                    <!--Os versos 5055-5057 levan comiñas. As comiñas son un "special character" ou valen as do teclado? as comiñas contan como unha palabra?
-os versos 5056 e 5057 teñen cambiada a orde. -->
-                    <l n="5057"><lb n="11"/><w>Als</w><w>ob</w><w>ain</w><w>och</w><w>erluͦte</w></l>
-                    <!--non entendo a última letra da palabra 4.      -->
+                    <!--Os versos 5055-5057 levan comiñas. As comiñas son un "special character" ou valen as do teclado? as comiñas contan como unha palabra? Os versos 5056 e 5057 teñen cambiada a orde. SON SIGNOS DE TRASPOSICIÓN-->
+                    <l n="5056"><lb n="12"/><metamark ana="hc:TranspositionMark" hei:placeRef="hc:ColumnMarginLeft hc:ColumnMarginRight">"</metamark><w><choice><orig>V</orig><reg>U</reg></choice>nd</w><w>das</w><w>der</w><w>michel</w><w>knabe</w></l>
+                    <listTranspose>
+                        <transpose>
+                            <ptr target="#xpath(//l[@n='5057'])"></ptr>
+                            <ptr target="#xpath(//l[@n='5056'])"></ptr>
+                        </transpose>
+                    </listTranspose>
                 </lg>
                 <lg>
-                    <l n="5056"><lb n="12"/><w><choice><orig>V</orig><reg>U</reg></choice>nd</w><w>das</w><w>der</w><w>michel</w><w>knabe</w></l>
+                    <l n="5057"><lb n="11"/><metamark ana="hc:TranspositionMark" hei:placeRef="hc:ColumnMarginLeft hc:ColumnMarginRight">"</metamark><w>Als</w><w>ob</w><w>ain</w><w>ochs</w><w>erluͦte</w></l>
                     <l n="5058"><lb n="13"/><w><choice><orig>V</orig><reg>U</reg></choice>nd</w><w>wandt</w><w>die</w><w>ruͦte</w></l>
                 </lg>
                 <lg>
@@ -9721,40 +9724,39 @@ os versos 5056 e 5057 teñen cambiada a orde. -->
                 <lg>
                     <l n="5061"><lb n="16"/><w>Do</w><w>entwaich</w><w>im</w><w>der</w><w>leow</w><w>dan</w></l>
                     <l n="5062"><lb n="17"/><w><choice><orig>V</orig><reg>U</reg></choice>nd</w><w>traf</w><w>weder</w><w>leowen</w><w>noch</w><w>man</w></l>
-                    <!--eliminado dende o 5063-5066     -->
                 </lg>
                 <lg>
-                    <l n="5067"><lb n="18"/><w>Do</w><w>het</w><w>ſich</w><w>her</w><w>ywin</w></l>
+                    <l n="5067"><lb n="18"/><w>Da</w><w>het</w><w>ſich</w><w>her</w><w>ywin</w></l>
                     <l n="5068"><lb n="19"/><w>Mit</w><w>vill</w><w>groſſen</w><w>wunden</w><w>zwain</w></l>
                 </lg>
                 <lg>
                     <l n="5069"><lb n="20"/><w>An</w><w>im</w><w>vil</w><w>wol</w><w>errochen</w></l>
-                    <!--a segunda letra da última palabra non sei moi ben que é. Creo que un "r" non é, pero tampouco se me ocorre outra posibilidade que coincida con esa escritura.      -->
-                    <l n="5070"><lb/><w>Er</w><w>het</w><w>im</w><w>geſtochen</w></l>
+                    <!--a segunda letra da última palabra non sei moi ben que é. Creo que un "r" non é, pero tampouco se me ocorre outra posibilidade que coincida con esa escritura.    SÍ, É UN 'R' – TEN DÚAS GRAFÍAS PARA O 'R'-->
+                    <l n="5070"><lb n="21"/><w>Er</w><w>het</w><w>im</w><w>geſtochen</w></l>
                 </lg>
                 <lg>
-                    <l n="5071"><lb n="21"/><w>Recht</w><w>da</w><w>das</w><w>hertz</w><w>lit</w></l>
-                    <l n="5072"><lb n="22"/><w>Do</w><w>was</w><w><del rendition="hc:Strikethrough">un</del>geendet</w><w>der</w><w>ſtrit</w></l>
+                    <l n="5071"><lb n="22"/><w>Recht</w><w>da</w><w>das</w><w>hertz</w><w>lit</w></l>
+                    <l n="5072"><lb n="23"/><w>Do</w><w>was</w><w><del rendition="hc:Strikethrough">un</del>geendet</w><w>der</w><w>ſtrit</w></l>
                 </lg>
                 <lg>
-                    <l n="5073"><lb n="23"/><w>Do</w><w>fiel</w><w>er</w><w>von</w><w>der</w><w>ſchwaͤre</w></l>
-                    <l n="5074"><lb n="24"/><w>Als</w><w>er</w><w>ain</w><w>boum</w><w>waͤre</w></l>
+                    <l n="5073"><lb n="24"/><w>Do</w><w>fiel</w><w>er</w><w>von</w><w>der</w><w>ſchwaͤre</w></l>
+                    <l n="5074"><lb n="25"/><w>Als</w><w>er</w><w>ain</w><w>boum</w><w>waͤre</w></l>
                 </lg>
                 <lg>
-                    <l n="5075"><lb n="25"/><metamark ana="hc:CueInitial ">v</metamark><w><supplied><hei:initial ana="hc:Lombard" hei:heightLines="2">V</hei:initial></supplied>On</w><w>des</w><w>riſſes</w><w>falle</w></l>
-                    <l n="5076"><lb n="26"/><w>Froͤwet</w><w>ſich</w><w>alle</w></l>
+                    <l n="5075"><lb n="26"/><metamark ana="hc:CueInitial ">u</metamark><w><supplied><hei:initial ana="hc:Lombard" hei:heightLines="2">V</hei:initial></supplied>On</w><w>des</w><w>riſſes</w><w>falle</w></l>
+                    <l n="5076"><lb n="27"/><w>Froͤwet</w><w>ſich</w><w>alle</w></l>
                 </lg>
                 <lg>
-                    <l n="5077"><lb n="27"/><w>Die</w><w>dan</w><w>wol</w><w>där</w><w>an</w><w>was</w><w>geſchehen</w></l>
-                    <l n="5078"><lb n="28"/><w>Sie</w><w>hetten</w><w>guͦtes</w><w>hail</w><w>geſehen</w></l>
+                    <l n="5077"><lb n="28"/><w>Die</w><w>dan</w><w>wol</w><w>där</w><w>an</w><w>was</w><w>geſchehen</w></l>
+                    <l n="5078"><lb n="29"/><w>Sie</w><w>hetten</w><w>guͦtes</w><w>hail</w><w>geſehen</w></l>
                 </lg>
                 <lg>
-                    <l n="5079"><lb n="29"/><w>Den</w><w>ritter</w><w>der</w><w>des</w><w>leowen</w><w>pflag</w></l>
-                    <l n="5080"><lb n="30"/><w>Wa<choice><am>n̄</am><ex>nn</ex></choice></w><w>ſie</w><w>lopten</w><w>in</w><w>fúr</w><w>den</w><w>tag</w></l>
+                    <l n="5079"><lb n="30"/><w>Den</w><w>ritter</w><w>der</w><w>des</w><w>leowen</w><w>pflag</w></l>
+                    <l n="5080"><lb n="31"/><w>Wa<choice><am>n̄</am><ex>nn</ex></choice></w><w>ſie</w><w>lopten</w><w>in</w><w>fúr</w><w>den</w><w>tag</w></l>
                 </lg>
                 <lg>
-                    <l n="5081"><lb n="31"/><w>Än</w><w>angſt</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>än</w><w>not</w></l>
-                    <l n="5082"><lb n="32"/><w>Do</w><w>der</w><w>riſz</w><w>laͤge</w><w>tod</w></l>
+                    <l n="5081"><lb n="32"/><w>Än</w><w>angſt</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>än</w><w>not</w></l>
+                    <l n="5082"><lb n="33"/><w>Do</w><w>der</w><w>riſz</w><w>laͤge</w><w>tod</w></l>
                 </lg>
                 <cb n="b"/>
                 <lg>
@@ -9766,8 +9768,7 @@ os versos 5056 e 5057 teñen cambiada a orde. -->
                     <l n="5086"><lb n="4"/><w>Wa<choice><am>n̄</am><ex>nn</ex></choice></w><w>er</w><w>in</w><w>hette</w><w>da</w></l>
                 </lg>
                 <lg>
-                    <l n="5087"><lb n="5"/><w>Nit</w><w join="right">ze</w><w join="left">ſu<choice><am>m̄</am><ex>mm</ex></choice>er</w><w>ſe</w><w>mere</w></l>
-                    <!--o signod de "sumer" é de abbr.?     -->
+                    <l n="5087"><lb n="5"/><w>Nit</w><w join="right">ze</w><w join="left">ſum<choice><am>ē</am><ex>en</ex></choice>t</w><del rendition="hc:Erased"><w>ſe</w></del><w>mere</w></l>
                     <l n="5088"><lb n="6"/><w>Ob</w><w>er</w><w>ſin</w><w>ere</w></l>
                 </lg>
                 <lg>
@@ -9785,7 +9786,7 @@ os versos 5056 e 5057 teñen cambiada a orde. -->
                 <lg>
                     <l n="5095"><lb n="13"/><w>Das</w><w>er</w><w>da</w><w>ruͦwen</w><w>woltte</w></l>
                     <l n="5096"><lb n="14"/><w>Er</w><w>en</w><w>mocht</w><w>noch</w><w>ſolte</w></l>
-                    <!--"en mocht" separado? Hai un pequeno espacio entre ambas palabras.     -->
+                    <!--"en mocht" separado? Hai un pequeno espacio entre ambas palabras.   CORRECTO-->
                 </lg>
                 <lg>
                     <l n="5097"><lb n="15"/><w>Da</w><w>antwurt</w><w>er</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>ſin</w><w>wib</w></l>
@@ -9798,7 +9799,6 @@ os versos 5056 e 5057 teñen cambiada a orde. -->
                 <lg>
                     <l n="5101"><lb n="19"/><metamark ana="hc:CueInitial ">d</metamark><w><supplied><hei:initial ana="hc:Lombard" hei:heightLines="2">D</hei:initial></supplied>As</w><w>er</w><w>hort</w><w>von</w><w>in</w><w>zwain</w></l>
                     <l n="5102"><lb n="20"/><w>Do</w><w>ſprach</w><w>her</w><w>ywin</w></l>
-                    <!--Eliminado 5103. Engadido 5104,1     -->
                 </lg>
                 <lg>
                     <l n="5104"><lb n="21"/><w>Ob</w><w>ich</w><w><choice><orig>v̍</orig><reg>u̍</reg></choice>ch</w><w>gedienet</w><w>han</w></l>
@@ -9825,7 +9825,8 @@ os versos 5056 e 5057 teñen cambiada a orde. -->
                     <l n="5114"><lb n="32"/><w><choice><orig>V</orig><reg>U</reg></choice>nd</w><w>gruͤſſend</w><w>in</w><w>von</w><w>mir</w></l>
                 </lg>
                 <lg>
-                    <l n="5115"><lb n="33"/><w><choice><orig>V</orig><reg>U</reg></choice>nd</w><w>fuͤerend</w><w>mit</w><w><choice><orig>v̍</orig><reg>u̍</reg></choice>ch</w><w><choice><orig>w̍</orig><reg>uw</reg></choice>er</w><w>kind</w></l>
+                    <l n="5115"><lb n="33"/><w><choice><orig>V</orig><reg>U</reg></choice>nd</w><w>fuͤerend</w><w>mit</w><w><choice><orig>v̍</orig><reg>u̍</reg></choice>ch</w><w><choice><orig>w̍</orig><reg>úw</reg></choice>er</w><w>kind</w></l>
+                    <!--Revisado Victor 10/11/2020     -->
                 <pb n="368"/>
                 <cb n="a"/>
                     <l n="5116"><lb/><w/><w/><w/><w/><w/><w/></l>
