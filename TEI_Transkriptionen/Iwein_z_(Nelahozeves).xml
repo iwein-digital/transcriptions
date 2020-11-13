@@ -9845,7 +9845,7 @@
                 </lg>
                 <lg>
                     <l n="5123"><lb n="8"/><w>Frag</w><w>er</w><w>wie</w><w>ich</w><w>ſy</w><w>genant</w></l>
-                    <l n="5124"><lb n="9"/><w>So</w><w>tuͦnd</w><w>im</w><w>das</w><w>er</w><w>kant</w></l>
+                    <l n="5124"><lb n="9"/><w>So</w><w>tuͦnd</w><w>im</w><w>das</w><w>erkant</w></l>
                 </lg>
                 <lg>
                     <l n="5125"><lb n="10"/><w>Das</w><w>ain</w><w>leow</w><w>by</w><w>mir</w><w>ſy</w></l>
@@ -9853,8 +9853,7 @@
                 </lg>
                 <lg>
                     <l n="5127"><lb n="12"/><w>Das</w><w>gelopt</w><w>der</w><w>he<choice><am>r͛</am><ex>rr</ex></choice>e</w></l>
-                    <l n="5128"><lb n="13"/><w><choice><orig>V</orig><reg>U</reg></choice>nd</w><w>batt</w><w>in</w><w>des</w><w>nil</w><w>fe<choice><am>r͛</am><ex>rr</ex></choice>e</w></l>
-                    <!--eliminados 5129-5132     -->
+                    <l n="5128"><lb n="13"/><w><choice><orig>V</orig><reg>U</reg></choice>nd</w><w>batt</w><w>in</w><w>des</w><w><choice><orig>u</orig><reg>v</reg></choice>il</w><w>fe<choice><am>r͛</am><ex>rr</ex></choice>e</w></l>
                 </lg>
                 <lg>
                     <l n="5133"><lb n="14"/><w>Min</w><w>ritten</w><w>iſt</w><w>da</w><w>miſzlich</w></l>
@@ -9870,21 +9869,20 @@
                 </lg>
                 <lg>
                     <l n="5139"><lb n="20"/><w>Da</w><w>bat</w><w>da</w><w>man</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>wib</w></l>
-                    <l n="5140"><lb n="21"/><w>Das</w><w>got</w><w>ſin</w><w>eͤr</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>ſi<choice><am>n̄</am><ex>nne</ex></choice></w><w>lib</w></l>
-                    <!--non sei se escribín ben a abbr. da penúltima palabra     -->
+                    <l n="5140"><lb n="21"/><w>Das</w><w>got</w><w>ſin</w><w>eͤr</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>ſi<choice><am>n̄</am><ex>nen</ex></choice></w><w>lib</w></l>
                 </lg>
                 <lg>
                     <l n="5141"><lb n="22"/><w>Friſte</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>behuͦtte</w></l>
                     <l n="5142"><lb n="23"/><w>Mit</w><w>lib</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>mit</w><w>guͦte</w></l>
                 </lg>
                 <lg>
-                    <l n="5143"><lb n="24"/><w>Stuͦnde</w><w>ſy</w><w>zuͦ</w><w>gebotte</w></l>
+                    <l n="5143"><lb n="24"/><w>Stuͦnden</w><w>ſy</w><w>zuͦ</w><w>gebotte</w></l>
                     <l n="5144"><lb n="25"/><w>Also</w><w>befalch</w><w>er</w><w>ſy</w><w>gotte</w></l>
                 </lg>
                 <lg>
                     <l n="5145"><lb n="26"/><w>Im</w><w>waren</w><w>die</w><w>weg</w><w><choice><orig>u</orig><reg>v</reg></choice>il</w><w>wol</w><w>kunt</w></l>
-                    <l n="5146"><lb n="27"/><w><choice><orig>V</orig><reg>U</reg></choice>nd</w><w>was</w><w>inkurtz</w><w>er</w><w>ſtund</w></l>
-                    <!--na segunda palabra escribiuse por enriba de algo, pero non entendo o que pon debaixo. "Inkurtz" vai todo xunto?     -->
+                    <l n="5146"><lb n="27"/><w><choice><orig>V</orig><reg>U</reg></choice>nd</w><w>was</w><w join="right">in</w><w join="left">kurtzer</w><w>ſtund</w></l>
+                    <!--na segunda palabra escribiuse por enriba de algo, pero non entendo o que pon debaixo. "Inkurtz" vai todo xunto?   NON, SEPARADO  -->
                 </lg>
                 <lg>
                     <l n="5147"><lb n="28"/><w>Zuͦ</w><w>der</w><w>kapellen</w><w>komen</w></l>
@@ -9896,9 +9894,8 @@
                 </lg>
                 <cb n="b"/>
                 <lg>
-                    <l n="5151"><lb n="1"/><w>Was·</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>waren</w><w>ir</w><w join="right">in</w><w join="left">den</w><w>ſtunden</w></l>
+                    <l n="5151"><lb n="1"/><w>Was</w><pc>·</pc><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>waren</w><w>ir</w><w join="right">in</w><w join="left">den</w><w>ſtunden</w></l>
                     <l n="5152"><lb n="2"/><w>Die</w><w>hend</w><w>zemen</w><w>gebunden</w></l>
-                    <!--eliminados 5153-5154     -->
                 </lg>
                 <lg>
                     <l n="5155"><lb n="3"/><w><choice><orig>V</orig><reg>U</reg></choice>nd</w><w>dú</w><w>hurd</w><w>was</w><w>berait</w></l>
@@ -9913,7 +9910,7 @@
                     <l n="5160"><lb n="8"/><w>Wa<choice><am>n̄</am><ex>nn</ex></choice></w><w>ſú</w><w>het</w><w>ſich</w><w>des</w><w>libs</w><w>bewegen</w></l>
                 </lg>
                 <lg>
-                    <l n="5161"><lb n="9"/><w>Do</w><w>ſú</w><w>ſich</w><w>ſelb</w><w>miſz</w><w>troſt</w></l>
+                    <l n="5161"><lb n="9"/><w>Do</w><w>ſú</w><w>ſich</w><w>ſelb</w><w>miſz troſt</w></l>
                     <l n="5162"><lb n="10"/><w>Das</w><w>ſie</w><w>nieman</w><w>loſzt</w></l>
                 </lg>
                 <lg>
@@ -9922,8 +9919,10 @@
                 </lg>
                 <lg>
                     <l n="5165"><lb n="13"/><w>Ir</w><w>laſter</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>ir</w><w>arbait</w></l>
-                    <l n="5166"><lb/><w/><w/><w/><w/><w/><w/></l>
+                    <l n="5166"><lb n="14"/><w>Di</w><w>ſú</w><w>von</w><w>ſinen</w><w>ſchulden</w><w>laid</w></l>
                 </lg>
+                <lb n="15"/><delSpan spanTo="#z_delSpan_5166_1" rendition="hc:Strikethrough"/><l n="5166,1" hei:replicates="#xpath(//l[@n='5157'])"><w><choice><orig>V</orig><reg>U</reg></choice>nd</w><w>ſtuͦnd</w><w>frow</w><w>lunet</w><anchor xml:id="z_delSpan_5166_1"/></l>
+<!-- Revisado Victor 13/11/2020  ARREGLEICHE UN TEMA COMPLICADO CON ESTE VERSO TACHADO -->
                 <lg>
                     <l n="5167"><lb/><w/><w/><w/><w/><w/><w/></l>
                     <l n="5168"><lb/><w/><w/><w/><w/><w/><w/></l>
