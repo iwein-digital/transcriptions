@@ -10037,7 +10037,6 @@
                 </lg>
                 <lg>
                     <l n="5351"><lb n="29"/><w><supplied><hei:initial ana="hc:Lombard" hei:heightLines="2">D</hei:initial></supplied>Ie</w><w><choice><orig>i</orig><reg>j</reg></choice>unckfrowen</w><w>batten</w><w>alle</w><w>got</w></l>
-                    <!--non aparece ningunha "d" escrita ao principio do verso, pero imaxínome que é "die". Por iso a engadín. De todos xeitos, non sei se podo engadila sen máis ou debería indicar dalgún xeito que a engadín eu porque no manuscrito que estou transcribindo non aparece.   ESTÁ PERFECTO ASÍ: a etiqueta <supplied> xa indica de que estás a transcribir o que non aparece. O que NON podes poñer aquí é a metamark, porque non hai ningunha letra pequeña que indique qué inicial ía neste lugar. Explícome?-->
                     <l n="5352"><lb n="30"/><w>Das</w><w>er</w><w>ſin</w><w>gnad</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>ſin</w><w>gebot</w></l>
                 </lg>
                 <lg>
@@ -10077,11 +10076,9 @@
                 <lg>
                     <l n="5366,3"><lb n="15"/><w><choice><orig>V</orig><reg>U</reg></choice>nd</w><w>do</w><w>er</w><w>zuͦ</w><w>in</w><w>kerte</w></l>
                     <l n="5366,4"><lb n="16"/><w>Als</w><w>in</w><w>dú</w><w>gewonhait</w><w>lertte</w></l>
-                    <!--os versos 5367-5370 do manuscrito z son completamente diferentes ao do manuscrito de Lachman. Aínda que o contido cambie siguen sendo os versos 5367, 8, 9, 70? Ou debería eliminar os versos 5367-70 e convertilos en 5366,1; 5366,2, etc? Eu escollín a segunda opción porque logo vin que os versos 5370 e 5371 do manuscrito de Lachman se combinan nun único verso no manuscrito de z. É dicir, eliminei do 5367-69; engadín do 5366,1-5366,4; os versos 5370-71 de Lachman combínanse nun único verso (eu non sei que debería facer neses casos: tería que dividir o verso 5370 en "sinnen"?); a maiores a palabra "wider" está escrita na liña de abaixo porque non collía (non sei se iso o hai que indicar tamén dalgún xeito).   PERFECTO: SE OS VERSOS SON COMPLETAMENTE DISTINTOS NON DEBEN LEVAR O MESMO NÚMERO (=IDENTIFICADOR). TAREFA, REESCRIBE ESTE COMENTARIO NA METADE DE LIÑAS! :D Xa sabes que son icorrexible... jajajaj-->
                 </lg>
                 <lg>
                     <l n="5370"><lb n="17"/><w>Nun</w><w>kam</w><w>zuͦ</w><w>ſinen</w><w>ſi<choice><am>n̄</am><ex>nn</ex></choice>en</w></l>
-                    <!--este comentario xa cho deixo escrito no anterior. UNHA COUSA É UN RENGLÓN DO MANUSCRITO (fenómeno físico) E OUTRA UN VERSO (idea semántica). É NORMAL QUE HAIA CASOS COMA ESTE. SE SE CORRESPONDEN CON DOUS VERSOS, NÓS POÑÉMOLOS COMO DOUS VERSOS. O QUE NON POÑEMOS NESTE CASO É O <LB>, PORQUE ISO É O QUE INDICA A EXISTENCIA DUN NOVO RENGLÓN.-->
                     <l n="5371"><w>der</w><w>truchſaͤſz</w><lb ana="hc:DependentLine hc:RunOverLineBelow" n="17a"/><w>wider</w></l>
                     <l n="5372"><lb n="18"/><w><choice><orig>V</orig><reg>U</reg></choice>nd</w><w>lag</w><w>nit</w><w>me</w><w>da</w><w>nider</w></l>
                 </lg>
@@ -10124,12 +10121,10 @@
                 </lg>
                 <lg>
                     <l n="5397"><lb n="5"/><w>Nun</w><w>waren</w><w>zwen</w><w>wider</w><w>zwa<subst><del rendition="hc:Adapted">ï</del><add rendition="hc:Adapted">i</add></subst>n</w></l>
-                    <!--a raíña encima de "zwain" non sei moi ben que é. Está tachando o Umlaut?   ISO PARECE  -->
                     <l n="5398"><lb n="6"/><w>Wa<choice><am>n̄</am><ex>nn</ex></choice></w><w>es</w><w>mocht</w><w>her</w><w>ywin</w></l>
                 </lg>
                 <lg>
                     <l n="5399"><lb n="7"/><w>Den</w><w>leowen</w><w>nit</w><w>verlieſen</w><w>noch</w><w part="I"><choice><orig>u</orig><reg>v</reg></choice>er</w><metamark ana="hc:Hyphen ">⸗</metamark><lb ana="hc:DependentLine hc:RunOverLineAbove" n="7a"/><metamark ana="hc:RunOverSign ">|</metamark><w part="F">triben</w></l>
-                    <!--a palabra "vertriben" está separada no manuscrito "ver - triben" porque o "triben" foi escrito por enriba do verso  ISO VEN EXPLLICADO NO PUNTO 17 DA GUÍA    -->
                     <l n="5400"><lb n="8"/><w>Doch</w><w>lieſz</w><w><choice><am>e͛</am><ex>er</ex></choice>s</w><w>ouch</w><w>beliben</w></l>
                 </lg>
                 <lg>
@@ -10147,7 +10142,6 @@
                 <lg>
                     <l n="5407"><lb n="15"/><w>Öch</w><w>ſparten</w><w>ſy</w><w>den</w><w>lib</w><w>noch</w><w>den</w><w>muͦt</w></l>
                     <l n="5408"><lb n="16"/><w>Solten</w><w>ſi</w><w>ſin</w><w>dä</w><metamark ana="hc:InsertionMark ">|</metamark><add hei:placeRef="hc:AboveLine"><metamark ana="hc:InsertionMark ">"</metamark><w>von</w><metamark ana="hc:InsertionMark ">"</metamark></add><w>behuͦt</w></l>
-                    <!--a palabra "von" aparece engadida a posteriori. Non sei moi ben como indicar iso.  CON LÓXICA: É UN <ADD>, PASA QUE LEVA MARCAS DE INSERCIÓN    -->
                 </lg>
                 <lg>
                     <l n="5409"><lb n="17"/><w>Sie</w><w>waren</w><w>wärhaft</w><w>gnuͦg</w></l>
@@ -10159,7 +10153,6 @@
                 </lg>
                 <lg>
                     <l n="5413"><lb n="21"/><w>Do</w><w>ward</w><w>er</w><w>raͤſſer</w><w>vil</w><w>da<choice><am>n̄</am><ex>nn</ex></choice></w><w>e</w></l>
-                    <!--o da penúltima palabra é unha abbr.? "dann" e "e" van separadas?     SI-->
                     <l n="5414"><lb n="22"/><w>Öch</w><w>tett</w><w>dem</w><w>her</w><w>ywin</w><w>we</w></l>
                 </lg>
                 <lg>
@@ -10211,7 +10204,6 @@
                 <lg>
                     <l n="5447"><lb n="12"/><w>Sú</w><w>gewan</w><w>ir</w><w>frowen</w><w>hulde</w></l>
                     <l n="5448"><lb n="13"/><w><choice><orig>V</orig><reg>U</reg></choice>nd</w><w>het</w><w>ön</w><w>ir</w><w>ſchulde</w></l>
-                    <!--Revisado Victor 20/11/2020     -->
                 </lg>
                 <lg>
                     <l n="5449"><lb n="14"/><w>Erlitten</w><w>kumer</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>nott</w></l>
@@ -10226,7 +10218,7 @@
                     <l n="5454"><lb n="19"/><w>Dú</w><w>das</w><w>durch</w><w>ſinen</w><w>willen</w><w>tet</w></l>
                 </lg>
                 <lg>
-                    <l n="5455"><lb n="20"/><w>Das</w><w>ſú</w><w>in</w><w>niene</w><w>nante</w></l>
+                    <l n="5455"><lb n="20"/><w>Das</w><w>ſú</w><w>in</w><w>nienen</w><w>nante</w></l>
                     <l n="5456"><lb n="21"/><w>Das</w><w>in</w><w>dú</w><w>nit</w><w>erkante</w></l>
                 </lg>
                 <lg>
@@ -10242,7 +10234,7 @@
                     <l n="5462"><lb n="27"/><w>Wa<choice><am>n̄</am><ex>nn</ex></choice></w><w>ich</w><w>was</w><w>wol</w><w>das</w><w>ir</w></l>
                 </lg>
                 <lg>
-                    <l n="5463"><lb n="28"/><w><choice><orig>V</orig><reg>U</reg></choice>nd</w><w><choice><orig>w̍</orig><reg>uw</reg></choice>er</w><w>leow</w><w>ſind</w><w>ſtarck</w><w>wund</w></l>
+                    <l n="5463"><lb n="28"/><w><choice><orig>V</orig><reg>U</reg></choice>nd</w><w><choice><orig>w̍</orig><reg>üw</reg></choice>er</w><w>leow</w><w>ſind</w><w>ſtarck</w><w>wund</w></l>
                     <l n="5464"><lb n="29"/><w>Laund</w><w>úch</w><w>mich</w><w>machen</w><w>geſund</w></l>
                 </lg>
                 <lg>
@@ -10250,21 +10242,20 @@
                     <l n="5466"><lb n="31"/><w>Ich</w><w>gewi<choice><am>n̄</am><ex>nn</ex></choice></w><w>gmach</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>wird</w><w>fro</w></l>
                 </lg>
                 <lg>
-                    <l n="5467"><lb n="32"/><w>Niemer</w><w>nie</w><w><choice><orig>v</orig><reg>u</reg></choice>ntz</w><w>uf</w><w>den</w><w>tag</w></l>
+                    <l n="5467"><lb n="32"/><w>Niemer</w><w>me</w><w><choice><orig>v</orig><reg>u</reg></choice>ntz</w><w>uf</w><w>den</w><w>tag</w></l>
                     <l n="5468"><lb n="33"/><w>Das</w><w>ich</w><w>wider</w><w>haben</w><w>mag</w></l>
                 </lg>
                 <lg>
                     <l n="5469"><lb n="34"/><w>Miner</w><w>frowen</w><w>hulde</w></l>
                 <cb n="b"/>    
                     <l n="5470"><lb n="1"/><w>Der</w><w>mangel</w><w>ich</w><w>ön</w><w>ſchulde</w></l>
-                    <!--eliminados dende 5471-5486. Versos 5487-8 cambiados.     -->
                 </lg>
                 <lg>
                     <l n="5488"><lb n="2"/><w>Sú</w><w>ſprach</w><w>iſt</w><w>es</w><w>nieman</w><w>me</w></l>
                     <l n="5487"><lb n="3"/><w>Wie</w><w>es</w><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>m̄</am><ex>mm</ex></choice>b</w><w>úch</w><w>ge</w></l>
                 </lg>
                 <lg>
-                    <l n="5489"><lb n="4"/><w>Zewiſſen</w><w>wa<choice><am>n̄</am><ex>nn</ex></choice></w><w><choice><orig>v̍</orig><reg>u̍</reg></choice>ch</w><w>zwain</w></l>
+                    <l n="5489"><lb n="4"/><w join="right">Ze</w><w join="left">wiſſen</w><w>wa<choice><am>n̄</am><ex>nn</ex></choice></w><w><choice><orig>v̍</orig><reg>u̍</reg></choice>ch</w><w>zwain</w></l>
                     <l n="5490"><lb n="5"/><w>Er</w><w>ſprach</w><w>frow</w><w>nain</w></l>
                 </lg>
                 <lg>
@@ -10282,6 +10273,7 @@
                 <lg>
                     <l n="5497"><lb n="12"/><w>By</w><w>minen</w><w>leowen</w><w>der</w><w>mit</w><w>mir</w><w>foͤrt</w></l>
                     <l n="5498"><lb n="13"/><w>Mir</w><w>werd</w><w>de<choice><am>n̄</am><ex>nn</ex></choice></w><w>ir</w><w>gnad</w><w>beſchoͤrt</w></l>
+                    <!--Revisado Victor 23/11/2020     -->
                 </lg>
                 <lg>
                     <l n="5499"><lb/><w/><w/><w/><w/><w/><w/></l>
