@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<serialized version="21.1" xml:space="preserve">
+<serialized version="22.0" xml:space="preserve">
 	<serializableOrderedMap>
 		<entry>
 			<String>document.types</String>
@@ -15,7 +15,9 @@
 						<null/>
 					</field>
 					<field name="classpath">
-						<String-array/>
+						<String-array>
+							<String>${framework}/numbering-0.1.jar</String>
+						</String-array>
 					</field>
 					<field name="parentClassLoaderID">
 						<null/>
@@ -4785,6 +4787,122 @@ compl1(3)</String>
 											<Boolean>false</Boolean>
 										</field>
 									</action>
+									<action>
+										<field name="id">
+											<String>line_number_spalte</String>
+										</field>
+										<field name="name">
+											<String>Versnummer - Spalte</String>
+										</field>
+										<field name="description">
+											<String>Nummeriert die Verse von der Caret bis zu Ende der Spalte</String>
+										</field>
+										<field name="largeIconPath">
+											<String></String>
+										</field>
+										<field name="smallIconPath">
+											<String></String>
+										</field>
+										<field name="accessKey">
+											<String></String>
+										</field>
+										<field name="accelerator">
+											<String>M1 M2 PLUS</String>
+										</field>
+										<field name="actionModes">
+											<actionMode-array>
+												<actionMode>
+													<field name="xpathCondition">
+														<String></String>
+													</field>
+													<field name="argValues">
+														<serializableOrderedMap>
+															<entry>
+																<String>Attribute</String>
+																<String>n</String>
+															</entry>
+															<entry>
+																<String>Element</String>
+																<String>l</String>
+															</entry>
+															<entry>
+																<String>Limit</String>
+																<String>cb</String>
+															</entry>
+															<entry>
+																<String>Prefix</String>
+																<String></String>
+															</entry>
+														</serializableOrderedMap>
+													</field>
+													<field name="operationID">
+														<String>ubheidelberg.heieditions.numbering</String>
+													</field>
+												</actionMode>
+											</actionMode-array>
+										</field>
+										<field name="enabledInReadOnlyContext">
+											<Boolean>false</Boolean>
+										</field>
+									</action>
+									<action>
+										<field name="id">
+											<String>lb_number_spalte</String>
+										</field>
+										<field name="name">
+											<String>Zeilennummer - Spalte</String>
+										</field>
+										<field name="description">
+											<String>Nummeriert die Zeilen von der Caret bis zu Ende der Spalte</String>
+										</field>
+										<field name="largeIconPath">
+											<String></String>
+										</field>
+										<field name="smallIconPath">
+											<String></String>
+										</field>
+										<field name="accessKey">
+											<String></String>
+										</field>
+										<field name="accelerator">
+											<String>M1 M2 MINUS</String>
+										</field>
+										<field name="actionModes">
+											<actionMode-array>
+												<actionMode>
+													<field name="xpathCondition">
+														<String></String>
+													</field>
+													<field name="argValues">
+														<serializableOrderedMap>
+															<entry>
+																<String>Attribute</String>
+																<String>n</String>
+															</entry>
+															<entry>
+																<String>Element</String>
+																<String>lb</String>
+															</entry>
+															<entry>
+																<String>Limit</String>
+																<String>cb</String>
+															</entry>
+															<entry>
+																<String>Prefix</String>
+																<String></String>
+															</entry>
+														</serializableOrderedMap>
+													</field>
+													<field name="operationID">
+														<String>ubheidelberg.heieditions.numbering</String>
+													</field>
+												</actionMode>
+											</actionMode-array>
+										</field>
+										<field name="enabledInReadOnlyContext">
+											<Boolean>false</Boolean>
+										</field>
+									</action>
 								</action-array>
 							</field>
 							<field name="menubarDescriptor">
@@ -5377,6 +5495,16 @@ compl1(3)</String>
 													</field>
 													<field name="toolbarEntriesDescriptorList">
 														<toolbarEntry-array>
+															<toolbarItem>
+																<field name="actionID">
+																	<String>lb_number_spalte</String>
+																</field>
+															</toolbarItem>
+															<toolbarItem>
+																<field name="actionID">
+																	<String>line_number_spalte</String>
+																</field>
+															</toolbarItem>
 															<toolbarItem>
 																<field name="actionID">
 																	<String>facsimile</String>
