@@ -89,6 +89,10 @@ hei|initial{
     font-size: xx-large;
 }
 
+facsimile {
+    display: none;
+}
+
 l {
     content: attr(n)"-";
     font-size: large;
