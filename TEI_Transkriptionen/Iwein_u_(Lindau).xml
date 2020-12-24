@@ -31,8 +31,8 @@
         <body>
             <div>
                 <pb n="2r"/>
-                <cb n="a"/>
                 <fw ana="hc:PageNumber"><lb facs="#u_2r-b" n="1"/><num value="2">.2.</num></fw>
+                <cb n="a"/>
                 <lg>
                     <l n="1"><lb n="1"/><w>Swer</w><w>an</w><w>rechtte</w><w>güette</w></l>
                     <l n="2"><lb n="2"/><w>Wenndett</w><w>ſein</w><w>gemüette</w></l>
@@ -77,7 +77,7 @@
                 <pb n="2v"/>
                 <cb n="a"/>
                 <lg>
-                    <l n="21"><lb n="21"/><metamark ana="hc:CueParagraphSign">¶</metamark><w>Ein</w><w>ritter</w><w>der</w><w>gëleret</w><w>was</w></l>
+                    <l n="21"><lb n="21"/><metamark ana="hc:CueParagraphSign" hei:placeRef="hc:PageMarginLeft">¶</metamark><w>Ein</w><w>ritter</w><w>der</w><w>gëleret</w><w>was</w></l>
                     <l n="22"><lb n="22"/><w>Vnnd</w><w>es</w><w>ann</w><w>den</w><w>büechern</w><w>laß</w></l>
                 </lg>
                 <lg>
@@ -116,6 +116,7 @@
                     <l n="39"><lb n="39"/><w>Jn</w><w>vil</w><w>schwachem</w><w>werde</w></l>
                     <l n="40"><lb n="40"/><w>Wannd</w><w>sich</w><w>gesamenttenn</w><w>aŭf</w><w>der</w><w>erde</w></l>
                 </lg>
+                <pb n="3r"/>
                 <lg>
                     <l n="41"><lb n="41"/><w>Beÿ</w><w>meinen</w><w>zeittenn</w><w>anderstwa</w></l>
                     <l n="42"><lb n="42"/><w>So</w><w>manich</w><w>gŭtt</w><w>ritter</w><w>als</w><w>da</w></l>
@@ -8089,7 +8090,7 @@
                     <l n="4026"><lb/><w>Wird</w><w>ich</w><w>morgenn</w><w>an</w><w>dëm</w><w>tage</w></l>
                 </lg>
                 <lg>
-                    <l n="4027"><lb/><w>Jst</w><w>niemantz</w><w>der</w><w>michs</w><w>vertrage</w>//  //<w>v</w>̈<w>bertrage</w>//</l>
+                    <l n="4027"><lb/><w>Jst</w><w>niemantz</w><w>der</w><w>michs</w><w>vertrage</w>// //<w>v</w>̈<w>bertrage</w>//</l>
                     <l n="4028"><lb/><w>Mir</w><w>wirtt</w><w>der</w><w>leib</w><w>genomenn</w></l>
                 </lg>
                 <lg>
