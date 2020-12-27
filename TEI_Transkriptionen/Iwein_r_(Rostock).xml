@@ -1,7 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://digi.ub.uni-heidelberg.de/schema/tei/heiEDITIONS/tei_hes.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://digi.ub.uni-heidelberg.de/schema/tei/heiEDITIONS/tei_hes.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:hei="https://digi.ub.uni-heidelberg.de/schema/tei/heiEDITIONS" ana="hc:IWDDocument">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://digi.ub.uni-heidelberg.de/schema/tei/heiEDITIONS/tei_hes.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://digi.ub.uni-heidelberg.de/schema/tei/heiEDITIONS/tei_hes.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:hei="https://digi.ub.uni-heidelberg.de/schema/tei/heiEDITIONS" ana="hc:IWDDocument">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -31,6 +28,984 @@
             </listPrefixDef>
         </encodingDesc>
     </teiHeader>
+    <facsimile>
+        <surface xml:id="r_2r" ana="hc:Page" n="2r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubr_mss_philol_81/0005"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="r_2r-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="r_2r-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="r_2v" ana="hc:Page" n="2v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubr_mss_philol_81/0006"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="r_2v-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="r_2v-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="r_3r" ana="hc:Page" n="3r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubr_mss_philol_81/0007"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="r_3r-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="r_3r-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="r_3v" ana="hc:Page" n="3v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubr_mss_philol_81/0008"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="r_3v-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="r_3v-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="r_4r" ana="hc:Page" n="4r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubr_mss_philol_81/0009"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="r_4r-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="r_4r-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="r_4v" ana="hc:Page" n="4v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubr_mss_philol_81/0010"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="r_4v-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="r_4v-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="r_5r" ana="hc:Page" n="5r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubr_mss_philol_81/0011"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="r_5r-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="r_5r-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="r_5v" ana="hc:Page" n="5v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubr_mss_philol_81/0012"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="r_5v-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="r_5v-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="r_6r" ana="hc:Page" n="6r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubr_mss_philol_81/0013"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="r_6r-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="r_6r-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="r_6v" ana="hc:Page" n="6v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubr_mss_philol_81/0014"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="r_6v-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="r_6v-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="r_7r" ana="hc:Page" n="7r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubr_mss_philol_81/0015"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="r_7r-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="r_7r-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="r_7v" ana="hc:Page" n="7v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubr_mss_philol_81/0016"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="r_7v-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="r_7v-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="r_8r" ana="hc:Page" n="8r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubr_mss_philol_81/0017"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="r_8r-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="r_8r-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="r_8v" ana="hc:Page" n="8v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubr_mss_philol_81/0018"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="r_8v-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="r_8v-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="r_9r" ana="hc:Page" n="9r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubr_mss_philol_81/0019"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="r_9r-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="r_9r-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="r_9v" ana="hc:Page" n="9v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubr_mss_philol_81/0020"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="r_9v-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="r_9v-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="r_10r" ana="hc:Page" n="10r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubr_mss_philol_81/0021"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="r_10r-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="r_10r-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="r_10v" ana="hc:Page" n="10v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubr_mss_philol_81/0022"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="r_10v-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="r_10v-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="r_11r" ana="hc:Page" n="11r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubr_mss_philol_81/0023"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="r_11r-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="r_11r-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="r_11v" ana="hc:Page" n="11v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubr_mss_philol_81/0024"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="r_11v-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="r_11v-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="r_12r" ana="hc:Page" n="12r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubr_mss_philol_81/0025"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="r_12r-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="r_12r-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="r_12v" ana="hc:Page" n="12v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubr_mss_philol_81/0026"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="r_12v-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="r_12v-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="r_13r" ana="hc:Page" n="13r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubr_mss_philol_81/0027"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="r_13r-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="r_13r-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="r_13v" ana="hc:Page" n="13v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubr_mss_philol_81/0028"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="r_13v-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="r_13v-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="r_14r" ana="hc:Page" n="14r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubr_mss_philol_81/0029"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="r_14r-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="r_14r-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="r_14v" ana="hc:Page" n="14v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubr_mss_philol_81/0030"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="r_14v-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="r_14v-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="r_15r" ana="hc:Page" n="15r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubr_mss_philol_81/0031"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="r_15r-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="r_15r-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="r_15v" ana="hc:Page" n="15v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubr_mss_philol_81/0032"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="r_15v-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="r_15v-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="r_16r" ana="hc:Page" n="16r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubr_mss_philol_81/0033"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="r_16r-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="r_16r-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="r_16v" ana="hc:Page" n="16v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubr_mss_philol_81/0034"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="r_16v-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="r_16v-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="r_17r" ana="hc:Page" n="17r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubr_mss_philol_81/0035"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="r_17r-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="r_17r-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="r_17v" ana="hc:Page" n="17v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubr_mss_philol_81/0036"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="r_17v-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="r_17v-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="r_18r" ana="hc:Page" n="18r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubr_mss_philol_81/0037"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="r_18r-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="r_18r-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="r_18v" ana="hc:Page" n="18v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubr_mss_philol_81/0038"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="r_18v-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="r_18v-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="r_19r" ana="hc:Page" n="19r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubr_mss_philol_81/0039"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="r_19r-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="r_19r-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="r_19v" ana="hc:Page" n="19v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubr_mss_philol_81/0040"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="r_19v-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="r_19v-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="r_20r" ana="hc:Page" n="20r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubr_mss_philol_81/0041"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="r_20r-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="r_20r-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="r_20v" ana="hc:Page" n="20v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubr_mss_philol_81/0042"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="r_20v-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="r_20v-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="r_21r" ana="hc:Page" n="21r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubr_mss_philol_81/0043"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="r_21r-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="r_21r-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="r_21v" ana="hc:Page" n="21v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubr_mss_philol_81/0044"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="r_21v-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="r_21v-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="r_22r" ana="hc:Page" n="22r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubr_mss_philol_81/0045"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="r_22r-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="r_22r-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="r_22v" ana="hc:Page" n="22v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubr_mss_philol_81/0046"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="r_22v-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="r_22v-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="r_23r" ana="hc:Page" n="23r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubr_mss_philol_81/0047"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="r_23r-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="r_23r-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="r_23v" ana="hc:Page" n="23v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubr_mss_philol_81/0048"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="r_23v-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="r_23v-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="r_24r" ana="hc:Page" n="24r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubr_mss_philol_81/0049"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="r_24r-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="r_24r-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="r_24v" ana="hc:Page" n="24v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubr_mss_philol_81/0050"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="r_24v-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="r_24v-b" ana="hc:Column hc:TextZone" n="b"/>
+                <zone xml:id="r_24v-c" ana="hc:MarginalZone hc:TextZone" n="c"/>
+            </zone>
+        </surface>
+        <surface xml:id="r_25r" ana="hc:Page" n="25r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubr_mss_philol_81/0051"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="r_25r-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="r_25r-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="r_25v" ana="hc:Page" n="25v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubr_mss_philol_81/0052"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="r_25v-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="r_25v-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="r_26r" ana="hc:Page" n="26r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubr_mss_philol_81/0053"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="r_26r-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="r_26r-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="r_26v" ana="hc:Page" n="26v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubr_mss_philol_81/0054"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="r_26v-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="r_26v-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="r_27r" ana="hc:Page" n="27r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubr_mss_philol_81/0055"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="r_27r-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="r_27r-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="r_27v" ana="hc:Page" n="27v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubr_mss_philol_81/0056"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="r_27v-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="r_27v-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="r_28r" ana="hc:Page" n="28r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubr_mss_philol_81/0057"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="r_28r-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="r_28r-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="r_28v" ana="hc:Page" n="28v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubr_mss_philol_81/0058"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="r_28v-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="r_28v-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="r_29r" ana="hc:Page" n="29r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubr_mss_philol_81/0059"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="r_29r-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="r_29r-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="r_29v" ana="hc:Page" n="29v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubr_mss_philol_81/0060"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="r_29v-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="r_29v-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="r_30r" ana="hc:Page" n="30r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubr_mss_philol_81/0061"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="r_30r-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="r_30r-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="r_30v" ana="hc:Page" n="30v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubr_mss_philol_81/0062"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="r_30v-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="r_30v-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="r_31r" ana="hc:Page" n="31r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubr_mss_philol_81/0063"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="r_31r-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="r_31r-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="r_31v" ana="hc:Page" n="31v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubr_mss_philol_81/0064"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="r_31v-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="r_31v-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="r_32r" ana="hc:Page" n="32r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubr_mss_philol_81/0065"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="r_32r-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="r_32r-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="r_32v" ana="hc:Page" n="32v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubr_mss_philol_81/0066"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="r_32v-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="r_32v-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="r_33r" ana="hc:Page" n="33r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubr_mss_philol_81/0067"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="r_33r-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="r_33r-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="r_33v" ana="hc:Page" n="33v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubr_mss_philol_81/0068"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="r_33v-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="r_33v-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="r_34r" ana="hc:Page" n="34r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubr_mss_philol_81/0069"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="r_34r-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="r_34r-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="r_34v" ana="hc:Page" n="34v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubr_mss_philol_81/0070"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="r_34v-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="r_34v-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="r_35r" ana="hc:Page" n="35r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubr_mss_philol_81/0071"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="r_35r-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="r_35r-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="r_35v" ana="hc:Page" n="35v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubr_mss_philol_81/0072"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="r_35v-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="r_35v-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="r_36r" ana="hc:Page" n="36r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubr_mss_philol_81/0073"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="r_36r-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="r_36r-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="r_36v" ana="hc:Page" n="36v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubr_mss_philol_81/0074"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="r_36v-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="r_36v-b" ana="hc:Column hc:TextZone" n="b"/>
+                <zone xml:id="r_36v-c" ana="hc:MarginalZone hc:TextZone" n="c"></zone>
+            </zone>
+        </surface>
+        <surface xml:id="r_37r" ana="hc:Page" n="37r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubr_mss_philol_81/0075"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="r_37r-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="r_37r-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="r_37v" ana="hc:Page" n="37v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubr_mss_philol_81/0076"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="r_37v-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="r_37v-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="r_38r" ana="hc:Page" n="38r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubr_mss_philol_81/0077"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="r_38r-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="r_38r-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="r_38v" ana="hc:Page" n="38v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubr_mss_philol_81/0078"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="r_38v-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="r_38v-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="r_39r" ana="hc:Page" n="39r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubr_mss_philol_81/0079"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="r_39r-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="r_39r-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="r_39v" ana="hc:Page" n="39v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubr_mss_philol_81/0080"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="r_39v-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="r_39v-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="r_40r" ana="hc:Page" n="40r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubr_mss_philol_81/0081"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="r_40r-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="r_40r-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="r_40v" ana="hc:Page" n="40v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubr_mss_philol_81/0082"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="r_40v-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="r_40v-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="r_41r" ana="hc:Page" n="41r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubr_mss_philol_81/0083"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="r_41r-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="r_41r-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="r_41v" ana="hc:Page" n="41v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubr_mss_philol_81/0084"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="r_41v-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="r_41v-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="r_42r" ana="hc:Page" n="42r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubr_mss_philol_81/0085"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="r_42r-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="r_42r-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="r_42v" ana="hc:Page" n="42v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubr_mss_philol_81/0086"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="r_42v-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="r_42v-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="r_43r" ana="hc:Page" n="43r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubr_mss_philol_81/0087"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="r_43r-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="r_43r-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="r_43v" ana="hc:Page" n="43v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubr_mss_philol_81/0088"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="r_43v-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="r_43v-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="r_44r" ana="hc:Page" n="44r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubr_mss_philol_81/0089"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="r_44r-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="r_44r-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="r_44v" ana="hc:Page" n="44v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubr_mss_philol_81/0090"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="r_44v-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="r_44v-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="r_45r" ana="hc:Page" n="45r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubr_mss_philol_81/0091"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="r_45r-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="r_45r-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="r_45v" ana="hc:Page" n="45v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubr_mss_philol_81/0092"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="r_45v-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="r_45v-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="r_46r" ana="hc:Page" n="46r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubr_mss_philol_81/0093"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="r_46r-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="r_46r-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="r_46v" ana="hc:Page" n="46v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubr_mss_philol_81/0094"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="r_46v-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="r_46v-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="r_47r" ana="hc:Page" n="47r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubr_mss_philol_81/0095"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="r_47r-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="r_47r-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="r_47v" ana="hc:Page" n="47v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubr_mss_philol_81/0096"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="r_47v-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="r_47v-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="r_48r" ana="hc:Page" n="48r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubr_mss_philol_81/0097"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="r_48r-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="r_48r-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="r_48v" ana="hc:Page" n="48v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubr_mss_philol_81/0098"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="r_48v-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="r_48v-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="r_49r" ana="hc:Page" n="49r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubr_mss_philol_81/0099"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="r_49r-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="r_49r-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="r_49v" ana="hc:Page" n="49v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubr_mss_philol_81/0100"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="r_49v-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="r_49v-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="r_50r" ana="hc:Page" n="50r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubr_mss_philol_81/0101"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="r_50r-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="r_50r-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="r_50v" ana="hc:Page" n="50v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubr_mss_philol_81/0102"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="r_50v-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="r_50v-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="r_51r" ana="hc:Page" n="51r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubr_mss_philol_81/0103"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="r_51r-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="r_51r-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="r_51v" ana="hc:Page" n="51v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubr_mss_philol_81/0104"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="r_51v-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="r_51v-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="r_52r" ana="hc:Page" n="52r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubr_mss_philol_81/0105"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="r_52r-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="r_52r-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="r_52v" ana="hc:Page" n="52v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubr_mss_philol_81/0106"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="r_52v-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="r_52v-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="r_53r" ana="hc:Page" n="53r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubr_mss_philol_81/0107"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="r_53r-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="r_53r-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="r_53v" ana="hc:Page" n="53v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubr_mss_philol_81/0108"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="r_53v-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="r_53v-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="r_54r" ana="hc:Page" n="54r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubr_mss_philol_81/0109"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="r_54r-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="r_54r-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="r_54v" ana="hc:Page" n="54v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubr_mss_philol_81/0110"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="r_54v-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="r_54v-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="r_55r" ana="hc:Page" n="55r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubr_mss_philol_81/0111"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="r_55r-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="r_55r-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="r_55v" ana="hc:Page" n="55v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubr_mss_philol_81/0112"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="r_55v-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="r_55v-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="r_56r" ana="hc:Page" n="56r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubr_mss_philol_81/0113"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="r_56r-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="r_56r-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="r_56v" ana="hc:Page" n="56v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubr_mss_philol_81/0114"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="r_56v-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="r_56v-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="r_57r" ana="hc:Page" n="57r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubr_mss_philol_81/0115"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="r_57r-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="r_57r-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="r_57v" ana="hc:Page" n="57v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubr_mss_philol_81/0116"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="r_57v-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="r_57v-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="r_58r" ana="hc:Page" n="58r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubr_mss_philol_81/0117"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="r_58r-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="r_58r-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="r_58v" ana="hc:Page" n="58v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubr_mss_philol_81/0118"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="r_58v-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="r_58v-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="r_59r" ana="hc:Page" n="59r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubr_mss_philol_81/0119"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="r_59r-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="r_59r-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="r_59v" ana="hc:Page" n="59v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubr_mss_philol_81/0120"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="r_59v-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="r_59v-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="r_60r" ana="hc:Page" n="60r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubr_mss_philol_81/0121"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="r_60r-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="r_60r-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="r_60v" ana="hc:Page" n="60v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubr_mss_philol_81/0122"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="r_60v-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="r_60v-b" ana="hc:Column hc:TextZone" n="b"/>
+                <zone xml:id="r_60v-c" ana="hc:MarginalZone hc:TextZone" n="c"></zone>
+            </zone>
+        </surface>
+        <surface xml:id="r_61r" ana="hc:Page" n="61r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubr_mss_philol_81/0125"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="r_61r-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="r_61r-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="r_61v" ana="hc:Page" n="61v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubr_mss_philol_81/0126"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="r_61v-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="r_61v-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="r_62r" ana="hc:Page" n="62r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubr_mss_philol_81/0127"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="r_62r-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="r_62r-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="r_62v" ana="hc:Page" n="62v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubr_mss_philol_81/0128"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="r_62v-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="r_62v-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="r_63r" ana="hc:Page" n="63r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubr_mss_philol_81/0129"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="r_63r-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="r_63r-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="r_63v" ana="hc:Page" n="63v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubr_mss_philol_81/0130"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="r_63v-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="r_63v-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="r_64r" ana="hc:Page" n="64r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubr_mss_philol_81/0131"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="r_64r-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="r_64r-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="r_64v" ana="hc:Page" n="64v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubr_mss_philol_81/0132"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="r_64v-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="r_64v-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="r_65r" ana="hc:Page" n="65r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubr_mss_philol_81/0133"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="r_65r-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="r_65r-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="r_65v" ana="hc:Page" n="65v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubr_mss_philol_81/0134"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="r_65v-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="r_65v-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="r_66r" ana="hc:Page" n="66r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubr_mss_philol_81/0135"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="r_66r-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="r_66r-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="r_66v" ana="hc:Page" n="66v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubr_mss_philol_81/0136"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="r_66v-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="r_66v-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="r_67r" ana="hc:Page" n="67r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubr_mss_philol_81/0137"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="r_67r-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="r_67r-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="r_67v" ana="hc:Page" n="67v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubr_mss_philol_81/0138"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="r_67v-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="r_67v-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="r_68r" ana="hc:Page" n="68r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubr_mss_philol_81/0139"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="r_68r-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="r_68r-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="r_68v" ana="hc:Page" n="68v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubr_mss_philol_81/0140"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="r_68v-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="r_68v-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="r_69r" ana="hc:Page" n="69r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubr_mss_philol_81/0141"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="r_69r-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="r_69r-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="r_69v" ana="hc:Page" n="69v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubr_mss_philol_81/0142"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="r_69v-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="r_69v-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="r_70r" ana="hc:Page" n="70r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubr_mss_philol_81/0143"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="r_70r-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="r_70r-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="r_70v" ana="hc:Page" n="70v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubr_mss_philol_81/0144"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="r_70v-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="r_70v-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="r_71r" ana="hc:Page" n="71r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubr_mss_philol_81/0145"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="r_71r-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="r_71r-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+    </facsimile>
     <text ana="hc:CompleteExpression hc:CourtlyRomance">
         <body>
             <div>
@@ -5477,7 +6452,7 @@
                 </lg>
                 <lg>
                     <l n="2665"><lb n="30"/><w><hi rendition="hc:RedStroke">G</hi>eſelle</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>herre</w></l>
-                    <fw ana="hc:Catchword"><lb facs="#r_240v-c" n="1"/> <w>Ich</w><w>gnade</w><w>dir</w><w>uil</w> </fw>
+                    <fw ana="hc:Catchword"><lb facs="#r_24v-c" n="c"/> <w>Ich</w><w>gnade</w><w>dir</w><w>uil</w> </fw>
                     <pb n="25r"/>
                     <cb n="a"/>
                     <l n="2666"><lb n="1"/><w><hi rendition="hc:RedStroke">I</hi>ch</w><w>gnade</w><w>dir</w><w>vil</w><w>vërre</w></l>
@@ -7487,6 +8462,7 @@
                 <lg>
                     <l n="3659"><lb n="29"/><w><hi rendition="hc:RedStroke">E</hi>ntredet</w><w>ſich</w><w>die</w><w>güte</w><w>maget</w></l>
                     <pb n="33v"/>
+                    <cb n="a"/>
                     <l n="3660"><lb n="1"/><w><hi rendition="hc:RedStroke">S</hi>ie</w><w>ſprach</w><w>frowe</w><w>úch</w><w>ſy</w><w>geclaget</w></l>
                 </lg>
                 <lg>
@@ -8297,7 +9273,7 @@
                 </lg>
                 <lg>
                     <l n="4063"><lb n="29"/><w><hi rendition="hc:RedStroke">D</hi>as</w><w>ain</w><w>alſo</w><w>frumer</w><w>man</w></l>
-                    <fw ana="hc:Catchword"><lb facs="#r_36v-c" n="1"/> <w>So</w><w>ſtarcke</w><w>miſ</w> </fw>
+                    <fw ana="hc:Catchword"><lb facs="#r_36v-c" n="c"/> <w>So</w><w>ſtarcke</w><w>miſ</w> </fw>
                     <pb n="37r"/>
                     <cb n="a"/>
                     <l n="4064"><lb n="1"/><w><hi rendition="hc:RedStroke">S</hi>o</w><w>ſtarck</w><w>miſſetün</w><w>ka<choice><am>n̄</am><ex>nn</ex></choice></w></l>
@@ -14062,7 +15038,7 @@
                     <l n="6913"><lb n="28"/><w><hi rendition="hc:RedStroke">W</hi>ann</w><w>ſie</w><w>nie</w><w>geſähen</w></l>
                     <l n="6914"><lb n="29"/><w><hi rendition="hc:RedStroke">D</hi>es</w><w>ſie</w><w>alle</w><w><choice><orig>i</orig><reg>j</reg></choice>ahen</w></l>
                 </lg>
-                <fw ana="hc:Catchword"><lb facs="#r_60v-c" n="1"/> <w>Zwene</w><w>Ritter</w> </fw>
+                <fw ana="hc:Catchword"><lb facs="#r_60v-c" n="c"/> <w>Zwene</w><w>Ritter</w> </fw>
                 <pb n="61r"/>
                 <cb n="a"/>
                 <lg>
