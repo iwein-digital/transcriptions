@@ -11,17 +11,14 @@
         </xsl:copy>
     </xsl:template>
     
-    <xsl:template match="tei:lb">
+    <xsl:template match="tei:l">
         <xsl:variable name="current_n" >
-            <xsl:number count="tei:lb" level="any" from="tei:cb"/>
+            <xsl:number count="tei:l" level="any"/>
         </xsl:variable>
-        <lb xmlns="http://www.tei-c.org/ns/1.0" >
-            <xsl:apply-templates select="@*|node()"/>
-            <xsl:if test="$current_n &lt; 100">
-                <xsl:attribute name="n" select="$current_n"/>
-            </xsl:if>
-        </lb>    
-        
+        <l xmlns="http://www.tei-c.org/ns/1.0" >            
+            <xsl:attribute name="n" select="$current_n"/>
+            <xsl:apply-templates select="@ana|@corresp|@copyOf|node()"/>
+        </l>
     </xsl:template>
     
     
