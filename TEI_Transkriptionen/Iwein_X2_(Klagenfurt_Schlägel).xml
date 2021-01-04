@@ -1,0 +1,410 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://digi.ub.uni-heidelberg.de/schema/tei/heiEDITIONS/tei_hes.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://digi.ub.uni-heidelberg.de/schema/tei/heiEDITIONS/tei_hes.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:hei="https://digi.ub.uni-heidelberg.de/schema/tei/heiEDITIONS" ana="hc:IWDDocument">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Iwein-Fragm. X2</title>
+                <author>Hartmann von Aue</author>
+                <respStmt>
+                    <resp>transcription</resp>
+                    <persName>Victor Millet</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>UB Heidelberg</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="X2_Klagenfurt"><msDesc>
+                        <msIdentifier>
+                            <settlement>Klagenfurt</settlement>
+                            <repository>Universitätsbibliothek Klagenfurt</repository>
+                            <idno>Perg.Hs. 63</idno>
+                        </msIdentifier>
+                    </msDesc></witness>
+                    <witness xml:id="X2_Schlägl">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Schlägel</settlement>
+                                <repository>Stiftsbibliothek Schlägl</repository>    
+                                <idno>ohne Signatur</idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <listPrefixDef>
+                <prefixDef ident="hc" matchPattern="(.+)" replacementPattern="https://lod.ub.uni-heidelberg.de/ontologies/heieditions/hc/current/$1"/>
+            </listPrefixDef>
+        </encodingDesc>
+    </teiHeader>
+    <facsimile>
+        <surface ana="hc:Page" xml:id="X2_1r" n="1r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubkl_perg_hs_63_sbs_os/0001/image"/>
+            <zone ana="hc:Column" xml:id="X2_1r-a" n="1r-a"/>
+            <zone ana="hc:Column" xml:id="X2_1r-b" n="1r-b"/>
+        </surface>
+        <surface ana="hc:Page" xml:id="X2_1v" n="1v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubkl_perg_hs_63_sbs_os/0002/image"/>
+            <zone ana="hc:Column" xml:id="X2_1v-a" n="1v-a"/>
+            <zone ana="hc:Column" xml:id="X2_1v-b" n="1v-b"/>
+        </surface>
+        <surface ana="hc:Page" xml:id="X2_2r" n="2r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubkl_perg_hs_63_sbs_os/0003/image"/>
+            <zone ana="hc:Column" xml:id="X2_2r-a" n="2r-a"/>
+            <zone ana="hc:Column" xml:id="X2_2r-b" n="2r-b"/>
+        </surface>
+        <surface ana="hc:Page" xml:id="X2_2v" n="2v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/ubkl_perg_hs_63_sbs_os/0004/image"/>
+            <zone ana="hc:Column" xml:id="X2_2v-a" n="2v-a"/>
+            <zone ana="hc:Column" xml:id="X2_2v-b" n="2v-b"/>
+        </surface>
+    </facsimile>
+    <text ana="hc:CourtlyRomance hc:ExpressionFragmentThroughLoss">
+        <body>
+            <div>
+                <pb n="1r"/>
+                <cb n="a"/>
+                <lg>
+                    <l n="2398"><lb n="1"/><gap ana="hc:CutOff"/><w>e</w><w>ir</w><w>wille</w><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>ir</w><w>heil</w></l>
+                </lg>
+                <lg>
+                    <l n="2399"><lb n="2"/><w><hi rendition="hc:Versal">v</hi>il</w><w>lichte</w><w>geraten</w></l>
+                    <l n="2400"><lb n="3"/><w>ich</w><w>wen</w><w>ſi</w><w>rechte</w><w>taten</w></l>
+                </lg>
+                <lg>
+                    <l n="2401"><lb n="4"/><w><hi rendition="hc:Versal">w</hi><choice><am>ē</am><ex>en</ex></choice></w><w>duchte</w><w join="right">ſir</w><w join="left">z</w><w>alle</w><w>miſſetan</w></l>
+                    <l n="2402"><lb n="5"/><w>ſi</w><w>wold</w><w>in</w><w>doch</w><w>genomen</w><w>han</w></l>
+                </lg>
+                <lg>
+                    <l n="2403"><lb n="6"/><w><hi rendition="hc:Versal">d</hi>o</w><w>der</w><w>truchtſez</w><w>getet</w></l>
+                    <l n="2404"><lb n="7"/><w><choice><am>d͛</am><ex>der</ex></choice></w><w>vrouu<choice><am>ē</am><ex>en</ex></choice></w><w>rede</w><w>noch</w><w>irre</w><w>bet</w></l>
+                </lg>
+                <lg>
+                    <l n="2405"><lb n="8"/><damage ana="hc:CutOff"><w><hi rendition="hc:Versal"><choice><orig>v</orig><reg>u</reg></choice></hi><choice><am>n̄</am><ex>nd</ex></choice></w><w>ſi</w></damage><gap ana="hc:CutOff"/><damage ana="hc:CutOff"><w>horten</w><w>ſagen</w></damage></l>
+                </lg>
+                <gap ana="hc:CutOff"/>
+                <lg>
+                    <l n="2417"><lb n="9"/><gap ana="hc:Illegible"/><w/><w/><w/><w/><w/></l>
+                    <l n="2418"><lb n="10"/><w>da</w><w>waren</w><w>p</w><gap ana="hc:Illegible hc:CutOff"/></l>
+                </lg>
+                <lg>
+                    <l n="2419"><lb n="11"/><w><hi rendition="hc:Versal">d</hi>i</w><w>taten</w><w>in</w><w>di</w><w>e</w><w>ze</w><gap ana="hc:Illegible hc:CutOff"></gap></l>
+                    <l n="2420"><lb n="12"/><w>ſi</w><w>gabin</w><w>ime</w><gap ana="hc:Illegible hc:CutOff"/></l>
+                </lg>
+                <lg>
+                    <l n="2421"><lb n="13"/><w><gap ana="hc:RubbedOff" n="1" unit="chars"/>rou</w><w>laudane</w><w>hies</w><w>ſi</w><gap ana="hc:CutOff"/></l>
+                    <l n="2422"><lb n="14"/><w>ſi</w><w>konde</w><w>im</w><w>leben</w><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><gap ana="hc:CutOff"/></l>
+                </lg>
+                <cb n="b"/>
+                <lg>
+                    <l n="2423"><lb n="1"/><gap ana="hc:CutOff"/><w><choice><am>n̄</am><ex>en</ex></choice></w><gap ana="hc:Illegible"/><w>tugent</w></l>
+                    <l n="2424"><lb n="2"/><gap ana="hc:CutOff"/><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>iugent</w></l>
+                </lg>
+                <lg>
+                    <l n="2425"><lb n="3"/><gap ana="hc:CutOff"/><w>ite</w></l>
+                    <l n="2426"><lb n="4"/><gap ana="hc:CutOff"/><w>et<add hei:placeRef="hc:AboveLine">e</add></w><w>geleit</w></l>
+                </lg>
+                <lg>
+                    <l n="2427"><lb n="5"/><gap ana="hc:CutOff"/><w>guͦten</w><w>ſin</w></l>
+                    <l n="2428"><lb n="6"/><gap ana="hc:CutOff"/><w>ſ</w><w>an</w><w><damage ana="hc:Perforated">in</damage></w></l>
+                </lg>
+                <lg>
+                    <l n="2429"><lb n="7"/><damage ana="hc:CutOff"><w><hi rendition="hc:Versal"><choice><am>d͛</am><ex>der</ex></choice></hi></w></damage><w>wer</w><w>eins</w><w>gut<choice><am>ē</am><ex>en</ex></choice></w><w>wibes</w><w>wert</w></l>
+                    <l n="2430"><lb n="8"/><w>di</w><w>nicht</w><w>wen</w><w>ſines</w><w>willen</w><w>gert</w></l>
+                </lg>
+                <lg>
+                    <l n="2431"><lb n="9"/><w><hi rendition="hc:Versal">S</hi>uln</w><w>di</w><w>mit</w><w>libe</w><w>lange</w><w>lebin</w></l>
+                    <l n="2432"><lb n="10"/><w>den</w><w>hat</w><w>her</w><w>vrouden</w><w>vil</w><w>gegebin</w></l>
+                </lg>
+                <lg>
+                    <l n="2433"><lb n="11"/><w>daz</w><w>waz</w><w>allis</w><w>vollen</w><w>da</w></l>
+                    <l n="2434"><lb n="12"/><w>nu</w><w>hub</w><w>ſich</w><w>di</w><w>brutlouft</w><w>ſa</w></l>
+                </lg>
+                <lg>
+                    <l n="2435"><lb n="13"/><w><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">D</hei:initial>ez</w><w>toten</w><w>iſt</w><w>virgeſſin</w></l>
+                    <l n="2436"><lb n="14"/><w>der</w><w>lebinde</w><w>hat</w><w>beſeſſin</w></l>
+                </lg>
+                <lg>
+                    <l n="2437"><lb n="15"/><gap ana="hc:CutOff"/><w>ſin</w><w>ere</w><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><gap ana="hc:CutOff"/></l>
+                </lg>
+                <gap ana="hc:CutOff"></gap>
+                <lg>
+                    <l n="2451"><lb n="16"/><gap ana="hc:CutOff"/><w>age</w></l>
+                    <l n="2452"><lb n="17"/><gap ana="hc:CutOff"/><w>age</w></l>
+                </lg>
+                <lg>
+                    <l n="2453"><lb n="18"/><gap ana="hc:CutOff"/><w>ch</w><w>gut</w><w>ritter</w><w>alſe</w><gap ana="hc:CutOff"/></l>
+                    <l n="2454"><lb n="19"/><gap ana="hc:CutOff"/><w>her</w><damage ana="hc:Stained hc:Perforated"><w>kay</w><w>vro</w></damage></l>
+                </lg>
+                <lg>
+                    <l n="2455"><lb n="20"/><gap ana="hc:CutOff"/><w>n</w><w>ſpotten</w><damage ana="hc:Perforated"><w>vant</w></damage></l>
+                    <l n="2456"><lb n="21"/><gap ana="hc:Illegible"/></l>
+                </lg>
+                <pb n="1v"/>
+                <cb n="a"/>
+                <lg>
+                    <l n="2457"><lb n="1"/><w><hi rendition="hc:Versal">N</hi>u</w><w>wo</w><w>iſt</w><gap ana="hc:RubbedOff"/><w><choice><am>h͛</am><ex>her</ex></choice></w><gap ana="hc:CutOff"/></l>
+                    <l n="2458"><lb n="2"/><w><choice><am>h͛</am><ex>her</ex></choice></w><w>ſchinet</w><w>noch</w><w>alſe</w><gap ana="hc:CutOff"/></l>
+                </lg>
+                <lg>
+                    <l n="2461"><lb n="3"/><w><hi rendition="hc:Versal">d</hi>o</w><w><choice><am>h͛</am><ex>her</ex></choice></w><w>uch</w><w>mit</w><w>worte</w><gap ana="hc:CutOff"/></l>
+                    <l n="2462"><lb n="4"/><w>owe</w><w>wi</w><w><choice><am>h͛</am><ex>her</ex></choice></w><w>ſluc</w><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><gap ana="hc:CutOff"/></l>
+                </lg>
+                <lg>
+                    <l n="2463"><lb n="5"/><w><hi rendition="hc:Versal"><choice><am>w͛</am><ex>wer</ex></choice></hi></w><w>im</w><w>ein</w><w>trinken</w><gap ana="hc:CutOff"/></l>
+                    <l n="2464"><lb n="6"/><w><choice><am>h͛</am><ex>her</ex></choice></w><w>hette</w><w>wol</w><w>zwelf</w><gap ana="hc:CutOff"/></l>
+                </lg>
+                <lg>
+                    <l n="2465"><lb n="7"/><gap ana="hc:CutOff"/><w><choice><am>n͛</am><ex>ner</ex></choice></w><w>manheit</w><w>waz</w><w>ſo</w><w>vil</w></l>
+                    <l n="2466"><lb n="8"/><w>dez</w><w>wa<add hei:placeRef="hc:AboveLine">r</add></w><w>ob</w><w><choice><am>h͛</am><ex>her</ex></choice></w><w>uch</w><w>rechin</w><w>wil</w></l>
+                </lg>
+                <lg>
+                    <l n="2467"><lb n="9"/><w><gap ana="hc:CutOff"/>o</w><w>ſumet</w><w>her</w><w>harte</w><w>ſere</w><w>ſich</w></l>
+                    <l n="2468"><lb n="10"/><w>der</w><w>uch</w><w>do</w><w>richit</w><w>daz</w><w>bin</w><w>ich</w></l>
+                </lg>
+                <lg>
+                    <l n="2469"><lb n="11"/><w><gap ana="hc:CutOff"/>ch</w><w>mus</w><w>abir</w><w>di</w><w>not</w><w>beſtan</w></l>
+                    <l n="2470"><lb n="12"/><w>alſ</w><w>ich</w><w>vil</w><w>dicke</w><w>han</w><w>getan</w></l>
+                </lg>
+                <lg>
+                    <l n="2471"><lb n="13"/><w><gap ana="hc:CutOff"/>o</w><w>ich</w><w>vor</w><w>min<choice><am>ē</am><ex>en</ex></choice></w><w>vrunt</w><w>ſtunt</w></l>
+                    <l n="2472"><lb n="14"/><w join="right">I</w><w join="left">n</w><w>weis</w><w join="right">war</w><w join="left"><choice><am>ū</am><ex>um</ex></choice>me</w><w>ſi</w><w>iz</w><w>tunt</w></l>
+                </lg>
+                <lg>
+                    <l n="2473"><lb n="15"/><gap ana="hc:CutOff"/><w>echint</w></l>
+                </lg>
+                <gap ana="hc:CutOff" n="13" unit="lines"></gap>
+                <lg>
+                    <l n="2487"><lb n="16"/><w><hi rendition="hc:Versal">a</hi>b</w><gap ana="hc:CutOff"/></l>
+                    <l n="2488"><lb n="17"/><w>daz</w><gap ana="hc:CutOff"/></l>
+                </lg>
+                <lg>
+                    <l n="2489"><lb n="18"/><w><hi rendition="hc:Versal">S</hi>we</w><gap ana="hc:CutOff"/><w>ein</w><w>ere</w><w>geſchit</w></l>
+                    <l n="2490"><lb n="19"/><w>ſ<choice><am>z</am><ex>et</ex></choice></w><gap ana="hc:Illegible"/><w>in</w><w>tue</w><w>ich</w><w>nicht</w></l>
+                </lg>
+                <lg>
+                    <l n="2491"><lb n="20"/><w>w<choice><am>ē</am><ex>en</ex></choice></w><gap ana="hc:Illegible"/><w>man</w></l>
+                    <l n="2492"><lb n="21"/><w>ſin</w><gap ana="hc:Illegible"/></l>
+                </lg>
+                <cb n="b"/>
+                <gap ana="hc:CutOff" n="6" unit="lines"></gap>
+                <lg>
+                    <l n="2499"><lb n="1"/><w><hi rendition="hc:Versal">w</hi>o</w><w>der</w><w>b</w><gap ana="hc:CutOff"/></l>
+                    <l n="2500"><lb n="2"/><w>wi</w><w>im</w><gap ana="hc:CutOff"/></l>
+                </lg>
+                <lg>
+                    <l n="2501"><lb n="3"/><w><hi rendition="hc:Versal"><choice><am>d͛</am><ex>der</ex></choice></hi></w><w>im</w><w>ſi</w><gap ana="hc:CutOff"/></l>
+                    <l n="2502"><lb n="4"/><w><choice><am>h͛</am><ex>her</ex></choice></w><w>ywein</w><w>iſt</w><w><choice><orig>v</orig><reg>u</reg></choice>nwiſe</w></l>
+                </lg>
+                <lg>
+                    <l n="2503"><lb n="5"/><w><hi rendition="hc:Versal"><choice><am>h͛</am><ex>her</ex></choice></hi></w><w>nicht</w><w>geſwig<choice><am>ē</am><ex>en</ex></choice></w><w>hat</w><w>alſ</w><w>ich</w></l>
+                    <l n="2504"><lb n="6"/><w>di</w><w>rede</w><w>duchte</w><w>ſi</w><w>gemelich</w></l>
+                </lg>
+                <lg>
+                    <l n="2505"><lb n="7"/><w><hi rendition="hc:Versal">d</hi>az</w><w>her</w><w>ſich</w><w>machit</w><w>alſo</w><w>gut</w></l>
+                    <l n="2506"><lb n="8"/><w>wen</w><w>alſo</w><w>ſchelclichen</w><w>mut</w></l>
+                </lg>
+                <lg>
+                    <l n="2507"><lb n="9"/><gap ana="hc:CutOff"/><w>n</w><w>nẏ</w><w>ritter</w><w>kein</w></l>
+                    <l n="2508"><lb n="10"/><gap ana="hc:CutOff"/><w>rach</w><w>min</w><w>her</w><w>gawein</w></l>
+                </lg>
+                <lg>
+                    <l n="2509"><lb n="11"/><gap ana="hc:CutOff"/><damage ana="hc:CutOff"><w>min</w><w>her</w><w>key</w></damage></l>
+                </lg>
+                <gap ana="hc:CutOff" n="11" unit="lines"/>
+                <lg>
+                    <l n="2521"><lb n="12"/><gap ana="hc:CutOff"/><w>di</w><w>rede</w><w>lan</w></l>
+                    <l n="2522"><lb n="13"/><gap ana="hc:CutOff"/><w>az</w><w>ſi</w><w>getan</w></l>
+                </lg>
+                <lg>
+                    <l n="2523"><lb n="14"/><gap ana="hc:CutOff"/><w>rechte</w><w>dar</w><w>an</w></l>
+                    <l n="2524"><lb n="15"/><gap ana="hc:CutOff hc:Illegible"/><w>ain</w><w>man</w></l>
+                </lg>
+                <lg>
+                    <l n="2525"><lb n="16"/><gap ana="hc:CutOff"/><w>ol</w></l>
+                    <l n="2526"><lb n="17"/><gap ana="hc:CutOff"/><w>nt</w><w>reden</w><w>ſol</w></l>
+                </lg>
+                <pb n="2r"/>
+                <cb n="a"/>
+                <gap ana="hc:CutOff"></gap>
+                <lg>
+                    <l n="2810"><lb n="1"/><w>daz</w><w>er</w><gap ana="hc:RubbedOff"/></l>
+                </lg>
+                <lg>
+                    <l n="2811"><lb n="2"/><w><hi rendition="hc:Versal">w</hi>edir</w><w>rit</w><gap ana="hc:RubbedOff"/></l>
+                    <l n="2812"><lb n="3"/><w><choice><am>h͛</am><ex>her</ex></choice></w><w>git</w><damage ana="hc:RubbedOff"><w>ich</w></damage><w>ſul</w><w>dem</w><w>huſe</w><w>lebin</w></l>
+                </lg>
+                <lg>
+                    <l n="2813"><lb n="4"/><w><hi rendition="hc:Versal"><choice><am>h͛</am><ex>her</ex></choice></hi></w><w>geloubit</w><w>ſich</w><w>denne</w><w>beiden</w></l>
+                    <l n="2814"><lb n="5"/><w>vrunden</w><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>leiden</w></l>
+                </lg>
+                <lg>
+                    <l n="2815"><lb n="6"/><w><hi rendition="hc:Versal">d</hi>i</w><w>noch</w><w>ritterlichein</w><w>ſiten</w></l>
+                    <l n="2816"><lb n="7"/><w>ſint</w><w>geſtalt</w><w>adir</w><w>geſniten</w></l>
+                </lg>
+                <lg>
+                    <l n="2817"><lb n="8"/><w><hi rendition="hc:Versal"><choice><orig>v</orig><reg>u</reg></choice></hi><choice><am>n̄</am><ex>nd</ex></choice></w><w>waz</w><w><choice><am>h͛</am><ex>her</ex></choice></w><w>warmes</w><w>an</w><w>leit</w></l>
+                    <l n="2818"><lb n="9"/><w>daz</w><w>git</w><w><choice><am>h͛</am><ex>her</ex></choice></w><w>eſ</w><w>ſi</w><w>ſin</w><w>win<choice><am>t͛</am><ex>ter</ex></choice> cleit</w></l>
+                </lg>
+                <lg>
+                    <l n="2819"><lb n="10"/><w><choice><am>h͛</am><ex>her</ex></choice></w><gap ana="hc:CutOff"/><w>den</w><gap ana="hc:CutOff"/><w>ſware</w></l>
+                </lg>
+                <gap ana="hc:CutOff" n="11" unit="lines"/>
+                <lg>
+                    <l n="2831"><lb n="11"/><gap ana="hc:CutOff"/><w>lagen</w></l>
+                    <l n="2832"><lb n="12"/><gap ana="hc:CutOff"/><w>lagen</w></l>
+                </lg>
+                <lg>
+                    <l n="2833"><lb n="13"/><gap ana="hc:CutOff"/><w>an</w></l>
+                    <l n="2834"><lb n="14"/><gap ana="hc:CutOff"/><w>z</w><w>hus</w><w>lan</w></l>
+                </lg>
+                <lg>
+                    <l n="2836"><lb n="15"/><gap ana="hc:CutOff"/></l>
+                    <l n="2835"><lb n="16"/><w>i</w><w>den</w><w>lip</w></l>
+                </lg>
+                <cb n="b"/>
+                <lg>
+                    <l n="2837"><lb n="1"/><gap ana="hc:CutOff hc:Illegible"/><w>tu</w><gap ana="hc:Illegible"/></l>
+                    <l n="2838"><lb n="2"/><gap ana="hc:CutOff hc:Illegible"/></l>
+                </lg>
+                <lg>
+                    <l n="2839"><lb n="3"/><gap ana="hc:CutOff hc:Illegible"/><w>n</w><w>ſ</w><gap ana="hc:Illegible"/></l>
+                    <l n="2840"><lb n="4"/><gap ana="hc:CutOff hc:Illegible"/><w>m<choice><am>ā</am><ex>an</ex></choice></w><w>wiſen</w><w>wol</w></l>
+                </lg>
+                <lg>
+                    <l n="2841"><lb n="5"/><gap ana="hc:CutOff hc:Illegible"/><w>ſtin</w></l>
+                    <l n="2842"><lb n="6"/><gap ana="hc:CutOff hc:Illegible"/><w>z</w><gap ana="hc:Illegible"/><w>roſten</w></l>
+                </lg>
+                <lg>
+                    <l n="2843"><lb n="7"/><w><hi rendition="hc:Versal"><choice><am>d͛</am><ex>der</ex></choice></hi></w><w><choice><am>w͛</am><ex>wer</ex></choice>lt</w><w>an</w><w>a</w><gap ana="hc:CutOff"/></l>
+                    <l n="2844"><lb n="8"/><w>mocht</w><w>ich</w><gap ana="hc:CutOff"/></l>
+                </lg>
+                <lg>
+                    <l n="2845"><lb n="9"/><w><hi rendition="hc:Versal">S</hi>us</w><w>ging</w><w>h</w><gap ana="hc:CutOff"/></l>
+                    <l n="2846"><lb n="10"/><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>ſinen</w><w>g</w><gap ana="hc:CutOff"/></l>
+                </lg>
+                <lg>
+                    <l n="2847"><lb n="11"/><w><hi rendition="hc:Versal">S</hi>o</w><w>manig</w><w>arm</w><gap ana="hc:CutOff"/></l>
+                    <l n="2848"><lb n="12"/><w>daz</w><w>im</w><w>liber</w><w>were</w></l>
+                </lg>
+                <lg>
+                    <l n="2849"><lb n="13"/><w><hi rendition="hc:Versal"><choice><am>w͛</am><ex>wer</ex></choice></hi></w><w>her</w><w>ny</w><w>comen</w><w>dar</w></l>
+                    <l n="2850"><lb n="14"/><gap ana="hc:CutOff"/><w>war</w><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><gap ana="hc:RubbedOff"/><w>nicht</w><w>gar</w></l>
+                </lg>
+                <lg>
+                    <l n="2851"><lb n="15"/><gap ana="hc:CutOff"/><w>coſten</w><gap ana="hc:RubbedOff"/><w>te</w><w>vil</w></l>
+                    <l n="2852"><lb n="16"/><gap ana="hc:CutOff"/><w>hte</w><w>haben</w><w>wil</w></l>
+                </lg>
+                <lg>
+                    <l n="2853"><lb n="17"/><gap ana="hc:CutOff"/><w>r</w><w>heime</w><w>ſin</w></l>
+                </lg>
+                <gap ana="hc:CutOff" n="11" unit="lines"></gap>
+                <lg>
+                    <l n="2865"><lb n="18"/><w><hi rendition="hc:Versal"><choice><orig>v</orig><reg>u</reg></choice></hi><choice><am>n̄</am><ex>nd</ex></choice></w><w>git</w><w>dez</w><w>danne</w></l>
+                    <l n="2866"><lb n="19"/><w>glich</w><gap ana="hc:Illegible"/><w>boſtin</w><w>man</w></l>
+                </lg>
+                <lg>
+                    <l n="2867"><lb n="20"/><w><hi rendition="hc:Versal">d</hi></w><gap ana="hc:CutOff"/><damage ana="hc:Perforated hc:RubbedOff"><w>durch</w><w>iren</w><w>wibe</w></damage></l>
+                    <l n="2868"><lb n="21"/><gap ana="hc:Illegible"/></l>
+                </lg>
+                <lg>
+                    <l n="2869"><lb n="22"/><w><hi rendition="hc:Versal">w</hi>en</w><damage ana="hc:RubbedOff"><w>ir</w><w>iſt</w><w>von</w></damage><gap ana="hc:RubbedOff"/></l>
+                    <l n="2870"><lb n="23"/><w>ſin</w><w><choice><orig>v</orig><reg>u</reg></choice>nwird</w><damage ana="hc:RubbedOff"><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>ſin</w></damage></l>
+                </lg>
+                <pb n="2v"/>
+                <cb n="a"/>
+                <lg>
+                    <l n="2871"><lb n="1"/><w><hi rendition="hc:Versal">w</hi>i</w><w>rechte</w><w>lip</w><w>her</w><w>ir</w><w>ſ</w><gap ana="hc:CutOff"/></l>
+                    <l n="2872"><lb n="2"/><w>ſi</w><w>mut</w><w>iſt</w><w>her</w><w>ir</w><w>of</w><gap ana="hc:CutOff"/></l>
+                </lg>
+                <lg>
+                    <l n="2873"><lb n="3"/><w><hi rendition="hc:Versal">M</hi>anege</w><w>cihin</w><w>ſich</w><w>d</w><gap ana="hc:CutOff"/></l>
+                    <l n="2874"><lb n="4"/><w>durch</w><w>die</w><w>vorchte</w><gap ana="hc:CutOff"/></l>
+                </lg>
+                <lg>
+                    <l n="2875"><lb n="5"/><w><hi rendition="hc:Versal">d</hi>az</w><w>ſi</w><w>ſin</w><w>niht</w><w>vor</w><gap ana="hc:CutOff"/></l>
+                    <l n="2876"><lb n="6"/><w>ſwa</w><w>abir</w><w><choice><am>h͛</am><ex>her</ex></choice></w><w>iz</w><w>gi</w><gap ana="hc:CutOff"/></l>
+                </lg>
+                <gap ana="hc:CutOff"/>
+                <lg>
+                    <l n="2878"><lb n="7"/><gap ana="hc:CutOff"/><w>net</w></l>
+                </lg>
+                <lg>
+                    <l n="2879"><lb n="8"/><w><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">I</hei:initial></w><gap ana="hc:CutOff"/><w>wir</w><w>hant</w></l>
+                    <l n="2880"><lb n="9"/><gap ana="hc:CutOff"/><w>n</w><w>riches</w><w>lant</w><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="2881"><lb n="10"/><w><hi rendition="hc:Versal">S</hi>ult</w><w>ir</w><gap ana="hc:CutOff"/><w>bi</w></l>
+                    <l n="2882"><lb n="11"/><w>ſo</w><w>wen</w><w>ich</w><w>wol</w><w>daz</w><w>richir</w><w>ſi</w></l>
+                </lg>
+                <lg>
+                    <l n="2883"><lb n="12"/><w><hi rendition="hc:Versal">a</hi>ne</w><w>habe</w><w>ein</w><w>ric<choice><am>h͛</am><ex>her</ex></choice></w><w>man</w></l>
+                    <l n="2884"><lb n="13"/><w><choice><am>h͛</am><ex>her</ex></choice></w><w>ywan</w><w>do</w><w>gedenkit</w><w>an</w></l>
+                </lg>
+                <lg>
+                    <l n="2885"><lb n="14"/><w><hi rendition="hc:Versal"><choice><orig>v</orig><reg>u</reg></choice></hi><choice><am>n̄</am><ex>nd</ex></choice></w><w><choice><orig>u</orig><reg>v</reg></choice>art</w><w>mit</w><w><choice><orig>v</orig><reg>u</reg></choice>ns</w><w>h</w><gap ana="hc:CutOff"/></l>
+                    <l n="2886"><lb n="15"/><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>gewinnet</w><w>mi</w><gap ana="hc:CutOff"/></l>
+                </lg>
+                <lg>
+                    <l n="2887"><lb n="16"/><damage ana="hc:CutOff"><w><choice><am>d͛</am><ex>der</ex></choice></w><w>k<choice><orig>v</orig><reg>u</reg></choice>negin</w><w>ein</w><w><choice><orig>v</orig><reg>u</reg></choice>r</w></damage><gap ana="hc:CutOff"/></l>
+                </lg>
+                <gap ana="hc:CutOff" n="11" unit="lines"/>
+                <lg>
+                    <l n="2899"><lb n="17"/><gap ana="hc:CutOff"/><w>abt</w><w>alſus</w><w>gelebt</w><w>her</w></l>
+                    <l n="2900"><lb n="18"/><gap ana="hc:CutOff"/><w join="right">ich</w><w join="left">ſ</w><w>an</w><w>uch</w><w>nicht</w><gap ana="hc:RubbedOff"/><w>ger</w><pc>·</pc></l>
+                </lg>
+                <lg>
+                    <l n="2901"><lb n="19"/><gap ana="hc:CutOff"/><w>ren</w><w>alſ</w><w>ein</w><w>gut</w><w>kne</w><gap ana="hc:Perforated"/></l>
+                    <l n="2902"><lb n="20"/><gap ana="hc:CutOff hc:RubbedOff"/><w>ht</w></l>
+                </lg>
+                <lg>
+                    <l n="2903"><lb n="21"/><gap ana="hc:CutOff"/><w>z</w><w>ſich</w><w><choice><orig>v</orig><reg>u</reg></choice>wir</w><w>ere</w></l>
+                    <l n="2904"><lb n="22"/><w>breite</w><w><choice><orig>v</orig><reg>u</reg></choice>nde</w><w>mere</w></l>
+                </lg>
+                <cb n="b"/>
+                <gap ana="hc:CutOff" n="6" unit="lines"/>
+                <lg>
+                    <l n="2911"><lb n="1"/><damage ana="hc:CutOff"><w><hi rendition="hc:Versal">I</hi>n</w><w>manichem</w><w>lande</w><w>von</w></damage><gap ana="hc:CutOff"/></l>
+                    <l n="2912"><lb n="2"/><w>dez</w><w><choice><orig>u</orig><reg>v</reg></choice>olgete</w><w>ym</w><w><choice><am>h͛</am><ex>her</ex></choice></w><w>ywen</w></l>
+                </lg>
+                <lg>
+                    <l n="2913"><lb n="3"/><w><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">D</hei:initial>o</w><w>virſuchte</w><w>her</w><w>zcu</w><w>hant</w></l>
+                    <l n="2914"><lb n="4"/><w><choice><orig>v</orig><reg>u</reg></choice>m</w><w>di</w><w>vrow<choice><am>ē</am><ex>en</ex></choice></w><w>her</w><w>v</w><gap ana="hc:RubbedOff"/></l>
+                </lg>
+                <lg>
+                    <l n="2915"><lb n="5"/><w><hi rendition="hc:Versal">w</hi>an</w><w>ſin</w><w>bet</w><w>waz</w><w>getan</w></l>
+                    <l n="2916"><lb n="6"/><w>do</w><w>in</w><w>hete</w><w>ſi</w><w>dez</w><w>kein<choice><am>ē</am><ex>en</ex></choice></w><w>wan</w></l>
+                </lg>
+                <lg>
+                    <l n="2917"><lb n="7"/><w><hi rendition="hc:Versal">d</hi>az</w><w>her</w><w>ſi</w><w>ichtes</w><w>bete</w></l>
+                    <l n="2918"><lb n="8"/><gap ana="hc:CutOff"/><w>daz</w><w>ſi</w><w>gerne</w><w>tete</w></l>
+                </lg>
+                <lg>
+                    <l n="2919"><lb n="9"/><gap ana="hc:CutOff"/><w>wern</w><w>rou</w><w>ſi</w><w>zcu</w><w>hant</w></l>
+                    <l n="2920"><lb n="10"/><gap ana="hc:CutOff"/><w>er</w><w>daz</w><w>urlop</w><w>benant</w></l>
+                </lg>
+                <lg>
+                    <l n="2921"><lb n="11"/><damage ana="hc:CutOff"><w>turnirn</w><w>muſte</w></damage><gap ana="hc:CutOff"/></l>
+                </lg>
+                <gap ana="hc:CutOff" n="11" unit="lines"></gap>
+                <lg>
+                    <l n="2933"><lb n="12"/><w><hi rendition="hc:Versal"><choice><orig>J</orig><reg>I</reg></choice></hi>z</w><w>in</w><w>ſi</w><w>mite</w><w>ga</w><gap ana="hc:CutOff"/></l>
+                    <l n="2934"><lb n="13"/><w>ſiecht<choice><am>ū</am><ex>um</ex></choice></w><w>v</w><gap ana="hc:CutOff"/></l>
+                </lg>
+                <lg>
+                    <l n="2935"><lb n="14"/><w><hi rendition="hc:Versal">S</hi>i</w><w>ſprach</w><gap ana="hc:CutOff"/></l>
+                    <l n="2936"><lb n="15"/><w>daz</w><w><choice><orig>v</orig><reg>u</reg></choice>nſir</w><w>e</w><gap ana="hc:CutOff"/></l>
+                </lg>
+                <lg>
+                    <l n="2937"><lb n="16"/><w><hi rendition="hc:Versal">v</hi>il</w><w>gar</w><gap ana="hc:CutOff"/></l>
+                    <l n="2938"><lb n="17"/><w>en</w><w>comet</w><w><choice><orig>v</orig><reg>u</reg></choice>n</w><gap ana="hc:CutOff"/></l>
+                </lg>
+            </div>
+        </body>
+    </text>
+</TEI>
