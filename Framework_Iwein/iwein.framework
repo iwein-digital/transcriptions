@@ -517,7 +517,7 @@ else ancestor::l</String>
 														<serializableOrderedMap>
 															<entry>
 																<String>fragment</String>
-																<String>&lt;note xmlns="http://www.tei-c.org/ns/1.0" ana="${ask('type of note:', combobox,('hc:Gloss':'Gloss';'hc:NotaBene':'Nota Bene'; 'hc:Manicula':'Manicula' ; 'hc:Footnote':'Footnote' ; 'hc:Endnote':'Endnote' ; 'hc:Comment':'Editorial General Comment' ; 'hc:TextCriticalNote':'Editorial Text Critical Note' ; 'hc:TranscriptionNote':'Editorial Transcription Note' ; 'hc:WitnessesNote':'Editorial Witnesses Note' ; 'hc:LociNote': 'Editorial note about textual loci' ; 'hc:FontesNote': 'Editorial Note about Sources' ; 'hc:SimiliaNote': 'Editorial Note about Parallels' ; 'hc:TestimoniaNote': 'Editorial Note about Reception' ; 'hc:BibliocalNote': 'Editorial Note about Bibliocal Sources') )}" resp="${ask('who is responsible:')}">${ask('Note content:')}&lt;/note></String>
+																<String>&lt;note xmlns="http://www.tei-c.org/ns/1.0" ana="${ask('type of note:', combobox,('hc:Gloss':'Gloss';'hc:NotaBene':'Nota Bene'; 'hc:Manicula':'Manicula' ; 'hc:Footnote':'Footnote' ; 'hc:Endnote':'Endnote' ; 'hc:Comment':'Editorial General Comment' ; 'hc:TextCriticalNote':'Editorial Text Critical Note' ; 'hc:TranscriptionNote':'Editorial Transcription Note' ; 'hc:WitnessesNote':'Editorial Witnesses Note' ; 'hc:LociNote': 'Editorial note about textual loci' ; 'hc:FontesNote': 'Editorial Note about Sources' ; 'hc:SimiliaNote': 'Editorial Note about Parallels' ; 'hc:TestimoniaNote': 'Editorial Note about Reception' ; 'hc:BibliocalNote': 'Editorial Note about Bibliocal Sources') )}" resp="${ask('who is responsible:')}" target="${ask('@target:')}">${ask('Note content:')}&lt;/note></String>
 															</entry>
 															<entry>
 																<String>insertLocation</String>
@@ -4824,7 +4824,7 @@ compl1(3)</String>
 															</entry>
 															<entry>
 																<String>Limit</String>
-																<String>TEI</String>
+																<String>cb</String>
 															</entry>
 															<entry>
 																<String>Prefix</String>
@@ -4926,6 +4926,68 @@ compl1(3)</String>
 													</field>
 													<field name="operationID">
 														<String>ro.sync.ecss.extensions.commons.operations.ExecuteTransformationScenariosOperation</String>
+													</field>
+												</actionMode>
+											</actionMode-array>
+										</field>
+										<field name="enabledInReadOnlyContext">
+											<Boolean>false</Boolean>
+										</field>
+									</action>
+									<action>
+										<field name="id">
+											<String>hi</String>
+										</field>
+										<field name="name">
+											<String>hi</String>
+										</field>
+										<field name="description">
+											<String>Ein hi tag</String>
+										</field>
+										<field name="largeIconPath">
+											<String></String>
+										</field>
+										<field name="smallIconPath">
+											<String></String>
+										</field>
+										<field name="accessKey">
+											<String></String>
+										</field>
+										<field name="accelerator">
+											<null/>
+										</field>
+										<field name="actionModes">
+											<actionMode-array>
+												<actionMode>
+													<field name="xpathCondition">
+														<String></String>
+													</field>
+													<field name="argValues">
+														<serializableOrderedMap>
+															<entry>
+																<String>fragment</String>
+																<String>&lt;hi xmlns="http://www.tei-c.org/ns/1.0" rendition="${ask('Rendition:', combobox,('hc:RedStroke':'hc:RedStroke';   
+'hc:Cadel' : 'hc:Cadel';
+'hc:DoubleUnderlined': 'hc:DoubleUnderlined';
+'hc:Enlarged' : 'hc:Enlarged';
+'hc:LitteraNotabilior' : 'hc:LitteraNotabilior';
+'hc:Oblique' : 'hc:Oblique';
+'hc:ProminentLowerPart' : 'hc:ProminentLowerPart';
+'hc:ProminentUpperPart' : 'hc:ProminentUpperPart';
+'hc:RedRetrace' : 'hc:RedRetrace';
+'hc:RedStrikethrough' : 'hc:RedStrikethrough';
+'hc:RedStroke' : 'hc:RedStroke';
+'hc:RedUnderlined' : 'hc:RedUnderlined';
+'hc:Subscript' :'hc:Subscript';
+'hc:Superscript' : 'hc:Superscript';
+'hc:Underlined' : 'hc:Underlined';
+'hc:Versal' : 'hc:Versal'
+))}">&lt;/hi></String>
+															</entry>
+														</serializableOrderedMap>
+													</field>
+													<field name="operationID">
+														<String>ro.sync.ecss.extensions.commons.operations.SurroundWithFragmentOperation</String>
 													</field>
 												</actionMode>
 											</actionMode-array>
@@ -5120,6 +5182,11 @@ compl1(3)</String>
 																</field>
 															</toolbarItem>
 															<toolbarSeparator/>
+															<toolbarItem>
+																<field name="actionID">
+																	<String>hi</String>
+																</field>
+															</toolbarItem>
 															<toolbarItem>
 																<field name="actionID">
 																	<String>decoration</String>
