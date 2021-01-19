@@ -31,6 +31,8 @@
         <surface xml:id="u_2r" ana="hc:Page" n="2r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0007" mimeType="image/*"/>
             <zone xml:id="u_2r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_2r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_2r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_2v" ana="hc:Page" n="2v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0008" mimeType="image/*"/>
@@ -39,6 +41,8 @@
         <surface xml:id="u_3r" ana="hc:Page" n="3r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0009" mimeType="image/*"/>
             <zone xml:id="u_3r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_3r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_3r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_3v" ana="hc:Page" n="3v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0010" mimeType="image/*"/>
@@ -47,6 +51,8 @@
         <surface xml:id="u_4r" ana="hc:Page" n="4r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0011" mimeType="image/*"/>
             <zone xml:id="u_4r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_4r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_4r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_4v" ana="hc:Page" n="4v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0012" mimeType="image/*"/>
@@ -55,6 +61,8 @@
         <surface xml:id="u_5r" ana="hc:Page" n="5r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0013" mimeType="image/*"/>
             <zone xml:id="u_5r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_5r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_5r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_5v" ana="hc:Page" n="5v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0014" mimeType="image/*"/>
@@ -63,6 +71,8 @@
         <surface xml:id="u_6r" ana="hc:Page" n="6r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0015" mimeType="image/*"/>
             <zone xml:id="u_6r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_6r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_6r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_6v" ana="hc:Page" n="6v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0016" mimeType="image/*"/>
@@ -71,6 +81,8 @@
         <surface xml:id="u_7r" ana="hc:Page" n="7r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0017" mimeType="image/*"/>
             <zone xml:id="u_7r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_7r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_7r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_7v" ana="hc:Page" n="7v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0018" mimeType="image/*"/>
@@ -79,6 +91,7 @@
         <surface xml:id="u_8r" ana="hc:Page" n="8r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0019" mimeType="image/*"/>
             <zone xml:id="u_8r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_8r-b" ana="hc:Column hc:TextZone" n="b"/>
         </surface>
         <surface xml:id="u_8v" ana="hc:Page" n="8v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0020" mimeType="image/*"/>
@@ -87,6 +100,8 @@
         <surface xml:id="u_9r" ana="hc:Page" n="9r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0021" mimeType="image/*"/>
             <zone xml:id="u_9r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_9r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_9r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_9v" ana="hc:Page" n="9v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0022" mimeType="image/*"/>
@@ -95,6 +110,8 @@
         <surface xml:id="u_10r" ana="hc:Page" n="10r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0023" mimeType="image/*"/>
             <zone xml:id="u_10r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_10r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_10r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_10v" ana="hc:Page" n="5v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0024" mimeType="image/*"/>
@@ -103,6 +120,8 @@
         <surface xml:id="u_11r" ana="hc:Page" n="11r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0025" mimeType="image/*"/>
             <zone xml:id="u_11r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_11r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_11r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_11v" ana="hc:Page" n="11v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0026" mimeType="image/*"/>
@@ -111,6 +130,8 @@
         <surface xml:id="u_12r" ana="hc:Page" n="12r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0027" mimeType="image/*"/>
             <zone xml:id="u_12r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_12r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_12r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_12v" ana="hc:Page" n="12v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0028" mimeType="image/*"/>
@@ -119,6 +140,8 @@
         <surface xml:id="u_13r" ana="hc:Page" n="13r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0029" mimeType="image/*"/>
             <zone xml:id="u_13r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_13r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_13r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_13v" ana="hc:Page" n="13v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0030" mimeType="image/*"/>
@@ -127,6 +150,8 @@
         <surface xml:id="u_14r" ana="hc:Page" n="14r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0031" mimeType="image/*"/>
             <zone xml:id="u_14r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_14r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_14r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_14v" ana="hc:Page" n="14v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0032" mimeType="image/*"/>
@@ -135,6 +160,8 @@
         <surface xml:id="u_15r" ana="hc:Page" n="15r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0033" mimeType="image/*"/>
             <zone xml:id="u_15r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_15r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_15r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_15v" ana="hc:Page" n="15v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0034" mimeType="image/*"/>
@@ -143,6 +170,7 @@
         <surface xml:id="u_16r" ana="hc:Page" n="16r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0035" mimeType="image/*"/>
             <zone xml:id="u_16r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_16r-b" ana="hc:Column hc:TextZone" n="b"/>
         </surface>
         <surface xml:id="u_16v" ana="hc:Page" n="16v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0036" mimeType="image/*"/>
@@ -151,6 +179,8 @@
         <surface xml:id="u_17r" ana="hc:Page" n="17r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0037" mimeType="image/*"/>
             <zone xml:id="u_17r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_17r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_17r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_17v" ana="hc:Page" n="17v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0038" mimeType="image/*"/>
@@ -159,6 +189,8 @@
         <surface xml:id="u_18r" ana="hc:Page" n="18r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0039" mimeType="image/*"/>
             <zone xml:id="u_18r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_18r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_18r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_18v" ana="hc:Page" n="18v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0040" mimeType="image/*"/>
@@ -167,6 +199,8 @@
         <surface xml:id="u_19r" ana="hc:Page" n="19r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0041" mimeType="image/*"/>
             <zone xml:id="u_19r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_19r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_19r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_19v" ana="hc:Page" n="19v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0042" mimeType="image/*"/>
@@ -175,6 +209,8 @@
         <surface xml:id="u_20r" ana="hc:Page" n="20r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0043" mimeType="image/*"/>
             <zone xml:id="u_20r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_20r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_20r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_20v" ana="hc:Page" n="20v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0044" mimeType="image/*"/>
@@ -183,6 +219,8 @@
         <surface xml:id="u_21r" ana="hc:Page" n="21r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0045" mimeType="image/*"/>
             <zone xml:id="u_21r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_21r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_21r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_21v" ana="hc:Page" n="21v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0046" mimeType="image/*"/>
@@ -191,6 +229,8 @@
         <surface xml:id="u_22r" ana="hc:Page" n="22r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0047" mimeType="image/*"/>
             <zone xml:id="u_22r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_22r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_22r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_22v" ana="hc:Page" n="22v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0048" mimeType="image/*"/>
@@ -199,6 +239,8 @@
         <surface xml:id="u_23r" ana="hc:Page" n="23r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0049" mimeType="image/*"/>
             <zone xml:id="u_23r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_23r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_23r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_23v" ana="hc:Page" n="23v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0050" mimeType="image/*"/>
@@ -207,6 +249,7 @@
         <surface xml:id="u_24r" ana="hc:Page" n="24r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0051" mimeType="image/*"/>
             <zone xml:id="u_24r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_24r-b" ana="hc:Column hc:TextZone" n="b"/>
         </surface>
         <surface xml:id="u_24v" ana="hc:Page" n="24v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0052" mimeType="image/*"/>
@@ -215,6 +258,8 @@
         <surface xml:id="u_25r" ana="hc:Page" n="25r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0053" mimeType="image/*"/>
             <zone xml:id="u_25r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_25r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_25r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_25v" ana="hc:Page" n="25v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0054" mimeType="image/*"/>
@@ -223,6 +268,8 @@
         <surface xml:id="u_26r" ana="hc:Page" n="26r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0055" mimeType="image/*"/>
             <zone xml:id="u_26r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_26r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_26r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_26v" ana="hc:Page" n="26v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0056" mimeType="image/*"/>
@@ -231,6 +278,8 @@
         <surface xml:id="u_27r" ana="hc:Page" n="27r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0057" mimeType="image/*"/>
             <zone xml:id="u_27r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_27r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_27r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_27v" ana="hc:Page" n="27v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0058" mimeType="image/*"/>
@@ -239,6 +288,8 @@
         <surface xml:id="u_28r" ana="hc:Page" n="28r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0059" mimeType="image/*"/>
             <zone xml:id="u_28r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_28r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_28r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_28v" ana="hc:Page" n="28v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0060" mimeType="image/*"/>
@@ -247,6 +298,8 @@
         <surface xml:id="u_29r" ana="hc:Page" n="29r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0061" mimeType="image/*"/>
             <zone xml:id="u_29r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_29r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_29r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_29v" ana="hc:Page" n="29v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0062" mimeType="image/*"/>
@@ -255,6 +308,8 @@
         <surface xml:id="u_30r" ana="hc:Page" n="30r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0063" mimeType="image/*"/>
             <zone xml:id="u_30r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_30r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_30r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_30v" ana="hc:Page" n="30v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0064" mimeType="image/*"/>
@@ -263,6 +318,8 @@
         <surface xml:id="u_31r" ana="hc:Page" n="31r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0065" mimeType="image/*"/>
             <zone xml:id="u_31r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_31r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_31r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_31v" ana="hc:Page" n="31v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0066" mimeType="image/*"/>
@@ -271,6 +328,7 @@
         <surface xml:id="u_32r" ana="hc:Page" n="32r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0067" mimeType="image/*"/>
             <zone xml:id="u_32r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_32r-b" ana="hc:Column hc:TextZone" n="b"/>
         </surface>
         <surface xml:id="u_32v" ana="hc:Page" n="32v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0068" mimeType="image/*"/>
@@ -279,6 +337,8 @@
         <surface xml:id="u_33r" ana="hc:Page" n="33r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0069" mimeType="image/*"/>
             <zone xml:id="u_33r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_33r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_33r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_33v" ana="hc:Page" n="33v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0070" mimeType="image/*"/>
@@ -287,6 +347,8 @@
         <surface xml:id="u_34r" ana="hc:Page" n="34r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0071" mimeType="image/*"/>
             <zone xml:id="u_34r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_34r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_34r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_34v" ana="hc:Page" n="34v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0072" mimeType="image/*"/>
@@ -295,6 +357,8 @@
         <surface xml:id="u_35r" ana="hc:Page" n="35r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0073" mimeType="image/*"/>
             <zone xml:id="u_35r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_35r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_35r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_35v" ana="hc:Page" n="35v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0074" mimeType="image/*"/>
@@ -303,6 +367,8 @@
         <surface xml:id="u_36r" ana="hc:Page" n="36r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0075" mimeType="image/*"/>
             <zone xml:id="u_36r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_36r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_36r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_36v" ana="hc:Page" n="36v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0076" mimeType="image/*"/>
@@ -311,6 +377,8 @@
         <surface xml:id="u_37r" ana="hc:Page" n="37r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0077" mimeType="image/*"/>
             <zone xml:id="u_37r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_37r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_37r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_37v" ana="hc:Page" n="37v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0078" mimeType="image/*"/>
@@ -319,6 +387,8 @@
         <surface xml:id="u_38r" ana="hc:Page" n="38r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0079" mimeType="image/*"/>
             <zone xml:id="u_38r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_38r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_38r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_38v" ana="hc:Page" n="38v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0080" mimeType="image/*"/>
@@ -327,6 +397,8 @@
         <surface xml:id="u_39r" ana="hc:Page" n="39r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0081" mimeType="image/*"/>
             <zone xml:id="u_39r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_39r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_39r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_39v" ana="hc:Page" n="39v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0082" mimeType="image/*"/>
@@ -335,6 +407,7 @@
         <surface xml:id="u_40r" ana="hc:Page" n="40r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0083" mimeType="image/*"/>
             <zone xml:id="u_40r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_40r-b" ana="hc:Column hc:TextZone" n="b"/>
         </surface>
         <surface xml:id="u_40v" ana="hc:Page" n="40v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0084" mimeType="image/*"/>
@@ -343,6 +416,8 @@
         <surface xml:id="u_41r" ana="hc:Page" n="41r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0085" mimeType="image/*"/>
             <zone xml:id="u_41r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_41r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_41r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_41v" ana="hc:Page" n="41v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0086" mimeType="image/*"/>
@@ -351,6 +426,8 @@
         <surface xml:id="u_42r" ana="hc:Page" n="42r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0087" mimeType="image/*"/>
             <zone xml:id="u_42r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_42r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_42r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_42v" ana="hc:Page" n="42v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0088" mimeType="image/*"/>
@@ -359,6 +436,8 @@
         <surface xml:id="u_43r" ana="hc:Page" n="43r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0089" mimeType="image/*"/>
             <zone xml:id="u_43r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_43r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_43r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_43v" ana="hc:Page" n="43v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0090" mimeType="image/*"/>
@@ -367,6 +446,8 @@
         <surface xml:id="u_44r" ana="hc:Page" n="44r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0091" mimeType="image/*"/>
             <zone xml:id="u_44r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_44r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_44r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_44v" ana="hc:Page" n="44v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0092" mimeType="image/*"/>
@@ -375,6 +456,8 @@
         <surface xml:id="u_45r" ana="hc:Page" n="45r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0093" mimeType="image/*"/>
             <zone xml:id="u_45r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_45r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_45r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_45v" ana="hc:Page" n="45v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0094" mimeType="image/*"/>
@@ -383,6 +466,8 @@
         <surface xml:id="u_46r" ana="hc:Page" n="46r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0095" mimeType="image/*"/>
             <zone xml:id="u_46r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_46r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_46r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_46v" ana="hc:Page" n="46v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0096" mimeType="image/*"/>
@@ -391,6 +476,8 @@
         <surface xml:id="u_47r" ana="hc:Page" n="47r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0097" mimeType="image/*"/>
             <zone xml:id="u_47r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_47r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_47r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_47v" ana="hc:Page" n="47v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0098" mimeType="image/*"/>
@@ -399,6 +486,7 @@
         <surface xml:id="u_48r" ana="hc:Page" n="48r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0099" mimeType="image/*"/>
             <zone xml:id="u_48r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_48r-b" ana="hc:Column hc:TextZone" n="b"/>
         </surface>
         <surface xml:id="u_48v" ana="hc:Page" n="48v ">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0100" mimeType="image/*"/>
@@ -407,6 +495,8 @@
         <surface xml:id="u_49r" ana="hc:Page" n="49r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0101" mimeType="image/*"/>
             <zone xml:id="u_49r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_49r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_49r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_49v" ana="hc:Page" n="49v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0102" mimeType="image/*"/>
@@ -415,6 +505,8 @@
         <surface xml:id="u_50r" ana="hc:Page" n="50r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0103" mimeType="image/*"/>
             <zone xml:id="u_50r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_50r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_50r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_50v" ana="hc:Page" n="50v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0104" mimeType="image/*"/>
@@ -423,6 +515,8 @@
         <surface xml:id="u_51r" ana="hc:Page" n="51r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0105" mimeType="image/*"/>
             <zone xml:id="u_51r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_51r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_51r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_51v" ana="hc:Page" n="51v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0106" mimeType="image/*"/>
@@ -431,6 +525,8 @@
         <surface xml:id="u_52r" ana="hc:Page" n="52r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0107" mimeType="image/*"/>
             <zone xml:id="u_52r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_52r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_52r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_52v" ana="hc:Page" n="52v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0108" mimeType="image/*"/>
@@ -439,6 +535,8 @@
         <surface xml:id="u_53r" ana="hc:Page" n="53r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0109" mimeType="image/*"/>
             <zone xml:id="u_53r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_53r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_53r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_53v" ana="hc:Page" n="53v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0110" mimeType="image/*"/>
@@ -447,6 +545,8 @@
         <surface xml:id="u_54r" ana="hc:Page" n="54r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0111" mimeType="image/*"/>
             <zone xml:id="u_54r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_54r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_54r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_54v" ana="hc:Page" n="54v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0112" mimeType="image/*"/>
@@ -455,6 +555,8 @@
         <surface xml:id="u_55r" ana="hc:Page" n="55r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0113" mimeType="image/*"/>
             <zone xml:id="u_55r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_55r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_55r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_55v" ana="hc:Page" n="55v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0114" mimeType="image/*"/>
@@ -463,6 +565,7 @@
         <surface xml:id="u_56r" ana="hc:Page" n="56r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0115" mimeType="image/*"/>
             <zone xml:id="u_56r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_56r-b" ana="hc:Column hc:TextZone" n="b"/>
         </surface>
         <surface xml:id="u_56v" ana="hc:Page" n="56v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0116" mimeType="image/*"/>
@@ -471,6 +574,8 @@
         <surface xml:id="u_57r" ana="hc:Page" n="57r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0117" mimeType="image/*"/>
             <zone xml:id="u_57r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_57r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_57r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_57v" ana="hc:Page" n="57v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0118" mimeType="image/*"/>
@@ -479,6 +584,8 @@
         <surface xml:id="u_58r" ana="hc:Page" n="58r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0119" mimeType="image/*"/>
             <zone xml:id="u_58r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_58r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_58r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_58v" ana="hc:Page" n="58v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0120" mimeType="image/*"/>
@@ -487,6 +594,8 @@
         <surface xml:id="u_59r" ana="hc:Page" n="59r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0121" mimeType="image/*"/>
             <zone xml:id="u_59r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_59r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_59r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_59v" ana="hc:Page" n="59v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0122" mimeType="image/*"/>
@@ -495,6 +604,8 @@
         <surface xml:id="u_60r" ana="hc:Page" n="60r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0123" mimeType="image/*"/>
             <zone xml:id="u_60r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_60r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_60r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_60v" ana="hc:Page" n="60v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0124" mimeType="image/*"/>
@@ -503,6 +614,8 @@
         <surface xml:id="u_61r" ana="hc:Page" n="61r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0125" mimeType="image/*"/>
             <zone xml:id="u_61r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_61r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_61r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_61v" ana="hc:Page" n="61v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0126" mimeType="image/*"/>
@@ -511,6 +624,8 @@
         <surface xml:id="u_62r" ana="hc:Page" n="62r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0127" mimeType="image/*"/>
             <zone xml:id="u_62r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_62r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_62r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_62v" ana="hc:Page" n="62v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0128" mimeType="image/*"/>
@@ -519,6 +634,8 @@
         <surface xml:id="u_63r" ana="hc:Page" n="63r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0129" mimeType="image/*"/>
             <zone xml:id="u_63r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_63r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_63r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_63v" ana="hc:Page" n="63v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0130" mimeType="image/*"/>
@@ -527,6 +644,7 @@
         <surface xml:id="u_64r" ana="hc:Page" n="64r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0131" mimeType="image/*"/>
             <zone xml:id="u_64r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_64r-b" ana="hc:Column hc:TextZone" n="b"/>
         </surface>
         <surface xml:id="u_64v" ana="hc:Page" n="64v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0132" mimeType="image/*"/>
@@ -535,6 +653,8 @@
         <surface xml:id="u_65r" ana="hc:Page" n="65r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0133" mimeType="image/*"/>
             <zone xml:id="u_65r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_65r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_65r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_65v" ana="hc:Page" n="65v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0134" mimeType="image/*"/>
@@ -543,6 +663,8 @@
         <surface xml:id="u_66r" ana="hc:Page" n="66r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0135" mimeType="image/*"/>
             <zone xml:id="u_66r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_66r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_66r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_66v" ana="hc:Page" n="66v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0136" mimeType="image/*"/>
@@ -551,6 +673,8 @@
         <surface xml:id="u_67r" ana="hc:Page" n="67r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0137" mimeType="image/*"/>
             <zone xml:id="u_67r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_67r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_67r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_67v" ana="hc:Page" n="67v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0138" mimeType="image/*"/>
@@ -559,6 +683,8 @@
         <surface xml:id="u_68r" ana="hc:Page" n="68r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0139" mimeType="image/*"/>
             <zone xml:id="u_68r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_68r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_68r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_68v" ana="hc:Page" n="68v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0140" mimeType="image/*"/>
@@ -567,6 +693,8 @@
         <surface xml:id="u_69r" ana="hc:Page" n="69r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0141" mimeType="image/*"/>
             <zone xml:id="u_69r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_69r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_69r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_69v" ana="hc:Page" n="69v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0142" mimeType="image/*"/>
@@ -575,6 +703,8 @@
         <surface xml:id="u_70r" ana="hc:Page" n="70r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0143" mimeType="image/*"/>
             <zone xml:id="u_70r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_70r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_70r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_70v" ana="hc:Page" n="70v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0144" mimeType="image/*"/>
@@ -583,6 +713,8 @@
         <surface xml:id="u_71r" ana="hc:Page" n="71r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0145" mimeType="image/*"/>
             <zone xml:id="u_71r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_71r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_71r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_71v" ana="hc:Page" n="71v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0146" mimeType="image/*"/>
@@ -591,6 +723,7 @@
         <surface xml:id="u_72r" ana="hc:Page" n="72r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0147" mimeType="image/*"/>
             <zone xml:id="u_72r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_72r-b" ana="hc:Column hc:TextZone" n="b"/>
         </surface>
         <surface xml:id="u_72v" ana="hc:Page" n="72v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0148" mimeType="image/*"/>
@@ -599,6 +732,8 @@
         <surface xml:id="u_73r" ana="hc:Page" n="73r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0149" mimeType="image/*"/>
             <zone xml:id="u_73r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_73r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_73r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_73v" ana="hc:Page" n="73v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0150" mimeType="image/*"/>
@@ -607,6 +742,8 @@
         <surface xml:id="u_74r" ana="hc:Page" n="74r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0151" mimeType="image/*"/>
             <zone xml:id="u_74r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_74r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_74r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_74v" ana="hc:Page" n="74v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0152" mimeType="image/*"/>
@@ -615,6 +752,8 @@
         <surface xml:id="u_75r" ana="hc:Page" n="75r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0153" mimeType="image/*"/>
             <zone xml:id="u_75r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_75r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_75r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_75v" ana="hc:Page" n="75v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0154" mimeType="image/*"/>
@@ -623,6 +762,8 @@
         <surface xml:id="u_76r" ana="hc:Page" n="76r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0155" mimeType="image/*"/>
             <zone xml:id="u_76r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_76r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_76r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_76v" ana="hc:Page" n="76v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0156" mimeType="image/*"/>
@@ -631,6 +772,8 @@
         <surface xml:id="u_77r" ana="hc:Page" n="77r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0157" mimeType="image/*"/>
             <zone xml:id="u_77r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_77r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_77r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_77v" ana="hc:Page" n="77v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0158" mimeType="image/*"/>
@@ -639,6 +782,8 @@
         <surface xml:id="u_78r" ana="hc:Page" n="78r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0159" mimeType="image/*"/>
             <zone xml:id="u_78r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_78r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_78r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_78v" ana="hc:Page" n="78v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0160" mimeType="image/*"/>
@@ -647,6 +792,8 @@
         <surface xml:id="u_79r" ana="hc:Page" n="79r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0161" mimeType="image/*"/>
             <zone xml:id="u_79r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_79r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_79r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_79v" ana="hc:Page" n="79v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0162" mimeType="image/*"/>
@@ -655,6 +802,7 @@
         <surface xml:id="u_80r" ana="hc:Page" n="80r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0163" mimeType="image/*"/>
             <zone xml:id="u_80r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_80r-b" ana="hc:Column hc:TextZone" n="b"/>
         </surface>
         <surface xml:id="u_80v" ana="hc:Page" n="80v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0164" mimeType="image/*"/>
@@ -663,6 +811,8 @@
         <surface xml:id="u_81r" ana="hc:Page" n="81r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0165" mimeType="image/*"/>
             <zone xml:id="u_81r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_81r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_81r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_81v" ana="hc:Page" n="81v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0166" mimeType="image/*"/>
@@ -671,6 +821,8 @@
         <surface xml:id="u_82r" ana="hc:Page" n="82r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0167" mimeType="image/*"/>
             <zone xml:id="u_82r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_82r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_82r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_82v" ana="hc:Page" n="82v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0168" mimeType="image/*"/>
@@ -679,6 +831,8 @@
         <surface xml:id="u_83r" ana="hc:Page" n="83r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0169" mimeType="image/*"/>
             <zone xml:id="u_83r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_83r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_83r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_83v" ana="hc:Page" n="83v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0170" mimeType="image/*"/>
@@ -687,6 +841,8 @@
         <surface xml:id="u_84r" ana="hc:Page" n="84r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0171" mimeType="image/*"/>
             <zone xml:id="u_84r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_84r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_84r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_84v" ana="hc:Page" n="84v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0172" mimeType="image/*"/>
@@ -695,6 +851,8 @@
         <surface xml:id="u_85r" ana="hc:Page" n="85r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0173" mimeType="image/*"/>
             <zone xml:id="u_85r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_85r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_85r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_85v" ana="hc:Page" n="85v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0174" mimeType="image/*"/>
@@ -703,6 +861,8 @@
         <surface xml:id="u_86r" ana="hc:Page" n="86r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0175" mimeType="image/*"/>
             <zone xml:id="u_86r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_86r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_86r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_86v" ana="hc:Page" n="86v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0176" mimeType="image/*"/>
@@ -711,6 +871,8 @@
         <surface xml:id="u_87r" ana="hc:Page" n="87r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0177" mimeType="image/*"/>
             <zone xml:id="u_87r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_87r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_87r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_87v" ana="hc:Page" n="87v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0178" mimeType="image/*"/>
@@ -719,6 +881,7 @@
         <surface xml:id="u_88r" ana="hc:Page" n="88r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0179" mimeType="image/*"/>
             <zone xml:id="u_88r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_88r-b" ana="hc:Column hc:TextZone" n="b"/>
         </surface>
         <surface xml:id="u_88v" ana="hc:Page" n="88v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0180" mimeType="image/*"/>
@@ -727,6 +890,8 @@
         <surface xml:id="u_89r" ana="hc:Page" n="89r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0181" mimeType="image/*"/>
             <zone xml:id="u_89r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_89r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_89r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_89v" ana="hc:Page" n="89v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0182" mimeType="image/*"/>
@@ -735,6 +900,8 @@
         <surface xml:id="u_90r" ana="hc:Page" n="90r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0183" mimeType="image/*"/>
             <zone xml:id="u_90r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_90r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_90r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_90v" ana="hc:Page" n="90v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0184" mimeType="image/*"/>
@@ -743,6 +910,8 @@
         <surface xml:id="u_91r" ana="hc:Page" n="91r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0185" mimeType="image/*"/>
             <zone xml:id="u_91r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_91r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_91r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_91v" ana="hc:Page" n="91v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0186" mimeType="image/*"/>
@@ -751,6 +920,8 @@
         <surface xml:id="u_92r" ana="hc:Page" n="92r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0187" mimeType="image/*"/>
             <zone xml:id="u_92r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_92r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_92r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_92v" ana="hc:Page" n="92v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0188" mimeType="image/*"/>
@@ -759,6 +930,8 @@
         <surface xml:id="u_93r" ana="hc:Page" n="93r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0189" mimeType="image/*"/>
             <zone xml:id="u_93r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_93r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_93r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_93v" ana="hc:Page" n="93v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0190" mimeType="image/*"/>
@@ -767,6 +940,8 @@
         <surface xml:id="u_94r" ana="hc:Page" n="94r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0191" mimeType="image/*"/>
             <zone xml:id="u_94r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_94r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_94r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_94v" ana="hc:Page" n="94v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0192" mimeType="image/*"/>
@@ -775,6 +950,8 @@
         <surface xml:id="u_95r" ana="hc:Page" n="95r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0193" mimeType="image/*"/>
             <zone xml:id="u_95r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_95r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_95r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_95v" ana="hc:Page" n="95v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0194" mimeType="image/*"/>
@@ -783,6 +960,7 @@
         <surface xml:id="u_96r" ana="hc:Page" n="96r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0195" mimeType="image/*"/>
             <zone xml:id="u_96r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_96r-b" ana="hc:Column hc:TextZone" n="b"/>
         </surface>
         <surface xml:id="u_96v" ana="hc:Page" n="96v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0196" mimeType="image/*"/>
@@ -791,6 +969,8 @@
         <surface xml:id="u_97r" ana="hc:Page" n="97r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0197" mimeType="image/*"/>
             <zone xml:id="u_97r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_97r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_97r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_97v" ana="hc:Page" n="97v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0198" mimeType="image/*"/>
@@ -799,6 +979,8 @@
         <surface xml:id="u_98r" ana="hc:Page" n="98r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0199" mimeType="image/*"/>
             <zone xml:id="u_98r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_98r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_98r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_98v" ana="hc:Page" n="98v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0200" mimeType="image/*"/>
@@ -807,6 +989,8 @@
         <surface xml:id="u_99r" ana="hc:Page" n="99r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0201" mimeType="image/*"/>
             <zone xml:id="u_99r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_99r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_99r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_99v" ana="hc:Page" n="99v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0202" mimeType="image/*"/>
@@ -815,6 +999,8 @@
         <surface xml:id="u_100r" ana="hc:Page" n="100r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0203" mimeType="image/*"/>
             <zone xml:id="u_100r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_100r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_100r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_100v" ana="hc:Page" n="100v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0204" mimeType="image/*"/>
@@ -823,6 +1009,8 @@
         <surface xml:id="u_101r" ana="hc:Page" n="101r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0205" mimeType="image/*"/>
             <zone xml:id="u_101r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_101r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_101r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_101v" ana="hc:Page" n="101v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0206" mimeType="image/*"/>
@@ -831,6 +1019,8 @@
         <surface xml:id="u_102r" ana="hc:Page" n="102r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0207" mimeType="image/*"/>
             <zone xml:id="u_102r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_102r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_102r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_102v" ana="hc:Page" n="102v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0208" mimeType="image/*"/>
@@ -839,6 +1029,8 @@
         <surface xml:id="u_103r" ana="hc:Page" n="103r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0209" mimeType="image/*"/>
             <zone xml:id="u_103r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_103r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_103r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_103v" ana="hc:Page" n="103v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0210" mimeType="image/*"/>
@@ -847,6 +1039,7 @@
         <surface xml:id="u_104r" ana="hc:Page" n="104r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0211" mimeType="image/*"/>
             <zone xml:id="u_104r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_104r-b" ana="hc:Column hc:TextZone" n="b"/>
         </surface>
         <surface xml:id="u_104v" ana="hc:Page" n="104v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0212" mimeType="image/*"/>
@@ -855,6 +1048,8 @@
         <surface xml:id="u_105r" ana="hc:Page" n="105r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0213" mimeType="image/*"/>
             <zone xml:id="u_105r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_105r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_105r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_105v" ana="hc:Page" n="105v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0214" mimeType="image/*"/>
@@ -863,6 +1058,8 @@
         <surface xml:id="u_106r" ana="hc:Page" n="106r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0215" mimeType="image/*"/>
             <zone xml:id="u_106r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_106r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_106r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_106v" ana="hc:Page" n="106v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0216" mimeType="image/*"/>
@@ -871,6 +1068,8 @@
         <surface xml:id="u_107r" ana="hc:Page" n="107r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0217" mimeType="image/*"/>
             <zone xml:id="u_107r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_107r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_107r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_107v" ana="hc:Page" n="107v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0218" mimeType="image/*"/>
@@ -879,6 +1078,8 @@
         <surface xml:id="u_108r" ana="hc:Page" n="108r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0219" mimeType="image/*"/>
             <zone xml:id="u_108r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_108r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_108r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_108v" ana="hc:Page" n="108v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0220" mimeType="image/*"/>
@@ -887,6 +1088,8 @@
         <surface xml:id="u_109r" ana="hc:Page" n="109r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0221" mimeType="image/*"/>
             <zone xml:id="u_109r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_109r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_109r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_109v" ana="hc:Page" n="109v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0222" mimeType="image/*"/>
@@ -895,6 +1098,8 @@
         <surface xml:id="u_110r" ana="hc:Page" n="110r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0223" mimeType="image/*"/>
             <zone xml:id="u_110r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_110r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_110r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_110v" ana="hc:Page" n="110v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0224" mimeType="image/*"/>
@@ -903,6 +1108,8 @@
         <surface xml:id="u_111r" ana="hc:Page" n="111r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0225" mimeType="image/*"/>
             <zone xml:id="u_111r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_111r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_111r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_111v" ana="hc:Page" n="111v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0226" mimeType="image/*"/>
@@ -911,6 +1118,7 @@
         <surface xml:id="u_112r" ana="hc:Page" n="112r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0227" mimeType="image/*"/>
             <zone xml:id="u_112r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_112r-b" ana="hc:Column hc:TextZone" n="b"/>
         </surface>
         <surface xml:id="u_112v" ana="hc:Page" n="112v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0228" mimeType="image/*"/>
@@ -919,6 +1127,8 @@
         <surface xml:id="u_113r" ana="hc:Page" n="113r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0229" mimeType="image/*"/>
             <zone xml:id="u_113r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_113r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_113r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_113v" ana="hc:Page" n="113v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0230" mimeType="image/*"/>
@@ -927,6 +1137,8 @@
         <surface xml:id="u_114r" ana="hc:Page" n="114r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0231" mimeType="image/*"/>
             <zone xml:id="u_114r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_114r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_114r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_114v" ana="hc:Page" n="114v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0232" mimeType="image/*"/>
@@ -935,6 +1147,8 @@
         <surface xml:id="u_115r" ana="hc:Page" n="115r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0233" mimeType="image/*"/>
             <zone xml:id="u_115r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_115r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_115r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_115v" ana="hc:Page" n="115v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0234" mimeType="image/*"/>
@@ -943,6 +1157,8 @@
         <surface xml:id="u_116r" ana="hc:Page" n="116r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0235" mimeType="image/*"/>
             <zone xml:id="u_116r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_116r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_116r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_116v" ana="hc:Page" n="116v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0236" mimeType="image/*"/>
@@ -951,6 +1167,8 @@
         <surface xml:id="u_117r" ana="hc:Page" n="117r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0237" mimeType="image/*"/>
             <zone xml:id="u_117r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_117r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_117r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_117v" ana="hc:Page" n="117v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0238" mimeType="image/*"/>
@@ -959,6 +1177,8 @@
         <surface xml:id="u_118r" ana="hc:Page" n="118r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0239" mimeType="image/*"/>
             <zone xml:id="u_118r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_118r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_118r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_118v" ana="hc:Page" n="118v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0240" mimeType="image/*"/>
@@ -967,6 +1187,8 @@
         <surface xml:id="u_119r" ana="hc:Page" n="119r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0241" mimeType="image/*"/>
             <zone xml:id="u_119r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_119r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_119r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_119v" ana="hc:Page" n="119v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0242" mimeType="image/*"/>
@@ -975,6 +1197,7 @@
         <surface xml:id="u_120r" ana="hc:Page" n="120r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0243" mimeType="image/*"/>
             <zone xml:id="u_120r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_120r-b" ana="hc:Column hc:TextZone" n="b"/>
         </surface>
         <surface xml:id="u_120v" ana="hc:Page" n="120v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0244" mimeType="image/*"/>
@@ -983,6 +1206,8 @@
         <surface xml:id="u_121r" ana="hc:Page" n="121r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0245" mimeType="image/*"/>
             <zone xml:id="u_121r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_121r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_121r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_121v" ana="hc:Page" n="121v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0246" mimeType="image/*"/>
@@ -991,6 +1216,8 @@
         <surface xml:id="u_122r" ana="hc:Page" n="122r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0247" mimeType="image/*"/>
             <zone xml:id="u_122r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_122r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_122r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_122v" ana="hc:Page" n="122v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0248" mimeType="image/*"/>
@@ -999,6 +1226,8 @@
         <surface xml:id="u_123r" ana="hc:Page" n="123r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0249" mimeType="image/*"/>
             <zone xml:id="u_123r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_123r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_123r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_123v" ana="hc:Page" n="123v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0250" mimeType="image/*"/>
@@ -1007,6 +1236,8 @@
         <surface xml:id="u_124r" ana="hc:Page" n="124r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0251" mimeType="image/*"/>
             <zone xml:id="u_124r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_124r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_124r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_124v" ana="hc:Page" n="124v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0252" mimeType="image/*"/>
@@ -1015,6 +1246,8 @@
         <surface xml:id="u_125r" ana="hc:Page" n="125r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0253" mimeType="image/*"/>
             <zone xml:id="u_125r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_125r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_125r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_125v" ana="hc:Page" n="125v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0254" mimeType="image/*"/>
@@ -1023,6 +1256,8 @@
         <surface xml:id="u_126r" ana="hc:Page" n="126r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0255" mimeType="image/*"/>
             <zone xml:id="u_126r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_126r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_126r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_126v" ana="hc:Page" n="126v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0256" mimeType="image/*"/>
@@ -1031,6 +1266,8 @@
         <surface xml:id="u_127r" ana="hc:Page" n="127r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0257" mimeType="image/*"/>
             <zone xml:id="u_127r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_127r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_127r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_127v" ana="hc:Page" n="127v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0258" mimeType="image/*"/>
@@ -1039,6 +1276,7 @@
         <surface xml:id="u_128r" ana="hc:Page" n="128r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0259" mimeType="image/*"/>
             <zone xml:id="u_128r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_128r-b" ana="hc:Column hc:TextZone" n="b"/>
         </surface>
         <surface xml:id="u_128v" ana="hc:Page" n="128v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0260" mimeType="image/*"/>
@@ -1047,6 +1285,8 @@
         <surface xml:id="u_129r" ana="hc:Page" n="129r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0261" mimeType="image/*"/>
             <zone xml:id="u_129r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_129r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_129r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_129v" ana="hc:Page" n="129v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0262" mimeType="image/*"/>
@@ -1055,6 +1295,8 @@
         <surface xml:id="u_130r" ana="hc:Page" n="130r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0263" mimeType="image/*"/>
             <zone xml:id="u_130r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_130r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_130r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_130v" ana="hc:Page" n="130v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0264" mimeType="image/*"/>
@@ -1063,6 +1305,8 @@
         <surface xml:id="u_131r" ana="hc:Page" n="131r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0265" mimeType="image/*"/>
             <zone xml:id="u_131r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_131r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_131r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_131v" ana="hc:Page" n="131v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0266" mimeType="image/*"/>
@@ -1071,6 +1315,8 @@
         <surface xml:id="u_132r" ana="hc:Page" n="132r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0267" mimeType="image/*"/>
             <zone xml:id="u_132r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_132r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_132r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_132v" ana="hc:Page" n="132v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0268" mimeType="image/*"/>
@@ -1079,6 +1325,8 @@
         <surface xml:id="u_133r" ana="hc:Page" n="133r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0269" mimeType="image/*"/>
             <zone xml:id="u_133r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_133r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_133r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_133v" ana="hc:Page" n="133v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0270" mimeType="image/*"/>
@@ -1087,6 +1335,8 @@
         <surface xml:id="u_134r" ana="hc:Page" n="134r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0271" mimeType="image/*"/>
             <zone xml:id="u_134r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_134r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_134r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_134v" ana="hc:Page" n="134v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0272" mimeType="image/*"/>
@@ -1095,6 +1345,8 @@
         <surface xml:id="u_135r" ana="hc:Page" n="135r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0273" mimeType="image/*"/>
             <zone xml:id="u_135r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_135r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_135r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_135v" ana="hc:Page" n="135v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0274" mimeType="image/*"/>
@@ -1103,6 +1355,7 @@
         <surface xml:id="u_136r" ana="hc:Page" n="136r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0275" mimeType="image/*"/>
             <zone xml:id="u_136r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_136r-b" ana="hc:Column hc:TextZone" n="b"/>
         </surface>
         <surface xml:id="u_136v" ana="hc:Page" n="136v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0276" mimeType="image/*"/>
@@ -1111,6 +1364,8 @@
         <surface xml:id="u_137r" ana="hc:Page" n="137r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0277" mimeType="image/*"/>
             <zone xml:id="u_137r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_137r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_137r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_137v" ana="hc:Page" n="137v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0278" mimeType="image/*"/>
@@ -1119,6 +1374,8 @@
         <surface xml:id="u_138r" ana="hc:Page" n="138r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0279" mimeType="image/*"/>
             <zone xml:id="u_138r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_138r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_138r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_138v" ana="hc:Page" n="138v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0280" mimeType="image/*"/>
@@ -1127,6 +1384,8 @@
         <surface xml:id="u_139r" ana="hc:Page" n="139r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0281" mimeType="image/*"/>
             <zone xml:id="u_139r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_139r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_139r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_139v" ana="hc:Page" n="139v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0282" mimeType="image/*"/>
@@ -1135,6 +1394,8 @@
         <surface xml:id="u_140r" ana="hc:Page" n="140r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0283" mimeType="image/*"/>
             <zone xml:id="u_140r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_140r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_140r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_140v" ana="hc:Page" n="140v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0284" mimeType="image/*"/>
@@ -1143,6 +1404,8 @@
         <surface xml:id="u_141r" ana="hc:Page" n="141r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0285" mimeType="image/*"/>
             <zone xml:id="u_141r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_141r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_141r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_141v" ana="hc:Page" n="141v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0286" mimeType="image/*"/>
@@ -1151,6 +1414,8 @@
         <surface xml:id="u_142r" ana="hc:Page" n="142r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0287" mimeType="image/*"/>
             <zone xml:id="u_142r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_142r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_142r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_142v" ana="hc:Page" n="142v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0288" mimeType="image/*"/>
@@ -1159,6 +1424,8 @@
         <surface xml:id="u_143r" ana="hc:Page" n="143r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0289" mimeType="image/*"/>
             <zone xml:id="u_143r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_143r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_143r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_143v" ana="hc:Page" n="143v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0290" mimeType="image/*"/>
@@ -1167,6 +1434,7 @@
         <surface xml:id="u_144r" ana="hc:Page" n="144r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0291" mimeType="image/*"/>
             <zone xml:id="u_144r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_144r-b" ana="hc:Column hc:TextZone" n="b"/>
         </surface>
         <surface xml:id="u_144v" ana="hc:Page" n="144v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0292" mimeType="image/*"/>
@@ -1175,6 +1443,8 @@
         <surface xml:id="u_145r" ana="hc:Page" n="145r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0293" mimeType="image/*"/>
             <zone xml:id="u_145r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_145r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_145r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_145v" ana="hc:Page" n="145v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0294" mimeType="image/*"/>
@@ -1183,6 +1453,8 @@
         <surface xml:id="u_146r" ana="hc:Page" n="146r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0295" mimeType="image/*"/>
             <zone xml:id="u_146r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_146r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_146r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_146v" ana="hc:Page" n="146v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0296" mimeType="image/*"/>
@@ -1191,6 +1463,8 @@
         <surface xml:id="u_147r" ana="hc:Page" n="147r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0297" mimeType="image/*"/>
             <zone xml:id="u_147r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_147r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_147r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_147v" ana="hc:Page" n="147v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0298" mimeType="image/*"/>
@@ -1199,6 +1473,8 @@
         <surface xml:id="u_148r" ana="hc:Page" n="148r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0299" mimeType="image/*"/>
             <zone xml:id="u_148r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_148r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_148r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_148v" ana="hc:Page" n="148v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0300" mimeType="image/*"/>
@@ -1207,6 +1483,8 @@
         <surface xml:id="u_149r" ana="hc:Page" n="149r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0301" mimeType="image/*"/>
             <zone xml:id="u_149r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_149r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_149r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_149v" ana="hc:Page" n="149v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0302" mimeType="image/*"/>
@@ -1215,6 +1493,8 @@
         <surface xml:id="u_150r" ana="hc:Page" n="150r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0303" mimeType="image/*"/>
             <zone xml:id="u_150r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_150r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_150r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_150v" ana="hc:Page" n="150v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0304" mimeType="image/*"/>
@@ -1223,6 +1503,8 @@
         <surface xml:id="u_151r" ana="hc:Page" n="151r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0305" mimeType="image/*"/>
             <zone xml:id="u_151r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_151r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_151r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_151v" ana="hc:Page" n="151v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0306" mimeType="image/*"/>
@@ -1231,6 +1513,7 @@
         <surface xml:id="u_152r" ana="hc:Page" n="152r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0307" mimeType="image/*"/>
             <zone xml:id="u_152r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_152r-b" ana="hc:Column hc:TextZone" n="b"/>
         </surface>
         <surface xml:id="u_152v" ana="hc:Page" n="152v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0308" mimeType="image/*"/>
@@ -1239,6 +1522,8 @@
         <surface xml:id="u_153r" ana="hc:Page" n="153r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0309" mimeType="image/*"/>
             <zone xml:id="u_153r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_153r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_153r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_153v" ana="hc:Page" n="153v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0310" mimeType="image/*"/>
@@ -1247,6 +1532,8 @@
         <surface xml:id="u_154r" ana="hc:Page" n="154r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0311" mimeType="image/*"/>
             <zone xml:id="u_154r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_154r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_154r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_154v" ana="hc:Page" n="154v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0312" mimeType="image/*"/>
@@ -1255,6 +1542,8 @@
         <surface xml:id="u_155r" ana="hc:Page" n="155r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0313" mimeType="image/*"/>
             <zone xml:id="u_155r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_155r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_155r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_155v" ana="hc:Page" n="155v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0314" mimeType="image/*"/>
@@ -1263,6 +1552,8 @@
         <surface xml:id="u_156r" ana="hc:Page" n="156r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0315" mimeType="image/*"/>
             <zone xml:id="u_156r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_156r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_156r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_156v" ana="hc:Page" n="156v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0316" mimeType="image/*"/>
@@ -1271,6 +1562,8 @@
         <surface xml:id="u_157r" ana="hc:Page" n="157r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0317" mimeType="image/*"/>
             <zone xml:id="u_157r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_157r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_157r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_157v" ana="hc:Page" n="157v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0318" mimeType="image/*"/>
@@ -1279,6 +1572,8 @@
         <surface xml:id="u_158r" ana="hc:Page" n="158r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0319" mimeType="image/*"/>
             <zone xml:id="u_158r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_158r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_158r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_158v" ana="hc:Page" n="158v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0320" mimeType="image/*"/>
@@ -1287,6 +1582,8 @@
         <surface xml:id="u_159r" ana="hc:Page" n="159r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0321" mimeType="image/*"/>
             <zone xml:id="u_159r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_159r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_159r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_159v" ana="hc:Page" n="159v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0322" mimeType="image/*"/>
@@ -1295,6 +1592,7 @@
         <surface xml:id="u_160r" ana="hc:Page" n="160r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0323" mimeType="image/*"/>
             <zone xml:id="u_160r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_160r-b" ana="hc:Column hc:TextZone" n="b"/>
         </surface>
         <surface xml:id="u_160v" ana="hc:Page" n="160v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0324" mimeType="image/*"/>
@@ -1303,6 +1601,8 @@
         <surface xml:id="u_161r" ana="hc:Page" n="161r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0325" mimeType="image/*"/>
             <zone xml:id="u_161r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_161r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_161r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_161v" ana="hc:Page" n="161v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0326" mimeType="image/*"/>
@@ -1311,6 +1611,8 @@
         <surface xml:id="u_162r" ana="hc:Page" n="162r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0327" mimeType="image/*"/>
             <zone xml:id="u_162r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_162r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_162r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_162v" ana="hc:Page" n="162v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0328" mimeType="image/*"/>
@@ -1319,6 +1621,8 @@
         <surface xml:id="u_163r" ana="hc:Page" n="163r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0329" mimeType="image/*"/>
             <zone xml:id="u_163r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_163r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_163r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_163v" ana="hc:Page" n="163v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0330" mimeType="image/*"/>
@@ -1327,6 +1631,8 @@
         <surface xml:id="u_164r" ana="hc:Page" n="164r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0331" mimeType="image/*"/>
             <zone xml:id="u_164r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_164r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_164r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_164v" ana="hc:Page" n="164v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0332" mimeType="image/*"/>
@@ -1335,6 +1641,8 @@
         <surface xml:id="u_165r" ana="hc:Page" n="165r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0333" mimeType="image/*"/>
             <zone xml:id="u_165r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_165r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_165r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_165v" ana="hc:Page" n="165v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0334" mimeType="image/*"/>
@@ -1343,6 +1651,8 @@
         <surface xml:id="u_166r" ana="hc:Page" n="166r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0335" mimeType="image/*"/>
             <zone xml:id="u_166r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_166r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_166r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_166v" ana="hc:Page" n="166v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0336" mimeType="image/*"/>
@@ -1351,6 +1661,8 @@
         <surface xml:id="u_167r" ana="hc:Page" n="167r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0337" mimeType="image/*"/>
             <zone xml:id="u_167r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_167r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_167r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_167v" ana="hc:Page" n="167v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0338" mimeType="image/*"/>
@@ -1359,6 +1671,7 @@
         <surface xml:id="u_168r" ana="hc:Page" n="168r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0339" mimeType="image/*"/>
             <zone xml:id="u_168r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_168r-b" ana="hc:Column hc:TextZone" n="b"/>
         </surface>
         <surface xml:id="u_168v" ana="hc:Page" n="168v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0340" mimeType="image/*"/>
@@ -1367,6 +1680,8 @@
         <surface xml:id="u_169r" ana="hc:Page" n="169r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0341" mimeType="image/*"/>
             <zone xml:id="u_169r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_169r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_169r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_169v" ana="hc:Page" n="169v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0342" mimeType="image/*"/>
@@ -1375,6 +1690,8 @@
         <surface xml:id="u_170r" ana="hc:Page" n="170r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0343" mimeType="image/*"/>
             <zone xml:id="u_170r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_170r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_170r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_170v" ana="hc:Page" n="170v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0344" mimeType="image/*"/>
@@ -1383,6 +1700,8 @@
         <surface xml:id="u_171r" ana="hc:Page" n="171r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0345" mimeType="image/*"/>
             <zone xml:id="u_171r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_171r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_171r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_171v" ana="hc:Page" n="171v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0346" mimeType="image/*"/>
@@ -1391,6 +1710,8 @@
         <surface xml:id="u_172r" ana="hc:Page" n="172r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0347" mimeType="image/*"/>
             <zone xml:id="u_172r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_172r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_172r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_172v" ana="hc:Page" n="172v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0348" mimeType="image/*"/>
@@ -1399,6 +1720,8 @@
         <surface xml:id="u_173r" ana="hc:Page" n="173r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0349" mimeType="image/*"/>
             <zone xml:id="u_173r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_173r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_173r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_173v" ana="hc:Page" n="173v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0350" mimeType="image/*"/>
@@ -1407,6 +1730,8 @@
         <surface xml:id="u_174r" ana="hc:Page" n="174r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0351" mimeType="image/*"/>
             <zone xml:id="u_174r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_174r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_174r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_174v" ana="hc:Page" n="174v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0352" mimeType="image/*"/>
@@ -1415,6 +1740,8 @@
         <surface xml:id="u_175r" ana="hc:Page" n="175r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0353" mimeType="image/*"/>
             <zone xml:id="u_175r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_175r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_175r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_175v" ana="hc:Page" n="175v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0354" mimeType="image/*"/>
@@ -1423,6 +1750,7 @@
         <surface xml:id="u_176r" ana="hc:Page" n="176r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0355" mimeType="image/*"/>
             <zone xml:id="u_176r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_176r-b" ana="hc:Column hc:TextZone" n="b"/>
         </surface>
         <surface xml:id="u_176v" ana="hc:Page" n="176v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0356" mimeType="image/*"/>
@@ -1431,6 +1759,8 @@
         <surface xml:id="u_177r" ana="hc:Page" n="177r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0357" mimeType="image/*"/>
             <zone xml:id="u_177r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_177r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_177r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_177v" ana="hc:Page" n="177v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0358" mimeType="image/*"/>
@@ -1439,6 +1769,8 @@
         <surface xml:id="u_178r" ana="hc:Page" n="178r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0359" mimeType="image/*"/>
             <zone xml:id="u_178r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_178r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_178r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_178v" ana="hc:Page" n="178v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0360" mimeType="image/*"/>
@@ -1447,6 +1779,8 @@
         <surface xml:id="u_179r" ana="hc:Page" n="179r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0361" mimeType="image/*"/>
             <zone xml:id="u_179r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_179r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_179r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_179v" ana="hc:Page" n="179v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0362" mimeType="image/*"/>
@@ -1455,6 +1789,8 @@
         <surface xml:id="u_180r" ana="hc:Page" n="180r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0363" mimeType="image/*"/>
             <zone xml:id="u_180r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_180r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_180r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_180v" ana="hc:Page" n="180v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0364" mimeType="image/*"/>
@@ -1463,6 +1799,8 @@
         <surface xml:id="u_181r" ana="hc:Page" n="181r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0365" mimeType="image/*"/>
             <zone xml:id="u_181r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_181r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_181r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_181v" ana="hc:Page" n="181v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0366" mimeType="image/*"/>
@@ -1471,6 +1809,8 @@
         <surface xml:id="u_182r" ana="hc:Page" n="182r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0367" mimeType="image/*"/>
             <zone xml:id="u_182r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_182r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_182r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_182v" ana="hc:Page" n="182v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0368" mimeType="image/*"/>
@@ -1479,6 +1819,8 @@
         <surface xml:id="u_183r" ana="hc:Page" n="183r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0369" mimeType="image/*"/>
             <zone xml:id="u_183r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_183r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_183r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_183v" ana="hc:Page" n="183v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0370" mimeType="image/*"/>
@@ -1487,6 +1829,7 @@
         <surface xml:id="u_184r" ana="hc:Page" n="184r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0371" mimeType="image/*"/>
             <zone xml:id="u_184r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_184r-b" ana="hc:Column hc:TextZone" n="b"/>
         </surface>
         <surface xml:id="u_184v" ana="hc:Page" n="184v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0372" mimeType="image/*"/>
@@ -1495,6 +1838,8 @@
         <surface xml:id="u_185r" ana="hc:Page" n="185r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0373" mimeType="image/*"/>
             <zone xml:id="u_185r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_185r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_185r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_185v" ana="hc:Page" n="185v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0374" mimeType="image/*"/>
@@ -1503,6 +1848,8 @@
         <surface xml:id="u_186r" ana="hc:Page" n="186r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0375" mimeType="image/*"/>
             <zone xml:id="u_186r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_186r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_186r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_186v" ana="hc:Page" n="186v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0376" mimeType="image/*"/>
@@ -1511,6 +1858,8 @@
         <surface xml:id="u_187r" ana="hc:Page" n="187r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0377" mimeType="image/*"/>
             <zone xml:id="u_187r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_187r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_187r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_187v" ana="hc:Page" n="187v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0378" mimeType="image/*"/>
@@ -1519,6 +1868,8 @@
         <surface xml:id="u_188r" ana="hc:Page" n="188r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0379" mimeType="image/*"/>
             <zone xml:id="u_188r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_188r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_188r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_188v" ana="hc:Page" n="188v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0380" mimeType="image/*"/>
@@ -1527,6 +1878,8 @@
         <surface xml:id="u_189r" ana="hc:Page" n="189r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0381" mimeType="image/*"/>
             <zone xml:id="u_189r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_189r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_189r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_189v" ana="hc:Page" n="189v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0382" mimeType="image/*"/>
@@ -1535,6 +1888,8 @@
         <surface xml:id="u_190r" ana="hc:Page" n="190r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0383" mimeType="image/*"/>
             <zone xml:id="u_190r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_190r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_190r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_190v" ana="hc:Page" n="190v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0384" mimeType="image/*"/>
@@ -1543,6 +1898,8 @@
         <surface xml:id="u_191r" ana="hc:Page" n="191r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0385" mimeType="image/*"/>
             <zone xml:id="u_191r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_191r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_191r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_191v" ana="hc:Page" n="191v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0386" mimeType="image/*"/>
@@ -1551,6 +1908,7 @@
         <surface xml:id="u_192r" ana="hc:Page" n="192r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0387" mimeType="image/*"/>
             <zone xml:id="u_192r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_192r-b" ana="hc:Column hc:TextZone" n="b"/>
         </surface>
         <surface xml:id="u_192v" ana="hc:Page" n="192v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0388" mimeType="image/*"/>
@@ -1559,6 +1917,8 @@
         <surface xml:id="u_193r" ana="hc:Page" n="193r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0389" mimeType="image/*"/>
             <zone xml:id="u_193r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_193r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_193r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_193v" ana="hc:Page" n="193v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0390" mimeType="image/*"/>
@@ -1567,6 +1927,8 @@
         <surface xml:id="u_194r" ana="hc:Page" n="194r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0391" mimeType="image/*"/>
             <zone xml:id="u_194r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_194r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_194r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_194v" ana="hc:Page" n="194v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0392" mimeType="image/*"/>
@@ -1575,6 +1937,8 @@
         <surface xml:id="u_195r" ana="hc:Page" n="195r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0393" mimeType="image/*"/>
             <zone xml:id="u_195r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_195r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_195r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_195v" ana="hc:Page" n="195v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0394" mimeType="image/*"/>
@@ -1583,6 +1947,8 @@
         <surface xml:id="u_196r" ana="hc:Page" n="196r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0395" mimeType="image/*"/>
             <zone xml:id="u_196r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_196r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_196r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_196v" ana="hc:Page" n="196v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0396" mimeType="image/*"/>
@@ -1591,6 +1957,8 @@
         <surface xml:id="u_197r" ana="hc:Page" n="197r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0397" mimeType="image/*"/>
             <zone xml:id="u_197r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_197r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_197r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_197v" ana="hc:Page" n="197v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0398" mimeType="image/*"/>
@@ -1599,6 +1967,8 @@
         <surface xml:id="u_198r" ana="hc:Page" n="198r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0399" mimeType="image/*"/>
             <zone xml:id="u_198r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_198r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_198r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_198v" ana="hc:Page" n="198v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0400" mimeType="image/*"/>
@@ -1607,6 +1977,8 @@
         <surface xml:id="u_199r" ana="hc:Page" n="199r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0401" mimeType="image/*"/>
             <zone xml:id="u_199r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_199r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_199r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_199v" ana="hc:Page" n="199v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0402" mimeType="image/*"/>
@@ -1615,6 +1987,7 @@
         <surface xml:id="u_200r" ana="hc:Page" n="200r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0403" mimeType="image/*"/>
             <zone xml:id="u_200r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_200r-b" ana="hc:Column hc:TextZone" n="b"/>
         </surface>
         <surface xml:id="u_200v" ana="hc:Page" n="200v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0404" mimeType="image/*"/>
@@ -1623,6 +1996,8 @@
         <surface xml:id="u_201r" ana="hc:Page" n="201r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0405" mimeType="image/*"/>
             <zone xml:id="u_201r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_201r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_201r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_201v" ana="hc:Page" n="201v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0406" mimeType="image/*"/>
@@ -1631,6 +2006,8 @@
         <surface xml:id="u_202r" ana="hc:Page" n="202r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0407" mimeType="image/*"/>
             <zone xml:id="u_202r-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="u_202r-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="u_202r-c" ana="hc:Column hc:TextZone" n="c"/>
         </surface>
         <surface xml:id="u_202v" ana="hc:Page" n="202v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/erbl_cod_p_II_61/0408" mimeType="image/*"/>
