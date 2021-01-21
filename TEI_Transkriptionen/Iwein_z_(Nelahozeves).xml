@@ -679,27 +679,33 @@
                     <l n="320"><lb n="4"/><w><hi rendition="hc:RedStroke">D</hi>er</w><w>der</w><w>wafen</w><w>riemen</w></l>
                 </lg>
                 <lg>
-                    <l n="321"><lb n="6"/><metamark ana="hc:TranspositionMark ">"</metamark><w><hi rendition="hc:RedStroke">A</hi>lſo</w><w>lútzel</w><w>iſt</w></l>
-                    <l n="322"><lb n="5"/><metamark ana="hc:TranspositionMark ">"</metamark><w><hi rendition="hc:RedStroke">D</hi>as</w><w>ſú</w><w>nit</w><w>lenger</w><w>friſt</w></l>
+                    <l n="321"><lb n="6"/><metamark ana="hc:TranspositionMark " hei:placeRef="hc:ColumnMarginLeft">"</metamark><w><hi rendition="hc:RedStroke">A</hi>lſo</w><w>lútzel</w><w>iſt</w></l>
+                    <l n="322"><lb n="5"/><metamark ana="hc:TranspositionMark " hei:placeRef="hc:ColumnMarginLeft">"</metamark><w><hi rendition="hc:RedStroke">D</hi>as</w><w>ſú</w><w>nit</w><w>lenger</w><w>friſt</w></l>
+                    <listTranspose>
+                        <transpose>
+                            <ptr target="#xpath(//l[@n='322'])"></ptr>
+                            <ptr target="#xpath(//l[@n='321'])"></ptr>
+                        </transpose>
+                    </listTranspose>
                 </lg>
                 <lg>
-                    <l n="323"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
-                    <l n="324"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="323"><lb n="7"/><w><hi rendition="hc:RedStroke">D</hi>as</w><w>ſú</w><w>mit</w><w>mir</w><w>ſolt</w><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>m̄</am><ex>mm</ex></choice>b</w><w>gan</w></l>
+                    <l n="324"><lb n="8"/><w><hi rendition="hc:RedStroke">E</hi>s</w><w>was</w><w>ze</w><w>ſchiere</w><w>getan</w></l>
                 </lg>
                 <lg>
-                    <l n="325"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
-                    <l n="326"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="325"><lb n="9"/><w><hi rendition="hc:RedStroke">I</hi>ch</w><w>en</w><w>ruͦchte</w><lb n="10"/><w><hi rendition="hc:RedStroke"><choice><orig>V</orig><reg>U</reg></choice></hi>nd</w><w>ſolt</w><w>es</w><w>y<choice><am>m̄</am><ex>mm</ex></choice>er</w><w>ſin</w></l>
+                    <l n="326"><lb n="11"/><w><hi rendition="hc:RedStroke">A</hi>in</w><w>ſcharlach</w><w>mentellin</w></l>
                 </lg>
                 <lg>
-                    <l n="327"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
-                    <l n="328"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="327"><lb n="12"/><w><hi rendition="hc:RedStroke">D</hi>as</w><w>gab</w><w>ſú</w><w>mir</w><w>an</w></l>
+                    <l n="328"><lb n="13"/><w><hi rendition="hc:RedStroke">I</hi>ch</w><w><choice><orig>v</orig><reg>u</reg></choice>nſaͤlig</w><w>man</w></l>
                 </lg>
                 <lg>
-                    <l n="329"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
-                    <l n="330"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="329"><lb n="14"/><w><hi rendition="hc:RedStroke">D</hi>as</w><w>ſie</w><w>miner</w><w>ougen</w><w>ie</w><w>geſach</w></l>
+                    <l n="330"><lb n="15"/><w><hi rendition="hc:RedStroke">D</hi>o</w><w><choice><orig>v</orig><reg>u</reg></choice>ns</w><w join="right">ze</w><w join="left">ſchaiden</w><w>geſchach</w></l>
                 </lg>
                 <lg>
-                    <l n="331"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
+                    <l n="331"><lb n="16"/><w><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">W</hei:initial><hi rendition="hc:RedStroke">I</hi>r</w><w/><w/><w/><w/><w/></l>
                     <l n="332"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
                 </lg>
                 <lg>
