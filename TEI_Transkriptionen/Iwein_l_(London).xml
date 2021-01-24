@@ -7375,7 +7375,7 @@
                 </lg>
                 <lg>
                     <l n="3645"><lb n="3"/><w>Sy</w><w>fuert</w><w>in</w><w>mit</w><w>ir</w><w>dan</w></l>
-                    <l n="3646"><lb n="4"/><w>Zw</w><w>ir</w><w>frawen</w><w>die</w><w>nie</w><w>man</w></l>
+                    <l n="3646"><lb n="4"/><w>Z<choice><orig>w</orig><reg>u</reg></choice></w><w>ir</w><w>frawen</w><w>die</w><w>nie</w><w>man</w></l>
                 </lg>
                 <lg>
                     <l n="3647"><lb n="5"/><w>Alſo</w><w>gern</w><w>geſach</w></l>
@@ -7430,7 +7430,7 @@
                     <l n="3672"><lb n="30"/><w><choice><orig>V</orig><reg>U</reg></choice>nd</w><w>ſelb</w><w>chawm</w><w>geſas</w></l>
                 </lg>
                 <lg>
-                    <l n="3673"><lb n="31"/><w>Sy</w><w>empfiel</w><w>mir</w><w>in</w><w>den</w><w>mag</w><w>zetal</w></l>
+                    <l n="3673"><lb n="31"/><w>Sy</w><w>empfiel</w><w>mir</w><w>in</w><w>den</w><w>wag</w><w>zetal</w></l>
                     <l n="3674"><lb n="32"/><w><choice><orig>V</orig><reg>U</reg></choice>nd</w><w>wiſſet</w><w>das</w><w>mir</w><w>nie</w><w>val</w></l>
                 </lg>
                 <lg>
@@ -7442,7 +7442,7 @@
                     <l n="3678"><lb n="36"/><w>Das</w><w>verlewſet</w><w>ſich</w><w>leicht</w><w>wol</w></l>
                 </lg>
                 <lg>
-                    <l n="3679"><lb n="37"/><w><supplied><hei:initial ana="hc:Lombard" hei:heightLines="4">S</hei:initial></supplied>Ie</w><w><choice><orig>u</orig><reg>v</reg></choice>il</w><w>gefueg</w><w>wäre</w></l>
+                    <l n="3679"><lb n="37"/><w><supplied><hei:initial ana="hc:Lombard" hei:heightLines="4">W</hei:initial></supplied>Ie</w><w><choice><orig>u</orig><reg>v</reg></choice>il</w><w>gefueg</w><w>wäre</w></l>
                     <l n="3680"><lb n="38"/><w>Das</w><w>luge mare</w></l>
                 </lg>
                 <lg>
@@ -7451,7 +7451,7 @@
                 </lg>
                 <lg>
                     <l n="3683"><lb n="41"/><w>Seind</w><w>mir</w><w>paide</w><w>geſchehen</w></l>
-                    <l n="3684"><lb n="42"/><w>Der</w><w>mag</w><w>ich</w><w>wol</w><w>paider</w><w><choice><orig>i</orig><reg>j</reg></choice>ejen</w></l>
+                    <l n="3684"><lb n="42"/><w>Der</w><w>mag</w><w>ich</w><w>wol</w><w>paider</w><w><choice><orig>i</orig><reg>j</reg></choice>ehen</w></l>
                 </lg>
                 <lg>
                     <l n="3685"><lb n="43"/><w>Den</w><w>ſchaden</w><w>ſullen</w><w>wir</w><w>verchlagn</w></l>
@@ -7487,7 +7487,7 @@
                     <l n="3700"><lb n="10"/><w><choice><orig>V</orig><reg>U</reg></choice>nd</w><w>das</w><w>ſchoniſt</w><w>ros</w><w><choice><orig>v</orig><reg>u</reg></choice>ber</w><w>all</w><w>das</w><w>land</w></l>
                 </lg>
                 <lg>
-                    <l n="3701"><lb n="11"/><w>Nw</w><w>was</w><w>berait</w><w>der</w><w>gaſt</w></l>
+                    <l n="3701"><lb n="11"/><w>N<choice><orig>w</orig><reg>u</reg></choice></w><w>was</w><w>berait</w><w>der</w><w>gaſt</w></l>
                     <l n="3702"><lb n="12"/><w>Das</w><w>im</w><w>nichts</w><w>gepraſt</w></l>
                 </lg>
                 <lg>
@@ -7516,7 +7516,7 @@
                 </lg>
                 <lg>
                     <l n="3715"><lb n="25"/><w>Vil</w><w>nach</w><w>gar</w><w>warn</w><w>chumen</w></l>
-                    <l n="3716"><lb n="26"/><w>Nw</w><w>wart</w><w>der</w><w>muet</w><w>in</w><w>benumen</w></l>
+                    <l n="3716"><lb n="26"/><w>N<choice><orig>w</orig><reg>u</reg></choice></w><w>wart</w><w>der</w><w>muet</w><w>in</w><w>benumen</w></l>
                 </lg>
                 <lg>
                     <l n="3717"><lb n="27"/><w>Do</w><w>ſy</w><w>den</w><w>gaſt</w><w>ſahen</w></l>
@@ -7579,11 +7579,10 @@
                 <lg>
                     <l n="3745"><lb n="7"/><w>Dy</w><w>wurden</w><w join="right">dar</w><w join="left">an</w><w>zagn</w></l>
                     <l n="3746"><lb n="8"/><w>Sy</w><w>lieſſn</w><w>ſich</w><w>vaſſt</w><w><choice><orig>i</orig><reg>j</reg></choice>agen</w></l>
-                    <!--Faltan versos 3747 e 3748.     -->
                 </lg>
                 <lg>
                     <l n="3749"><lb n="9"/><w>Nach</w><w>hern</w><w>Ybeins</w><w>eren</w></l>
-                    <l n="3750"><lb n="10"/><w>Nw</w><w>pegundens</w><w>an</w><w>in</w><w>chern</w></l>
+                    <l n="3750"><lb n="10"/><w>N<choice><orig>w</orig><reg>u</reg></choice></w><w join="right">pegunden</w><w join="left">s</w><w>an</w><w>in</w><w>chern</w></l>
                 </lg>
                 <lg>
                     <l n="3751"><lb n="11"/><w>Den</w><w>lob</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>den</w><w>preys</w></l>
@@ -7591,7 +7590,7 @@
                 </lg>
                 <lg>
                     <l n="3753"><lb n="13"/><w>Im</w><w>mocht</w><w>nicht</w><w>gebern</w></l>
-                    <l n="3754"><lb n="14"/><w>Hetn</w><w>ſy</w><w>in</w><w join="right">ze</w><w join="left">h<choice><am>e͛</am><ex>er</ex></choice>rn</w></l>
+                    <l n="3754"><lb n="14"/><w>Hetn</w><w>ſy</w><w>in</w><w join="right">ze</w><w join="left">he<choice><am>r͛</am><ex>rre</ex></choice>n</w></l>
                 </lg>
                 <lg>
                     <l n="3755"><lb n="15"/><w>Oder</w><w>ainen</w><w>im</w><w>geleichen</w></l>
@@ -7610,7 +7609,7 @@
                     <l n="3762"><lb n="22"/><w>Danoch</w><w>hielt</w><w>er</w><w>da</w><w>ze</w><w>wer</w></l>
                 </lg>
                 <lg>
-                    <l n="3763"><lb n="23"/><w>Mit</w><w>ainer</w><w>lüzteher</w><w>chraft</w></l>
+                    <l n="3763"><lb n="23"/><w>Mit</w><w>ainer</w><w>lüzteler</w><w>chraft</w></l>
                     <l n="3764"><lb n="24"/><w><choice><orig>V</orig><reg>U</reg></choice>nd</w><w>tet</w><w>ſolch</w><w>ritterſchaft</w></l>
                 </lg>
                 <lg>
@@ -7627,7 +7626,7 @@
                 </lg>
                 <lg>
                     <l n="3771"><lb n="31"/><w>Do</w><w>er</w><w>zu</w><w>dem</w><w>haus</w><w>floch</w></l>
-                    <l n="3772"><lb n="32"/><w>Nw</w><w>was</w><w>der</w><w>purg perg</w><w>ſo</w><w>hoch</w></l>
+                    <l n="3772"><lb n="32"/><w>N<choice><orig>w</orig><reg>u</reg></choice></w><w>was</w><w>der</w><w>purg perg</w><w>ſo</w><w>hoch</w></l>
                 </lg>
                 <lg>
                     <l n="3773"><lb n="33"/><w><choice><orig>V</orig><reg>U</reg></choice>nd</w><w>alſo</w><w>ſtikel</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>alſo</w><w>langk</w></l>
@@ -7635,7 +7634,7 @@
                 </lg>
                 <lg>
                     <l n="3775"><lb n="35"/><w>Her</w><w>Ybein</w><w>ergacht</w><w>an</w><w>dem</w><w>tor</w></l>
-                    <l n="3776"><lb n="36"/><w>Da</w><w>viende</w><w>er</w><w>in</w><w>vor</w></l>
+                    <l n="3776"><lb n="36"/><w>Da</w><w>vienge</w><w>er</w><w>in</w><w>vor</w></l>
                 </lg>
                 <lg>
                     <l n="3777"><lb n="37"/><w><choice><orig>V</orig><reg>U</reg></choice>nd</w><w>tet</w><w>ſein</w><w>ſicherhait</w></l>
@@ -7683,7 +7682,7 @@
                     <l n="3798"><lb n="9"/><w>Des</w><w>war</w><w>er</w><w>da</w><w>geweſn</w><w>gewert</w></l>
                 </lg>
                 <lg>
-                    <l n="3799"><lb n="10"/><w>Sy</w><w>verſagt</w><w>im</w><w>weber</w><w>leib</w><w>noch</w><w>guet</w></l>
+                    <l n="3799"><lb n="10"/><w>Sy</w><w>verſagt</w><w>im</w><w>weder</w><w>leib</w><w>noch</w><w>guet</w></l>
                     <l n="3800"><lb n="11"/><w join="right">Dar</w><w join="left">nach</w><w>ſtuend</w><w>nit</w><w>ſein</w><w>muet</w></l>
                 </lg>
                 <lg>
@@ -7708,7 +7707,7 @@
                 </lg>
                 <lg>
                     <l n="3811"><lb n="22"/><w>Sy</w><w>het</w><w>geworben</w><w><choice><orig>v</orig><reg>u</reg></choice>mbe</w><w>in</w></l>
-                    <l n="3812"><lb n="23"/><w>Mich</w><w>entrege</w><w>dann</w><w>mein</w><w>ſin</w></l>
+                    <l n="3812"><lb n="23"/><w>Mich</w><w join="right">en</w><w join="left">trege</w><w>dann</w><w>mein</w><w>ſin</w></l>
                 </lg>
                 <lg>
                     <l n="3813"><lb n="24"/><w><supplied><hei:initial ana="hc:Lombard" hei:heightLines="4">W</hei:initial></supplied>Ie</w><w>es</w><w>chaine</w><w>gern</w><w>tue</w></l>
@@ -7758,7 +7757,7 @@
                     <l n="3835"><lb n="46"/><w>Wan</w><w>dy</w><w>ſelbe</w><w>ſtym</w><w>weiſt</w><w>in</w></l>
                     <pb n="78r"/>
                     <cb n="a"/>
-                    <l n="3836"><lb n="1"/><w>Durch</w><w>michel</w><w>wald</w><w>ge<choice><orig>u</orig><reg>v</reg></choice>elbn</w><w>hin</w></l>
+                    <l n="3836"><lb n="1"/><w>Durch</w><w>michel</w><w>wald</w><w>ge<choice><orig>u</orig><reg>v</reg></choice>elln</w><w>hin</w></l>
                 </lg>
                 <lg>
                     <l n="3837"><lb n="2"/><w>Do</w><w>er</w><w>an</w><w>ainere</w><w>ploſſe</w><w>erſach</w></l>
@@ -7786,7 +7785,7 @@
                 </lg>
                 <lg>
                     <l n="3849"><lb n="14"/><w>Helfen</w><w>dem</w><w>edeln</w><w>tiere</w></l>
-                    <l n="3850"><lb n="15"/><w>Doch</w><w>worcht</w><w>er</w><w>des</w><w>wie</w><w>ſchiere</w></l>
+                    <l n="3850"><lb n="15"/><w>Doch</w><w>vorcht</w><w>er</w><w>des</w><w>wie</w><w>ſchiere</w></l>
                 </lg>
                 <lg>
                     <l n="3851"><lb n="16"/><w>Des</w><w>wurm</w><w>ende</w><w>erginge</w></l>
@@ -7806,7 +7805,7 @@
                 </lg>
                 <lg>
                     <l n="3859"><lb n="24"/><w>Das</w><w>er</w><w>im</w><w>nicht</w><w>geſwiche</w></l>
-                    <l n="3860"><lb n="25"/><w>Dem</w><w>was</w><w>ditr</w><w>wol</w><w>geliche</w></l>
+                    <l n="3860"><lb n="25"/><w>Dem</w><w>was</w><w>ditis</w><w>wol</w><w>geliche</w></l>
                 </lg>
                 <lg>
                     <l n="3861"><lb n="26"/><w>Doch</w><w>waget</w><w>er</w><w>es</w><w>als</w><w>ain</w><w>frum</w><w>man</w></l>
@@ -7830,7 +7829,6 @@
                 </lg>
                 <lg>
                     <l n="3871"><lb n="36"/><w>Mit</w><w>gepard</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>mit</w><w>ſtyme</w></l>
-                    <!--Faltan versos 3872 e 3873     -->
                 </lg>
                 <lg>
                     <l n="3874"><lb n="37"/><w>So</w><w>er</w><w>von</w><w>ſeinem</w><w>ſynne</w></l>
@@ -7852,7 +7850,7 @@
                     <l n="3882"><lb n="45"/><w><choice><orig>V</orig><reg>U</reg></choice>ntzt</w><w>ſy</w><w>paide</w><w>ſchiet</w><w><choice><am>d͛</am><ex>der</ex></choice></w><w>tod</w></l>
                 </lg>
                 <lg>
-                    <l n="3883"><lb n="46"/><w><supplied><hei:initial ana="hc:Lombard" hei:heightLines="4">D</hei:initial></supplied>Er</w><w>leb</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>ſein</w><w>herre</w></l>
+                    <l n="3883"><lb n="46"/><w><supplied><hei:initial ana="hc:Lombard" hei:heightLines="2">D</hei:initial></supplied>Er</w><w>leb</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>ſein</w><w>herre</w></l>
                     <l n="3884"><lb n="47"/><w>Die</w><w>fueren</w><w><choice><orig>v</orig><reg>u</reg></choice>n ferre</w></l>
                 </lg>
                 <cb n="b"/>
@@ -7867,11 +7865,10 @@
                 <lg>
                     <l n="3890"><lb n="5"/><w>Des</w><w>chund</w><w>er</w><w>in</w><w>anders</w><w>nit</w><w>geſagen</w></l>
                     <l n="3889"><lb n="6"/><w>Das</w><w>er</w><w>es</w><w>gern</w><w>wolt</w><w><choice><orig>i</orig><reg>j</reg></choice>agen</w></l>
-                    <!--Versos 3889-3890 invertidos     -->
                 </lg>
                 <lg>
                     <l n="3891"><lb n="7"/><w>Wan</w><w>er</w><w>ſtuend</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>nam</w><w>ſein</w><w>war</w></l>
-                    <l n="3892"><lb n="8"/><w><choice><orig>V</orig><reg>U</reg></choice>nd</w><w>zaigt</w><w>mit</w><w>dem</w><w>mun<choice><am>d͛</am><ex>der</ex></choice></w><w>dar</w></l>
+                    <l n="3892"><lb n="8"/><w><choice><orig>V</orig><reg>U</reg></choice>nd</w><w>zaigt</w><w>mit</w><w>dem</w><w>mun<choice><am>d’</am><ex>de</ex></choice></w><w>dar</w></l>
                 </lg>
                 <lg>
                     <l n="3893"><lb n="9"/><w join="right">Da</w><w join="left">mit</w><w>tet</w><w>er</w><w>im</w><w>es</w><w>chund</w></l>
@@ -7890,12 +7887,12 @@
                     <l n="3900"><lb n="16"/><w>Das</w><w>was</w><w>ſeinem</w><w>h<choice><am>r͛</am><ex>er</ex></choice>n</w><w>doch</w><w>kain</w><w>guet</w></l>
                 </lg>
                 <lg>
-                    <l n="3901"><lb n="17"/><w><choice><orig>V</orig><reg>U</reg></choice>nd</w><w>ſchiedet</w><w>er</w><w>es</w><w>da</w><w>ers</w><w>weſt</w></l>
+                    <l n="3901"><lb n="17"/><w><choice><orig>V</orig><reg>U</reg></choice>nd</w><w>ſchiedet</w><w>er</w><w>es</w><w>da</w><w join="right">er</w><w join="left">s</w><w>weſt</w></l>
                     <l n="3902"><lb n="18"/><w>Faiſt</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>alle</w><w>peſſt</w></l>
                 </lg>
                 <lg>
                     <l n="3903"><lb n="19"/><w><choice><orig>V</orig><reg>U</reg></choice>nd</w><w>nam</w><w>des</w><w>ainen</w><w>pratn</w><w>dan</w></l>
-                    <l n="3904"><lb n="20"/><w>Nw</w><w>gie</w><w>auch</w><w>dy</w><w>nacht</w><w>an</w></l>
+                    <l n="3904"><lb n="20"/><w>N<choice><orig>w</orig><reg>u</reg></choice></w><w>gie</w><w>auch</w><w>dy</w><w>nacht</w><w>an</w></l>
                 </lg>
                 <lg>
                     <l n="3905"><lb n="21"/><w><choice><orig>V</orig><reg>U</reg></choice>nd</w><w>macht</w><w>ain</w><w>fewr</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>peraitt</w><w>das</w></l>
@@ -7903,7 +7900,7 @@
                 </lg>
                 <lg>
                     <l n="3907"><lb n="23"/><w>Ane</w><w>prot</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>an</w><w>wein</w></l>
-                    <l n="3908"><lb n="24"/><w>Es</w><w>mocht</w><w>da</w><w>mit</w><w>wager</w><w>geſein</w></l>
+                    <l n="3908"><lb n="24"/><w>Es</w><w>mocht</w><w>da</w><w>nit</w><w>wager</w><w>geſein</w></l>
                 </lg>
                 <lg>
                     <l n="3909"><lb n="25"/><w>Das</w><w>im</w><w>da</w><w><choice><orig>v</orig><reg>u</reg></choice>brig</w><w>ſchain</w></l>
@@ -7943,15 +7940,16 @@
                 </lg>
                 <lg>
                     <l n="3927"><lb n="43"/><w>Von</w><w>dem</w><w>im</w><w>was</w><w>geſchehen</w></l>
-                    <l n="3928"><lb n="44"/><w>Als</w><w>ich</w><w>nu</w><w>halb</w><w>ver<choice><orig>i</orig><reg>j</reg></choice>ehen</w></l>
+                    <l n="3928"><lb n="44"/><w>Als</w><w>ich</w><w>nu</w><w>hab</w><w>ver<choice><orig>i</orig><reg>j</reg></choice>ehen</w></l>
                 </lg>
                 <lg>
                     <l n="3929"><lb n="45"/><w>Groſs</w><w>hail</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>michel</w><w><choice><orig>v</orig><reg>u</reg></choice>ngemach</w></l>
-                    <l n="3930"><lb n="46"/><w>Als</w><w>er</w><w>dy</w><w>linden</w><w join="right">d</w>arob<w>ſach</w></l>
+                    <l n="3930"><lb n="46"/><w>Als</w><w>er</w><w>dy</w><w>linden</w><w join="right">dar</w><w join="left">ob</w><w>ſach</w></l>
                 </lg>
                 <lg>
                     <l n="3931"><lb n="47"/><w><choice><orig>V</orig><reg>U</reg></choice>nd</w><w>do</w><w>im</w><w join="right">dar</w><w join="left">tzue</w><w>erſchain</w></l>
                     <l n="3932"><lb n="48"/><w>Dy</w><w>chappell</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>der</w><w>ſtain</w></l>
+                    <!--Revisado Victor 24/1/2021 – Benvida de volta, Paula! MOI BEN iso. Recorda regularizar as 'w' con valor de 'u' cando non están en diptongos     -->
                 </lg>
                 <pb n="78v"/>
                 <cb n="a"/>
