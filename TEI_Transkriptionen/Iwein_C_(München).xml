@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://digi.ub.uni-heidelberg.de/schema/tei/heiEDITIONS/tei_hes.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://digi.ub.uni-heidelberg.de/schema/tei/heiEDITIONS/tei_hes.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:hei="https://digi.ub.uni-heidelberg.de/schema/tei/heiEDITIONS" ana="hc:IWDDocument">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://digi.ub.uni-heidelberg.de/schema/tei/heiEDITIONS/tei_hes.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://digi.ub.uni-heidelberg.de/schema/tei/heiEDITIONS/tei_hes.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:hei="https://digi.ub.uni-heidelberg.de/schema/tei/heiEDITIONS" ana="hc:IWDDocument">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -25,6 +27,7 @@
             <listPrefixDef>
                 <prefixDef ident="hc" matchPattern="(.+)" replacementPattern="https://lod.ub.uni-heidelberg.de/ontologies/heieditions/hc/current/$1"/>
             </listPrefixDef>
+        <hei:elementsWithTokenizedContent include="l head ab trailer"/>
         </encodingDesc>
     </teiHeader>
     <facsimile>
