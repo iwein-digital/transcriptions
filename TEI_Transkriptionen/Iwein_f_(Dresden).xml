@@ -3638,7 +3638,6 @@
                 <lg>
                     <l n="1817"><lb n="2"/><w><hi rendition="hc:RedStroke">O</hi>b</w><w>du</w><w>gelobeſt</w><w>chain<choice><am>ē</am><ex>em</ex></choice></w><w>man</w></l>
                     <l n="1818"><lb n="3"/><w><hi rendition="hc:RedStroke">f</hi>für</w><w>den</w><w>den</w><w>ich</w><w><choice><am>v͛</am><ex>ver</ex></choice>lör<choice><am>n̄</am><ex>en</ex></choice></w><w>han</w></l>
-                    <!--Revisado Victor 28/1/2021 – A MENUDO, cuando el gancho de 'er' figura sobre la última letra, pero la expansión de la abreviatura lleva a un 'er' ANTES de la última letra, tu construyes la abreviatura con la penúltima. P.ej. 'andN' con gancho sobre la 'r': tú harías 'anDn', con la abreviatura hecha sobre la 'd'. Lo he visto tres o cuatro veces últimamente y lo he corregido: si el gancho está claramente sobre la última letra, es sobre esa sobre la que construyes la abreviatura-->
                 </lg>
                 <lb n="4"/>
                 <label ana="hc:SummaryLabel"><hi hei:color="Red"><w>Wie</w><w>gar</w><w><choice><orig>v</orig><reg>u</reg></choice>npilleich</w><w>ez</w><w>die</w><w>fraw<choice><am>ē</am><ex>en</ex></choice></w></hi></label>
@@ -3673,7 +3672,7 @@
                     <l n="1832"><lb n="19"/><w><hi rendition="hc:RedStroke">E</hi>z</w><w>ward</w><w>ein</w><w>pot</w><w>an</w><w>di<choice><am>z͛</am><ex>zer</ex></choice></w><w>ſtund</w></l>
                 </lg>
                 <lg>
-                    <l n="1833"><lb n="20"/><w><hi rendition="hc:RedStroke">M</hi>ein<choice><am>ē</am><ex>em</ex></choice></w><w>he<choice><am>r͛</am><ex>rr</ex></choice><choice><am>n̄</am><ex>en</ex></choice></w><w>geſant</w></l>
+                    <l n="1833"><lb n="20"/><w><hi rendition="hc:RedStroke">M</hi>ein<choice><am>ē</am><ex>em</ex></choice></w><w>he<choice><am>r͛</am><ex>rre</ex></choice><choice><am>n̄</am><ex>en</ex></choice></w><w>geſant</w></l>
                     <l n="1834"><lb n="21"/><w><hi rendition="hc:RedStroke">D</hi>o</w><w>er</w><w>in</w><w>da</w><w>tot<choice><am>n̄</am><ex>en</ex></choice></w><w>vant</w></l>
                 </lg>
                 <lg>
@@ -3718,12 +3717,11 @@
                     <l n="1854"><lb n="15"/><w><hi rendition="hc:RedStroke">D</hi>ar</w><w>pringt</w><w>der</w><w>ch<choice><am>ū</am><ex>un</ex></choice>ig</w><w>ein</w><w>ſölch</w><w>her</w></l>
                 </lg>
                 <lg>
-                    <l n="1855"><lb n="16"/><w><hi rendition="hc:RedStroke">D</hi>ie</w><w>zu</w><w>den</w><w>peſt<choice><am>n̄</am><ex>en</ex></choice></w><w>ſind</w><w>erchörn</w></l>
-                    <!--No transcribo la cruz al inicio del verso, porque no sé qué tipo de metamark es??     -->
-                    <l n="1856"><lb n="17"/><w><hi rendition="hc:RedStroke">D</hi>ie</w><w>ye</w><w>von</w><w>Ritt<choice><am>n͛</am><ex>ern</ex></choice></w><w><choice><am>w ᷑</am><ex>wur</ex></choice>d<choice><am>n̄</am><ex>en</ex></choice></w><w>gepör<choice><am>n̄</am><ex>en</ex></choice></w></l>
+                    <l n="1855"><lb n="16"/><metamark ana="hc:ReferenceMark">+</metamark><w><hi rendition="hc:RedStroke">D</hi>ie</w><w>zu</w><w>den</w><w>peſt<choice><am>n̄</am><ex>en</ex></choice></w><w>ſind</w><w>erchörn</w></l>
+                    <l n="1856"><lb n="17"/><w><hi rendition="hc:RedStroke">D</hi>ie</w><w>ye</w><w>von</w><w>Ritt<choice><am>n͛</am><ex>ern</ex></choice></w><w><choice><am>w᷑</am><ex>wur</ex></choice>d<choice><am>n̄</am><ex>en</ex></choice></w><w>gepör<choice><am>n̄</am><ex>en</ex></choice></w></l>
                 </lg>
                 <lg>
-                    <l n="1857"><lb n="18"/><w><hi rendition="hc:RedStroke">F</hi>rawe</w><w join="right">dar</w><w join="left"><choice><am>ū</am><ex>um</ex></choice>b</w><w>ſo</w><w>ſeit</w><w>gemant</w></l>
+                    <l n="1857"><lb n="18"/><w><hi rendition="hc:RedStroke">FF</hi>rawe</w><w join="right">dar</w><w join="left"><choice><am>ū</am><ex>um</ex></choice>b</w><w>ſo</w><w>ſeit</w><w>gemant</w></l>
                     <l n="1858"><lb n="19"/><w><hi rendition="hc:RedStroke">W</hi>elt</w><w>ïr</w><w>den</w><w>pr<choice><am>ū</am><ex>un</ex></choice>n<choice><am>ē</am><ex>en</ex></choice></w><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>e<choice><am>w͛</am><ex>wer</ex></choice></w><w>lant</w></l>
                 </lg>
                 <lg>
@@ -3811,15 +3809,15 @@
                 </lg>
                 <lg>
                     <l n="1897"><lb n="11"/><w><hi rendition="hc:RedStroke">D</hi>ez</w><w>wurd</w><w>ich</w><w>ſchïre</w><w>gewert</w></l>
-                    <!--La 'w' de 'gewert' parece clara, pero lo que hay sobre la 'w' no sé lo que es; parece una 'o' o una 'e'???     -->
+                    <!--La 'w' de 'gewert' parece clara, pero lo que hay sobre la 'w' no sé lo que es; parece una 'o' o una 'e'???  FORMA PARTE DE LA 'W': LAS LETRAS DE ESTA ÉPOCA A MENUDO HACEN LAS 'V' Y LAS 'W' CON ESE LAZO INICIAL; EN EL CASO DE LAS 'V' SE LAS CONFUNDE CON 'B'-->
                     <l n="1898"><lb n="12"/><w><hi rendition="hc:RedStroke">I</hi>ch</w><w>fund</w><w>dann</w><w>mez<choice><am>z͛</am><ex>zer</ex></choice></w><w>noch</w><w>ſwert</w></l>
                 </lg>
                 <lg>
                     <l n="1899"><lb n="13"/><w><hi rendition="hc:RedStroke">O</hi>b</w><w>ich</w><w>dez</w><w>nicht</w><w>gerat<choice><am>n̄</am><ex>en</ex></choice></w><w>chan</w></l>
-                    <l n="1900"><lb n="14"/><w><hi rendition="hc:RedStroke">I</hi>ch</w><w>müz</w><w>hab<choice><am>n̄</am><ex>en</ex></choice></w><w>ein<choice><am>ē</am><ex>en</ex></choice></w><w>an<choice><am>d͛</am><ex>der</ex></choice>n</w><w>man</w></l>
+                    <l n="1900"><lb n="14"/><w><hi rendition="hc:RedStroke">I</hi>ch</w><w>müz</w><w>hab<choice><am>n̄</am><ex>en</ex></choice></w><w>ein<choice><am>ē</am><ex>en</ex></choice></w><w>and<choice><am>n͛</am><ex>ern</ex></choice></w><w>man</w></l>
                 </lg>
                 <lg>
-                    <l n="1901"><lb n="15"/><w><hi rendition="hc:RedStroke"><choice><orig>V</orig><reg>U</reg></choice></hi><choice><am>n̄</am><ex>nd</ex></choice></w><w>meines</w><w>he<choice><am>r͛</am><ex>rr</ex></choice><choice><am>n̄</am><ex>en</ex></choice></w><w>ſo</w><w>wand<choice><am>l̄</am><ex>el</ex></choice></w><w>han</w></l>
+                    <l n="1901"><lb n="15"/><w><hi rendition="hc:RedStroke"><choice><orig>V</orig><reg>U</reg></choice></hi><choice><am>n̄</am><ex>nd</ex></choice></w><w>meines</w><w>he<choice><am>r͛</am><ex>rr</ex></choice>n</w><w>ſo</w><w>wand<choice><am>l̄</am><ex>el</ex></choice></w><w>han</w></l>
                     <l n="1902"><lb n="16"/><w><hi rendition="hc:RedStroke">S</hi>o</w><w>wil</w><w>dew</w><w>welt</w><w>lai<choice><am>d͛</am><ex>der</ex></choice></w><w>nicht</w><w><choice><am>v͛</am><ex>ver</ex></choice>ſtan</w></l>
                 </lg>
                 <lg>
@@ -3831,7 +3829,7 @@
                     <l n="1906"><lb n="20"/><w><hi rendition="hc:RedStroke">O</hi>b</w><w>ich</w><w>nu</w><w>mannes</w><w>enpäre</w></l>
                 </lg>
                 <lg>
-                    <l n="1907"><lb n="21"/><w><hi rendition="hc:RedStroke">D</hi>a</w><w>uon</w><w>ſo</w><w>waizz</w><w>ich</w><w>waz</w><w>ich</w><w>tue</w></l>
+                    <l n="1907"><lb n="21"/><w><hi rendition="hc:RedStroke">D</hi>a</w><w><choice><orig>u</orig><reg>v</reg></choice>on</w><w>ſo</w><w>waizz</w><w>ich</w><w>waz</w><w>ich</w><w>tue</w></l>
                     <l n="1908"><lb n="22"/><w><hi rendition="hc:RedStroke">Y</hi>edoch</w><w>ſo</w><w>rat</w><w>trewleich<choice><am>n̄</am><ex>en</ex></choice></w><w>zü</w></l>
                 </lg>
                 <lg>
@@ -3849,7 +3847,7 @@
                     <l n="1914"><lb n="4"/><w><hi rendition="hc:RedStroke">D</hi>az</w><w>er</w><w>mïr</w><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>auch</w><w>dem</w><w>lant</w></l>
                 </lg>
                 <lg>
-                    <l n="1915"><lb n="5"/><w><hi rendition="hc:RedStroke">C</hi>ze</w><w>ſcher<choice><am>m̄</am><ex>mm</ex></choice></w><w>nüczleich</w><w>wäre</w></l>
+                    <l n="1915"><lb n="5"/><w join="right"><hi rendition="hc:RedStroke">C</hi>ze</w><w join="left">ſcher<choice><am>m̄</am><ex>mm</ex></choice></w><w>nüczleich</w><w>wäre</w></l>
                     <l n="1916"><lb n="6"/><w><hi rendition="hc:RedStroke"><choice><orig>V</orig><reg>U</reg></choice></hi><choice><am>n̄</am><ex>nd</ex></choice></w><w>doch</w><w>mein</w><w>man</w><w>nicht</w><w>wäre</w></l>
                 </lg>
                 <lg>
@@ -3883,7 +3881,7 @@
                 <lg>
                     <l n="1931"><lb n="21"/><w><hi rendition="hc:RedStroke">C</hi>zwar</w><w>frawe</w><w>dez</w><w>get</w><w>ewch</w><w>nöt</w></l>
                     <l n="1932"><lb n="22"/><w><hi rendition="hc:RedStroke">M</hi>ein</w><w>he<choice><am>r͛</am><ex>rr</ex></choice></w><w>iſt</w><w>für</w><w>ſich</w><w>ain<choice><am>ē</am><ex>en</ex></choice></w><w>töt</w></l>
-                    <!--Qué pinta él macron en 'her'???     -->
+                    <!--Qué pinta él macron en 'her'???   NI IDEA!  -->
                 </lg>
                 <lg>
                     <l n="1933"><lb n="23"/><w><hi rendition="hc:RedStroke">W</hi>änt</w><w>ïr</w><w>alle</w><w>frümchait</w></l>
@@ -3904,7 +3902,7 @@
                 </lg>
                 <lg>
                     <l n="1941"><lb n="6"/><w><hi rendition="hc:RedStroke">N</hi>u</w><w>nenne</w><w>mïr</w><w>doch</w><w>nür</w><w>ayn<choice><am>ē</am><ex>en</ex></choice></w></l>
-                    <l n="1942"><lb n="7"/><w><hi rendition="hc:RedStroke">F</hi>Raw</w><w>liezzet</w><w>ïr</w><w>e<choice><am>w͛</am><ex>wer</ex></choice></w><w>wayn<choice><am>ē</am><ex>en</ex></choice></w></l>
+                    <l n="1942"><lb n="7"/><w><hi rendition="hc:RedStroke">FF</hi>Raw</w><w>liezzet</w><w>ïr</w><w>e<choice><am>w͛</am><ex>wer</ex></choice></w><w>wayn<choice><am>ē</am><ex>en</ex></choice></w></l>
                 </lg>
                 <lg>
                     <l n="1943"><lb n="8"/><w><hi rendition="hc:RedStroke">C</hi>zwar</w><w>ich</w><w>fund</w><w>in</w><w>harte</w><w>wol</w></l>
@@ -3913,7 +3911,7 @@
                 <lg>
                     <l n="1945"><lb n="10"/><w><hi rendition="hc:RedStroke">M</hi>ich</w><w>duncht</w><w>der</w><w>wan</w><w>treuget</w><w>dich</w></l>
                     <l n="1946"><lb n="11"/><w><hi rendition="hc:RedStroke">O</hi>b</w><w>du</w><w>mit</w><w>ſag</w><w>woldſt</w><w>trieg<choice><am>n̄</am><ex>en</ex></choice></w><w>mich</w></l>
-                    <!--Falta el pareado V. 1947s.     -->
+                    <!--Revisado Victor 1/2/2021-->
                 </lg>
                 <lg>
                     <l n="1949"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
