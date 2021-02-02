@@ -2965,7 +2965,10 @@ else ancestor::w</String>
 														<serializableOrderedMap>
 															<entry>
 																<String>fragment</String>
-																<String>&lt;lb xmlns="http://www.tei-c.org/ns/1.0" n="${ask('line number:',generic,(),'${xpath_eval(xs:integer(following::l[1]/preceding::lb[1]/@n+1))}')}"/></String>
+																<String>&lt;lb xmlns="http://www.tei-c.org/ns/1.0" n="${ask(
+  'line number:', 
+  generic,
+  ' ${xpath_eval(xs:integer(following::l[1]/preceding::lb[1]/@n+1))}  '   )}"/></String>
 															</entry>
 															<entry>
 																<String>insertLocation</String>
@@ -3026,7 +3029,10 @@ else ancestor::w</String>
 														<serializableOrderedMap>
 															<entry>
 																<String>fragment</String>
-																<String>&lt;lb xmlns="http://www.tei-c.org/ns/1.0" n="${ask('line number:',generic,(),'${xpath_eval(xs:integer(following::l[1]/preceding::lb[1]/@n+1))}')}"/></String>
+																<String>&lt;lb xmlns="http://www.tei-c.org/ns/1.0" n="${ask(
+  'line number:', 
+  generic,
+  ' ${xpath_eval(xs:integer(following::l[1]/preceding::lb[1]/@n+1))}  '   )}"/></String>
 															</entry>
 															<entry>
 																<String>insertLocation</String>
