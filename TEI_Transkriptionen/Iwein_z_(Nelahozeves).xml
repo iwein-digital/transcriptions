@@ -6021,7 +6021,7 @@
                     <l n="3090"><lb n="24"/><w><hi rendition="hc:RedStroke"><choice><orig>J</orig><reg>I</reg></choice></hi>m</w><w>begund</w><w>ain</w><w>ſolich</w><w>rúwe</w></l>
                 </lg>
                 <lg>
-                    <l n="3091"><lb n="25"/><w><hi rendition="hc:RedStroke">D</hi>o</w><w>er</w><w>ſin</w><w>ſelbs</w><w>geſaſz</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w><choice><choice><orig>u</orig><reg>v</reg></choice><am>&#x035B;</am><ex>ver</ex></choice>gaſz</w></l>
+                    <l n="3091"><lb n="25"/><w><hi rendition="hc:RedStroke">D</hi>o</w><w>er</w><w>ſin</w><w>ſelbs</w><w>geſaſz</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w><choice><orig>u</orig><reg>v</reg></choice><choice><am>&#x035B;</am><ex>er</ex></choice>gaſz</w></l>
                     <l n="3092"><lb n="26"/><w><hi rendition="hc:RedStroke"><choice><orig>V</orig><reg>U</reg></choice></hi>nd</w><w>alles</w><w>ſchwigen</w><w>geſaſz</w></l>
                 </lg>
                 <lg>
@@ -6571,7 +6571,6 @@
                 <lg>
                     <l n="3423"><lb n="12"/><w>Wa<choice><am>n̄</am><ex>nn</ex></choice></w><w>ich</w><w>noch</w><w>ain</w><w>ſalb</w><w>han</w></l>
                     <l n="3424"><lb n="13"/><w>Die</w><w>dú</w><w>frow</w><w>from urgran</w></l>
-                    <!--É unha separación indebida? (fromurgran, feimorgana?) Fixen ben o 'join'?  FIXÉCHELO BEN, pero estaba mal: o JOIN úsase para marcar que dúas palabras están no ms. escritas xuntas. Para indicar que unha única palabra leva unha separación simplesmente poñemos un espazo sen cambiar de palabra. Para que o entendas: coas etiquetas <w> marcamos palabras lingüísticas. Por iso se pon 'zestund' (abajo, v. 3429) nosotros etiquetamos 'ze stund', pero para indicar que no ms. vai escrito xunto poñemos o <join>. Telo correcto no 'in+dem' do v. 3458!!-->
                 </lg>
                 <lg>
                     <l n="3425"><lb n="14"/><w>Machet</w><w>mit</w><w>ir</w><w>hand</w></l>
@@ -6595,7 +6594,6 @@
                 </lg>
                 <lg>
                     <l n="3435"><lb n="24"/><w>Vil</w><w>kom</w><w>in</w><w>ainer</w><w>mile</w></l>
-                    <!--Non sei como poñer esta 'o' rara baixo 'kom'   NA, ISO É QUE SE EQUIVOCOU E FIXO A 'O' ASÍ...    -->
                     <l n="3436"><lb n="25"/><w>Do</w><w>ward</w><w>zuͦ</w><w>der</w><w>ſelben</w><w>wile</w></l>
                 </lg>
                 <lg>
@@ -6629,7 +6627,6 @@
                 </lg>
                 <lg>
                     <l n="3451"><lb n="4"/><w>Wider</w><w>braͤchte</w><w>das</w><w>ander</w><w>tail</w></l>
-                    <!--está ben resolto? o del para referirse a 'e' above. NON: aquí hai dúas cousas. 1) se isto está tachado ou non: a mín paréceme que se lle correu a tinta, que é máis borrón que tachado, un tachado ten unha raia que atraviesa a letra. Polo tanto, para mín é unha 'e' superposta. 2) Se estivera tachada, terías que codificar "a<del>ͤ</del>", é dicir que dentro do <del> só iría a 'e' superposta. Iso logo non se ve no modo Author (ou só se amplías moito a letra).-->
                     <l n="3452"><lb n="5"/><w>Das</w><w>wurd</w><w>menges</w><w>mannes</w><w>hail</w></l>
                 </lg>
                 <lg>
@@ -6652,20 +6649,15 @@
                 <lg>
                     <l n="3461"><lb n="14"/><w>Das</w><w>vil</w><w>hart</w><w>ſanft</w><w>truͦg</w></l>
                     <l n="3462"><lb n="15"/><w>Der</w><w>zom</w><w>was</w><w>rich</w><w>gnuͦg</w></l>
-                    <!--Revisado Victor 5/2/2021 – Moi ben!! Repasa estes catro comentarios que te deixei arriba. Vas gañando soltura claramente. Confío en que ti tamén o notes e que pouco a pouco vaia aprendendo a usar as abreviaturas de teclado (p.ex. para as abreviaturas, para a regularización, para a 'o' superposta, etc.), que te van facilitar a vida.
-
-Faltan versos de 3463 a 3466-->
                 </lg>
                 <lg>
-                    <l n="3467"><lb n="16"/><metamark ana="hc:CueInitial ">d</metamark><w><supplied><hei:initial ana="hc:Lombard" hei:heightLines="2">D</hei:initial></supplied>Z</w><w>ſú</w><w>in</w><w>ligend</w><w>ſach</w><w>als</w><w>eͤ</w></l>
-                    <l n="3468"><lb n="17"/><w>Da</w><w>entwalt</w><w>ſú</w><w>in</w><w>nit</w><w>me</w></l>
-                    <!--a grafía despois da 'd' inexistente non é unha 'z'? aquí non sei resolver ben
-
-Faltan versos de 3469 a 3470     -->
+                    <l n="3467"><lb n="16"/><metamark ana="hc:CueInitial ">d</metamark><w><supplied><hei:initial ana="hc:Lombard" hei:heightLines="2">D</hei:initial></supplied>A</w><w>ſú</w><w>in</w><w>ligend</w><w>ſach</w><w>als</w><w>eͤ</w></l>
+                    <l n="3468"><lb n="17"/><w>Da</w><w join="right">en</w><w join="left">twalt</w><w>ſú</w><w>in</w><w>nit</w><w>me</w></l>
+                    <!--a grafía despois da 'd' inexistente non é unha 'z'? aquí non sei resolver ben. NON, É UNHA 'A' MAIÚSCULA-->
                 </lg>
                 <lg>
                     <l n="3471"><lb n="18"/><w><choice><orig>V</orig><reg>U</reg></choice>nd</w><w>ſchlaich</w><w>zuͦ</w><w>im</w><w>ſo</w><w>liſe</w><w>dar</w></l>
-                    <l n="3472"><lb n="19"/><w>Das</w><w>er</w><w>ir</w><w>mit</w><w>ward</w><w>gewar</w></l>
+                    <l n="3472"><lb n="19"/><w>Das</w><w>er</w><w>ir</w><w>nit</w><w>ward</w><w>gewar</w></l>
                 </lg>
                 <lg>
                     <l n="3473"><lb n="20"/><w><choice><orig>V</orig><reg>U</reg></choice>ntz</w><w>ſú</w><w>in</w><w>allenthalb</w><w>beſtraich</w></l>
@@ -6683,8 +6675,7 @@ Faltan versos de 3469 a 3470     -->
                 </lg>
                 <lg>
                     <l n="3479"><lb n="26"/><w>Das</w><w>ſú</w><w>das</w><w>alſo</w><w>lang</w><w>traib</w></l>
-                    <l n="3480"><lb n="27"/><w><choice><orig>V</orig><reg>U</reg></choice>ntz</w><w>in</w><w>der</w><w>búctſſz</w><w>mitz</w><w>belaib</w></l>
-                    <!--faltan versos de 3481 a 3502     -->
+                    <l n="3480"><lb n="27"/><w><choice><orig>V</orig><reg>U</reg></choice>ntz</w><w>in</w><w>der</w><w>búchſz</w><w>nútz</w><w>belaib</w></l>
                 </lg>
                 <lg>
                     <l n="3503"><lb n="28"/><w><choice><orig>V</orig><reg>U</reg></choice>nd</w><w><choice><orig>v</orig><reg>u</reg></choice>ntz</w><w>in</w><w>der</w><w>ſalb</w><w>engieng</w></l>
@@ -6692,52 +6683,59 @@ Faltan versos de 3469 a 3470     -->
                 </lg>
                 <lg>
                     <l n="3505"><lb n="30"/><w>Do</w><w>er</w><w>ſich</w><w>uff</w><w>richte</w></l>
-                    <l n="3506"><lb n="31"/><w><choice><orig>V</orig><reg>U</reg></choice>nd</w><w>ſich</w><w>ſelber</w><w>er</w><w>do</w><w>ſprach</w></l>
+                    <l n="3506"><lb n="31"/><w><choice><orig>V</orig><reg>U</reg></choice>nd</w><w>ſich</w><w>ſelb</w><w join="right">an</w><w join="left">geblickte</w></l>
                 </lg>
                 <lg>
-                    <l n="3507"><lb n="32"/><w join="right">Biſ</w><w join="left">tu</w><w>es</w><w>her</w><w>ywim</w><w>oder</w><w>wer</w></l>
+                    <l n="3507"><lb n="32"/><w><choice><orig>V</orig><reg>U</reg></choice>nd</w><w>ſich</w><w>ſo</w><w>grúlich</w><w>ſach</w></l>
+                    <l n="3508"><lb n="33"/><w>Wider</w><w>ſich</w><w>ſelber</w><w>er</w><w>do</w><w>ſprach</w></l>
+                </lg>
+                <lg>
+                    <l n="3509"><lb n="34"/><w join="right">Biſ</w><w join="left">tu</w><w>es</w><w>her</w><w>ywin</w><w>oder</w><w>wer</w></l>
                     <pb n="350"/>
                     <cb n="a"/>
-                    <l n="3508"><lb n="1"/><w>Hauſt</w><w>du</w><w>geſchlauffen</w><w><choice><orig>v</orig><reg>u</reg></choice>ntz</w><w>her</w> </l>
+                    <l n="3510"><lb n="1"/><w>Hauſt</w><w>du</w><w>geſchlauffen</w><w><choice><orig>v</orig><reg>u</reg></choice>ntz</w><w>her</w></l>
                 </lg>
                 <lg>
-                    <l n="3509"><lb n="2"/><w>Wauffen</w><w>here</w><w>wauffen</w></l>
-                    <!--como se interpreta a raia sobre a 'r'?     -->
-                    <l n="3510"><lb n="3"/><w>Soͤlt</w><w>ich</w><w>de<choice><am>n̄</am><ex>nn</ex></choice></w><w>y<choice><am>m̄</am><ex>mm</ex></choice>er</w><w>ſchlauffen</w></l>
+                    <l n="3511"><lb n="2"/><w>Wauffen</w><w>he<choice><am>r͛</am><ex>rr</ex></choice>e</w><w>wauffen</w></l>
+                    <!--como se interpreta a raia sobre a 'r'?   É UNHA ABREVIATURA 'R –> RR'-->
+                    <l n="3512"><lb n="3"/><w>Soͤlt</w><w>ich</w><w>de<choice><am>n̄</am><ex>nn</ex></choice></w><w>y<choice><am>m̄</am><ex>mm</ex></choice>er</w><w>ſchlauffen</w></l>
                 </lg>
                 <lg>
-                    <l n="3511"><lb n="4"/><w>Wa<choice><am>n̄</am><ex>nn</ex></choice></w><w>mir</w><w>het</w><w>min</w><w>trum</w><w>geben</w></l>
-                    <l n="3512"><lb n="5"/><w>Zin</w><w>hart</w><w>ritterliches</w><w>leben</w></l>
-                    <!--o 'zin' é deducción miña, non a vexo clara     -->
+                    <l n="3513"><lb n="4"/><w>Wa<choice><am>n̄</am><ex>nn</ex></choice></w><w>mir</w><w>het</w><w>min</w><w>trum</w><w>geben</w></l>
+                    <l n="3514"><lb n="5"/><w>Ain</w><w>hart</w><w>ritterliches</w><w>leben</w></l>
+                    <!--o 'zin' é deducción miña, non a vexo clara     É UNHA 'A'-->
                 </lg>
                 <lg>
-                    <l n="3513"><lb n="6"/><w>Owe</w><w>was</w><w>ich</w><w>do</w><w>eren</w><w>pflag</w></l>
-                    <l n="3514"><lb n="7"/><w>Die</w><w>will</w><w>ich</w><w>ſchlaffend</w><w>lag</w></l>
+                    <l n="3515"><lb n="6"/><w>Owe</w><w>was</w><w>ich</w><w>do</w><w>eren</w><w>pflag</w></l>
+                    <l n="3516"><lb n="7"/><w>Die</w><w>will</w><w>ich</w><w>ſchlaffend</w><w>lag</w></l>
                 </lg>
                 <lg>
-                    <l n="3515"><lb n="8"/><w>Mir</w><w>hett</w><w>getrumet</w><w>groſſe</w><w>tugend</w></l>
-                    <l n="3516"><lb n="9"/><w><choice><orig>J</orig><reg>I</reg></choice>ch</w><w>hett</w><w>geburt</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>iugend</w></l>
+                    <l n="3517"><lb n="8"/><w>Mir</w><w>hett</w><w>getrumet</w><w>groſſe</w><w>tugend</w></l>
+                    <l n="3518"><lb n="9"/><w><choice><orig>J</orig><reg>I</reg></choice>ch</w><w>hett</w><w>geburt</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w><choice><orig>i</orig><reg>j</reg></choice>ugend</w></l>
                 </lg>
                 <lg>
-                    <l n="3517"><lb n="10"/><w><choice><orig>J</orig><reg>I</reg></choice>ch</w><w>was</w><w>ſchoͤn</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>rich</w></l>
-                    <l n="3518"><lb n="11"/><w>Diſem</w><w>leben</w><w><choice><orig>v</orig><reg>u</reg></choice>ngelich</w></l>
+                    <l n="3519"><lb n="10"/><w><choice><orig>J</orig><reg>I</reg></choice>ch</w><w>was</w><w>ſchoͤn</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>rich</w></l>
+                    <l n="3520"><lb n="11"/><w>Diſem</w><w>leben</w><w><choice><orig>v</orig><reg>u</reg></choice>ngelich</w></l>
                 </lg>
                 <lg>
-                    <l n="3519"><lb n="12"/><w><choice><orig>J</orig><reg>I</reg></choice>ch</w><w>was</w><w>húpſch</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>wiſz</w></l>
-                    <l n="3520"><lb n="13"/><w><choice><orig>V</orig><reg>U</reg></choice>nd</w><w>han</w><w>mit</w><w>manhait</w><w>briſz</w></l>
+                    <l n="3521"><lb n="12"/><w><choice><orig>J</orig><reg>I</reg></choice>ch</w><w>was</w><w>húpſch</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>wiſz</w></l>
+                    <l n="3522"><lb n="13"/><w><choice><orig>V</orig><reg>U</reg></choice>nd</w><w>han</w><w>mit</w><w>manhait</w><w>briſz</w></l>
                 </lg>
                 <lg>
-                    <l n="3521"><lb n="14"/><w>Zuͦ</w><w>ritter</w><w>ſchaft</w><w>beiaget</w></l>
-                    <l n="3522"><lb n="15"/><w>Het</w><w>mir</w><w>min</w><w>trum</w><w>nit</w><w>ſchwert</w> </l>
-                    <!--Faltan versos 3525 y 3526     -->
+                    <l n="3523"><lb n="14"/><w>Zuͦ</w><w>ritter ſchaft</w><w>be<choice><orig>i</orig><reg>j</reg></choice>aget</w></l>
+                    <l n="3524"><lb n="15"/><w>Het</w><w>mir</w><w>min</w><w>trum</w><w>nit</w><w>miſſaget</w> </l>
+                    <!--Faltan versos 3525 y 3526   NON, NON FALTAN, ES TI QUEN SE SALTOU ESES VERSOS! :–D-->
+                </lg>
+                <lg>
+                    <l n="3525"><lb n="16"/><w><choice><orig>J</orig><reg>I</reg></choice>ch</w><w>be<choice><orig>i</orig><reg>j</reg></choice>agt</w><w>wes</w><w>ich</w><w>gert</w></l>
+                    <l n="3526"><lb n="17"/><w>Mit</w><w>ſper</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>mit</w><w>ſchwert</w></l>
                 </lg>
                 <lg>
                     <l n="3527"><lb n="16"/><w>Mir</w><w>erfacht</w><w>min</w><w>hand</w></l>
                     <l n="3528"><lb n="17"/><w>Ain</w><w>kúngin</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>ain</w><w>land</w></l>
-                    <!--Faltan versos de 3529 a 3548     -->
                 </lg>
                 <lg>
-                    <l n="3549"><lb n="18"/><metamark ana="hc:CueInitial ">t</metamark><w><supplied><hei:initial ana="hc:Lombard" hei:heightLines="2">T</hei:initial></supplied>rom</w><w>wie</w><w>wunderlichen</w><w>du</w><w>biſt</w></l>
+                    <l n="3549"><lb n="18"/><metamark ana="hc:CueInitial ">t</metamark><w><supplied><hei:initial ana="hc:Lombard" hei:heightLines="2">T</hei:initial></supplied>rom</w><w>wie</w><w>wund<choice><am>e͛</am><ex>er</ex></choice>lichen</w><w>du</w><w>biſt</w></l>
                     <l n="3550"><lb n="19"/><w>Du</w><w>macheſt</w><w>rich</w><w>in</w><w>kurtzer</w><w>friſt</w></l>
                 </lg>
                 <lg>
@@ -6749,23 +6747,25 @@ Faltan versos de 3469 a 3470     -->
                     <l n="3554"><lb n="23"/><w>So</w><w>heſt</w><w>du</w><w>in</w><w>gemachet</w></l>
                 </lg>
                 <lg>
-                    <l n="3555"><lb n="24"/><w>Zin</w><w>toren</w><w>als</w><w>ich</w></l>
+                    <l n="3555"><lb n="24"/><w>Ain</w><w>toren</w><w>als</w><w>ich</w></l>
                     <l n="3556"><lb n="25"/><w>Zwär</w><w>ſo</w><w>verſich</w><w>ich</w><w>mich</w></l>
                 </lg>
                 <lg>
-                    <l n="3557"><lb n="26"/><w>Wie</w><w>ſchwartz</w><w>ain</w><w>bur</w><w>ich</w><w>ſy</w></l>
-                    <!--mesmo problema que en V. 3509     -->
-                    <l n="3558"><lb n="27"/><w>Wer</w><w>ich</w><w>noch</w><w>ritter</w> ſchaft<w>by</w></l>
-                    <!--non sei pq me pon 'nicht tokenisiert', non recoñezo o erro     -->
+                    <l n="3557"><lb n="26"/><w>Wie</w><w>ſchwartz</w><w>ain</w><w>bu<choice><am>r͛</am><ex>re</ex></choice></w><w>ich</w><w>ſy</w></l>
+                    <!--mesmo problema que en V. 3509   O MESMO, SÓ QUE EN LUGAR DE RESOLVER 'R –> RR' AQUÍ RESOLVEMOS 'R –> RE'-->
+                    <l n="3558"><lb n="27"/><w>Wer</w><w>ich</w><w>noch</w><w>ritterſchaft</w><w>by</w></l>
+                    <!--non sei pq me pon 'nicht tokenisiert', non recoñezo o erro  ISTO TE VAI SAÍR SEMPRE QUE POÑAS LETRAS FÓRA DA ETIQUETA <w>, é dicir fóra do token. É un aviso para que non nos queden letras fóra das palabras.  -->
                 </lg>
                 <lg>
-                    <l n="3559"><lb n="28"/><w><choice><orig>V</orig><reg>U</reg></choice>nd</w><w>mer</w><w>gewauffet</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>geritten</w></l>
+                    <l n="3559"><lb n="28"/><w><choice><orig>V</orig><reg>U</reg></choice>nd</w><w>wer</w><w>gewauffet</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>geritten</w></l>
                     <l n="3560"><lb n="29"/><w><choice><orig>J</orig><reg>I</reg></choice>ch</w><w>kúnd</w><w>nach</w><w>ritterlichen</w><w>ſitten</w></l>
+                    <!--Revisado Victor 8/2/2021 – CANDO O COPISTA se salta versos, tes que quitar tamén do arquivo os versos con eses números, para que o resto de versos coincidan cos que levan o mesmo número na edición de Lachmann     -->
                 </lg>
                 <lg>
                     <l n="3561"><lb/><w/><w/><w/><w/><w/><w/></l>
                     <l n="3562"><lb/><w/><w/><w/><w/><w/><w/></l>
                 </lg>
+                <cb n="b"/>
                 <lg>
                     <l n="3563"><lb/><w/><w/><w/><w/><w/><w/></l>
                     <l n="3564"><lb/><w/><w/><w/><w/><w/><w/></l>
