@@ -6058,7 +6058,6 @@
                 <lg>
                     <l n="3003"><lb n="4"/><w><hi rendition="hc:RedStroke"><choice><orig>V</orig><reg>U</reg></choice></hi><choice><am>n̄</am><ex>nd</ex></choice></w><w>ſeit</w><w>ſi</w><w>mändleichs</w><w>h<choice><am>r͛</am><ex>er</ex></choice>cze</w><w>hat</w></l>
                     <l n="3004"><lb n="5"/><w><hi rendition="hc:RedStroke">ſ</hi>o</w><w><choice><orig>v̈</orig><reg>ü</reg></choice>bt</w><w>ſi</w><w>pilleich</w><w>mändleich</w><w>tat</w></l>
-                    <!--Revisado Victor 10/2/2021 – Muy bien, Emilio: buen ritmo (3000 versos en mes y medio) y muy fiable     -->
                 </lg>
                 <lg>
                     <l n="3005"><lb n="6"/><w><hi rendition="hc:RedStroke"><choice><orig>V</orig><reg>U</reg></choice></hi><choice><am>n̄</am><ex>nd</ex></choice></w><w>mag</w><w>wol</w><w>turnier<choice><am>ē</am><ex>en</ex></choice></w><w>var<choice><am>n̄</am><ex>en</ex></choice></w></l>
@@ -6135,7 +6134,7 @@
                     <l n="3038"><lb n="15"/><w><hi rendition="hc:RedStroke">D</hi>er</w><w>Ritt<choice><am>s͛</am><ex>ers</ex></choice></w><w>nam<choice><am>ē</am><ex>en</ex></choice></w><w>ye</w><w>gewan</w></l>
                 </lg>
                 <lg>
-                    <l n="3039"><lb n="16"/><metamark ana="hc:InsertionMark ">+––</metamark><add hei:placeRef="hc:ColumnBottom"><metamark ana="hc:InsertionMark ">+</metamark><w>Enkalt</w><w>er</w><w>ſein</w><w>daz</w><w>waz</w><w>im</w><w>lait</w></add></l>
+                    <l n="3039"><lb n="16"/><metamark ana="hc:InsertionMark ">†–</metamark><add hei:placeRef="hc:ColumnBottom"><metamark ana="hc:ReferenceMark">†</metamark><w>Enkalt</w><w>er</w><w>ſein</w><w>daz</w><w>waz</w><w>im</w><w>lait</w></add></l>
                     <l n="3040"><lb n="17"/><w><hi rendition="hc:RedStroke">W</hi>annd</w><w>er</w><w>all</w><w>ſein</w><w>Arbait</w></l>
                 </lg>
                 <lg>
@@ -6343,14 +6342,13 @@
                 <lg>
                     <l n="3139"><lb n="16"/><w><hi rendition="hc:RedStroke">W</hi>i<choice><am>d͛</am><ex>der</ex></choice></w><w>euch</w><w>nicht</w><w>geniezz<choice><am>n̄</am><ex>en</ex></choice></w><w>chan</w></l>
                     <l n="3140"><lb n="17"/><w><hi rendition="hc:RedStroke">W</hi>anne</w><w>gedächt</w><w>ïr</w><w>doch</w><w>dar</w><w>an</w></l>
-                    <!--Falta el pareado V. 3141s.     -->
                 </lg>
                 <lg>
                     <l n="3143"><lb n="18"/><w><hi rendition="hc:RedStroke">C</hi>zu</w><w>welh<choice><am>n̄</am><ex>en</ex></choice></w><w>ſtatt<choice><am>n̄</am><ex>en</ex></choice></w><w>ich</w><w>euch</w><w>cham</w></l>
                     <l n="3144"><lb n="19"/><w><hi rendition="hc:RedStroke">D</hi>o</w><w>ich</w><w>euch</w><w>von</w><w>dem</w><w>töd</w><w>nam</w></l>
                 </lg>
                 <lg>
-                    <l n="3145"><lb n="20"/><w><hi rendition="hc:RedStroke">E</hi>z</w><w>wär</w><w>vmb</w><w>euch</w><w>ergang<choice><am>n̄</am><ex>en</ex></choice></w></l>
+                    <l n="3145"><lb n="20"/><w><hi rendition="hc:RedStroke">E</hi>z</w><w>wär</w><w><choice><orig>v</orig><reg>u</reg></choice>mb</w><w>euch</w><w>ergang<choice><am>n̄</am><ex>en</ex></choice></w></l>
                     <l n="3146"><lb n="21"/><w><hi rendition="hc:RedStroke">H</hi>iet</w><w join="right">ich</w><w join="left">s</w><w>nicht</w><w><choice><orig>v</orig><reg>u</reg></choice>n<choice><am>d͛</am><ex>der</ex></choice><choice><orig>u</orig><reg>v</reg></choice>ang<choice><am>n̄</am><ex>en</ex></choice></w></l>
                 </lg>
                 <lg>
@@ -6427,6 +6425,7 @@
                 <lg>
                     <l n="3179"><lb n="7"/><w><hi rendition="hc:RedStroke">D</hi>az</w><w>ni<choice><am>m͛̄</am><ex>mmer</ex></choice></w><w>wol</w><w>ein</w><w>frum</w><w>man</w></l>
                     <l n="3180"><lb n="8"/><w><hi rendition="hc:RedStroke">A</hi>ne</w><w>trew</w><w><choice><am>w͛</am><ex>wer</ex></choice>d<choice><am>n̄</am><ex>en</ex></choice></w><w>chan</w></l>
+                    <!--Revisado Victor 12/02/2021     -->
                 </lg>
                 <lb n="9"/>
                 <label ana="hc:SummaryLabel"><hi hei:color="Red"><w>Wie</w><w>fraw</w><w>Lunet</w><w>hern</w><w>Ibein</w><w>ſei<choice><am>n͛</am><ex>ner</ex></choice></w></hi></label>
