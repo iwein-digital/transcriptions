@@ -6843,7 +6843,6 @@
                 <lg>
                     <l n="3375"><lb n="15"/><w><hi rendition="hc:RedStroke">I</hi>n</w><w>all<choice><am>n̄</am><ex>en</ex></choice></w><w>den</w><w>nachſt<choice><am>n̄</am><ex>en</ex></choice></w><w>land<choice><am>n̄</am><ex>en</ex></choice></w></l>
                     <l n="3376"><lb n="16"/><w join="right"><hi rendition="hc:RedStroke">D</hi>a</w><w join="left"><choice><orig>u</orig><reg>v</reg></choice><choice><am>ō</am><ex>on</ex></choice></w><w>ſi</w><w>in</w><w>ſnell</w><w>erchand<choice><am>n̄</am><ex>en</ex></choice></w></l>
-                    <!--Falta el pareado V. 3377s.     -->
                 </lg>
                 <lg>
                     <l n="3379"><lb n="17"/><w><hi rendition="hc:RedStroke"><choice><orig>V</orig><reg>U</reg></choice></hi><choice><am>n̄</am><ex>nd</ex></choice></w><w>auch</w><w>pey</w><w>ei<choice><am>n͛</am><ex>ner</ex></choice></w><w>wund<choice><am>n̄</am><ex>en</ex></choice></w></l>
@@ -7104,8 +7103,8 @@
                 </lg>
                 <lg>
                     <l n="3499"><lb n="14"/><w><hi rendition="hc:RedStroke">W</hi>and</w><w>er</w><w>ſich</w><w>ſcha<choice><am>m̄</am><ex>mm</ex></choice>en</w><w>wurd</w><w>ſo</w><w>ſere</w></l>
-                    <l n="3500"><lb n="15"/><w><hi rendition="hc:RedStroke">D</hi>az</w><w>er</w><w>mich</w><w join="right">ni<choice><am>m͛̄</am><ex>mmer</ex></choice></w><w join="left">mere</w></l>
-                    <!--En 'nimere' debería de haber una 'm' más; de lo contrario resolver las abreviaturas es harto complicado?     -->
+                    <l n="3500"><lb n="15"/><w><hi rendition="hc:RedStroke">D</hi>az</w><w>er</w><w>mich</w><w join="right">ni<choice><am>m͛̄</am><ex>mer</ex></choice></w><w join="left"><supplied>m</supplied>ere</w></l>
+                    <!--En 'nimere' debería de haber una 'm' más; de lo contrario resolver las abreviaturas es harto complicado?   DEIXEI UN 'ISSUE' NO GITLAB  -->
                 </lg>
                 <lg>
                     <l n="3501"><lb n="16"/><w><hi rendition="hc:RedStroke">W</hi>illichleich<choice><am>n̄</am><ex>en</ex></choice></w><w>an</w><w>geſicht</w></l>
@@ -7169,7 +7168,7 @@
                 </lg>
                 <lg>
                     <l n="3527"><lb n="18"/><w><hi rendition="hc:RedStroke">M</hi>ir</w><w>er<choice><orig>u</orig><reg>v</reg></choice>acht</w><w>mein</w><w>Aines</w><w>hant</w></l>
-                    <l n="3528"><lb n="19"/><w><hi rendition="hc:RedStroke">E</hi>in</w><w><choice><am>w͛</am><ex>wer</ex></choice>de</w><w>fra<choice><am>w̄</am><ex>wn</ex></choice></w><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>ein</w><w>reiches</w><w>l<choice><am>ā</am><ex>an</ex></choice>t</w></l>
+                    <l n="3528"><lb n="19"/><w><hi rendition="hc:RedStroke">E</hi>in</w><w><choice><am>w͛</am><ex>wer</ex></choice>de</w><w>fra<choice><am>w̄</am><ex>wen</ex></choice></w><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>ein</w><w>reiches</w><w>l<choice><am>ā</am><ex>an</ex></choice>t</w></l>
                 </lg>
                 <lg>
                     <l n="3529"><lb n="20"/><w><hi rendition="hc:RedStroke"><choice><orig>V</orig><reg>U</reg></choice></hi>nd</w><w>des</w><w>ich</w><w>dar</w><w>nach</w><w>phlag</w></l>
@@ -7198,7 +7197,7 @@
                 </lg>
                 <lg>
                     <l n="3541"><lb n="8"/><w><hi rendition="hc:RedStroke">P</hi>in</w><w>ich</w><w>ſo</w><w>erwachet</w></l>
-                    <l n="3542"><lb n="9"/><w><hi rendition="hc:RedStroke">M</hi>ich</w><w>het</w><w>mein</w><del rendition="hc:Strikethrough"><w>hart</w></del><w>tra<choice><am>w̄</am><ex>wm</ex></choice></w><w>gemachet</w></l>
+                    <l n="3542"><lb n="9"/><w><hi rendition="hc:RedStroke">M</hi>ich</w><w>het</w><w>mein</w><supplied><del rendition="hc:Strikethrough"><w>hant</w></del><add hei:placeRef="hc:Inline"><w>tra<choice><am>w̄</am><ex>wm</ex></choice></w></add></supplied><w>gemachet</w></l>
                 </lg>
                 <lg>
                     <l n="3543"><lb n="10"/><w><hi rendition="hc:RedStroke">Z</hi>u</w><w>ein<choice><am>ē</am><ex>em</ex></choice></w><w>reich<choice><am>n̄</am><ex>en</ex></choice></w><w>h<choice><am>r͛</am><ex>err</ex></choice><choice><am>n̄</am><ex>en</ex></choice></w></l>
@@ -7209,8 +7208,7 @@
                     <l n="3546"><lb n="13"/><w><hi rendition="hc:RedStroke">E</hi>r</w><w>äffet</w><w>ſich</w><w>ſic<choice><am>h͛</am><ex>her</ex></choice></w><w>ane</w><w>nöt</w></l>
                 </lg>
                 <lg>
-                    <l n="3547"><lb n="14"/><w><hi rendition="hc:RedStroke">D</hi>er</w><w>ſich</w><w>an</w><w>trawme</w><w>cheret</w></l>
-                    <!--El borrón en trawme impide ver si es 'a' o 'e'??     -->
+                    <l n="3547"><lb n="14"/><w><hi rendition="hc:RedStroke">D</hi>er</w><w>ſich</w><w>an</w><w>tr<damage ana="hc:Overpainted">a</damage>wme</w><w>cheret</w></l>
                     <l n="3548"><lb n="15"/><w><hi rendition="hc:RedStroke"><choice><orig>V</orig><reg>U</reg></choice></hi><choice><am>n̄</am><ex>nd</ex></choice></w><w>iſt</w><w>wol</w><w>geuneret</w></l>
                 </lg>
                 <lg>
@@ -7261,11 +7259,11 @@
                 </lg>
                 <lg>
                     <l n="3569"><lb n="14"/><w><hi rendition="hc:RedStroke">M</hi>ich</w><w>hat</w><w>alhie</w><w>geleret</w></l>
-                    <l n="3570"><lb n="15"/><w><hi rendition="hc:RedStroke">M</hi>ein</w><w>Trawm</w><w>dez</w><w>pin</w><w>ich</w><w>geeret</w></l>
+                    <l n="3570"><lb n="15"/><w><hi rendition="hc:RedStroke">M</hi>ein</w><w><subst><del rendition="hc:Adapted">d</del><add rendition="hc:Adapted">T</add></subst>rawm</w><w>dez</w><w>pin</w><w>ich</w><w>geeret</w></l>
                 </lg>
                 <lg>
                     <l n="3571"><lb n="16"/><w><hi rendition="hc:RedStroke">M</hi>ag</w><w>ich</w><w>mïr</w><w>zu</w><w>harnaſch</w><w>chom<choice><am>ē</am><ex>en</ex></choice></w></l>
-                    <l n="3572"><lb n="17"/><w><hi rendition="hc:RedStroke">D</hi>er</w><w>trawm</w><w>hat</w><w>mïr</w><w>mein</w><w>recht</w><w part="I">be</w><metamark ana="hc:Hyphen ">=</metamark><metamark ana="hc:RunOverSign ">∫</metamark><lb ana="hc:DependentLine hc:RunOverLineAbove" n="17a"/><w part="F">nom<choice><am>ē</am><ex>en</ex></choice></w></l>
+                    <l n="3572"><lb n="17"/><w><hi rendition="hc:RedStroke">D</hi>er</w><w>trawm</w><w>hat</w><w>mïr</w><w>mein</w><w>recht</w><w part="I">be</w><metamark ana="hc:Hyphen ">=</metamark><metamark ana="hc:RunOverSign ">|</metamark><lb ana="hc:DependentLine hc:RunOverLineAbove" n="17a"/><w part="F">nom<choice><am>ē</am><ex>en</ex></choice></w></l>
                 </lg>
                 <lg>
                     <l n="3573"><lb n="18"/><w><hi rendition="hc:RedStroke">S</hi>wie</w><w>gar</w><w>ich</w><w>ein</w><w>pa<choice><am>w͛</am><ex>wer</ex></choice></w><w>pin</w></l>
@@ -7307,14 +7305,13 @@
                 <lg>
                     <l n="3589"><lb n="12"/><w><hi rendition="hc:RedStroke">I</hi>ch</w><w join="right">en</w><w join="left">ſich</w><w>hie</w><w>nyem<choice><am>ā</am><ex>an</ex></choice>t</w><w>dez</w><w>ſi</w><w>ſein</w></l>
                     <l n="3590"><lb n="13"/><w><hi rendition="hc:RedStroke">I</hi>ch</w><w>bedarff</w><w>ïr</w><w>wol</w><w>nu</w><w>ſei<choice><am>n̄</am><ex>nn</ex></choice></w><w>auch</w><w>me<choice><am>ī</am><ex>in</ex></choice></w></l>
-                    <!--Falta el pareado V. 3591s.     -->
                 </lg>
                 <lg>
                     <l n="3593"><lb n="14"/><w><hi rendition="hc:RedStroke">I</hi>ch</w><w>trüg</w><w>doch</w><w>neu<choice><am>l̄</am><ex>li</ex></choice>h</w><w>reich</w><w>gew<choice><am>ā</am><ex>an</ex></choice>t</w></l>
                     <l n="3594"><lb n="15"/><w><hi rendition="hc:RedStroke">A</hi>lſus</w><w>chlaitte</w><w>er</w><w>ſich</w><w>zu hant</w></l>
                 </lg>
                 <lg>
-                    <l n="3595"><lb n="16"/><metamark ana="hc:LineDelimiter "><hi rendition="hc:RedStroke">)</hi></metamark><w><hi rendition="hc:RedStroke">A</hi>ls</w><w>er</w><w>bedakcht</w><w>die</w><w>ſwarcz<choice><am>n̄</am><ex>en</ex></choice></w><w>leich</w></l>
+                    <l n="3595"><lb n="16"/><w><hi rendition="hc:RedStroke">A</hi>ls</w><w>er</w><w>bedakcht</w><w>die</w><w>ſwarcz<choice><am>n̄</am><ex>en</ex></choice></w><w>leich</w></l>
                     <l n="3596"><lb n="17"/><w><hi rendition="hc:RedStroke">D</hi>o</w><w>ward</w><w>er</w><w>harte</w><w>Rit<choice><am>t͛</am><ex>ter</ex></choice><choice><am>l̄</am><ex>li</ex></choice>h</w></l>
                 </lg>
                 <lg>
@@ -7346,6 +7343,7 @@
                 <lg>
                     <l n="3609"><lb n="6"/><w><hi rendition="hc:RedStroke">N</hi>icht</w><w>auf</w><w>mochte</w><w>ſtan</w></l>
                     <l n="3610"><lb n="7"/><w><hi rendition="hc:RedStroke">A</hi>ls</w><w>er</w><w>es</w><w><choice><am>g͛</am><ex>ger</ex></choice>ne</w><w>het</w><w>getan</w></l>
+                    <!--Revisado Victor 14/2/2021     -->
                 </lg>
                 <lg>
                     <l n="3611"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
