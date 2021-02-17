@@ -10089,8 +10089,7 @@
                 </lg>
                 <cb n="b"/>
                 <lg>
-                    <l n="5007"><lb n="1"/><w><supplied><hei:initial ana="hc:Lombard" hei:heightLines="4">D</hei:initial></supplied></w><w>antwurt</w><w>im</w><w>her</w><w>Ybein</w><w>alſo</w></l>
-                    <!--A primeira letra descolócame un pouco. Paréceme unha D, pero entón non sei que maiúscula falta no supplied.    -->
+                    <l n="5007"><lb n="1"/><w><supplied><hei:initial ana="hc:Lombard" hei:heightLines="4">D</hei:initial></supplied><hi rendition="hc:Cadel">O</hi></w><w>antwurt</w><w>im</w><w>her</w><w>Ybein</w><w>alſo</w></l>
                     <l n="5008"><lb n="2"/><w>Ey</w><w>ritter</w><w>was</w><w>taug</w><w>dy</w><w>dro</w></l>
                 </lg>
                 <lg>
@@ -10102,9 +10101,8 @@
                     <l n="5012"><lb n="6"/><w>Laſt</w><w>ſchelltn</w><w><choice><orig>v</orig><reg>u</reg></choice>ngetzognew</w><w>beib</w></l>
                 </lg>
                 <lg>
-                    <l n="5013"><lb n="7"/><w>Dy</w><w>ſüllen</w><w>nit</w><w>rechtn</w><w>ane</w><w>ſpot</w></l>
+                    <l n="5013"><lb n="7"/><w>Dy</w><w>ſüllen</w><w>nit</w><w>vechtn</w><w>ane</w><w>ſpot</w></l>
                     <l n="5014"><lb n="8"/><w><choice><orig>V</orig><reg>U</reg></choice>nd</w><w>wil</w><w>es</w><w><choice><orig>v</orig><reg>u</reg></choice>nſer</w><w>herre</w><w>got</w></l>
-                    <!--Estes versos varían un pouco en comparación cos do Lachmann e cambian a rima. Consideraríanse versos novos?     -->
                 </lg>
                 <lg>
                     <l n="5015"><lb n="9"/><w>Nach</w><w>rechtm</w><w>richte</w><w>pflegn</w></l>
@@ -10115,7 +10113,7 @@
                     <l n="5018"><lb n="12"/><w>Sein</w><w>ſterck</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>ſein</w><w>manhait</w></l>
                 </lg>
                 <lg>
-                    <l n="5019"><lb n="13"/><w>Was</w><w>im</w><w>zewer</w><w>tocht</w></l>
+                    <l n="5019"><lb n="13"/><w>Was</w><w>im</w><w join="right">ze</w><w join="left">wer</w><w>tocht</w></l>
                     <l n="5020"><lb n="14"/><w><choice><orig>V</orig><reg>U</reg></choice>nd</w><w>wer</w><w>im</w><w>geſchadn</w><w>mocht</w></l>
                 </lg>
                 <lg>
@@ -10124,12 +10122,11 @@
                 </lg>
                 <lg>
                     <l n="5023"><lb n="17"/><w>Des</w><w>frewdt</w><w>ſich</w><w>her</w><w>Ybein</w></l>
-                    <l n="5024"><lb n="18"/><w>Das</w><w>er</w><w>ſi</w><w><choice><orig>v</orig><reg>u</reg></choice>n gewappend</w><w>ſchain</w></l>
+                    <l n="5024"><lb n="18"/><w>Das</w><w>er</w><w>ſo</w><w><choice><orig>v</orig><reg>u</reg></choice>n gewappend</w><w>ſchain</w></l>
                 </lg>
                 <lg>
                     <l n="5025"><lb n="19"/><w>Mit</w><w>guetn</w><w>witzn</w><w>ſlueg</w><w>er</w></l>
                     <l n="5026"><lb n="20"/><w><choice><orig>V</orig><reg>U</reg></choice>ntter</w><w>den</w><w>arm</w><w>das</w><w>ſper</w></l>
-                    <!--Faltan versos 5027-5028     -->
                 </lg>
                 <lg>
                     <l n="5029"><lb n="21"/><w><choice><orig>V</orig><reg>U</reg></choice>nd</w><w>ſtach</w><w>im</w><w>ainen</w><w>ſolchen</w><w>ſtich</w></l>
@@ -10185,6 +10182,7 @@
                 </lg>
                 <lg>
                     <l n="5055"><lb n="47"/><w>Von</w><w>der</w><w>agſel</w><w>her</w><w>abe</w></l>
+                    <!--Revisado Victor 17/2/2021     -->
                     <pb n="84v"/>
                     <cb n="a"/>
                     <l n="5056"><lb/><w/><w/><w/><w/><w/><w/></l>
