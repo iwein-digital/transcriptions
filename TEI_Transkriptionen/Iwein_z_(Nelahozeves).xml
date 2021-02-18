@@ -6780,7 +6780,6 @@
                 <lg>
                     <l n="3572"><lb n="7"/><w>Der</w><w>trom</w><w>het</w><w>mir</w><w>min</w><w>recht</w><w>benomen</w></l>
                     <l n="3571"><lb n="8"/><w>Mag</w><w>ich</w><w>tze</w><w>harnaſch</w><w>komen</w></l>
-                    <!--Versos intercambiados!!! ocurríuseme cambiar o 'lb' pero imaxino que haberá outra cousa máis específica... agora hai que ir a modiño que o copista está algo alegre! salta versos, intercambiaos... non tomaría una copiña de máis? xD    É UNHA OPCIÓN, PERO EN PRINCIPIO MANTEMOS A SECUENCIA DO MANUSCRITO (é dicir das <lb>, non das <l>), de xeito que compre cambiar o número de verso (ctrl+may+V). Márcame, como aquí, tamén os versos intercambiados, porque o anoto todo no meu Excel-->
                 </lg>
                 <lg>
                     <l n="3573"><lb n="9"/><w>Wie</w><w>ſchwartz</w><w>ain</w><w>bur</w><w>ich</w><w>bin</w></l>
@@ -6808,9 +6807,7 @@
                 </lg>
                 <lg>
                     <l n="3585"><lb n="21"/><w>Ain halb</w><w>by</w><w>im</w><w>ligen</w><w>ſach</w></l>
-                    <!--creo que é unha 'b' pero non estou segura     CORRECTO-->
                     <l n="3586"><lb n="22"/><w>Des</w><w>wundert</w><w>in</w><w>ſe<choice><am>r͛</am><ex>re</ex></choice></w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>ſprach</w></l>
-                    <!--está ben a resolución da 'r'? ou sería 're'?   NON, 'SER' NUNCA É CON 'R' FORTE, POR ISO RESOLVERÍA A 'RE'. PERO SOBRE TODO O QUE TES QUE FACER É POÑERLLE O GANCHIÑO, NON A MACRON  -->
                 </lg>
                 <lg>
                     <l n="3587"><lb n="23"/><w>Das</w><w>ſind</w><w>klaider</w><w>der</w><w>ich</w><w>genuͦg</w></l>
@@ -6853,7 +6850,6 @@
                 <lg>
                     <l n="3607"><lb n="7"/><w>Mit</w><w>groſſer</w><w>ſiechait</w></l>
                     <l n="3608"><lb n="8"/><w>Das</w><w>er</w><w>wol</w><w>geraitt</w></l>
-                    <!--     A esta 'i' dobre por erro púxenlle 'overpainted', ti que dirías?  PARA MIN É UNHA DOBLE 'T'-->
                 </lg>
                 <lg>
                     <l n="3609"><lb n="9"/><w>Nit</w><w><choice><orig>v</orig><reg>u</reg></choice>ff</w><w>mocht</w><w>geſta<choice><am>n̄</am><ex>nn</ex></choice></w></l>
@@ -6870,7 +6866,6 @@
                 <lg>
                     <l n="3615"><lb n="15"/><w>Do</w><w>kert</w><w>ſú</w><w>ſich</w><w>ſo</w></l>
                     <l n="3616"><lb n="16"/><w><choice><orig>V</orig><reg>U</reg></choice>nd</w><w>antwúrt</w><w>im</w><w>do</w></l>
-                    <!--a 'I' de'im' é moooi imaxinaria, pero se non, que é?  POIS ISO, TI O DIS! ASÍ QUE: CORRECTO!-->
                 </lg>
                 <lg>
                     <l n="3617"><lb n="17"/><w>Sú</w><w>ſprach</w><w>wer</w><w>ruͤft</w><w>mir</w><w>wer</w></l>
@@ -6911,11 +6906,6 @@
                 <lg>
                     <l n="3635"><lb n="35"/><w>So</w><w>taͤtend</w><w>ir</w><w>mir</w><w>hart</w><w>wol</w></l>
                     <l n="3636"><lb n="36"/><w><choice><orig>V</orig><reg>U</reg></choice>nd</w><w>verdien</w><w>es</w><w>ymmer</w><w>wie</w><w>ich</w><w>ſol</w></l>
-                    <!--'b' ou 'd' en 'berdien'? É UNHA 'V', UN POUCO MAL FEITA, PERO UNHA 'V'
-como engades unha nova 'w'? pq eu vou ao text pero seguro q é máis fácil q iso: SÍ: MAY+ENTER (ou a través de "Insert Tags")
-grazas polos teus ánimos! espero non facerche perder moito tempo...    QUÉ VA!
-UNHA COUSA: Cando o copista escribe 2 palabras xuntas: antes correxín un caso no que as deixaras dentro da mesma etiqueta <w> pero cunha separación. Pero é ao revés: a etiqueta <w> non é descriptiva, senón semántica: decidimos qué vai nunha etiqueta polos nosos criterios lingüísticos. Así que si consideramos que son dúas palabras, metémolas en dúas etiqutas. Para indicar que están escritas xuntas temos o atributo "join". Se están separadas pero son unha mesma palabra (p.ex. un prefixo escrito con separación) etnón sí metémolas dentro da mesma <w> e poñemos o espazo.
-Revisado Victor 12/2/2021-->
                 </lg>
                 <cb n="b"/>
                 <lg>
@@ -7059,8 +7049,6 @@ Revisado Victor 12/2/2021-->
                 <lg>
                     <l n="3715"><lb n="33"/><w>Vil</w><w>nach</w><w>dar</w><w>waren</w><w>komen</w></l>
                     <l n="3716"><lb n="34"/><w>Nun</w><w>ward</w><w>der</w><w>muͦt</w><w>von</w><w>in</w><w>genomen</w></l>
-                    <!--bueno, grazas polo atallo pra facer unha 'w', facilitoume moito todo jejeje. A ver se agora din acertado cos 'join' e as separacións dentro dunha 'w', que tes razón e me liei con iso. É divertido! Dime calquera cousa que poida mellorar ;)  
-    Revisado Victor 16/2/2021 – NADA PARTICULAR QUE ENGADIR, está xa a moi alto nivel-->
                 </lg>
                 <cb n="b"/>
                 <lg>
@@ -7085,30 +7073,29 @@ Revisado Victor 12/2/2021-->
                 </lg>
                 <lg>
                     <l n="3727"><lb n="11"/><w>Das</w><w>man</w><w>dem</w><w>biderben</w><w>man</w><w>tuͦt</w></l>
-                    <l n="3728"><lb n="12"/><w>Sie</w><w>entruͦg</w><w>kain</w><w>das</w><w>guͦt</w></l>
+                    <l n="3728"><lb n="12"/><w>Sie</w><w join="right">en</w><w join="left">truͦg</w><w>kain</w><w>das</w><w>guͦt</w></l>
                 </lg>
                 <lg>
                     <l n="3729"><lb n="13"/><w>Das</w><w>ſie</w><w>an</w><w>in</w><w>hette</w><w>geleit</w></l>
-                    <l n="3730"><lb n="14"/><w>Wa<choice><am>n̄</am><ex>nn</ex></choice></w><w>ſin</w><w>ainig</w><w>maṅhait</w></l>
-                    <!--escapóuselle un punto sobre a 'n'?     -->
+                    <l n="3730"><lb n="14"/><w>Wa<choice><am>n̄</am><ex>nn</ex></choice></w><w>ſin</w><w>ainig</w><w>manhait</w></l>
+                    <!--escapóuselle un punto sobre a 'n'?   SI, -->
                 </lg>
                 <lg>
                     <l n="3731"><lb n="15"/><w>Dú</w><w>ſtaͤte</w><w>ſy</w><w><choice><orig>v</orig><reg>u</reg></choice>nſtaͤtiglich</w></l>
                     <l n="3732"><lb n="16"/><w>An</w><w>ainem</w><w>fu<del rendition="hc:Strikethrough">ͦ</del>rt</w><w>ſy</w><w>entwich</w></l>
-                    <!--faltan versos 3733-34     -->
+                    <!--faltan versos 3733-34    LO DE 'FURT' ES DE NOTA!! -->
                 </lg>
                 <lg>
                     <l n="3735"><lb n="17"/><w>Nun</w><w>wer</w><w>moͤchte</w><w>dú</w><w>ſper</w></l>
                     <l n="3736"><lb n="18"/><w>Alle</w><w>beratten</w><w>her</w></l>
                 </lg>
                 <lg>
-                    <l n="3737"><lb n="19"/><w>Dú</w><w>her</w><w>ywin</w><w>da<del rendition="hc:Strikethrough">r</del></w><w>bracht</w></l>
+                    <l n="3737"><lb n="19"/><w>Dú</w><w>her</w><w>ywin</w><w>da<del rendition="hc:Strikethrough">r</del></w><w>brach<del rendition="hc:Strikethrough">t</del></w></l>
                     <l n="3738"><lb n="20"/><w>Er</w><w>ſchluͦg</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>ſtach</w></l>
                 </lg>
                 <lg>
                     <l n="3739"><lb n="21"/><w><choice><orig>V</orig><reg>U</reg></choice>nd</w><w>do</w><w>die</w><w>ſine</w><w>alle</w></l>
                     <l n="3740"><lb n="22"/><w>Denne</w><w>mit</w><w>mengem</w><w>falle</w></l>
-                    <!--non estou seguro de 'denne'     -->
                 </lg>
                 <lg>
                     <l n="3741"><lb n="23"/><w>Muͤſen</w><w><choice><orig>v</orig><reg>u</reg></choice>nſtaͤtiglichen</w></l>
@@ -7120,7 +7107,7 @@ Revisado Victor 12/2/2021-->
                 </lg>
                 <lg>
                     <l n="3745"><lb n="27"/><w>Die</w><w>wurden</w><w>da</w><w>ane</w><w>zagen</w></l>
-                    <l n="3746"><lb n="28"/><w>All<choice><am>e͛</am><ex>ere</ex></choice></w><w>maiſt</w><w>erſchlagen</w></l>
+                    <l n="3746"><lb n="28"/><w>All<choice><am>e͛</am><ex>er</ex></choice></w><w>maiſt</w><w>erſchlagen</w></l>
                 </lg>
                 <lg>
                     <l n="3747"><lb n="29"/><w><choice><orig>V</orig><reg>U</reg></choice>nd</w><w>die</w><w>andern</w><w>gefangen</w></l>
@@ -7133,8 +7120,6 @@ Revisado Victor 12/2/2021-->
                 <lg>
                     <l n="3751"><lb n="33"/><w>Den</w><w>lob</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>den</w><w>briſz</w></l>
                     <l n="3752"><lb n="34"/><w>Er</w><w>wer</w><w>húbſch</w><w>byderb</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>wiſz</w></l>
-                    <!--resolvín como fixeras ti pero o lg de 3 versos... non convence, pero se logo cambia páx 
-faltan versos de 3753 a 58    -->
                 </lg>
                 <lg>
                     <l n="3752,1"><lb n="35"/><w><choice><orig>V</orig><reg>U</reg></choice>nd</w><w>ſie</w><w>des</w><w>alles</w><w>kaͤme</w></l>
@@ -7147,10 +7132,10 @@ faltan versos de 3753 a 58    -->
                 </lg>
                 <lg>
                     <l n="3761"><lb n="3"/><w>Gefangen</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>erſchlagen</w><w>ſin</w><w>he<choice><am>r͛</am><ex>re</ex></choice></w></l>
-                    <l n="3762"><lb n="4"/><w>Den nocht</w><w>entwoͤlt</w><w>er</w><w>zuͦ</w><w>wer</w></l>
+                    <l n="3762"><lb n="4"/><w>Dennocht</w><w>entwoͤlt</w><w>er</w><w>zuͦ</w><w>wer</w></l>
                 </lg>
                 <lg>
-                    <l n="3763"><lb n="5"/><w>Mit</w><w>ritterlichen</w><w>ſchalle</w><w>·craft</w></l>
+                    <l n="3763"><lb n="5"/><w>Mit</w><w>ritterlichen</w><w>ſchalle</w><metamark ana="hc:WordDivider "/><w>craft</w></l>
                     <l n="3764"><lb n="6"/><w><choice><orig>V</orig><reg>U</reg></choice>nd</w><w>taten</w><w>ſolich</w><w>ritterſchaft</w></l>
                 </lg>
                 <lg>
@@ -7183,10 +7168,10 @@ faltan versos de 3753 a 58    -->
                 </lg>
                 <lg>
                     <l n="3779"><lb n="21"/><w join="right"><choice><orig>J</orig><reg>I</reg></choice>n</w><w join="left">der</w><w>frowen</w><w>gewalt</w></l>
-                    <l n="3780"><lb n="22"/><w>Die</w><w>ſin</w><w>da</w><w>vor</w><w>dick</w><w>engalt</w></l>
+                    <l n="3780"><lb n="22"/><w>Die</w><w>ſin</w><w>da</w><w><choice><orig>u</orig><reg>v</reg></choice>or</w><w>dick</w><w>engalt</w></l>
                 </lg>
                 <lg>
-                    <l n="3781"><lb n="23"/><w><choice><orig>V</orig><reg>U</reg></choice>nd</w><w>er</w><w>iuſt</w><w>ir</w><w>das</w><w>land</w></l>
+                    <l n="3781"><lb n="23"/><w><choice><orig>V</orig><reg>U</reg></choice>nd</w><w>er</w><w><choice><orig>i</orig><reg>j</reg></choice>uſt</w><w>ir</w><w>das</w><w>land</w></l>
                     <l n="3782"><lb n="24"/><w>Er</w><w>ſatzt</w><w>ir</w><w>giſel</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>pfand</w></l>
                 </lg>
                 <lg>
@@ -7194,8 +7179,8 @@ faltan versos de 3753 a 58    -->
                     <l n="3784"><lb n="26"/><w>Buͦſzt</w><w><choice><orig>v</orig><reg>u</reg></choice>ntz</w><w>an</w><w>ir</w><w>hulde</w></l>
                 </lg>
                 <lg>
-                    <l n="3785"><lb n="27"/><w><metamark ana="hc:CueInitial ">e</metamark><supplied><hei:initial ana="hc:Lombard" hei:heightLines="2">E</hei:initial></supplied>Z</w><w>ward</w><w>nie</w><w>ritter</w><w>mere</w></l>
-                    <!--o copista non marca a inicial     -->
+                    <l n="3785"><lb n="27"/><w><supplied><hei:initial ana="hc:Lombard" hei:heightLines="2">E</hei:initial></supplied>S</w><w>ward</w><w>nie</w><w>ritter</w><w>mere</w></l>
+                    <!--o copista non marca a inicial    POIS NESTE CASO TAMPOUCO PODES POÑER A 'METAMARK' -->
                     <l n="3786"><lb n="28"/><w>Gebotten</w><w>ritterlicher</w><w>ere</w></l>
                 </lg>
                 <lg>
@@ -7209,7 +7194,9 @@ faltan versos de 3753 a 58    -->
                 <lg>
                     <l n="3791"><lb n="33"/><w>Do</w><w>in</w><w>die</w><w>graͤffin</w><w>enpfieng</w></l>
                     <l n="3792"><lb n="34"/><w><choice><orig>V</orig><reg>U</reg></choice>nd</w><w>gegen</w><w>im</w><w>gieng</w></l>
+                    <!--Revisado Victor 18/2/2021     -->
                 </lg>
+                <cb n="B"/>
                 <lg>
                     <l n="3793"><lb/><w/><w/><w/><w/><w/><w/></l>
                     <l n="3794"><lb/><w/><w/><w/><w/><w/><w/></l>
