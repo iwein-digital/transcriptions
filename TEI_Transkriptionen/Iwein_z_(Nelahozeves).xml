@@ -7335,13 +7335,9 @@
                 </lg>
                 <lg>
                     <l n="3872"><lb n="34"/><w join="right">An</w><w join="left">aller</w><w>ſchlacht</w><w>grinme</w></l>
-                    <!--equivocouse coa 'nm'?   SÍ  -->
                     <l n="3874"><lb n="35"/><w>Als</w><w>er</w><w>von</w><w>ſinem</w><w>ſynne</w></l>
-                    <!--*non sei se xa vexo joins por tods partes ou agora os vexo mellor xD 
-*eres consciente da metamark baleira no 3763?    GRAZAS!
-Revisado Victor 21/2/2021-->
-                    <cb n="b"/>
                 </lg>
+                <cb n="b"/>
                 <lg>
                     <l n="3875"><lb n="1"/><w>Aller</w><w>beſt</w><w>mochte</w></l>
                     <l n="3876"><lb n="2"/><w><choice><orig>V</orig><reg>U</reg></choice>nd</w><w>ainem</w><w>tier</w><w>dochte</w></l>
@@ -7355,9 +7351,9 @@ Revisado Victor 21/2/2021-->
                     <l n="3880"><lb n="6"/><w><choice><orig>V</orig><reg>U</reg></choice>nd</w><w>folget</w><w>im</w><w>nach</w><w>wa</w><w>er</w><w>kerte</w></l>
                 </lg>
                 <lb n="7"/>
-                <delSpan spanTo="#z_delSpan_3880,1" rendition="hc:Strikethrough"/>
+                <delSpan spanTo="#z_delSpan_3880_1" rendition="hc:Strikethrough"/>
                 <l n="3880,1" hei:replicates="#xpath(//l[@n='3831'])"><w>Nun</w><w>wyſzt</w><w>nit</w><w>min</w><w>he<choice><am>r͛</am><ex>re</ex></choice></w><w join="right">her</w><w join="left">ywin</w></l>
-                <anchor xml:id="#z_delSpan_3880,1"/>
+                <anchor xml:id="z_delSpan_3880_1"/>
                 <lg>
                     <l n="3881"><lb n="8"/><w><choice><orig>V</orig><reg>U</reg></choice>nd</w><w>ſtuͦnd</w><w>im</w><w>dick</w><w>in</w><w>ſiner</w><w>not</w></l>
                     <l n="3882"><lb n="9"/><w><choice><orig>V</orig><reg>U</reg></choice>ntz</w><w>ſie</w><w>baide</w><w>ſchied</w><w>der</w><w>tod</w></l>
@@ -7371,7 +7367,7 @@ Revisado Victor 21/2/2021-->
                     <l n="3886"><lb n="13"/><w>Do</w><w>zwang</w><w>in</w><w>des</w><w>ſin</w><w>achte</w></l>
                 </lg>
                 <lg>
-                    <l n="3887"><lb n="14"/><w>Baide</w><w>ſin</w><w>hunger</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>ſmart</w></l>
+                    <l n="3887"><lb n="14"/><w>Baide</w><w>ſin</w><w>hunger</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>ſin</w><w>art</w></l>
                     <l n="3888"><lb n="15"/><w>Do</w><w>er</w><w>des</w><w>tiers</w><w>ynnen</w><w>ward</w></l>
                 </lg>
                 <lg>
@@ -7379,15 +7375,15 @@ Revisado Victor 21/2/2021-->
                     <l n="3890"><lb n="17"/><w>Des</w><w>kund</w><w>er</w><w>anders</w><w>nit</w><w>geſagen</w></l>
                 </lg>
                 <lg>
-                    <l n="3891"><lb n="18"/><w>Wa<choice><am>n̄</am><ex>nn</ex></choice></w><w>das</w><w>er</w><w>stuͦnd</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>ſach</w><w>in</w><w>a<subst><del rendition="hc:Adapted">m</del><add rendition="hc:Adapted">n</add></subst></w></l>
+                    <l n="3891"><lb n="18"/><w>Wa<choice><am>n̄</am><ex>nn</ex></choice></w><w>das</w><w>er</w><w>stuͦnd</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>ſach</w><w>in</w><w>a<subst><del rendition="hc:Adapted hc:Strikethrough">m</del><add rendition="hc:Adapted">n</add></subst></w></l>
                     <l n="3892"><lb n="19"/><w><choice><orig>V</orig><reg>U</reg></choice>nd</w><w>zaigt</w><w>im</w><w>mit</w><w>dem</w><w>munde</w><w>dan</w></l>
                 </lg>
                 <lg>
                     <l n="3893"><lb n="20"/><w>Da</w><w>mit</w><w>tett</w><w>er</w><w>es</w><w>im</w><w>kunt</w></l>
-                    <l n="3894"><lb n="21"/><w>Er</w><w>luͦt</w><w>als</w><w>ain</w><w>ſuͦch</w><w>hund</w></l>
+                    <l n="3894"><lb n="21"/><w>Er</w><w>luͦt</w><w>als</w><w>ain</w><w>ſuͦch hund</w></l>
                 </lg>
                 <lg>
-                    <l n="3895"><lb n="22"/><w>Er</w><w>kert</w><w>von</w><w><add hei:placeRef="hc:AboveLine">di</add></w><w>ſtrauſſe</w></l>
+                    <l n="3895"><lb n="22"/><w>Er</w><w>kert</w><w>von</w><metamark ana="hc:InsertionMark ">|</metamark><w><add hei:placeRef="hc:AboveLine"><choice><am>d͛</am><ex>der</ex></choice></add></w><w>ſtrauſſe</w></l>
                     <l n="3896"><lb n="23"/><w>Wol</w><w>aines</w><w>wurffes</w><w>mauſſe</w></l>
                 </lg>
                 <lg>
@@ -7399,7 +7395,7 @@ Revisado Victor 21/2/2021-->
                     <l n="3900"><lb n="27"/><w>Das</w><w>wer</w><w>doch</w><w>ſinem</w><w>here<choice><am>n̄</am><ex>nn</ex></choice></w><w>nit</w><w>guͦt</w></l>
                 </lg>
                 <lg>
-                    <l n="3901"><lb n="28"/><w>Nun</w><w>ſchand</w><w>ers</w><w>da’</w><w>ers</w><w>wiſzte</w></l>
+                    <l n="3901"><lb n="28"/><w>Nun</w><w>ſchand</w><w>ers</w><w>da</w><w join="right">er</w><w join="left">s</w><w>wiſzte</w></l>
                     <l n="3902"><lb n="29"/><w>Da</w><w>er</w><w>was</w><w>aller</w><w>beſte</w></l>
                 </lg>
                 <lg>
@@ -7411,7 +7407,7 @@ Revisado Victor 21/2/2021-->
                     <l n="3906"><lb n="33"/><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>auſz</w><w>das</w><w><choice><orig>v</orig><reg>u</reg></choice>ngeſaltzen</w><w>maſz</w></l>
                 </lg>
                 <lg>
-                    <l n="3907"><lb n="34"/><w>An̈e</w><w>brott</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>an̈e</w><w>win</w></l>
+                    <l n="3907"><lb n="34"/><w>An̈e</w><w>brott</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>a<add hei:placeRef="hc:AboveLine">u</add>ne</w><w>win</w></l>
                     <pb n="355"/>
                     <cb n="a"/>
                     <l n="3908"><lb n="1"/><w>Es</w><w>mocht</w><w>de</w><w>da</w><w>nit</w><w>beſſers</w><w>ſin</w></l>
@@ -7421,7 +7417,7 @@ Revisado Victor 21/2/2021-->
                     <l n="3910"><lb n="3"/><w>Das</w><w>auſz</w><w>der</w><w>leow</w><w><choice><orig>v</orig><reg>u</reg></choice>ntz</w><w>an</w><w>die</w><w>bain</w></l>
                 </lg>
                 <lg>
-                    <l n="3911"><lb n="4"/><w><metamark ana="hc:CueInitial ">h</metamark><supplied><hei:initial ana="hc:Lombard" hei:heightLines="2">H</hei:initial></supplied>Er</w><w>y win</w><w>lett</w><w>ſich</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w><del rendition="hc:Strikethrough">ſchlieff</del></w><w>ſchlief</w></l>
+                    <l n="3911"><lb n="4"/><w><metamark ana="hc:CueInitial ">h</metamark><supplied><hei:initial ana="hc:Lombard" hei:heightLines="2">H</hei:initial></supplied>Er</w><w>y win</w><w>lett</w><w>ſich</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w><del rendition="hc:Strikethrough">ſchieff</del></w><w>ſchlief</w></l>
                     <l n="3912"><lb n="5"/><w>Der</w><w>leow</w><w>wachet</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>lieff</w></l>
                 </lg>
                 <lg>
@@ -7435,7 +7431,6 @@ Revisado Victor 21/2/2021-->
                 <lg>
                     <l n="3917"><lb n="10"/><w>Dis</w><w>was</w><w>ir</w><w>baider</w><w>arbait</w></l>
                     <l n="3918"><lb n="11"/><w>Das</w><w>er</w><w>abentúr</w><w>rait</w></l>
-                    <!--faltan v 3919-22     -->
                 </lg>
                 <lg>
                     <l n="3923"><lb n="12"/><w><metamark ana="hc:CueInitial ">a</metamark><supplied><hei:initial ana="hc:Lombard" hei:heightLines="2">A</hei:initial></supplied><choice><orig>J</orig><reg>I</reg></choice>nes</w><w>tages</w><w>truͦg</w><w>in</w><w>dú</w><w>geſchicht</w></l>
@@ -7443,16 +7438,15 @@ Revisado Victor 21/2/2021-->
                 </lg>
                 <lg>
                     <l n="3925"><lb n="14"/><w join="right"><choice><orig>J</orig><reg>I</reg></choice>n</w><w join="left">ſiner</w><w>frowen</w><w>land</w></l>
-                    <l n="3926"><lb n="15"/><w>Das</w><w>er</w><w>den</w><w>ſelben</w><w>bru<choice><am>n̄</am><ex>nn</ex></choice>en</w><w>fand</w></l>
+                    <l n="3926"><lb n="15"/><w>Das</w><w>er</w><w>den</w><w>ſelben</w><w>br<choice><am>ū</am><ex>un</ex></choice>nen</w><w>fand</w></l>
                 </lg>
                 <lg>
                     <l n="3927"><lb n="16"/><w>Von</w><w>dem</w><w><choice><orig>j</orig><reg>i</reg></choice>m</w><w>was</w><w>geſchehen</w></l>
-                    <l n="3928"><lb n="17"/><w>Als</w><w>ich</w><w>úch</w><w>han</w><w>verjehe<del rendition="hc:Strikethrough">n</del></w></l>
+                    <l n="3928"><lb n="17"/><w>Als</w><w>ich</w><w>úch</w><w>han</w><w>verjehen</w></l>
                 </lg>
                 <lg>
                     <l n="3929"><lb n="18"/><w>Groſz</w><w>hail</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>michel</w><w><choice><orig>v</orig><reg>u</reg></choice>ngemach</w></l>
                     <l n="3930"><lb n="19"/><w>Als</w><w>er</w><w>die</w><w>linden</w><w>där</w><w>ob</w><w>ſach</w></l>
-                    <!--faltan v 3931-31     -->
                 </lg>
                 <lg>
                     <l n="3933"><lb n="20"/><w>Do</w><w>ward</w><w>ſin</w><w>hertz</w><w>des</w><w>ermant</w></l>
@@ -7479,8 +7473,7 @@ Revisado Victor 21/2/2021-->
                     <l n="3944"><lb n="31"/><w><choice><orig>V</orig><reg>U</reg></choice>nd</w><w>als</w><w>er</w><w>ſich</w><w>voll</w><w>genaig</w></l>
                 </lg>
                 <lg>
-                    <l n="3945"><lb n="32"/><w>Das</w><w join="right">ſchwe<add hei:placeRef="hc:AboveLine">r</add>t</w><w join="left">i<subst><del rendition="hc:Adapted">n</del><add rendition="hc:Adapted">m</add></subst></w><w>uſz</w><w>der</w><w>ſchaid</w><w>ſchoſz</w></l>
-                    <!--parece q hai unha macron sobre a 'i' (ou sobre a 'n' se mantés o orixinal do copista), pero probei e non se pode meter unha 'in' con macron e logo dentro desa 'n' facer unha subst     -->
+                    <l n="3945"><lb n="32"/><w>Das</w><w join="right">ſchwe<add hei:placeRef="hc:AboveLine"><choice><am>͛</am><ex>r</ex></choice></add>t</w><w join="left"><subst><del rendition="hc:Adapted">n</del><add rendition="hc:Adapted"><choice><orig>j</orig><reg>i</reg></choice></add></subst>m</w><w>uſz</w><w>der</w><w>ſchaid</w><w>ſchoſz</w></l>
                     <l n="3946"><lb n="33"/><w>Des</w><w>guͦte</w><w>was</w><w>alles</w><w>groſz</w></l>
                 </lg>
                 <lg>
@@ -7493,7 +7486,7 @@ Revisado Victor 21/2/2021-->
                     <l n="3950"><lb n="3"/><w>Des</w><w>ward</w><w>in</w><w><choice><orig>v</orig><reg>u</reg></choice>n muͦt</w></l>
                 </lg>
                 <lg>
-                    <l n="3951"><lb n="4"/><w>Sin</w><w>leow</w><w>wind</w><w>er</w><w>wer</w><w>tod</w></l>
+                    <l n="3951"><lb n="4"/><w>Sin</w><w>leow</w><w>wund</w><w>er</w><w>wer</w><w>tod</w></l>
                     <l n="3952"><lb n="5"/><w><choice><orig>V</orig><reg>U</reg></choice>nd</w><w>was</w><w>im</w><w>nach</w><w>dem</w><w>tod</w><w>nott</w></l>
                 </lg>
                 <lg>
@@ -7523,7 +7516,6 @@ Revisado Victor 21/2/2021-->
                 <lg>
                     <l n="3965"><lb n="18"/><w>Diner</w><w>frowen</w><w>hulde</w></l>
                     <l n="3966"><lb n="19"/><w>Jenen</w><w>wer</w><w>dú</w><w>ſelb</w><w>ſchulde</w></l>
-                    <!--faltan v 3967-68     -->
                 </lg>
                 <lg>
                     <l n="3969"><lb n="20"/><w>Alſo</w><w>iſt</w><w>noch</w><w>das</w><w>ain</w><w>ſelig</w><w>man</w></l>
@@ -7534,12 +7526,12 @@ Revisado Victor 21/2/2021-->
                     <l n="3972"><lb n="23"/><w><choice><orig>V</orig><reg>U</reg></choice>nd</w><w>ſich</w><w>doch</w><w>nit</w><w>verſi<choice><am>n̄</am><ex>nn</ex></choice>e</w></l>
                 </lg>
                 <lg>
-                    <l n="3973"><lb n="24"/><w>Das</w><w>ſie</w><w>er</w><w>behalten</w><w>ku̇nde</w></l>
+                    <l n="3973"><lb n="24"/><w>Das</w><w>ſie</w><w>er</w><w>behalten</w><w>ku̍nde</w></l>
                     <l n="3974"><lb n="25"/><w>Eren</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>wunne</w></l>
                 </lg>
                 <lg>
                     <l n="3975"><lb n="26"/><w>Het</w><w>ich</w><w>baider</w><w>als</w><w><choice><orig>u</orig><reg>v</reg></choice>il</w></l>
-                    <!--nn sei como engadir os dous ptos da H, ocúrreseme 'double obbl hypen'?     -->
+                    <!--nn sei como engadir os dous ptos da H, ocúrreseme 'double obbl hypen'?    NON, MULLER, ISO É MERAMENTE DECORATIVO, NON? -->
                     <l n="3976"><lb n="27"/><w>Das</w><w>ich</w><w>got</w><w>clagen</w><w>wil</w></l>
                 </lg>
                 <lg>
@@ -7547,16 +7539,15 @@ Revisado Victor 21/2/2021-->
                     <l n="3978"><lb n="29"/><w><choice><orig>J</orig><reg>I</reg></choice>ch</w><w>ſoͤlt</w><w>nit</w><w>ſtaͤte</w><w>ſin</w><w>där</w><w>an</w></l>
                 </lg>
                 <lg>
-                    <l n="3979"><lb n="30"/><w><choice><orig>V</orig><reg>U</reg></choice>nd</w><w>wer</w><w>mit</w><w>nit</w><w>geſchehen</w><w>hail</w></l>
+                    <l n="3979"><lb n="30"/><w><choice><orig>V</orig><reg>U</reg></choice>nd</w><w>wer</w><w>mir</w><w>nit</w><w>geſchehen</w><w>hail</w></l>
                     <l n="3980"><lb n="31"/><w><choice><orig>V</orig><reg>U</reg></choice>nd</w><w>liebes</w><w>ain</w><w>michel</w><w>tail</w></l>
-                    <!--faltan v 3981-92     -->
                 </lg>
                 <lg>
                     <l n="3993"><lb n="32"/><w><choice><orig>J</orig><reg>I</reg></choice>ch</w><w>mag</w><w>wol</w><w>clagen</w><w>min</w><w>wib</w></l>
                     <l n="3994"><lb n="33"/><w>Wär</w><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>m̄</am><ex>mm</ex></choice>b</w><w>ſpar</w><w>ich</w><w>den</w><w>lib</w></l>
                 </lg>
                 <lg>
-                    <l n="3995"><lb n="34"/><w>Min</w><w>lib</w><w>wėr</w><w>des</w><w>wertt</w></l>
+                    <l n="3995"><lb n="34"/><w>Min</w><w>lib</w><w>wer</w><w>des</w><w>wertt</w></l>
                     <pb n="356"/>
                     <cb n="a"/>
                     <l n="3996"><lb n="1"/><w>Das</w><w>ich</w><w>min</w><w>ſelbs</w><w>ſchwert</w></l>
@@ -7564,7 +7555,6 @@ Revisado Victor 21/2/2021-->
                 <lg>
                     <l n="3997"><lb n="2"/><w join="right">Ze</w><w join="left">hand</w><w>an</w><w>mich</w><w>reche</w></l>
                     <l n="3998"><lb n="3"/><w><choice><orig>V</orig><reg>U</reg></choice>nd</w><w>es</w><w>durch</w><w>mich</w><w>ſelb</w><w>ſteche</w></l>
-                    <!--faltan v 3999-4000     -->
                 </lg>
                 <lg>
                     <l n="4001"><lb n="4"/><w>Nun</w><w>git</w><w>mir</w><w>des</w><w>bilde</w></l>
@@ -7572,7 +7562,7 @@ Revisado Victor 21/2/2021-->
                 </lg>
                 <lg>
                     <l n="4003"><lb n="6"/><w>Das</w><w>es</w><w>von</w><w>hertz</w><w>laide</w><w>ſich</w></l>
-                    <l n="4004"><lb n="7"/><w>Wolt</w><w>er</w><w>ſtechen</w><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>m̄</am><ex>mm</ex></choice>b</w><w>mich</w></l>
+                    <l n="4004"><lb n="7"/><w>Wolt</w><w>erſtechen</w><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>m̄</am><ex>mm</ex></choice>b</w><w>mich</w></l>
                 </lg>
                 <lg>
                     <l n="4005"><lb n="8"/><w>Das</w><w>rechter</w><w>trúwe</w><w>nach</w><w>gaut</w></l>
@@ -7580,7 +7570,7 @@ Revisado Victor 21/2/2021-->
                 </lg>
                 <lg>
                     <l n="4007"><lb n="10"/><w>Miner</w><w>frowen</w><w>hulde</w></l>
-                    <l n="4008"><lb n="11"/><w><choice><orig>V</orig><reg>U</reg></choice>nd</w><w>kam</w><w>ir</w><w>ſchulde</w></l>
+                    <l n="4008"><lb n="11"/><w><choice><orig>V</orig><reg>U</reg></choice>nd</w><w>kain</w><w>ir</w><w>ſchulde</w></l>
                 </lg>
                 <lg>
                     <l n="4009"><lb n="12"/><w>Ane</w><w>aller</w><w>ſchlacht</w><w>not</w><w>verloſz</w></l>
@@ -7611,7 +7601,7 @@ Revisado Victor 21/2/2021-->
                     <l n="4022"><lb n="25"/><w>Wer</w><w>fraget</w><w>ſprach</w><w>aber</w><w>er</w></l>
                 </lg>
                 <lg>
-                    <l n="4023"><lb n="26"/><w>Sú</w><w>ſprach</w><w>he<choice><am>r͛</am><ex>re</ex></choice></w><w>das</w><w>hie</w><w>klaget</w></l>
+                    <l n="4023"><lb n="26"/><w>Sú</w><w>ſprach</w><w>he<choice><am>r͛</am><ex>rre</ex></choice></w><w>das</w><w>hie</w><w>klaget</w></l>
                     <l n="4024"><lb n="27"/><w>Das</w><w>iſt</w><w>ain</w><w>ſo</w><w>arme</w><w>maget</w></l>
                 </lg>
                 <lg>
@@ -7625,12 +7615,11 @@ Revisado Victor 21/2/2021-->
                 <lg>
                     <l n="4029"><lb n="32"/><w>So</w><w>groſſen</w><w>ku<choice><am>m̄</am><ex>mm</ex></choice>er</w><w>als</w><w>ich</w><w>han</w></l>
                     <l n="4030"><lb n="33"/><w><choice><orig>J</orig><reg>I</reg></choice>r</w><w>múgend</w><w>wol</w><w>w̍er</w><w>klage</w><w>lan</w></l>
-                    <!--faltan v 4031-44     -->
                 </lg>
                 <lg>
                     <l n="4045"><lb n="34"/><w>Sú</w><w>ſprach</w><w>han</w><w>ich</w><w>kain</w><w>ſchulde</w></l>
-                    <l n="4046"><lb n="35"/><w>Gott</w><w>well</w><w>das</w><w>ich</w><w>ſin</w><w>hulde</w></l>
-                    <!--parece unha macron enriba da 'I'?     -->
+                    <l n="4046"><lb n="35"/><w>Gott</w><w>well</w><w>das</w><w>ich</w><w><subst><del rendition="hc:Adapted">h</del><add rendition="hc:Adapted">ſ</add></subst>in</w><w>hulde</w></l>
+                    <!--parece unha macron enriba da 'I'?   NON, É QUE ESCRIBIU 'H' E LOGO CORRIXIU A 'S'-->
                 </lg>
                 <cb n="b"/>
                 <lg>
@@ -7670,10 +7659,9 @@ Revisado Victor 21/2/2021-->
                     <l n="4064"><lb n="18"/><w>So</w><w>ſtarck</w><w>miſz thuͦn</w><w>ka<choice><am>n̄</am><ex>nn</ex></choice></w></l>
                 </lg>
                 <lg>
-                    <l n="4065"><lb n="19"/><w>Wa<choice><am>n̄</am><ex>nn</ex></choice></w><w>er</w><w>iſt</w><w>benaneen</w><w>der</w><w>beſt</w></l>
-                    <!--parecen dúas 'e', non?     -->
+                    <l n="4065"><lb n="19"/><w>Wa<choice><am>n̄</am><ex>nn</ex></choice></w><w>er</w><w>iſt</w><w>bena<subst><del rendition="hc:Adapted">ne</del><add rendition="hc:Adapted">me</add></subst>n</w><w>der</w><w>beſt</w></l>
+                    <!--parecen dúas 'e', non?  FIXO UNHA CORRECCIÓN    -->
                     <l n="4066"><lb n="20"/><w>Den</w><w>ich</w><w>lebendig</w><w>weſt</w></l>
-                    <!--faltan v 4067-72     -->
                 </lg>
                 <lg>
                     <l n="4073"><lb n="21"/><w><choice><orig>V</orig><reg>U</reg></choice>nd</w><w>iſt</w><w>das</w><w>ich</w><w>mich</w><w>mit</w><w>kampfe</w><w>woͤr</w></l>
@@ -7681,10 +7669,10 @@ Revisado Victor 21/2/2021-->
                 </lg>
                 <lg>
                     <l n="4075"><lb n="23"/><w>Er</w><w>ſprach</w><w>ſo</w><w>lauſz</w><w>ich</w><w>úch</w><w>den</w><w>ſtrit</w></l>
-                    <l n="4076"><lb n="24"/><w>Das</w><w>ir</w><w>angeſchafter</w><w>ſid</w></l>
+                    <l n="4076"><lb n="24"/><w>Das</w><w>ir</w><w>angeſthafter</w><w>ſid</w></l>
                 </lg>
                 <lg>
-                    <l n="4077"><lb n="25"/><w>De<choice><am>n̄</am><ex>nn</ex></choice></w><w>ich</w><w>ſid</w><w>es</w><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>m̄</am><ex>mm</ex></choice>b</w><w>u<add hei:placeRef="hc:AboveLine">i</add>ch</w><w>ſo</w><w>ſtat</w></l>
+                    <l n="4077"><lb n="25"/><w>De<choice><am>n̄</am><ex>nn</ex></choice></w><w>ich</w><w>ſid</w><w>es</w><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>m̄</am><ex>mm</ex></choice>b</w><w>úch</w><w>ſo</w><w>ſtat</w></l>
                     <l n="4078"><lb n="26"/><w>Das</w><w>es</w><w><choice><orig>v̍</orig><reg>u</reg></choice>ch</w><w>an</w><w>den</w><w>lib</w><w>gaut</w></l>
                 </lg>
                 <lg>
@@ -7693,15 +7681,16 @@ Revisado Victor 21/2/2021-->
                 </lg>
                 <lg>
                     <l n="4081"><lb n="29"/><w>Der</w><w>joch</w><w>den</w><w>willen</w><w>hette</w></l>
-                    <l n="4082"><lb n="30"/><w>Das</w><w>ers</w><w>gern</w><w>taͤtte</w></l>
+                    <l n="4082"><lb n="30"/><w>Das</w><w join="right">er</w><w join="left">s</w><w>gern</w><w>taͤtte</w></l>
                 </lg>
                 <lg>
                     <l n="4083"><lb n="31"/><w>Wer</w><w>hette</w><w>de<choice><am>n̄</am><ex>nn</ex></choice> och</w><w>die</w><w>kraft</w></l>
                     <l n="4084"><lb n="32"/><w>Er</w><w>verdulte</w><w>maiſter</w><w>maiſter ſchaft</w></l>
-                    <!--isto ponse dalgún xeito que é unha repetición? é un erro do copista non?     -->
+                    <!--isto ponse dalgún xeito que é unha repetición? é un erro do copista non?   SÍ, PERO XA É UNA CORRECCIÓN EDITORIAL DE SEGUNDO NIVEL ELIMINÁLO E DEIXÁMOLO PARA MÁIS ADIANTE.  -->
                 </lg>
                 <lg>
                     <l n="4085"><lb n="33"/><w>Wa<choice><am>n̄</am><ex>nn</ex></choice></w><w>es</w><w>ſind</w><w>dry</w><w>ſtarcke</w><w>ma<choice><am>n̄</am><ex>nn</ex></choice></w></l>
+                    <!--Revisado Victor 24/2/2021 – Moi ben Vane, xa falta pouco!     -->
                     <pb n="357"/>
                     <cb n="a"/>
                     <l n="4086"><lb/><w/><w/><w/><w/><w/><w/></l>
