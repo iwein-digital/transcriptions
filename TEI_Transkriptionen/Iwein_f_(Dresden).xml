@@ -11695,13 +11695,13 @@
                     <l n="5698"><lb n="2"/><w><hi rendition="hc:RedStroke"><choice><orig>V</orig><reg>U</reg></choice></hi><choice><am>n̄</am><ex>nd</ex></choice></w><w>weſt</w><w>doch</w><w>wer</w><w>er</w><w>wäre</w></l>
                 </lg>
                 <lb n="3"/>
-                <label ana="hc:SummaryLabel"><hi hei:color="Red"><w>wie</w><w>dew</w><w>jun<choice><am>g͛</am><ex>ger</ex></choice></w><w>ſweſ<choice><am>t͛</am><ex>ter</ex></choice></w><w>zu</w><w>britani</w></hi></label>
+                <label ana="hc:SummaryLabel"><hi hei:color="Red"><w>wie</w><w>dew</w><w>jun<choice><am>g͛</am><ex>ger</ex></choice></w><w>ſweſ<choice><am>t͛</am><ex>ter</ex></choice></w><w>zu</w><w>britani</w>
                 <lb n="4"/>
-                <label ana="hc:SummaryLabel"><hi hei:color="Red"><w>chainen</w><w>chemph<choice><am>n̄</am><ex>en</ex></choice></w><w>vind<choice><am>n̄</am><ex>en</ex></choice></w><w>chund</w><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w></hi></label>
-                <lb n="5"/>
-                <label ana="hc:SummaryLabel" hei:placeRef="hc:ColumnMarginRight"><hi hei:color="Red"><w>ſchïd</w><w>traurig</w></hi></label>
-                <lb n="6"/>
-                <label ana="hc:SummaryLabel" hei:placeRef="hc:ColumnMarginRight"><hi hei:color="Red"><w>v<choice><am>ō</am><ex>on</ex></choice></w><w>da<choice><am>n̄</am><ex>nn</ex></choice></w></hi></label>
+                <w>chainen</w><w>chemph<choice><am>n̄</am><ex>en</ex></choice></w><w>vind<choice><am>n̄</am><ex>en</ex></choice></w><w>chund</w><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w>
+                    <milestone ana="hc:LineSegmentBeginning" hei:belongsToLine="5"/>
+                <w>ſchïd</w><w>traurig</w>
+                    <milestone ana="hc:LineSegmentBeginning" hei:belongsToLine="6"/>
+                <w>v<choice><am>ō</am><ex>on</ex></choice></w><w>da<choice><am>n̄</am><ex>nn</ex></choice></w></hi></label>
                 <lg>
                     <l n="5699"><lb n="5"/><w><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="3">D</hei:initial><hi rendition="hc:RedStroke">O</hi></w><w>nu</w><w>dew</w><w><choice><orig>i</orig><reg>j</reg></choice>ün<choice><am>g͛</am><ex>ger</ex></choice></w><w>magt</w></l>
                     <l n="5700"><lb n="6"/><w><hi rendition="hc:RedStroke">G</hi>en</w><w>hoffe</w><w>chom</w><w>als</w><w>ich</w><w>ee</w><w>ſagt</w></l>
@@ -11979,7 +11979,7 @@
                 <lg>
                     <l n="5829"><lb n="19"/><w><hi rendition="hc:RedStroke"><choice><orig>J</orig><reg>I</reg></choice></hi>m<choice><am>m͛̄</am><ex>mer</ex></choice></w><w><choice><orig>v̈</orig><reg>ü</reg></choice><choice><am>b͛</am><ex>ber</ex></choice>wind<choice><am>n̄</am><ex>en</ex></choice></w></l>
                     <l n="5830"><lb n="20"/><w><hi rendition="hc:RedStroke">S</hi>o</w><w>müz</w><w>ich</w><w>in</w><w>ye</w><w>vind<choice><am>n̄</am><ex>en</ex></choice></w></l>
-                    <!--Revisado Victor 2/3/2021   EMILIO: resolviches xeito intelixente o problema da numeración das <lb> no <label> antes do v. 5699. Pero desconfiei de que fora boa, porque para o sistema de visualización a coincidencia de renglóns pode ser un problema; claro que as outras opcións parecíanme peores. Pero preguntei a Jakub e me dixo que, en efecto, para casos así hai poco que atoparon unha solución, aínda non descrita na documentación, e que ma iba a pasar. Recordas se había algún caso semellante máis?-->
+                    <!--Revisado Victor 2/3/2021   EMILIO: resolviches de xeito intelixente o problema da numeración das <lb> no <label> antes do v. 5699. Pero desconfiei de que fora boa, porque para o sistema de visualización a coincidencia de renglóns pode ser un problema; claro que as outras opcións parecíanme peores. Pero preguntei a Jakub e me dixo que, en efecto, para casos así hai poco que atoparon unha solución, aínda non descrita na documentación, e ma pasou: observa que en lugar de meterlle un <lb> nos casos nos que o renglón coincide co do texto, metéronlle un <milestone> cun atributo que se inventaron. Así poden 'compoñer' un renglón de dous ou varios segmentos. Recordas se había algún caso semellante máis? Anótao nun comentario ao final do documento.  Outra cousa: observa que nese exemplo antes do 5699 o <label> e o <hi> non rematan antes de cada <lb> e logo volven a empezar. Isto é novo e agora se pode facer. Faino así a partir de agora se queres e se o framework cho permite, pero NON cambies o resto do documento porque isto é chollo para Irene no verán. -->
                 </lg>
                 <lb n="21"/>
                 <label ana="hc:SummaryLabel"><hi hei:color="Red"><w>wie</w><w>dew</w><w>magt</w><w>die</w><w>h<choice><am>n͛</am><ex>ern</ex></choice></w><w>Ibein</w></hi></label>
