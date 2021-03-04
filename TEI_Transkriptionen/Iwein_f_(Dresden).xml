@@ -11973,9 +11973,6 @@
                 <lg>
                     <l n="5829"><lb n="19"/><w><hi rendition="hc:RedStroke"><choice><orig>J</orig><reg>I</reg></choice></hi>m<choice><am>m͛̄</am><ex>mer</ex></choice></w><w><choice><orig>v̈</orig><reg>ü</reg></choice><choice><am>b͛</am><ex>ber</ex></choice>wind<choice><am>n̄</am><ex>en</ex></choice></w></l>
                     <l n="5830"><lb n="20"/><w><hi rendition="hc:RedStroke">S</hi>o</w><w>müz</w><w>ich</w><w>in</w><w>ye</w><w>vind<choice><am>n̄</am><ex>en</ex></choice></w></l>
-                    <!--Revisado Victor 2/3/2021   EMILIO: resolviches de xeito intelixente o problema da numeración das <lb> no <label> antes do v. 5699. Pero desconfiei de que fora boa, porque para o sistema de visualización a coincidencia de renglóns pode ser un problema; claro que as outras opcións parecíanme peores. Pero preguntei a Jakub e me dixo que, en efecto, para casos así hai poco que atoparon unha solución, aínda non descrita na documentación, e ma pasou: observa que en lugar de meterlle un <lb> nos casos nos que o renglón coincide co do texto, metéronlle un <milestone> cun atributo que se inventaron. Así poden 'compoñer' un renglón de dous ou varios segmentos. Recordas se había algún caso semellante máis? Anótao nun comentario ao final do documento.  Outra cousa: observa que nese exemplo antes do 5699 o <label> e o <hi> non rematan antes de cada <lb> e logo volven a empezar. Isto é novo e agora se pode facer. Faino así a partir de agora se queres e se o framework cho permite, pero NON cambies o resto do documento porque isto é chollo para Irene no verán. 
-Sí que vin algún caso máis antes e me parece que tamén despois, pero agora xa sabemos como se fai e xa o fago así para os casos que aínda poidan aparecer. Pregunta: nun label anterior no que o copista escribiu a palabra 'dörn' por encima non se podería codificar tamén cun milestone, porque aí fixemos simplemente RefPlace:AboveLine? 
-SE É UN ENGADIDO EN MEDIO DA LIÑA, SE PON COMO <add>; pero se é ao final da mesma e o 'dörn' está nun renglón (ou a unha altura) que coincide cunha liña de texto, facemos co <milestone>. Se NON coincide cun renglón de texto, mirámolo.-->
                 </lg>
                 <lb n="21"/>
                 <label ana="hc:SummaryLabel"><hi hei:color="Red"><w>wie</w><w>dew</w><w>magt</w><w>die</w><w>h<choice><am>n͛</am><ex>ern</ex></choice></w><w>Ibein</w></hi></label>
@@ -12191,6 +12188,7 @@ SE É UN ENGADIDO EN MEDIO DA LIÑA, SE PON COMO <add>; pero se é ao final da m
                 <lg>
                     <l n="5929"><lb n="10"/><w><hi rendition="hc:RedStroke">A</hi>uf</w><w>geſchech<choice><am>n̄</am><ex>en</ex></choice></w><w>was</w></l>
                     <l n="5930"><lb n="11"/><w><hi rendition="hc:RedStroke">E</hi>r</w><w>lag</w><w>da</w><w><choice><orig>v</orig><reg>u</reg></choice>ncz</w><w>er</w><w>genas</w></l>
+                    <!--Revisado Victor 4/3/2021     -->
                 </lg>
                 <lb n="12"/>
                 <label ana="hc:SummaryLabel"><hi hei:color="Red"><w>Wie</w><w>dew</w><w>magt</w><w>hern</w><w>ibei<choice><am>n̄</am><ex>nn</ex></choice></w><w>ſücht</w> <lb n="13"/> <w>die</w><w>von</w><w>der</w><w>grä<choice><orig>u</orig><reg>v</reg></choice>inn</w><w>vom</w><w>durr<choice><am>n̄</am><ex>en</ex></choice></w><w>Holcz</w> <lb n="14"/> <w>Nach</w><w>im</w><w>aus</w><w>geſendet</w><w>waz</w></hi></label>
