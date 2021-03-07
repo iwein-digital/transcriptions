@@ -20060,15 +20060,15 @@
                         >s</add></subst></w><w>ſ<subst><del rendition="hc:Adapted">u</del><add
                         rendition="hc:Adapted"
                         >aͤ</add></subst>ld</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>ereu̍</w></l>
-                </lg><!--a partir de 5047 cambiar diéreses e acentos polos "special characters"     PENSO QUE XA ESTÁ, PERO TEÑO UNHA DÚBIDA: CANDO HAY v̍ CÁMBIASE POR ü OU POR u̍ ? TÉMOLOS MARCADOS DAS DÚAS FORMAS-->
+                </lg><!--a partir de 5047 cambiar diéreses e acentos polos "special characters"     PENSO QUE XA ESTÁ, PERO TEÑO UNHA DÚBIDA: CANDO HAY v̍ CÁMBIASE POR ü OU POR u̍ ? TÉMOLOS MARCADOS DAS DÚAS FORMAS. E CANDO APARECE w̍  REGULARÍZASE CON  ü w?-->
             </div>
         </body>
         <back>
             <trailer ana="hc:Colophon"><w>Am</w><w>ER</w></trailer>
             <trailer ana="hc:Colophon"><w>Deo</w><w>gratias</w></trailer>
             <trailer ana="hc:Colophon"
-                ><w>Complet<choice><am>ū</am><ex>um</ex></choice></w><w/></trailer>
-            <trailer ana="hc:Colophon"><w/><w/></trailer>
+                ><w>Complet<choice><am>ū</am><ex>um</ex></choice></w><w/><w/><w/><w/><w/><w/></trailer>
+            <trailer ana="hc:Colophon"><w/><w/><w/><w/><w/><w/></trailer>
         </back>
     </text>
 </TEI>
