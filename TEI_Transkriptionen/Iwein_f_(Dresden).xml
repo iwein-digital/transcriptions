@@ -15527,7 +15527,6 @@
                 <lg>
                     <l n="7577"><lb n="17"/><w join="right"><hi rendition="hc:RedStroke">D</hi>a</w><w join="left"><choice><orig>u</orig><reg>v</reg></choice><choice><am>ō</am><ex>on</ex></choice></w><w>ſo</w><w>ergib</w><w>ich</w><w>mich</w></l>
                     <l n="7578"><lb n="18"/><w><hi rendition="hc:RedStroke">W</hi>and</w><w>der</w><w>ſigelas</w><w>der</w><w>pin</w><w>ich</w></l>
-                    <!--Revisado Victor 18/3/2021     -->
                 </lg>
                 <lb n="19"/>
                 <label ana="hc:SummaryLabel"><hi hei:color="Red"><w>wie</w><w>die</w><w>werd<choice><am>n̄</am><ex>en</ex></choice></w><w>czwen</w><w>chemph<choice><am>n̄</am><ex>en</ex></choice></w> <lb n="20"/> <w>ïr</w><w><choice><orig>i</orig><reg>j</reg></choice>e<choice><am>d͛</am><ex>der</ex></choice></w><w>dem</w><w>and<choice><am>n͛</am><ex>ern</ex></choice></w><w>ſiges</w><w><choice><orig>i</orig><reg>j</reg></choice>ach</w></hi></label>
@@ -15697,59 +15696,60 @@
                 <cb n="a"/>
                 <lg>
                     <l n="7658"><lb n="1"/><w><hi rendition="hc:RedStroke hc:Cadel"><choice><orig>J</orig><reg>I</reg></choice></hi>rn</w><w>erbtail</w><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>ïr</w><w>güt</w></l>
-                    <l n="7657"><lb n="2"/><add hei:placeRef="hc:ColumnMarginLeft"><w>durch</w><w><choice><orig>j</orig><reg>i</reg></choice>ren</w><w><choice><orig>v</orig><reg>u</reg></choice>ntrew<choice><am>n̄</am><ex>en</ex></choice></w><w>muet</w><metamark ana="hc:InsertionMark ">––––</metamark></add></l>
-                    <!--Vers von späterer Hand am Rande nachgetragen.     -->
+                    <addSpan hei:placeRef="hc:ColumnMarginLeft" spanTo="#f_addSpan_7657_1"/>
+                    <l n="7657"><w>durch</w><w><choice><orig>j</orig><reg>i</reg></choice>ren</w><w><choice><orig>v</orig><reg>u</reg></choice>ntrew<choice><am>n̄</am><ex>en</ex></choice></w><w>muet</w><metamark ana="hc:InsertionMark ">––––</metamark></l><anchor xml:id="f_addSpan_7657_1"/>
+                    <!--  Hier muss noch eine <lb> eingetragen werden, vgl. Issue #67    -->
                 </lg>
                 <lg>
-                    <l n="7659"><lb n="3"/><w><hi rendition="hc:RedStroke">D</hi>az</w><w>in</w><w>ïr</w><w>va<choice><am>t͛</am><ex>ter</ex></choice></w><w>paid<choice><am>n̄</am><ex>en</ex></choice></w><w>lie</w></l>
-                    <l n="7660"><lb n="4"/><w><hi rendition="hc:RedStroke">D</hi>o</w><w>ſprach</w><w>ſi</w><w>gaches</w><w>ich</w><w>pin</w><w>hie</w></l>
+                    <l n="7659"><lb n="2"/><w><hi rendition="hc:RedStroke">D</hi>az</w><w>in</w><w>ïr</w><w>va<choice><am>t͛</am><ex>ter</ex></choice></w><w>paid<choice><am>n̄</am><ex>en</ex></choice></w><w>lie</w></l>
+                    <l n="7660"><lb n="3"/><w><hi rendition="hc:RedStroke">D</hi>o</w><w>ſprach</w><w>ſi</w><w>gaches</w><w>ich</w><w>pin</w><w>hie</w></l>
                 </lg>
                 <lg>
-                    <l n="7661"><lb n="5"/><w><hi rendition="hc:RedStroke">D</hi>o</w><w>ſi</w><w>ſich</w><w>alſus</w><w><choice><am>v͛</am><ex>ver</ex></choice>ſprach</w></l>
-                    <l n="7662"><lb n="6"/><w><hi rendition="hc:RedStroke"><choice><orig>V</orig><reg>U</reg></choice></hi><choice><am>n̄</am><ex>nd</ex></choice></w><w>ïr</w><w>ſelb</w><w><choice><orig>v</orig><reg>u</reg></choice>nrechtes<del rendition="hc:Strikethrough">g</del></w><w><choice><orig>i</orig><reg>j</reg></choice>ach</w></l>
+                    <l n="7661"><lb n="4"/><w><hi rendition="hc:RedStroke">D</hi>o</w><w>ſi</w><w>ſich</w><w>alſus</w><w><choice><am>v͛</am><ex>ver</ex></choice>ſprach</w></l>
+                    <l n="7662"><lb n="5"/><w><hi rendition="hc:RedStroke"><choice><orig>V</orig><reg>U</reg></choice></hi><choice><am>n̄</am><ex>nd</ex></choice></w><w>ïr</w><w>ſelb</w><w><choice><orig>v</orig><reg>u</reg></choice>nrechtes<del rendition="hc:Strikethrough">g</del></w><w><choice><orig>i</orig><reg>j</reg></choice>ach</w></l>
                 </lg>
                 <lg>
-                    <l n="7663"><lb n="7"/><w><hi rendition="hc:RedStroke">D</hi>ez</w><w>ward</w><w>Artus</w><w>der</w><w>ch<choice><am>ū</am><ex>un</ex></choice>ig</w><w>frö</w></l>
-                    <l n="7664"><lb n="8"/><w><hi rendition="hc:RedStroke">C</hi>ze</w><w>geczeuge</w><w>zöch</w><w>er</w><w>dö</w></l>
+                    <l n="7663"><lb n="6"/><w><hi rendition="hc:RedStroke">D</hi>ez</w><w>ward</w><w>Artus</w><w>der</w><w>ch<choice><am>ū</am><ex>un</ex></choice>ig</w><w>frö</w></l>
+                    <l n="7664"><lb n="7"/><w><hi rendition="hc:RedStroke">C</hi>ze</w><w>geczeuge</w><w>zöch</w><w>er</w><w>dö</w></l>
                 </lg>
                 <lg>
-                    <l n="7665"><lb n="9"/><w><hi rendition="hc:RedStroke">E</hi>r</w><w>ſprach</w><w>fraw</w><w>ïr</w><w>habt</w><w><choice><am>v͛</am><ex>ver</ex></choice><choice><orig>i</orig><reg>j</reg></choice>ech<choice><am>n̄</am><ex>en</ex></choice></w></l>
-                    <l n="7666"><lb n="10"/><w><hi rendition="hc:RedStroke">D</hi>az</w><w>iſt</w><w>vör</w><w><choice><orig>v</orig><reg>u</reg></choice>ns</w><w>all<choice><am>n̄</am><ex>en</ex></choice></w><w>geſchech<choice><am>n̄</am><ex>en</ex></choice></w></l>
+                    <l n="7665"><lb n="8"/><w><hi rendition="hc:RedStroke">E</hi>r</w><w>ſprach</w><w>fraw</w><w>ïr</w><w>habt</w><w><choice><am>v͛</am><ex>ver</ex></choice><choice><orig>i</orig><reg>j</reg></choice>ech<choice><am>n̄</am><ex>en</ex></choice></w></l>
+                    <l n="7666"><lb n="9"/><w><hi rendition="hc:RedStroke">D</hi>az</w><w>iſt</w><w>vör</w><w><choice><orig>v</orig><reg>u</reg></choice>ns</w><w>all<choice><am>n̄</am><ex>en</ex></choice></w><w>geſchech<choice><am>n̄</am><ex>en</ex></choice></w></l>
                 </lg>
                 <lg>
-                    <l n="7667"><lb n="11"/><w><hi rendition="hc:RedStroke">D</hi>az</w><w>ïr</w><w>ſein</w><w>nicht</w><w>mügt</w><w>wi<choice><am>d͛</am><ex>der</ex></choice></w><w>chom<choice><am>ē</am><ex>en</ex></choice></w></l>
-                    <l n="7668"><lb n="12"/><w><hi rendition="hc:RedStroke"><choice><orig>V</orig><reg>U</reg></choice></hi><choice><am>n̄</am><ex>nd</ex></choice></w><w>ſwas</w><w>ïr</w><w>ïr</w><w>habt</w><w>genom<choice><am>ē</am><ex>en</ex></choice></w></l>
+                    <l n="7667"><lb n="10"/><w><hi rendition="hc:RedStroke">D</hi>az</w><w>ïr</w><w>ſein</w><w>nicht</w><w>mügt</w><w>wi<choice><am>d͛</am><ex>der</ex></choice></w><w>chom<choice><am>ē</am><ex>en</ex></choice></w></l>
+                    <l n="7668"><lb n="11"/><w><hi rendition="hc:RedStroke"><choice><orig>V</orig><reg>U</reg></choice></hi><choice><am>n̄</am><ex>nd</ex></choice></w><w>ſwas</w><w>ïr</w><w>ïr</w><w>habt</w><w>genom<choice><am>ē</am><ex>en</ex></choice></w></l>
                 </lg>
                 <lg>
-                    <l n="7669"><lb n="13"/><w><hi rendition="hc:RedStroke">D</hi>az</w><w>ſchült</w><w>ïr</w><w>ïr</w><w>wi<choice><am>d͛</am><ex>der</ex></choice></w><w>geb<choice><am>n̄</am><ex>en</ex></choice></w></l>
-                    <l n="7670"><lb n="14"/><w><hi rendition="hc:RedStroke">W</hi>elt</w><w>ïr</w><w>nach</w><w>gerichte</w><w>leb<choice><am>n̄</am><ex>en</ex></choice></w></l>
+                    <l n="7669"><lb n="12"/><w><hi rendition="hc:RedStroke">D</hi>az</w><w>ſchült</w><w>ïr</w><w>ïr</w><w>wi<choice><am>d͛</am><ex>der</ex></choice></w><w>geb<choice><am>n̄</am><ex>en</ex></choice></w></l>
+                    <l n="7670"><lb n="13"/><w><hi rendition="hc:RedStroke">W</hi>elt</w><w>ïr</w><w>nach</w><w>gerichte</w><w>leb<choice><am>n̄</am><ex>en</ex></choice></w></l>
                 </lg>
                 <lg>
-                    <l n="7671"><lb n="15"/><w><hi rendition="hc:RedStroke">N</hi>ain</w><w>h<choice><am>r͛̄</am><ex>err</ex></choice>e</w><w>ſprach</w><w>ſi</w><w>durch</w><w>got</w></l>
-                    <l n="7672"><lb n="16"/><w><hi rendition="hc:RedStroke">E</hi>z</w><w>ſtet</w><w>ze</w><w>ew<choice><am>m͛</am><ex>erm</ex></choice></w><w>gepot</w></l>
+                    <l n="7671"><lb n="14"/><w><hi rendition="hc:RedStroke">N</hi>ain</w><w>h<choice><am>r͛̄</am><ex>err</ex></choice>e</w><w>ſprach</w><w>ſi</w><w>durch</w><w>got</w></l>
+                    <l n="7672"><lb n="15"/><w><hi rendition="hc:RedStroke">E</hi>z</w><w>ſtet</w><w>ze</w><w>ew<choice><am>m͛</am><ex>erm</ex></choice></w><w>gepot</w></l>
                 </lg>
                 <lg>
-                    <l n="7673"><lb n="17"/><w><hi rendition="hc:RedStroke">P</hi>aidew</w><w>güt</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>auch</w><w>leib</w></l>
-                    <l n="7674"><lb n="18"/><w><hi rendition="hc:RedStroke">E</hi>z</w><w>ſprichet</w><w>dikch</w><w>ein</w><w>weib</w></l>
+                    <l n="7673"><lb n="16"/><w><hi rendition="hc:RedStroke">P</hi>aidew</w><w>güt</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>auch</w><w>leib</w></l>
+                    <l n="7674"><lb n="17"/><w><hi rendition="hc:RedStroke">E</hi>z</w><w>ſprichet</w><w>dikch</w><w>ein</w><w>weib</w></l>
                 </lg>
                 <lg>
-                    <l n="7675"><lb n="19"/><w><hi rendition="hc:RedStroke">D</hi>ez</w><w>ſi</w><w>nicht</w><w>ſprech<choice><am>n̄</am><ex>en</ex></choice></w><w>ſcholde</w></l>
-                    <l n="7676"><lb n="20"/><w><hi rendition="hc:RedStroke">S</hi>wer</w><w>nu</w><w>daz</w><w>rech<choice><am>n̄</am><ex>en</ex></choice></w><w>wolde</w></l>
+                    <l n="7675"><lb n="18"/><w><hi rendition="hc:RedStroke">D</hi>ez</w><w>ſi</w><w>nicht</w><w>ſprech<choice><am>n̄</am><ex>en</ex></choice></w><w>ſcholde</w></l>
+                    <l n="7676"><lb n="19"/><w><hi rendition="hc:RedStroke">S</hi>wer</w><w>nu</w><w>daz</w><w>rech<choice><am>n̄</am><ex>en</ex></choice></w><w>wolde</w></l>
                 </lg>
                 <lg>
-                    <l n="7677"><lb n="21"/><w><hi rendition="hc:RedStroke">D</hi>az</w><w>wïr</w><w>weib</w><w>geſprech<choice><am>n̄</am><ex>en</ex></choice></w></l>
-                    <l n="7678"><lb n="22"/><w><hi rendition="hc:RedStroke">D</hi>er</w><w>müſte</w><w>vil</w><w>rech<choice><am>n̄</am><ex>en</ex></choice></w></l>
+                    <l n="7677"><lb n="20"/><w><hi rendition="hc:RedStroke">D</hi>az</w><w>wïr</w><w>weib</w><w>geſprech<choice><am>n̄</am><ex>en</ex></choice></w></l>
+                    <l n="7678"><lb n="21"/><w><hi rendition="hc:RedStroke">D</hi>er</w><w>müſte</w><w>vil</w><w>rech<choice><am>n̄</am><ex>en</ex></choice></w></l>
                 </lg>
                 <lg>
-                    <l n="7679"><lb n="23"/><w><hi rendition="hc:RedStroke">W</hi>ïr</w><w>weib</w><w>wïr</w><w>bedurff<choice><am>n̄</am><ex>en</ex></choice></w><w>alle</w><w>tag</w></l>
-                    <l n="7680"><lb n="24"/><w><hi rendition="hc:RedStroke">D</hi>az</w><w>man</w><w><choice><orig>v</orig><reg>u</reg></choice>ns</w><w>tumbe</w><w>red</w><w><choice><am>v͛</am><ex>ver</ex></choice>trag</w></l>
+                    <l n="7679"><lb n="22"/><w><hi rendition="hc:RedStroke">W</hi>ïr</w><w>weib</w><w>wïr</w><w>bedurff<choice><am>n̄</am><ex>en</ex></choice></w><w>alle</w><w>tag</w></l>
+                    <l n="7680"><lb n="23"/><w><hi rendition="hc:RedStroke">D</hi>az</w><w>man</w><w><choice><orig>v</orig><reg>u</reg></choice>ns</w><w>tumbe</w><w>red</w><w><choice><am>v͛</am><ex>ver</ex></choice>trag</w></l>
                 </lg>
                 <lg>
-                    <l n="7681"><lb n="25"/><w><hi rendition="hc:RedStroke">W</hi>and</w><w>ſi</w><w><choice><orig>v</orig><reg>u</reg></choice>n<choice><am>d͛</am><ex>der</ex></choice> weil<choice><am>n̄</am><ex>en</ex></choice></w><w>iſt</w></l>
-                    <l n="7682"><lb n="26"/><w><hi rendition="hc:RedStroke">W</hi>aiz</w><w>got</w><w>an</w><w>all<choice><am>n̄</am><ex>en</ex></choice></w><w>arg<choice><am>n̄</am><ex>en</ex></choice></w><w>liſt</w></l>
+                    <l n="7681"><lb n="24"/><w><hi rendition="hc:RedStroke">W</hi>and</w><w>ſi</w><w><choice><orig>v</orig><reg>u</reg></choice>n<choice><am>d͛</am><ex>der</ex></choice> weil<choice><am>n̄</am><ex>en</ex></choice></w><w>iſt</w></l>
+                    <l n="7682"><lb n="25"/><w><hi rendition="hc:RedStroke">W</hi>aiz</w><w>got</w><w>an</w><w>all<choice><am>n̄</am><ex>en</ex></choice></w><w>arg<choice><am>n̄</am><ex>en</ex></choice></w><w>liſt</w></l>
                 </lg>
                 <lg>
-                    <l n="7683"><lb n="27"/><w><hi rendition="hc:RedStroke"><choice><orig>V</orig><reg>U</reg></choice></hi><choice><am>n̄</am><ex>nd</ex></choice></w><w>ſic<choice><am>h͛</am><ex>her</ex></choice>leich</w><w>an</w><w>all<choice><am>n̄</am><ex>en</ex></choice></w><w>hazz</w></l>
+                    <l n="7683"><lb n="26"/><w><hi rendition="hc:RedStroke"><choice><orig>V</orig><reg>U</reg></choice></hi><choice><am>n̄</am><ex>nd</ex></choice></w><w>ſic<choice><am>h͛</am><ex>her</ex></choice>leich</w><w>an</w><w>all<choice><am>n̄</am><ex>en</ex></choice></w><w>hazz</w></l>
                     <cb n="b"/>
                     <l n="7684"><lb n="1"/><w><hi rendition="hc:RedStroke">W</hi>and</w><w>wïr</w><w join="right">en</w><w join="left">chunn<choice><am>ē</am><ex>en</ex></choice></w><w>lai<choice><am>d͛</am><ex>der</ex></choice></w><w>paz</w></l>
                 </lg>
@@ -15772,7 +15772,6 @@
                 <lg>
                     <l n="7693"><lb n="10"/><w><hi rendition="hc:RedStroke">S</hi>o</w><w>gar</w><w>her</w><w>ze</w><w>mïr</w><w><choice><am>v͛</am><ex>ver</ex></choice>lan</w></l>
                     <l n="7694"><lb n="11"/><w><hi rendition="hc:RedStroke">S</hi>i</w><w>müz</w><w>ïrn</w><w>tail</w><w>zu</w><w>rechte</w><w>han</w></l>
-                    <!--Faltan los vv. 7695-7702     -->
                 </lg>
                 <lg>
                     <l n="7703"><lb n="12"/><w><hi rendition="hc:RedStroke">D</hi>izz</w><w>redt</w><w>er</w><w>wand</w><w>er</w><w>wol</w><w>weſte</w></l>
@@ -15938,6 +15937,7 @@
                 <lg>
                     <l n="7779"><lb n="19"/><w><hi rendition="hc:RedStroke">E</hi>in</w><w>vil</w><w><choice><orig>v</orig><reg>u</reg></choice>nlange</w><w>ſt<choice><am>ū</am><ex>un</ex></choice>t</w></l>
                     <l n="7780"><lb n="20"/><w><hi rendition="hc:RedStroke"><choice><orig>V</orig><reg>U</reg></choice></hi>ncz</w><w>daz</w><w>ſi</w><w>ped</w><w>wurd<choice><am>n̄</am><ex>en</ex></choice></w><w>geſ<choice><am>ū</am><ex>un</ex></choice>t</w></l>
+                    <!--Revisado Victor 21/3/2021     -->
                 </lg>
                 <lg>
                     <l n="7781"><lb/><w><hi rendition="hc:RedStroke"/></w><w/><w/><w/><w/><w/></l>
