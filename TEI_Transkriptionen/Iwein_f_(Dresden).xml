@@ -13929,9 +13929,9 @@
                 </lg>
                 <lg>
                     <lb n="26"/>
-                    <delSpan spanTo="#z_delSpan_6769_1" rendition="hc:ImplicitlyDeleted"/>
+                    <delSpan spanTo="#f_delSpan_6769_1" rendition="hc:ImplicitlyDeleted"/>
                     <l n="6768,1" hei:replicates="#xpath(//l[@n='6769'])"><w><hi rendition="hc:RedStroke">S</hi>eit</w><w>er</w><w>in</w><w>erlöſte</w></l>
-                    <anchor xml:id="z_delSpan_6769_1"/>
+                    <anchor xml:id="f_delSpan_6769_1"/>
                     <pb n="70v"/>
                     <cb n="a"/>
                     <l n="6769"><lb n="1"/><w><hi rendition="hc:RedStroke hc:Cadel">S</hi>eit</w><w>daz</w><w>er</w><w>in</w><w>erlöſte</w></l>
@@ -15938,7 +15938,6 @@
                 <lg>
                     <l n="7779"><lb n="19"/><w><hi rendition="hc:RedStroke">E</hi>in</w><w>vil</w><w><choice><orig>v</orig><reg>u</reg></choice>nlange</w><w>ſt<choice><am>ū</am><ex>un</ex></choice>t</w></l>
                     <l n="7780"><lb n="20"/><w><hi rendition="hc:RedStroke"><choice><orig>V</orig><reg>U</reg></choice></hi>ncz</w><w>daz</w><w>ſi</w><w>ped</w><w>wurd<choice><am>n̄</am><ex>en</ex></choice></w><w>geſ<choice><am>ū</am><ex>un</ex></choice>t</w></l>
-                    <!--Revisado Victor 21/3/2021     -->
                 </lg>
                 <lb n="21"/>
                 <label ana="hc:SummaryLabel"><hi hei:color="Red"><w>wie</w><w>her</w><w>ibein</w><w>ſich</w><w>dez</w><w>beriet</w><w>daz</w> <lb n="22"/> <w>er</w><w>ſei<choice><am>n͛</am><ex>ner</ex></choice></w><w>fraw<choice><am>ē</am><ex>en</ex></choice></w><w>l<choice><am>ā</am><ex>an</ex></choice>t</w><w>beſüch<choice><am>n̄</am><ex>en</ex></choice></w><w>wolt</w></hi></label>
@@ -16108,8 +16107,8 @@
                 </lg>
                 <lg>
                     <l n="7859"><lb n="4"/><w><hi rendition="hc:RedStroke">D</hi>er</w><w>diſew</w><w>pürd</w><w>an</w><w>ſich</w><w>neme</w></l>
-                    <l n="7860"><lb n="5"/><add hei:placeRef="hc:ColumnMarginLeft"><w>an</w><w>ſmach</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>an</w><w>le<add hei:placeRef="hc:AboveLine">ide</add></w><w>mee</w></add></l>
-                    <!--Am Rande eingetragener Vers; die über dem vorletzten Wort stehende Hinzufügung ist nicht deutlich zu erkennen.     -->
+                    <addSpan hei:placeRef="hc:PageMarginLeft" spanTo="#f_addSpan_7860_1"/>
+                    <lb n="1"/><l n="7860"><w>an</w><w>ſmach</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><lb n="2"/><w>an</w><unclear reason="faded"><w>leme</w></unclear></l><anchor xml:id="f_addSpan_7860_1"/>
                 </lg>
                 <lg>
                     <l n="7861"><lb n="6"/><w><hi rendition="hc:RedStroke">E</hi>z</w><w>mag</w><w>wol</w><w>ſein</w><w>daz</w><w>ez</w><w>geſchicht</w></l>
@@ -16129,7 +16128,7 @@
                 </lg>
                 <lg>
                     <l n="7869"><lb n="14"/><w><hi rendition="hc:RedStroke">D</hi>en</w><w>Rit<choice><am>t͛</am><ex>ter</ex></choice></w><w>der</w><w>den</w><w>Riſ<choice><am>n̄</am><ex>en</ex></choice></w><w>ſlüg</w></l>
-                    <l n="7870"><lb n="15"/><w><hi rendition="hc:RedStroke"><choice><orig>V</orig><reg>U</reg></choice></hi><choice><am>n̄</am><ex>nd</ex></choice></w><w>der</w><w>mich</w><w>laſ<choice><am>t͛</am><ex>ter</ex></choice>s</w><w><choice><orig>v̈</orig><reg>ü</reg></choice><choice><am>b͛</am><ex>ber</ex></choice> trüg</w></l>
+                    <l n="7870"><lb n="15"/><w><hi rendition="hc:RedStroke"><choice><orig>V</orig><reg>U</reg></choice></hi><choice><am>n̄</am><ex>nd</ex></choice></w><w>der</w><w>mich</w><w>laſ<choice><am>t͛</am><ex>ter</ex></choice>s</w><w><choice><orig>v̈</orig><reg>ü</reg></choice><choice><am>b͛</am><ex>ber</ex></choice>trüg</w></l>
                 </lg>
                 <lg>
                     <l n="7871"><lb n="16"/><w><hi rendition="hc:RedStroke">D</hi>er</w><w>mich</w><w>von</w><w>dem</w><w>röſte</w></l>
@@ -16137,7 +16136,7 @@
                 </lg>
                 <lg>
                     <l n="7873"><lb n="18"/><w><hi rendition="hc:RedStroke">D</hi>er</w><w>euch</w><w>den</w><w>ſelb<choice><am>n̄</am><ex>en</ex></choice></w><w>ſüchte</w></l>
-                    <l n="7874"><lb n="19"/><w><hi rendition="hc:RedStroke">O</hi>b</w><w>er</w><w>ch<choice><am>ȫ</am><ex>om</ex></choice>m<choice><am>ē</am><ex>en</ex></choice></w><w>gerüchte</w></l>
+                    <l n="7874"><lb n="19"/><w><hi rendition="hc:RedStroke">O</hi>b</w><w>er</w><w>ch<choice><am>ō</am><ex>om</ex></choice>m<choice><am>ē</am><ex>en</ex></choice></w><w>gerüchte</w></l>
                 </lg>
                 <lg>
                     <l n="7875"><lb n="20"/><w><hi rendition="hc:RedStroke">S</hi>o</w><w>wär</w><w>ez</w><w>nind<choice><am>t͛</am><ex>ert</ex></choice></w><w>paz</w><w>bewant</w></l>
@@ -16159,7 +16158,6 @@
                 <lg>
                     <l n="7883"><lb n="3"/><w><hi rendition="hc:RedStroke"><choice><orig>V</orig><reg>U</reg></choice></hi><choice><am>n̄</am><ex>nd</ex></choice></w><w>mit</w><w>fleiſleich<choice><am>n̄</am><ex>en</ex></choice></w><w>ding<choice><am>n̄</am><ex>en</ex></choice></w></l>
                     <l n="7884"><lb n="4"/><w><hi rendition="hc:RedStroke">D</hi>ar</w><w>nach</w><w>welt</w><w>helff<choice><am>n̄</am><ex>en</ex></choice></w><w>ring<choice><am>n̄</am><ex>en</ex></choice></w></l>
-                    <!--Falta el pareado V. 7885s.     -->
                 </lg>
                 <lg>
                     <l n="7887"><lb n="5"/><w><hi rendition="hc:RedStroke">D</hi>az</w><w>er</w><w>ſei<choice><am>n͛</am><ex>ner</ex></choice></w><w>fraw<choice><am>ē</am><ex>en</ex></choice></w><w>minne</w></l>
@@ -16236,11 +16234,9 @@
                 <lg>
                     <l n="7921"><lb n="15"/><w><hi rendition="hc:RedStroke">D</hi>er</w><w>red</w><w>ich</w><w>nicht</w><w>enpïr</w></l>
                     <l n="7922"><lb n="16"/><w><hi rendition="hc:RedStroke">S</hi>o</w><w>ſprechet</w><w>fraw</w><w>nach</w><w>mïr</w></l>
-                    <!--Falta el pareado V. 7923s.     -->
                 </lg>
                 <lg>
-                    <l n="7925"><lb n="17"/><metamark ana="hc:DecorativeMarker"><hi hei:color="Red">T</hi></metamark><w><hi rendition="hc:RedStroke">O</hi>b</w><w>der</w><w>Rit<choice><am>t͛</am><ex>ter</ex></choice></w><w>her</w><w>czü</w><w>chümpt</w></l>
-                    <!--Intenté tokenizar el elemento al lado de Ob, pero dudo de que esté bien?    -->
+                    <l n="7925"><lb n="17"/><metamark ana="hc:DecorativeMarker"><hi hei:color="Red">¶</hi></metamark><w><hi rendition="hc:RedStroke">O</hi>b</w><w>der</w><w>Rit<choice><am>t͛</am><ex>ter</ex></choice></w><w>her</w><w>czü</w><w>chümpt</w></l>
                     <l n="7926"><lb n="18"/><w><hi rendition="hc:RedStroke"><choice><orig>V</orig><reg>U</reg></choice></hi><choice><am>n̄</am><ex>nd</ex></choice></w><w>mïr</w><w>ze</w><w>mei<choice><am>n͛</am><ex>ner</ex></choice></w><w>nöt</w><w>frumt</w></l>
                 </lg>
                 <lg>
@@ -16281,7 +16277,6 @@
                 </lg>
                 <lg>
                     <l n="7946"><lb n="12"/><w><hi rendition="hc:RedStroke">W</hi>a</w><w>ſi</w><w>in</w><w>nu</w><w>funde</w></l>
-                    <!--Falta el V. 7945     -->
                 </lg>
                 <lg>
                     <l n="7947"><lb n="13"/><w><hi rendition="hc:RedStroke"><choice><orig>V</orig><reg>U</reg></choice></hi><choice><am>n̄</am><ex>nd</ex></choice></w><w>vand</w><w>in</w><w>chürczleic<choice><am>h͛</am><ex>her</ex></choice></w><w>ſtund</w></l>
@@ -16409,6 +16404,7 @@
                     <pb n="83r"/>
                     <cb n="a"/>
                     <l n="8004"><lb n="1"/><w><hi rendition="hc:RedStroke hc:Cadel">E</hi>z</w><w><choice><am>v͛</am><ex>ver</ex></choice>dienten</w><w>ni<choice><am>m͛̄</am><ex>mmer</ex></choice></w><w>tauſnt</w><w>weib</w></l>
+                    <!--Revisado Victor 22/03/2021     -->
                 </lg>
                 <lg>
                     <l n="8005"><lb n="2"/><w><hi rendition="hc:RedStroke">D</hi>az</w><w>ïr</w><w>durch</w><w>mich</w><w>habt</w><w>getan</w></l>
