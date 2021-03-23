@@ -15155,16 +15155,16 @@
                 <pb n="97v"/>
                 <cb n="a"/>
                 <lg>
-                    <l n="7567"><lb n="1"/><w><supplied><hei:initial ana="hc:Lombard" hei:heightLines="4">H</hei:initial></supplied><hi rendition="hc:Cadel">Erre</hi></w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>lieber</w><w><hi rendition="hc:Cadel">Beſell</hi></w><w>mein</w></l>
+                    <l n="7567"><lb n="1"/><w><supplied><hei:initial ana="hc:Lombard" hei:heightLines="4">H</hei:initial></supplied><hi rendition="hc:Cadel">Erre</hi></w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>lieber</w><w><hi rendition="hc:Cadel">Geſell</hi></w><w>mein</w></l>
                     <l n="7568"><lb n="2"/><w>Sprach</w><w>do</w><w>her</w><w>Gabein</w></l>
                 </lg>
                 <lg>
-                    <l n="7569"><lb n="3"/><w>Das</w><w>ſich</w><w>chame</w><w>mein</w><w>Ere</w></l>
+                    <l n="7569"><lb n="3"/><w>Das</w><w>ſich</w><w>chaine</w><w>mein</w><w>Ere</w></l>
                     <l n="7570"><lb n="4"/><w>Mit</w><w>ewrm</w><w>laſſter</w><w>mere</w></l>
                 </lg>
                 <lg>
                     <l n="7571"><lb n="5"/><w>Des</w><w>preyſes</w><w>hab</w><w>ich</w><w>gern</w><w>rat</w></l>
-                    <l n="7572"><lb n="6"/><w>Wan</w><w>es</w><w><choice><orig>v</orig><reg>u</reg></choice>ntter</w><w><choice><orig>v</orig><reg>u</reg></choice>ns</w><w>alſo</w><w>nit</w><w>ſtat</w></l>
+                    <l n="7571,1"><lb n="6"/><w>Wan</w><w>es</w><w><choice><orig>v</orig><reg>u</reg></choice>ntter</w><w><choice><orig>v</orig><reg>u</reg></choice>ns</w><w>alſo</w><w>nit</w><w>ſtat</w></l>
                 </lg>
                 <lg>
                     <l n="7573"><lb n="7"/><w>Was</w><w>hulf</w><w>das</w><w>ich</w><w>mich</w><w>ſelb</w><w>truge</w></l>
@@ -15193,7 +15193,6 @@
                 <lg>
                     <l n="7585"><lb n="19"/><w>Ee</w><w>ir</w><w>mich</w><w>alſo</w><w>beſtuende</w><w>mer</w></l>
                     <l n="7586"><lb n="20"/><w>Zwar</w><w>ich</w><w>ſichert</w><w>euch</w><w>ee</w></l>
-                    <!--faltan versos 7587-7588     -->
                 </lg>
                 <lg>
                     <l n="7589"><lb n="21"/><w>Sprach</w><w>Her</w><w>Gabein</w></l>
@@ -15216,11 +15215,11 @@
                     <l n="7598"><lb n="30"/><w>Den</w><w>ſy</w><w>da</w><w>vor</w><w>ſahen</w></l>
                 </lg>
                 <lg>
-                    <l n="7599"><lb n="31"/><w><supplied><hei:initial ana="hc:Lombard" hei:heightLines="4">D</hei:initial></supplied>Es</w><w>man</w><w>in</w><w>vil</w><w>ſchier</w><w><choice><am>v͛</am><ex>ver</ex></choice><choice><orig>i</orig><reg>j</reg></choice>ach</w></l>
+                    <l n="7599"><lb n="31"/><metamark ana="hc:CueInitial ">d</metamark><w><supplied><hei:initial ana="hc:Lombard" hei:heightLines="4">D</hei:initial></supplied>Es</w><w>man</w><w>in</w><w>vil</w><w>ſchier</w><w><choice><am>v͛</am><ex>ver</ex></choice><choice><orig>i</orig><reg>j</reg></choice>ach</w></l>
                     <l n="7600"><lb n="32"/><w>Sein</w><w>frewndt</w><w>her</w><w>Gawein</w><w>ſprach</w></l>
                 </lg>
                 <lg>
-                    <l n="7601"><lb n="33"/><w>Herre</w><w>wir</w><w>ſulln</w><w>euchs</w><w><choice><orig>u</orig><reg>v</reg></choice>il</w><w>gern</w><w>ſagen</w></l>
+                    <l n="7601"><lb n="33"/><w>Herre</w><w>wir</w><w>ſulln</w><w join="right">euch</w><w join="left">s</w><w><choice><orig>u</orig><reg>v</reg></choice>il</w><w>gern</w><w>ſagen</w></l>
                     <l n="7602"><lb n="34"/><w>Das</w><w>ir</w><w><choice><orig>v</orig><reg>u</reg></choice>ns</w><w>nit</w><w>habt</w><w>fur</w><w>zagn</w></l>
                 </lg>
                 <lg>
@@ -15229,7 +15228,7 @@
                 </lg>
                 <lg>
                     <l n="7605"><lb n="37"/><w>Des</w><w>champfes</w><w>chomen</w><w>wellen</w></l>
-                    <l n="7606"><lb n="38"/><w>Wir</w><w>warn</w><w>walend</w><w>geſellen</w></l>
+                    <l n="7606"><lb n="38"/><w>Wir</w><w>warn</w><w>weilend</w><w>geſellen</w></l>
                 </lg>
                 <lg>
                     <l n="7607"><lb n="39"/><w>Das</w><w>was</w><w><choice><orig>v</orig><reg>u</reg></choice>ns</w><w>laider</w><w><choice><orig>v</orig><reg>u</reg></choice>nchundt</w></l>
@@ -15237,7 +15236,7 @@
                 </lg>
                 <lg>
                     <l n="7609"><lb n="41"/><w>N<choice><orig>w</orig><reg>u</reg></choice></w><w>wanet</w><w>nit</w><w>has</w><w><choice><orig>v</orig><reg>u</reg></choice>ntter</w><w><choice><orig>v</orig><reg>u</reg></choice>ns</w><w>zwain</w></l>
-                    <l n="7610"><lb n="42"/><w>Ob</w><w>ewr</w><w>drewns</w><w>her</w><w>Gabein</w></l>
+                    <l n="7610"><lb n="42"/><w>Ob</w><w>ewr</w><w>frewnd</w><w>her</w><w>Gabein</w></l>
                 </lg>
                 <lg>
                     <l n="7611"><lb n="43"/><w>Hat</w><w>geſtatn</w><w>wider</w><w>in</w></l>
@@ -15285,7 +15284,7 @@
                     <l n="7632"><lb n="18"/><w>So</w><w>iſt</w><w>mir</w><w>doch</w><w>lieber</w><w>ain</w><w>michel</w><w>tail</w></l>
                 </lg>
                 <lg>
-                    <l n="7633"><lb n="19"/><w>Nach</w><w>groſſem</w><w><choice><orig>v</orig><reg>u</reg></choice>ngeſelle</w></l>
+                    <l n="7633"><lb n="19"/><w>Nach</w><w>groſſem</w><w><choice><orig>v</orig><reg>u</reg></choice>ngefelle</w></l>
                     <l n="7634"><lb n="20"/><w>Das</w><w>mich</w><w>der</w><w>mein</w><w>geſelle</w></l>
                 </lg>
                 <lg>
@@ -15313,7 +15312,7 @@
                     <l n="7646"><lb n="32"/><w>Mit</w><w>ſein</w><w>ſelbs</w><w>ern</w></l>
                 </lg>
                 <lg>
-                    <l n="7647"><lb n="33"/><w>Der</w><w>frewd</w><w>der</w><w>Chunig</w><w>Arttus</w><w>ſich</w></l>
+                    <l n="7647"><lb n="33"/><w>Des</w><w>frewd</w><w>der</w><w>Chunig</w><w>Arttus</w><w>ſich</w></l>
                     <l n="7648"><lb n="34"/><w>Er</w><w>ſprach</w><w>ir</w><w>mueſſet</w><w>an</w><w>mich</w></l>
                 </lg>
                 <lg>
@@ -15352,7 +15351,7 @@
                 </lg>
                 <lg>
                     <l n="7665"><lb n="3"/><w>Er</w><w>ſprach</w><w>fraw</w><w>ir</w><w>habt</w><w><choice><am>v͛</am><ex>ver</ex></choice><choice><orig>i</orig><reg>j</reg></choice>ehen</w></l>
-                    <l n="7666"><lb n="4"/><w>Das</w><w>iſt</w><w>ſo</w><w>var</w><w>vil</w><w>volckes</w><w>geschehen</w></l>
+                    <l n="7666"><lb n="4"/><w>Das</w><w>iſt</w><w>ſo</w><w>vor</w><w>vil</w><w>volckes</w><w>geſchehen</w></l>
                 </lg>
                 <lg>
                     <l n="7667"><lb n="5"/><w>Das</w><w>ir</w><w>ſein</w><w>nit</w><w>muget</w><w>wider</w><w>chomen</w></l>
@@ -15363,7 +15362,7 @@
                     <l n="7670"><lb n="8"/><w>Welt</w><w>ir</w><w>nach</w><w>gerichte</w><w>lebn</w></l>
                 </lg>
                 <lg>
-                    <l n="7671"><lb n="9"/><w>Zain</w><w>herr</w><w>ſprach</w><w>ſy</w><w>durch</w><w>got</w></l>
+                    <l n="7671"><lb n="9"/><w>Nain</w><w>herr</w><w>ſprach</w><w>ſy</w><w>durch</w><w>got</w></l>
                     <l n="7672"><lb n="10"/><w>Es</w><w>ſtet</w><w>in</w><w>ewrm</w><w>gepot</w></l>
                 </lg>
                 <lg>
@@ -15376,17 +15375,15 @@
                 </lg>
                 <lg>
                     <l n="7677"><lb n="15"/><w>Das</w><w>wir</w><w>weiber</w><w>ſprechen</w></l>
-                    <l n="7678"><lb n="16"/><w>Der</w><w>hiet</w><w join="right">ze</w><w join="left">vil</w><w>zerechen</w></l>
+                    <l n="7678"><lb n="16"/><w>Der</w><w>hiet</w><w join="right">ze</w><w join="left">vil</w><w join="right">ze</w><w join="left">rechen</w></l>
                 </lg>
                 <lg>
                     <l n="7679"><lb n="17"/><w>Wir</w><w>weib</w><w>bedurffen</w><w>alle</w><w>tag</w></l>
-                    <l n="7680"><lb n="18"/><w>Das</w><w>man</w><w><choice><orig>v</orig><reg>u</reg></choice>ns</w><w>tumbe</w><w>red</w><w>vertrag</w></l>
-                    <!--escrita á marxe aparece unha variación deste último verso-->
+                    <l n="7680"><lb n="18"/><w>Das</w><w>man</w><w><choice><orig>v</orig><reg>u</reg></choice>ns</w><w>tumbe</w><w>red</w><w>vertrag</w><note ana="hc:Gloss" resp="later hand" target="#xpath(//l[@n='7680'])">Glosse von späterer Hand: "Das man vns auffs maul ſchlag"</note></l>
                 </lg>
                 <lg>
                     <l n="7681"><lb n="19"/><w>Wan</w><w>ſy</w><w><choice><orig>v</orig><reg>u</reg></choice>ntterweiln</w><w>iſt</w></l>
                     <l n="7682"><lb n="20"/><w>Wais</w><w>got</w><w>an</w><w>argn</w><w>liſt</w><note ana="hc:TranscriptionNote" resp="Victor">V. 7674–7682 von späterer Hand unterstrichen</note></l>
-                    <!--faltan versos 7683-7684     -->
                 </lg>
                 <lg>
                     <l n="7685"><lb n="21"/><w>Wie</w><w>ich</w><w>mit</w><w>wortn</w><w>hab</w><w>gevarn</w></l>
@@ -15394,7 +15391,7 @@
                 </lg>
                 <lg>
                     <l n="7687"><lb n="23"/><w>Das</w><w>ir</w><w>mir</w><w>nit</w><w>gewalt</w><w>tuet</w></l>
-                    <l n="7688"><lb n="24"/><w>Er</w><w>ſprach</w><w>ich</w><w>laſs</w><w>euch</w><w>ewrn</w><w><del rendition="hc:Strikethrough">t</del>guet</w></l>
+                    <l n="7688"><lb n="24"/><w>Er</w><w>ſprach</w><w>ich</w><w>laſs</w><w>euch</w><w>ewrn</w><w><subst><del rendition="hc:Adapted hc:Strikethrough">m</del><add rendition="hc:Adapted">g</add></subst>uet</w></l>
                 </lg>
                 <lg>
                     <l n="7689"><lb n="25"/><w><choice><orig>V</orig><reg>U</reg></choice>nd</w><w>ewr</w><w>ſweſter</w><w>hab</w><w>das</w><w>ir</w></l>
@@ -15402,12 +15399,11 @@
                 </lg>
                 <lg>
                     <l n="7691"><lb n="27"/><w>Auch</w><w>hat</w><w>ſich</w><w>dy</w><w>guet</w></l>
-                    <l n="7692"><lb n="28"/><w>Mit</w><w>ain</w><w>valltigem</w><w>muet</w></l>
+                    <l n="7692"><lb n="28"/><w>Mit</w><w>ain valltigem</w><w>muet</w></l>
                 </lg>
                 <lg>
                     <l n="7693"><lb n="29"/><w>So</w><w>gar</w><w>her</w><w>zu</w><w>mir</w><w>verlan</w></l>
                     <l n="7694"><lb n="30"/><w>Sy</w><w>mues</w><w>irn</w><w>tayl</w><w>ze</w><w>recht</w><w>han</w></l>
-                    <!--versos adiantados 7703-7716     -->
                 </lg>
                 <lg>
                     <l n="7703"><lb n="31"/><w><supplied><hei:initial ana="hc:Lombard" hei:heightLines="4">D</hei:initial></supplied>As</w><w>redet</w><w>er</w><w>wan</w><w>er</w><w>weſte</w></l>
@@ -15467,8 +15463,8 @@
                     <l n="7722"><lb n="10"/><w>Do</w><w>ſprach</w><w>der</w><w>Chunig</w><w>do</w><w>das</w><w>mär</w><w><choice><am>v͛</am><ex>ver</ex></choice>gie</w></l>
                 </lg>
                 <lg>
-                    <l n="7723"><lb n="11"/><w><supplied><hei:initial ana="hc:Lombard" hei:heightLines="4"/></supplied>Rewndt</w><w>Gabein</w><w>entwappen</w><w>dich</w></l>
-                    <l n="7724"><lb n="12"/><w>So</w><w>entwappend</w><w>auch</w><w>her</w><w>Ybein</w><w>ſich</w></l>
+                    <l n="7723"><lb n="11"/><w><supplied><hei:initial ana="hc:Lombard" hei:heightLines="4">F</hei:initial></supplied>Rewndt</w><w>Gabein</w><w>entwappen</w><w>dich</w></l>
+                    <l n="7724"><lb n="12"/><w>So</w><w>entwappend</w><w>auch</w><w>her</w><w>ybein</w><w>ſich</w></l>
                 </lg>
                 <lg>
                     <l n="7725"><lb n="13"/><w>Wan</w><w>euch</w><w>iſt</w><w>paidn</w><w>rue</w><w>not</w></l>
@@ -15495,7 +15491,7 @@
                     <l n="7736"><lb n="24"/><w>Durch</w><w>behalltn</w><w>den</w><w>leib</w></l>
                 </lg>
                 <lg>
-                    <l n="7737"><lb n="25"/><w><choice><orig>V</orig><reg>U</reg></choice>ntzt</w><w>mein</w><w>herr</w><w>Ybein</w><w>ſprach</w></l>
+                    <l n="7737"><lb n="25"/><w><choice><orig>V</orig><reg>U</reg></choice>ntzt</w><w>mein</w><w>herr</w><w>ybein</w><w>ſprach</w></l>
                     <l n="7738"><lb n="26"/><w>Er</w><w>tuet</w><w>euch</w><w>chain</w><w><choice><orig>v</orig><reg>u</reg></choice>ngemach</w></l>
                 </lg>
                 <lg>
@@ -15527,7 +15523,7 @@
                     <l n="7752"><lb n="40"/><w>I<subst><del rendition="hc:Adapted">r</del><add rendition="hc:Adapted">s</add></subst></w><w>het</w><w>durch</w><w>mich</w><w>ſayt</w><w>ſy</w><w>mir</w></l>
                 </lg>
                 <lg>
-                    <l n="7753"><lb n="41"/><w>De<subst><del rendition="hc:Adapted">s</del><add rendition="hc:Adapted">r</add></subst></w><w>ritter</w><w>mit</w><w>dem</w><w>lebm</w><w>getan</w></l>
+                    <l n="7753"><lb n="41"/><w>De<subst><del rendition="hc:Adapted">s</del><add rendition="hc:Adapted">r</add></subst></w><w>ritter</w><w>mit</w><w>dem</w><w>lebin</w><w>getan</w></l>
                     <l n="7754"><lb n="42"/><w>Do</w><w>wolt</w><w>ir</w><w>mich</w><w>nit</w><w>wiſſn</w><w>lan</w></l>
                 </lg>
                 <lg>
@@ -15536,12 +15532,12 @@
                 </lg>
                 <lg>
                     <l n="7757"><lb n="45"/><w>Ich</w><w>weſſt</w><w>nit</w><w>wie</w><w>oder</w><w>wem</w></l>
-                    <l n="7758"><lb n="46"/><w>Wan</w><w>ich</w><w>mainde</w><w>es</w><w>hintz</w><w>dem</w></l>
+                    <l n="7758"><lb n="46"/><w>Wan</w><w>ich</w><w>mainde</w><w>es</w><w join="right">hin</w><w join="left">tz</w><w>dem</w></l>
                 </lg>
                 <pb n="98v"/>
                 <cb n="a"/>
                 <lg>
-                    <l n="7759"><lb n="1"/><w><hi rendition="hc:Cadel">Der</hi></w><w>durch</w><w>mich</w><w>beſtuend</w><w>dy</w><w><hi rendition="hc:Cadel">Not</hi></w></l>
+                    <l n="7759"><lb n="1"/><w><hi rendition="hc:Cadel">Der</hi></w><w>durch</w><w>mich</w><w>beſtuend</w><w>dy</w><w><hi>Not</hi></w></l>
                     <l n="7760"><lb n="2"/><w>Ich</w><w>diene</w><w>im</w><w>an</w><w>meinen</w><w>tod</w></l>
                 </lg>
                 <lg>
@@ -15561,7 +15557,7 @@
                     <l n="7768"><lb n="10"/><w>Frewndſchaft</w><w>ertzaign</w><w>chan</w></l>
                 </lg>
                 <lg>
-                    <l n="7769"><lb n="11"/><w join="right">Ze</w><w join="left">hand</w><w>ward</w><w>in</w><w>paidn</w></l>
+                    <l n="7769"><lb n="11"/><w>Zehand</w><w>ward</w><w>in</w><w>paidn</w></l>
                     <l n="7770"><lb n="12"/><w>Ain</w><w>rwe</w><w>beſchaidn</w></l>
                 </lg>
                 <lg>
@@ -15585,7 +15581,7 @@
                     <l n="7780"><lb n="22"/><w><choice><orig>V</orig><reg>U</reg></choice>ntzt</w><w>ſy</w><w>ped</w><w>wurden</w><w>geſunde</w></l>
                 </lg>
                 <lg>
-                    <l n="7781"><lb n="23"/><w><choice><orig>V</orig><reg>U</reg></choice>nd</w><w>als</w><w>hern</w><w>Ybein</w><w>ward</w><w>gegebn</w></l>
+                    <l n="7781"><lb n="23"/><w><choice><orig>V</orig><reg>U</reg></choice>nd</w><w>als</w><w>hern</w><w>ybein</w><w>ward</w><w>gegebn</w></l>
                     <l n="7782"><lb n="24"/><w>Chraft</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>geſundes</w><w>lebn</w></l>
                 </lg>
                 <lg>
@@ -15611,18 +15607,17 @@
                 <lg>
                     <l n="7793"><lb n="35"/><w>So</w><w>wais</w><w>ich</w><w>nit</w><w>wie</w><w>ich</w><w>ir</w><w>mine</w></l>
                     <l n="7794"><lb n="36"/><w>Imer</w><w>mer</w><w>gewine</w></l>
-                    <!--faltan versos 7795-7796     -->
                 </lg>
                 <lg>
                     <l n="7797"><lb n="37"/><w>Ich</w><w>bechumer</w><w>mich</w><w join="right">da</w><w join="left">von</w></l>
                     <l n="7798"><lb n="38"/><w>So</w><w>pin</w><w>ich</w><w>chumer</w><w>wol</w><w>gewan</w></l>
                 </lg>
                 <lg>
-                    <l n="7799"><lb n="39"/><w><choice><orig>V</orig><reg>U</reg></choice>nd</w><w>life</w><w>in</w><w>gern</w><w>churtz</w><w>tage</w></l>
+                    <l n="7799"><lb n="39"/><w><choice><orig>V</orig><reg>U</reg></choice>nd</w><w>lite</w><w>in</w><w>gern</w><w>churtz</w><w>tage</w></l>
                     <l n="7800"><lb n="40"/><w>Dan</w><w>das</w><w>ich</w><w>lenger</w><w>chumer</w><w>trage</w></l>
                 </lg>
                 <lg>
-                    <l n="7801"><lb n="41"/><w>Auch</w><w>tuen</w><w>ich</w><w>chumer</w><w>miner</w><w>me</w></l>
+                    <l n="7801"><lb n="41"/><w>Auch</w><w>tuen</w><w>ich</w><w>chumer</w><w>nimer</w><w>me</w></l>
                     <l n="7802"><lb n="42"/><w>Ir</w><w>tue</w><w>des</w><w>chumer</w><w>auch</w><w>ſo</w><w>we</w></l>
                 </lg>
                 <lg>
@@ -15635,7 +15630,7 @@
                 </lg>
                 <cb n="b"/>
                 <lg>
-                    <l n="7807"><lb n="1"/><w><hi rendition="hc:Cadel">Z<choice><orig>w</orig><reg>u</reg></choice></hi></w><w>hofe</w><w>noch</w><w><hi rendition="hc:Cadel">anderſwo</hi></w></l>
+                    <l n="7807"><lb n="1"/><w><hi rendition="hc:Cadel">Z<choice><orig>w</orig><reg>u</reg></choice></hi></w><w>hofe</w><w>noch</w><w><hi>anderſwo</hi></w></l>
                     <l n="7808"><lb n="2"/><w><choice><orig>V</orig><reg>U</reg></choice>nd</w><w>macht</w><w>ain</w><w>kumerlichs</w><w>we<choice><am>t͛</am><ex>ter</ex></choice></w><w>do</w></l>
                 </lg>
                 <lg>
@@ -15679,7 +15674,7 @@
                     <l n="7828"><lb n="22"/><w>Dyſer</w><w>ding</w><w>ze</w><w>rate</w></l>
                 </lg>
                 <lg>
-                    <l n="7829"><lb n="23"/><w>Wo</w><w>ir</w><w>den</w><w>man</w><w>windet</w></l>
+                    <l n="7829"><lb n="23"/><w>Wo</w><w>ir</w><w>den</w><w>man</w><w>vindet</w></l>
                     <l n="7830"><lb n="24"/><w>Mit</w><w>dem</w><w>ir</w><w><choice><orig>v</orig><reg>u</reg></choice>berwindet</w></l>
                 </lg>
                 <lg>
@@ -15725,6 +15720,7 @@
                 <lg>
                     <l n="7851"><lb n="45"/><w>Ich</w><w>pin</w><w>ain</w><w>weib</w><w>nam</w><w>ich</w><w>mich</w><w>an</w></l>
                     <l n="7852"><lb n="46"/><w join="right">Ze</w><w join="left">ratn</w><w>als</w><w>ain</w><w>weyſer</w><w>man</w></l>
+                    <!--Revisado Victor 23/3/2021     -->
                 </lg>
                 <pb n="99r"/>
                 <cb n="a"/>
