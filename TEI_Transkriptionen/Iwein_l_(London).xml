@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://digi.ub.uni-heidelberg.de/schema/tei/heiEDITIONS/tei_hes.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://digi.ub.uni-heidelberg.de/schema/tei/heiEDITIONS/tei_hes.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:hei="https://digi.ub.uni-heidelberg.de/schema/tei/heiEDITIONS" ana="hc:IWDDocument">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://digi.ub.uni-heidelberg.de/schema/tei/heiEDITIONS/tei_hes.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://digi.ub.uni-heidelberg.de/schema/tei/heiEDITIONS/tei_hes.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:hei="https://digi.ub.uni-heidelberg.de/schema/tei/heiEDITIONS" ana="hc:IWDDocument">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -35,6 +32,398 @@
             </listPrefixDef>
         <hei:elementsWithTokenizedContent include="l head ab trailer"/></encodingDesc>
     </teiHeader>
+    
+    <facsimile>
+        <surface xml:id="l_57r" ana="hc:Page" n="57r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bl_add19554_foll57-100/0001"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="l_57r-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="l_57r-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="l_57v" ana="hc:Page" n="57v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bl_add19554_foll57-100/0002"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="l_57v-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="l_57v-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="l_58r" ana="hc:Page" n="58r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bl_add19554_foll57-100/0003"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="l_58r-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="l_58r-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="l_58v" ana="hc:Page" n="58v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bl_add19554_foll57-100/0004"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="l_58v-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="l_58v-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="l_59r" ana="hc:Page" n="59r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bl_add19554_foll57-100/0005"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="l_59r-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="l_59r-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="l_59v" ana="hc:Page" n="59v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bl_add19554_foll57-100/0006"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="l_59v-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="l_59v-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="l_60r" ana="hc:Page" n="60r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bl_add19554_foll57-100/0007"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="l_60r-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="l_60r-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="l_60v" ana="hc:Page" n="60v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bl_add19554_foll57-100/0008"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="l_60v-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="l_60v-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="l_61r" ana="hc:Page" n="61r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bl_add19554_foll57-100/0009"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="l_61r-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="l_61r-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="l_61v" ana="hc:Page" n="61v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bl_add19554_foll57-100/0010"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="l_61v-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="l_61v-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="l_62r" ana="hc:Page" n="62r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bl_add19554_foll57-100/0011"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="l_62r-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="l_62r-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="l_62v" ana="hc:Page" n="62v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bl_add19554_foll57-100/0012"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="l_62v-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="l_62v-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="l_63r" ana="hc:Page" n="63r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bl_add19554_foll57-100/0013"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="l_63r-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="l_63r-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="l_63v" ana="hc:Page" n="63v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bl_add19554_foll57-100/0014"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="l_63v-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="l_63v-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="l_64r" ana="hc:Page" n="64r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bl_add19554_foll57-100/0015"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="l_64r-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="l_64r-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="l_64v" ana="hc:Page" n="64v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bl_add19554_foll57-100/0016"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="l_64v-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="l_64v-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="l_65r" ana="hc:Page" n="65r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bl_add19554_foll57-100/0017"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="l_65r-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="l_65r-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="l_65v" ana="hc:Page" n="65v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bl_add19554_foll57-100/0018"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="l_65v-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="l_65v-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="l_66r" ana="hc:Page" n="66r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bl_add19554_foll57-100/0019"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="l_66r-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="l_66r-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="l_66v" ana="hc:Page" n="66v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bl_add19554_foll57-100/0020"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="l_66v-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="l_66v-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="l_67r" ana="hc:Page" n="67r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bl_add19554_foll57-100/0021"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="l_67r-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="l_67r-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="l_67v" ana="hc:Page" n="67v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bl_add19554_foll57-100/0022"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="l_67v-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="l_67v-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="l_68r" ana="hc:Page" n="68r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bl_add19554_foll57-100/0023"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="l_68r-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="l_68r-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="l_68v" ana="hc:Page" n="68v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bl_add19554_foll57-100/0024"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="l_68v-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="l_68v-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="l_69r" ana="hc:Page" n="69r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bl_add19554_foll57-100/0025"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="l_69r-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="l_69r-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="l_69v" ana="hc:Page" n="69v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bl_add19554_foll57-100/0026"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="l_69v-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="l_69v-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="l_70r" ana="hc:Page" n="70r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bl_add19554_foll57-100/0027"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="l_70r-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="l_70r-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="l_70v" ana="hc:Page" n="70v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bl_add19554_foll57-100/0028"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="l_70v-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="l_70v-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="l_71r" ana="hc:Page" n="71r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bl_add19554_foll57-100/0029"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="l_71r-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="l_71r-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="l_71v" ana="hc:Page" n="71v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bl_add19554_foll57-100/0030"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="l_71v-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="l_71v-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="l_72r" ana="hc:Page" n="72r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bl_add19554_foll57-100/0031"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="l_72r-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="l_72r-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="l_72v" ana="hc:Page" n="72v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bl_add19554_foll57-100/0032"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="l_72v-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="l_72v-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="l_73r" ana="hc:Page" n="73r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bl_add19554_foll57-100/0033"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="l_73r-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="l_73r-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="l_73v" ana="hc:Page" n="73v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bl_add19554_foll57-100/0034"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="l_73v-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="l_73v-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="l_74r" ana="hc:Page" n="74r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bl_add19554_foll57-100/0035"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="l_74r-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="l_74r-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="l_74v" ana="hc:Page" n="74v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bl_add19554_foll57-100/0036"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="l_74v-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="l_74v-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="l_75r" ana="hc:Page" n="75r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bl_add19554_foll57-100/0037"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="l_75r-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="l_75r-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="l_75v" ana="hc:Page" n="75v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bl_add19554_foll57-100/0038"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="l_75v-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="l_75v-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="l_76r" ana="hc:Page" n="76r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bl_add19554_foll57-100/0039"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="l_76r-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="l_76r-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="l_76v" ana="hc:Page" n="76v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bl_add19554_foll57-100/0040"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="l_76v-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="l_76v-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="l_77r" ana="hc:Page" n="77r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bl_add19554_foll57-100/0041"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="l_77r-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="l_77r-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="l_77v" ana="hc:Page" n="77v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bl_add19554_foll57-100/0042"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="l_77v-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="l_77v-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="l_78r" ana="hc:Page" n="78r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bl_add19554_foll57-100/0043"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="l_78r-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="l_78r-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="l_78v" ana="hc:Page" n="78v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bl_add19554_foll57-100/0044"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="l_78v-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="l_78v-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="l_79r" ana="hc:Page" n="79r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bl_add19554_foll57-100/0045"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="l_79r-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="l_79r-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="l_79v" ana="hc:Page" n="79v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bl_add19554_foll57-100/0046"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="l_79v-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="l_79v-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="l_80r" ana="hc:Page" n="80r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bl_add19554_foll57-100/0047"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="l_80r-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="l_80r-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="l_80v" ana="hc:Page" n="80v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bl_add19554_foll57-100/0048"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="l_80v-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="l_80v-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="l_81r" ana="hc:Page" n="81r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bl_add19554_foll57-100/0049"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="l_81r-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="l_81r-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="l_81v" ana="hc:Page" n="81v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bl_add19554_foll57-100/0050"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="l_81v-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="l_81v-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="l_82r" ana="hc:Page" n="82r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bl_add19554_foll57-100/0051"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="l_82r-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="l_82r-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="l_82v" ana="hc:Page" n="82v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bl_add19554_foll57-100/0052"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="l_82v-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="l_82v-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="l_83r" ana="hc:Page" n="83r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bl_add19554_foll57-100/0053"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="l_83r-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="l_83r-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="l_83v" ana="hc:Page" n="83v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bl_add19554_foll57-100/0054"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="l_83v-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="l_83v-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="l_84r" ana="hc:Page" n="84r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bl_add19554_foll57-100/0055"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="l_84r-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="l_84r-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="l_84v" ana="hc:Page" n="84v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bl_add19554_foll57-100/0056"/>
+            <zone xml:id="l_84v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+    </facsimile>
     <text ana="hc:CompleteExpression hc:CourtlyRomance">
         <body>
             <div>
