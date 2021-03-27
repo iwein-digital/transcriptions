@@ -38,6 +38,7 @@
             <zone ana="hc:HorizontalLayout">
                 <zone xml:id="l_57r-a" ana="hc:Column hc:TextZone" n="a"/>
                 <zone xml:id="l_57r-b" ana="hc:Column hc:TextZone" n="b"/>
+                <zone xml:id="l_57r-c" ana="hc:MarginalZone" n="c"/>
             </zone>
         </surface>
         <surface xml:id="l_57v" ana="hc:Page" n="57v">
@@ -645,6 +646,7 @@
         <surface xml:id="l_100v" ana="hc:Page" n="100v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bl_add19554_foll57-100/0088"/>
             <zone xml:id="l_100v-a" ana="hc:Column hc:TextZone" n="a"/>
+            <zone xml:id="l_100v-b" ana="hc:TextZone" n="b"></zone>
         </surface>
     </facsimile>
     <text ana="hc:CompleteExpression hc:CourtlyRomance">
@@ -700,8 +702,7 @@
                     <l n="25"><lb n="41"/><w>Der</w><w>auch</w><w>tichtens</w><w>pflag</w></l>
                     <l n="26"><lb n="42"/><w>Das</w><w>man</w><w>gern</w><w>horn</w><w>mag</w></l>
                 </lg>
-                <fw ana="hc:PageFooter"><lb facs="l_57r-c" n="1"/> <w>*uͮmd</w><w>gelück</w><w>**freid</w><w>*ich</w>
-                    <!-- Wortanfänge unklar --> </fw>
+                <fw ana="hc:PageFooter"><lb facs="l_57r-c" n="1"/> <w>Kuͮmd</w><w>gelück</w><w>erfreid</w><w>mich</w></fw>
                 <cb n="b"/>
                 <lg>
                     <l n="27"><lb n="1"/><w>Da</w><w>chert</w><w>er</w><w>ſeinen</w><w>fleys</w><w>an</w></l>
@@ -16907,7 +16908,8 @@
             </div>
         </body>
         <back>
-            <trailer ana="hc:Colophon"> <lb n="1"/><metamark ana="hc:CueNumeral">·</metamark><num value="1541">1541</num><metamark ana="hc:CueNumeral">·</metamark> <lb n="2"/><w>Als</w><w/><w/><w/><w/><w/> <lb n="3"/><w/><w/><w/><w/><w/><w/> <lb n="4"/><w/><w/><w/><w/><w/><w/> <lb n="5"/><w/><w/><w/><w/><w/><w/> <lb n="6"/><w/><w/><w/><w/><w/><w/> <lb n="7"/><w/><w/><w/><w/><w/><w/> <lb n="8"/><w/><w/><w/><w/><w/><w/> <lb n="9"/><w/><w/><w/><w/><w/><w/> <lb n="10"/><w/><w/><w/><w/><w/><w/> <lb n="11"/><w/><w/><w/><w/><w/><w/> <lb n="12"/><w/><w/><w/><w/><w/><w/> <lb n="13"/><w/><w/><w/><w/><w/><w/> <lb n="14"/><w/><w/><w/><w/><w/><w/> <lb n="15"/><w/><w/><w/><w/><w/><w/> <lb n="16"/><w/><w/><w/><w/><w/><w/> <lb n="17"/><w/><w/><w/><w/><w/><w/> <lb n="18"/><w/><w/><w/><w/><w/><w/> <lb n="19"/><w/><w/><w/><w/><w/><w/> </trailer>
+            <trailer ana="hc:Colophon" facs="#l_100v-b"> <lb n="1"/><metamark ana="hc:CueNumeral">·</metamark><num value="1541">1541</num><metamark ana="hc:CueNumeral">·</metamark> <lb n="2"/><w>Als</w><w/><w/><w/><w/><w/> <lb n="3"/><w/><w/><w/><w/><w/><w/> <lb n="4"/><w/><w/><w/><w/><w/><w/> <lb n="5"/><w/><w/><w/><w/><w/><w/> <lb n="6"/><w/><w/><w/><w/><w/><w/> <lb n="7"/><w/><w/><w/><w/><w/><w/> <lb n="8"/><w/><w/><w/><w/><w/><w/> <lb n="9"/><w/><w/><w/><w/><w/><w/> <lb n="10"/><w/><w/><w/><w/><w/><w/> <lb n="11"/><w/><w/><w/><w/><w/><w/> <lb n="12"/><w/><w/><w/><w/><w/><w/> <lb n="13"/><w/><w/><w/><w/><w/><w/> <lb n="14"/><w/><w/><w/><w/><w/><w/> <lb n="15"/><w/><w/><w/><w/><w/><w/> <lb n="16"/><w/><w/><w/><w/><w/><w/> <lb n="17"/><w/><w/><w/><w/><w/><w/> <lb n="18"/><w/><w/><w/><w/><w/><w/> <lb n="19"/><w/><w/><w/><w/><w/><w/> </trailer>
         </back>
+        <!-- Hier brauchen wir ein zone-shift für die Kolophon-Verse -->
     </text>
 </TEI>
