@@ -4663,7 +4663,7 @@
                     <l n="1232"><lb n="8"/><w>Eŭch</w><w>ſtëtt</w><w>diſz</w><w>dinch</w><w>enwette</w></l>
                 </lg>
                 <lg>
-                    <l n="1233"><lb n="9"/><w>Nŭn</w><del rendition="hc:Strikethrough">b</del><w><choice><orig>v</orig><reg>u</reg></choice>mbe</w><w>das</w><w>leb<choice><am>n̄</am><ex>en</ex></choice>n</w></l>
+                    <l n="1233"><lb n="9"/><w>Nŭn</w><del rendition="hc:Strikethrough"><w>b</w></del><w><choice><orig>v</orig><reg>u</reg></choice>mbe</w><w>das</w><w>leb<choice><am>n̄</am><ex>en</ex></choice>n</w></l>
                     <l n="1234"><lb n="10"/><w>Den</w><w>ſtein</w><w>den</w><w>ich</w><w>eŭch</w><w>hab</w><w>gegeb<choice><am>n̄</am><ex>en</ex></choice>n</w></l>
                 </lg>
                 <lg>
@@ -12172,7 +12172,7 @@
                 <fw ana="hc:PageNumber"><lb facs="#u_120r-b" n="1"/><num value="120">.120.</num></fw>
                 <cb n="a"/>
                 <lg>
-                    <l n="4889"><lb n="1"/><w>Nŭn</w><w>geb</w><w>mir</w><del rendition="hc:Strikethrough">o</del><w>gott</w><w>gŭttenn</w><w>ratt</w></l>
+                    <l n="4889"><lb n="1"/><w>Nŭn</w><w>geb</w><w>mir</w><del rendition="hc:Strikethrough"><w>o</w></del><w>gott</w><w>gŭttenn</w><w>ratt</w></l>
                     <l n="4890"><lb n="2"/><w>Der</w><w>mich</w><w><choice><orig>v</orig><reg>u</reg></choice>ntz</w><w>her</w><w>belaittett</w><w>hatt</w></l>
                 </lg>
                 <lg>
@@ -19313,7 +19313,7 @@
             </div>
         </body>
         <back>
-            <trailer ana="hc:Colophon"> <lb n="1"/>:. <w>Amennn</w><metamark ana="hc:DecorativeMarker">⁖</metamark><lb n="2"/><w>Anno</w><w>d<choice><am>nj̄</am><ex>omini</ex></choice></w><num value="1521">1521</num><w>Iar</w> <lb n="2"/><w>In</w><w>ſabato</w><w>Andree</w><w>Finitŭm</w><metamark ana="hc:DecorativeMarker">⁖</metamark></trailer>
+            <trailer ana="hc:Colophon"> <lb n="1"/><metamark ana="hc:DecorativeMarker">⁖</metamark><w>Amennn</w><metamark ana="hc:DecorativeMarker">⁖</metamark><lb n="2"/><w>Anno</w><w>d<choice><am>nj̄</am><ex>omini</ex></choice></w><num value="1521">1521</num><w>Iar</w> <lb n="2"/><w>In</w><w>ſabato</w><w>Andree</w><w>Finitŭm</w><metamark ana="hc:DecorativeMarker">⁖</metamark></trailer>
         </back>
     </text>
 </TEI>
