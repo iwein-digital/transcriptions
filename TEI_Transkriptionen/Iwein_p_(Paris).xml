@@ -120,6 +120,7 @@
         </surface>
         <surface xml:id="p_11r" ana="hc:Page" n="11r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0027"/>
+            <zone xml:id="p_11r-a" ana="hc:Column hc:TextZone" n="a"></zone>
         </surface>
         <surface xml:id="p_11v" ana="hc:Page" n="11v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0028"/>
@@ -1480,6 +1481,7 @@
         </surface>
         <surface xml:id="p_181r" ana="hc:Page" n="181r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0367"/>
+            <zone xml:id="p_181r-a" ana="hc:TextZone hc:Column" n="a"></zone>
         </surface>
         <surface xml:id="p_181v" ana="hc:Page" n="181v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bnf_allemand115/0368"/>
@@ -1552,17 +1554,15 @@
                 </titlePart>
             </docTitle>
             <milestone ana="hc:ZoneBeginning" facs="#p_1r-c"/>
-            <ab ana="hc:Shelfmark">
-                <lb n="1"/>Suppl. fr. 
-                <lb n="2"/>1060
+            <ab ana="hc:Shelfmark"><lb n="1"/><w>Suppl.</w><w>fr.</w><lb n="2"/><num value="1060">1060</num>
             </ab>
             <milestone ana="hc:ZoneBeginning" facs="#p_1r-d"/>
             <ab ana="hc:OwnershipInscription" xml:lang="lat">
-                <lb n="1"/>Collegij Societatis 
-                <lb n="2"/>Jesv Luxemburgi. <!-- am Ende vielleicht kein "i", viell. Abkürzung für "Luxemburgensis" --> 
-                <lb n="3"/>Ex donatione D. Margaritæ
-                <lb n="4"/>Bergerott vidua D. Consiliarij
-                <lb n="5"/>Bergerott
+                <lb n="1"/><w>Collegij</w><w>Societatis</w> 
+                <lb n="2"/><w>Jesv</w><w>Luxemburgi.</w><!-- am Ende vielleicht kein "i", viell. Abkürzung für "Luxemburgensis" --> 
+                <lb n="3"/><w>Ex</w><w>donatione</w><w>D.</w><w>Margaritæ</w>
+                <lb n="4"/><w>Bergerott</w><w>vidua</w><w>D.</w><w>Consiliarij</w>
+                <lb n="5"/><w>Bergerott</w>
             </ab>
             <milestone ana="hc:ZoneBeginning" facs="#p_1r-e"/>
             <table rows="5" cols="6">
@@ -4801,7 +4801,7 @@
                 </lg>
                 <lg>
                     <l n="1843"><lb n="7"/><w><hi rendition="hc:RedStroke">S</hi>o</w><w>habent</w><w>ir</w><w>uwer</w><w>ere</w><w>verlorn</w></l>
-                    <l n="1844"><lb n="8"/><w><hi rendition="hc:RedStroke">H</hi>abent</w><w>aber</w><w><choice><orig>j</orig><reg>i</reg></choice>r</w><metamark ana="hc:InsertionMark ">|</metamark><add hei:placeRef="hc:AboveLine">zuͦ</add><w>were</w><w>ir korn</w></l>
+                    <l n="1844"><lb n="8"/><w><hi rendition="hc:RedStroke">H</hi>abent</w><w>aber</w><w><choice><orig>j</orig><reg>i</reg></choice>r</w><metamark ana="hc:InsertionMark ">|</metamark><add hei:placeRef="hc:AboveLine"><w>zuͦ</w></add><w>were</w><w>ir korn</w></l>
                 </lg>
                 <lg>
                     <l n="1845"><lb n="9"/><w><hi rendition="hc:RedStroke">V</hi>on</w><w>uwern</w><w>geſinde</w><w>die keyn<choice><am>ē</am><ex>en</ex></choice></w><w>man</w></l>
@@ -8780,7 +8780,7 @@
                 </lg>
                 <lg>
                     <l n="3931"><lb n="8"/><w><hi rendition="hc:RedStroke"><choice><orig>V</orig><reg>U</reg></choice></hi>nd</w><w>yme</w><w>dar</w><w>erſchein</w></l>
-                    <l n="3932"><lb n="9"/><w><hi rendition="hc:RedStroke">D</hi>ie</w><w>cappelle</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>der</w><del rendition="hc:Strikethrough">de</del><w>ſtein</w></l>
+                    <l n="3932"><lb n="9"/><w><hi rendition="hc:RedStroke">D</hi>ie</w><w>cappelle</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>der</w><del rendition="hc:Strikethrough"><w>de</w></del><w>ſtein</w></l>
                 </lg>
                 <lg>
                     <l n="3933"><lb n="10"/><w><hi rendition="hc:RedStroke">D</hi>o</w><w>wart</w><w>ſin</w><w>hertze</w><w>den</w><w>erwant</w></l>
@@ -11890,7 +11890,7 @@
                     <l n="5508"><lb n="2"/><w><hi rendition="hc:RedStroke">D</hi>as</w><w>ich</w><w>von</w><w>üch</w><w>nicht</w><w>han</w><w>vernom<choice><am>ē</am><ex>en</ex></choice></w></l>
                 </lg>
                 <lg>
-                    <l n="5509"><lb n="3"/><w><hi rendition="hc:RedStroke">W</hi>anne</w><w>das</w><w>ich</w><w>uch</w><w>nicht</w><del rendition="hc:Strikethrough">h</del><w>mere</w><w>geſach</w></l>
+                    <l n="5509"><lb n="3"/><w><hi rendition="hc:RedStroke">W</hi>anne</w><w>das</w><w>ich</w><w>uch</w><w>nicht</w><del rendition="hc:Strikethrough"><w>h</w></del><w>mere</w><w>geſach</w></l>
                     <l n="5510"><lb n="4"/><w><hi rendition="hc:RedStroke">D</hi>er</w><w>ritter</w><w>mit</w><w>dem</w><w>lew<choice><am>ē</am><ex>en</ex></choice></w><w>ſprach</w></l>
                 </lg>
                 <lg>
@@ -14840,7 +14840,7 @@
                     <l n="7014"><lb n="17"/><w><hi rendition="hc:RedStroke">D</hi>ie</w><w>doch</w><w>geſellen</w><w>woren</w></l>
                 </lg>
                 <lg>
-                    <l n="7015"><lb n="18"/><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">D</hei:initial><w><hi rendition="hc:RedStroke">E</hi>s</w><w>dúncket</w><w>die</w><w>andern</w><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>mich</w></l>
+                    <l n="7015"><lb n="18"/><w><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">D</hei:initial><hi rendition="hc:RedStroke">E</hi>s</w><w>dúncket</w><w>die</w><w>andern</w><w><choice><orig>v</orig><reg>u</reg></choice><choice><am>n̄</am><ex>nd</ex></choice></w><w>mich</w></l>
                     <l n="7016"><lb n="19"/><w><hi rendition="hc:RedStroke"><choice><orig>U</orig><reg>V</reg></choice></hi>il</w><w>lichte</w><w><choice><orig>v</orig><reg>u</reg></choice>nmogelich</w></l>
                 </lg>
                 <lg>

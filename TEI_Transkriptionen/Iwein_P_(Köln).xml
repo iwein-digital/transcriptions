@@ -36,8 +36,8 @@
     <facsimile>
         <surface ana="hc:Page" xml:id="P_119v" n="119v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/hak_best7020_(w)_6_fol119/0001/image"/>
-            <zone ana="hc:Float" xml:id="P_119v_1" n="119v_1"/>
-            <zone ana="hc:Float" xml:id="P_119v_2" n="119v_2"/>
+            <zone ana="hc:TextZone" xml:id="P_119v_1" n="119v_1"/>
+            <zone ana="hc:TextZone" xml:id="P_119v_2" n="119v_2"/>
         </surface>
     </facsimile>
     <text ana="hc:CourtlyRomance hc:ExpressionPart">
