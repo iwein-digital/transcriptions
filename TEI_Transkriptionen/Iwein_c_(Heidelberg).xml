@@ -2586,7 +2586,7 @@
                     <l n="798"><lb n="28"/><w><hi rendition="hc:RedStroke">I</hi>ch</w><w join="right">en</w><w join="left">wolt</w><w>ſie</w><w>nyemant</w><w>ſagen</w></l>
                 </lg>
                 <lg>
-                    <l n="799"><lb n="29"/><w><hi rendition="hc:RedStroke">W</hi>ere</w><w>mir</w><w>icht</w><w>baſz</w><w>geſchee</w><choice> <am>n̄</am> <ex>nn</ex> </choice></l>
+                    <l n="799"><lb n="29"/><w><hi rendition="hc:RedStroke">W</hi>ere</w><w>mir</w><w>icht</w><w>baſz</w><w>geſchee<choice><am>n̄</am><ex>nn</ex></choice></w></l>
                     <l n="800"><lb n="30"/><w><hi rendition="hc:RedStroke">D</hi>es</w><w>hortent</w><w>ir</w><w>mich</w><w>auch</w><w><choice><orig>i</orig><reg>j</reg></choice>ehen</w></l>
                 </lg>
                 <lg>
@@ -7317,7 +7317,7 @@
                     <l n="3136"><lb n="6"/><w><hi rendition="hc:RedStroke"><choice><orig>V</orig><reg>U</reg></choice></hi>nd</w><w>beneme</w><w>ir</w><w>dan</w><w>leip</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>ere</w></l>
                 </lg>
                 <lg>
-                    <l n="3137"><lb n="7"/><w><hi rendition="hc:RedStroke">H</hi>er</w><del rendition="hc:Strikethrough">ſ</del><w>ybbein</w><w>ſeit</w><w>mein</w><w>fráw</w><w>ir</w><w><choice><orig>i</orig><reg>j</reg></choice>úgent</w></l>
+                    <l n="3137"><lb n="7"/><w><hi rendition="hc:RedStroke">H</hi>er</w><w><del rendition="hc:Strikethrough">ſ</del></w><w>ybbein</w><w>ſeit</w><w>mein</w><w>fráw</w><w>ir</w><w><choice><orig>i</orig><reg>j</reg></choice>úgent</w></l>
                     <l n="3138"><lb n="8"/><w><hi rendition="hc:RedStroke">I</hi>r</w><w>ſchone</w><w>ir</w><w>reicheit</w><w><choice><orig>v</orig><reg>u</reg></choice>nd</w><w>ir</w><w>túgent</w></l>
                 </lg>
                 <lg>
@@ -7342,23 +7342,24 @@
                 </lg>
                 <lg>
                     <l n="3148,1"><lb n="19"/><w><hi rendition="hc:RedStroke">D</hi>as</w><w>muſz</w><w>ich</w><w>ymer</w><w>weſen</w><w>lait</w></l>
-                    <l n="3148,2"><lb n="20"/><w><hi rendition="hc:RedStroke">A</hi>lſo</w><w>ſprach</w><w>die</w><w>wommliche</w><w>meyt</w></l>
+                    <l n="3148,2"><lb n="20"/><w><hi rendition="hc:RedStroke">A</hi>lſo</w><w>ſprach</w><w>die</w><w>wonnicliche</w><w>meyt</w></l>
                 </lg>
                 <lg>
-                    <l n="3148,3"><lb n="21"/><w><hi rendition="hc:RedStroke">N</hi>u</w><w>iſt</w><w>ſie</w><w>von</w><w>hwezen</w><w>laiden</w></l>
-                    <l n="3148,4"><lb n="22"/><w><hi rendition="hc:RedStroke">V</hi>il</w><w>nahen</w><w>ſchier</w><w>verſcheiden</w></l>
+                    <l n="3150,1"><lb n="21"/><w><hi rendition="hc:RedStroke">N</hi>u</w><w>iſt</w><w>ſie</w><w>von</w><w>hertzen</w><w>laiden</w></l>
+                    <l n="3150,2"><lb n="22"/><w><hi rendition="hc:RedStroke">V</hi>il</w><w>nahen</w><w>ſchier</w><w>verſcheiden</w></l>
+                    <!--Diese Verse erhalten diese Nummerierung, weil sie Versen in Hs. f  entsprechen, die diese Nummern führen.-->
                 </lg>
                 <lg>
                     <l n="3149"><lb n="23"/><w><hi rendition="hc:RedStroke">D</hi>es</w><w>muſz</w><w>ich</w><w>ymer</w><w>rewig</w><w>ſein</w></l>
-                    <l n="3150"><lb n="24"/><w><hi rendition="hc:RedStroke">W</hi>an</w><w>du</w><w>ſchullt</w><w>iſt</w><w>alle</w><w>mein</w></l>
+                    <l n="3150"><lb n="24"/><w><hi rendition="hc:RedStroke">W</hi>an</w><w>die</w><w>ſchullt</w><w>iſt</w><w>alle</w><w>mein</w></l>
                 </lg>
                 <lg>
-                    <l n="3150,1"><lb n="17"/><w><hi rendition="hc:RedStroke">D</hi>as</w><w>ich</w><w>es</w><w>ye</w><w><choice><orig>v</orig><reg>u</reg></choice>nderfing</w></l>
-                    <l n="3150,2"><lb n="18"/><w><hi rendition="hc:RedStroke">D</hi>as</w><w>ewr</w><w>ende</w><w>nicht</w><w>erging</w></l>
+                    <l n="3150,3" hei:replicates="#xpath(//l[@n='3147'])"><lb n="17"/><w><hi rendition="hc:RedStroke">D</hi>as</w><w>ich</w><w>es</w><w>ye</w><w><choice><orig>v</orig><reg>u</reg></choice>nderfing</w></l>
+                    <l n="3150,4" hei:replicates="#xpath(//l[@n='3148'])"><lb n="18"/><w><hi rendition="hc:RedStroke">D</hi>as</w><w>ewr</w><w>ende</w><w>nicht</w><w>erging</w></l>
                 </lg>
                 <lg>
-                    <l n="3150,3"><lb n="19"/><w><hi rendition="hc:RedStroke">D</hi>as</w><w>muſz</w><w>mir</w><w><choice><am>ȳ</am><ex>ym</ex></choice>mer</w><w>weſen</w><w>lait</w></l>
-                    <l n="3150,4"><lb n="20"/><w><hi rendition="hc:RedStroke">A</hi>lſo</w><w>ſprach</w><w>die</w><w>wonnicliche</w><w>meÿt</w></l>
+                    <l n="3150,5"><lb n="19"/><w><hi rendition="hc:RedStroke">D</hi>as</w><w>muſz</w><w>mir</w><w><choice><am>ȳ</am><ex>ym</ex></choice>mer</w><w>weſen</w><w>lait</w></l>
+                    <l n="3150,6"><lb n="20"/><w><hi rendition="hc:RedStroke">A</hi>lſo</w><w>ſprach</w><w>die</w><w>wonnicliche</w><w>meÿt</w></l>
                 </lg>
                 <lg>
                     <l n="3151"><lb n="25"/><w><hi rendition="hc:RedStroke">W</hi>an</w><w>ich</w><w>es</w><w>durch</w><w>mein</w><w>trew</w><w>tett</w></l>
@@ -17334,7 +17335,7 @@
         </body>
         <back>
             <lb n="18"/>
-            <trailer ana="hc:Colophon"><w>Finitum</w><metamark ana="hc:DecorativeMarker">·</metamark><w>Anno</w><metamark ana="hc:DecorativeMarker">·</metamark><num value="1477">1<metamark ana="hc:DecorativeMarker">·</metamark>4<metamark ana="hc:DecorativeMarker">·</metamark>7<metamark ana="hc:DecorativeMarker">·</metamark>7</num><metamark ana="hc:DecorativeMarker">·</metamark><lb n="19"/><placeName>Amberge</placeName><metamark ana="hc:DecorativeMarker">·</metamark>
+            <trailer ana="hc:Colophon"><w>Finitum</w><metamark ana="hc:DecorativeMarker">·</metamark><w>Anno</w><metamark ana="hc:DecorativeMarker">·</metamark><num value="1477">1<metamark ana="hc:DecorativeMarker">·</metamark>4<metamark ana="hc:DecorativeMarker">·</metamark>7<metamark ana="hc:DecorativeMarker">·</metamark>7</num><metamark ana="hc:DecorativeMarker">·</metamark><lb n="19"/><placeName><w>Amberge</w></placeName><metamark ana="hc:DecorativeMarker">·</metamark>
             </trailer>
         </back>
     </text>
