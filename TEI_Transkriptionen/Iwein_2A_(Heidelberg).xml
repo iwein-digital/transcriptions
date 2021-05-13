@@ -9,11 +9,11 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Iwein-Hs. ##</title>
+                <title>Iwein-Hs. A (Zweite Abschrift)</title>
                 <author>Hartmann von Aue</author>
                 <respStmt>
                     <resp>transcription</resp>
-                    <persName>## ##</persName>
+                    <persName>Victor Millet</persName>
                 </respStmt>
             </titleStmt>
             <publicationStmt>
@@ -21,11 +21,11 @@
             </publicationStmt>
             <sourceDesc>
                 <listWit>
-                    <witness xml:id="SIGLE"><msDesc>
+                    <witness xml:id="A"><msDesc>
                         <msIdentifier>
-                            <settlement>###</settlement>
-                            <repository>###</repository>
-                            <idno>###</idno>
+                            <settlement>Heidelberg</settlement>
+                            <repository>Universitätsbibliothek</repository>
+                            <idno>cpg 397</idno>
                         </msIdentifier>
                         </msDesc></witness>
                 </listWit>

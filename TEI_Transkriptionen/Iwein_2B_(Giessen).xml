@@ -1,11 +1,15 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://digi.ub.uni-heidelberg.de/schema/tei/heiEDITIONS/tei_hes.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://digi.ub.uni-heidelberg.de/schema/tei/heiEDITIONS/tei_hes.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!DOCTYPE TEI 
+[
+<!ENTITY % heiEDITIONS_entities SYSTEM "https://digi.ub.uni-heidelberg.de/schema/tei/heiEDITIONS/declarations/heieditions-entities.txt">
+%heiEDITIONS_entities; ]>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:hei="https://digi.ub.uni-heidelberg.de/schema/tei/heiEDITIONS" ana="hc:IWDDocument">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Iwein-Hs. B (Zweite Fassung)</title>
+                <title>Iwein-Hs. B (Zweite Abschrift)</title>
                 <author>Hartmann von Aue</author>
                 <respStmt>
                     <resp>transcription</resp>
