@@ -9,13 +9,21 @@
 						<null/>
 					</field>
 					<field name="name">
-						<String>iwein</String>
+						<String>Jeroschin Chronik</String>
 					</field>
 					<field name="schemaDescriptor">
-						<null/>
+						<docTypeSchema>
+							<field name="type">
+								<Integer>6</Integer>
+							</field>
+							<field name="uri">
+								<String>https://digi.ub.uni-heidelberg.de/schema/tei/heiEDITIONS/tei_hes.rng</String>
+							</field>
+						</docTypeSchema>
 					</field>
 					<field name="classpath">
 						<String-array>
+							<String>${framework}/wrap-0.1.jar</String>
 							<String>${framework}/numbering-0.1.jar</String>
 						</String-array>
 					</field>
@@ -42,7 +50,7 @@
 											<String>${framework}/CSS/abbr.css</String>
 										</field>
 										<field name="title">
-											<String>show-abbr</String>
+											<String>Nur Abbreviatur</String>
 										</field>
 										<field name="alternate">
 											<Boolean>true</Boolean>
@@ -53,7 +61,7 @@
 											<String>${framework}/CSS/exp.css</String>
 										</field>
 										<field name="title">
-											<String>show-exp</String>
+											<String>Nur Auflösung</String>
 										</field>
 										<field name="alternate">
 											<Boolean>true</Boolean>
@@ -64,7 +72,7 @@
 											<String>${framework}/CSS/orig.css</String>
 										</field>
 										<field name="title">
-											<String>show-orig</String>
+											<String>Nur Original</String>
 										</field>
 										<field name="alternate">
 											<Boolean>true</Boolean>
@@ -75,7 +83,29 @@
 											<String>${framework}/CSS/reg.css</String>
 										</field>
 										<field name="title">
-											<String>show-reg</String>
+											<String>Nur regularisiert</String>
+										</field>
+										<field name="alternate">
+											<Boolean>true</Boolean>
+										</field>
+									</cssFile>
+									<cssFile>
+										<field name="href">
+											<String>${framework}/CSS/whitespace.css</String>
+										</field>
+										<field name="title">
+											<String>Leerzeichen zeigen</String>
+										</field>
+										<field name="alternate">
+											<Boolean>true</Boolean>
+										</field>
+									</cssFile>
+									<cssFile>
+										<field name="href">
+											<String>${framework}/CSS/semantics.css</String>
+										</field>
+										<field name="title">
+											<String>Semantische Label</String>
 										</field>
 										<field name="alternate">
 											<Boolean>true</Boolean>
@@ -170,14 +200,10 @@ nw2</String>
 														<serializableOrderedMap>
 															<entry>
 																<String>fragment</String>
-																<String>&lt;choice xmlns="http://www.tei-c.org/ns/1.0">&lt;am xmlns="http://www.tei-c.org/ns/1.0">${ask('base letter', generic, '${selection}', @question)}${ask('abbreviation:', radio,
-  ('̄':'  ̄ Macron'; 
-  '͛':' ͛ er';
-  'ᷓ':' ᷓ -ra';
-  '’':' ’ quotation mark';
-  'ꝑ' : 'ꝑ (per)';
-  '̓ ': ' ̓  combining comma above (ri)';
-  '' : 'None'),'̄')}&lt;/am>&lt;ex xmlns="http://www.tei-c.org/ns/1.0">${ask('expansion:', generic,'')}&lt;/ex>&lt;/choice>${caret}</String>
+																<String>&lt;choice xmlns="http://www.tei-c.org/ns/1.0">&lt;am xmlns="http://www.tei-c.org/ns/1.0">${ask('Abbreviatur Zeichen:', radio,
+  ('&amp;bar;':' Bar ( &amp;bar;)'; 
+  '&amp;curl;':' Curl ( &amp;curl;)';
+  '&amp;zig;':' Zig ( &amp;zig;)'),'&amp;bar;')}&lt;/am>&lt;ex xmlns="http://www.tei-c.org/ns/1.0">${ask('Auflösung:', generic,'')}&lt;/ex>&lt;/choice>${caret}</String>
 															</entry>
 														</serializableOrderedMap>
 													</field>
@@ -359,7 +385,7 @@ else ancestor::l</String>
 											<String></String>
 										</field>
 										<field name="accelerator">
-											<String>M1 S</String>
+											<String>M1 M2 S</String>
 										</field>
 										<field name="actionModes">
 											<actionMode-array>
@@ -517,7 +543,7 @@ else ancestor::l</String>
 														<serializableOrderedMap>
 															<entry>
 																<String>fragment</String>
-																<String>&lt;note xmlns="http://www.tei-c.org/ns/1.0" ana="${ask('type of note:', combobox,('hc:Gloss':'Gloss';'hc:NotaBene':'Nota Bene'; 'hc:Manicula':'Manicula' ; 'hc:Footnote':'Footnote' ; 'hc:Endnote':'Endnote' ; 'hc:Comment':'Editorial General Comment' ; 'hc:TextCriticalNote':'Editorial Text Critical Note' ; 'hc:TranscriptionNote':'Editorial Transcription Note' ; 'hc:WitnessesNote':'Editorial Witnesses Note' ; 'hc:LociNote': 'Editorial note about textual loci' ; 'hc:FontesNote': 'Editorial Note about Sources' ; 'hc:SimiliaNote': 'Editorial Note about Parallels' ; 'hc:TestimoniaNote': 'Editorial Note about Reception' ; 'hc:BibliocalNote': 'Editorial Note about Bibliocal Sources') )}" resp="${ask('who is responsible:')}" target="${ask('@target:')}">${ask('Note content:')}&lt;/note></String>
+																<String>&lt;note xmlns="http://www.tei-c.org/ns/1.0" ana="${ask('type of note:', combobox,('hc:Gloss':'Gloss';'hc:NotaBene':'Nota Bene'; 'hc:Manicula':'Manicula' ; 'hc:Footnote':'Footnote' ; 'hc:Endnote':'Endnote' ; 'hc:Comment':'Editorial General Comment' ; 'hc:TextCriticalNote':'Editorial Text Critical Note' ; 'hc:TranscriptionNote':'Editorial Transcription Note' ; 'hc:WitnessesNote':'Editorial Witnesses Note' ; 'hc:LociNote': 'Editorial note about textual loci' ; 'hc:FontesNote': 'Editorial Note about Sources' ; 'hc:SimiliaNote': 'Editorial Note about Parallels' ; 'hc:TestimoniaNote': 'Editorial Note about Reception' ; 'hc:BibliocalNote': 'Editorial Note about Bibliocal Sources') )}" resp="${ask('who is responsible:')}">${ask('Note content:')}&lt;/note></String>
 															</entry>
 															<entry>
 																<String>insertLocation</String>
@@ -1537,10 +1563,10 @@ line2</String>
 									</action>
 									<action>
 										<field name="id">
-											<String>lb_number</String>
+											<String>line_number</String>
 										</field>
 										<field name="name">
-											<String>lb_number</String>
+											<String>line_number</String>
 										</field>
 										<field name="description">
 											<String>Inserts the attribute n for line numbers. SHORTCUT: CTRL + SHIFT + N</String>
@@ -1580,7 +1606,7 @@ line2</String>
 															</entry>
 															<entry>
 																<String>value</String>
-																<String>${ask('Line Number: ', generic, '${xpath_eval(string(preceding::lb[1]/@n + 1))}')}</String>
+																<String>${ask('Line Number')}</String>
 															</entry>
 														</serializableOrderedMap>
 													</field>
@@ -1626,7 +1652,7 @@ line2</String>
 														<serializableOrderedMap>
 															<entry>
 																<String>fragment</String>
-																<String>&lt;w xmlns="http://www.tei-c.org/ns/1.0">&lt;/w></String>
+																<String>&lt;c xmlns="http://www.tei-c.org/ns/1.0"> &lt;/c>&lt;w xmlns="http://www.tei-c.org/ns/1.0">${caret}&lt;/w></String>
 															</entry>
 															<entry>
 																<String>insertLocation</String>
@@ -1687,7 +1713,7 @@ line2</String>
 														<serializableOrderedMap>
 															<entry>
 																<String>fragment</String>
-																<String>&lt;w xmlns="http://www.tei-c.org/ns/1.0">&lt;/w></String>
+																<String>&lt;c xmlns="http://www.tei-c.org/ns/1.0"> &lt;/c>&lt;w xmlns="http://www.tei-c.org/ns/1.0">${caret}&lt;/w></String>
 															</entry>
 															<entry>
 																<String>insertLocation</String>
@@ -2959,31 +2985,21 @@ else ancestor::w</String>
 											<actionMode-array>
 												<actionMode>
 													<field name="xpathCondition">
-														<String>ancestor::l</String>
+														<String>ancestor-or-self::w </String>
 													</field>
 													<field name="argValues">
 														<serializableOrderedMap>
 															<entry>
 																<String>fragment</String>
-																<String>&lt;lb xmlns="http://www.tei-c.org/ns/1.0" n="${ask(
-  'line number:', 
-  generic,
-  ' ${xpath_eval(xs:integer(following::l[1]/preceding::lb[1]/@n+1))}  '   )}"/></String>
+																<String>&lt;lb xmlns="http://www.tei-c.org/ns/1.0"/></String>
 															</entry>
 															<entry>
 																<String>insertLocation</String>
-																<String>if (self::w or self::pc or self::lb)
-  then .
-  else ( if (self::l)
-      then ( if (descendant::w)
-          then descendant::w[last()]
-          else ./text() )
-      else ./..
-  )</String>
+																<String></String>
 															</entry>
 															<entry>
 																<String>insertPosition</String>
-																<String>After</String>
+																<String>Before</String>
 															</entry>
 														</serializableOrderedMap>
 													</field>
@@ -3023,16 +3039,13 @@ else ancestor::w</String>
 											<actionMode-array>
 												<actionMode>
 													<field name="xpathCondition">
-														<String>self::l</String>
+														<String>self::l | self::head | self::label | self::hei:cue</String>
 													</field>
 													<field name="argValues">
 														<serializableOrderedMap>
 															<entry>
 																<String>fragment</String>
-																<String>&lt;lb xmlns="http://www.tei-c.org/ns/1.0" n="${ask(
-  'line number:', 
-  generic,
-  ' ${xpath_eval(xs:integer(following::l[1]/preceding::lb[1]/@n+1))}  '   )}"/></String>
+																<String>&lt;lb xmlns="http://www.tei-c.org/ns/1.0"/></String>
 															</entry>
 															<entry>
 																<String>insertLocation</String>
@@ -3339,7 +3352,7 @@ pc2</String>
 														<serializableOrderedMap>
 															<entry>
 																<String>fragment</String>
-																<String>&lt;choice xmlns="http://www.tei-c.org/ns/1.0">&lt;orig xmlns="http://www.tei-c.org/ns/1.0">v&lt;/orig>&lt;reg xmlns="http://www.tei-c.org/ns/1.0">u&lt;/reg>&lt;/choice>&lt;choice xmlns="http://www.tei-c.org/ns/1.0">&lt;am xmlns="http://www.tei-c.org/ns/1.0">n̄&lt;/am>&lt;ex xmlns="http://www.tei-c.org/ns/1.0">nd&lt;/ex>&lt;/choice></String>
+																<String>&lt;choice xmlns="http://www.tei-c.org/ns/1.0">&lt;orig xmlns="http://www.tei-c.org/ns/1.0">v&lt;/orig>&lt;reg xmlns="http://www.tei-c.org/ns/1.0">u&lt;/reg>&lt;/choice>&lt;choice xmlns="http://www.tei-c.org/ns/1.0">&lt;am xmlns="http://www.tei-c.org/ns/1.0">&lt;/am>&lt;ex xmlns="http://www.tei-c.org/ns/1.0">nd&lt;/ex>&lt;/choice></String>
 															</entry>
 														</serializableOrderedMap>
 													</field>
@@ -3547,13 +3560,13 @@ pc2</String>
 									</action>
 									<action>
 										<field name="id">
-											<String>-er_symbol</String>
+											<String>line-auto-num</String>
 										</field>
 										<field name="name">
-											<String>͛  -er</String>
+											<String>line-auto-num</String>
 										</field>
 										<field name="description">
-											<String>Abbreviation symbol for -er ͛</String>
+											<String></String>
 										</field>
 										<field name="largeIconPath">
 											<String></String>
@@ -3576,117 +3589,28 @@ pc2</String>
 													<field name="argValues">
 														<serializableOrderedMap>
 															<entry>
-																<String>schemaAware</String>
-																<String>true</String>
+																<String>script</String>
+																<String>&lt;?xml version="1.0" encoding="UTF-8"?>
+&lt;xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+    xmlns:tei="http://www.tei-c.org/ns/1.0"
+    exclude-result-prefixes="xs"
+    version="2.0">
+    
+    &lt;xsl:template match="//tei:lb">
+        &lt;tei:lb>&lt;xsl:number value="2"/>&lt;/tei:lb>
+    &lt;/xsl:template>
+    
+&lt;/xsl:stylesheet></String>
 															</entry>
 															<entry>
-																<String>text</String>
-																<String>͛</String>
+																<String>sourceLocation</String>
+																<String>//lb</String>
 															</entry>
 														</serializableOrderedMap>
 													</field>
 													<field name="operationID">
-														<String>ro.sync.ecss.extensions.commons.operations.InsertOrReplaceTextOperation</String>
-													</field>
-												</actionMode>
-											</actionMode-array>
-										</field>
-										<field name="enabledInReadOnlyContext">
-											<Boolean>false</Boolean>
-										</field>
-									</action>
-									<action>
-										<field name="id">
-											<String>-quotation-mark-abbr</String>
-										</field>
-										<field name="name">
-											<String>’(qm)</String>
-										</field>
-										<field name="description">
-											<String>Abbreviation symbol for ’</String>
-										</field>
-										<field name="largeIconPath">
-											<String></String>
-										</field>
-										<field name="smallIconPath">
-											<String></String>
-										</field>
-										<field name="accessKey">
-											<String></String>
-										</field>
-										<field name="accelerator">
-											<null/>
-										</field>
-										<field name="actionModes">
-											<actionMode-array>
-												<actionMode>
-													<field name="xpathCondition">
-														<String></String>
-													</field>
-													<field name="argValues">
-														<serializableOrderedMap>
-															<entry>
-																<String>schemaAware</String>
-																<String>true</String>
-															</entry>
-															<entry>
-																<String>text</String>
-																<String>’</String>
-															</entry>
-														</serializableOrderedMap>
-													</field>
-													<field name="operationID">
-														<String>ro.sync.ecss.extensions.commons.operations.InsertOrReplaceTextOperation</String>
-													</field>
-												</actionMode>
-											</actionMode-array>
-										</field>
-										<field name="enabledInReadOnlyContext">
-											<Boolean>false</Boolean>
-										</field>
-									</action>
-									<action>
-										<field name="id">
-											<String>-ra_symbol</String>
-										</field>
-										<field name="name">
-											<String>ᷓ ra</String>
-										</field>
-										<field name="description">
-											<String>Abbreviation symbol for -ra ᷓ</String>
-										</field>
-										<field name="largeIconPath">
-											<String></String>
-										</field>
-										<field name="smallIconPath">
-											<String></String>
-										</field>
-										<field name="accessKey">
-											<String></String>
-										</field>
-										<field name="accelerator">
-											<null/>
-										</field>
-										<field name="actionModes">
-											<actionMode-array>
-												<actionMode>
-													<field name="xpathCondition">
-														<String></String>
-													</field>
-													<field name="argValues">
-														<serializableOrderedMap>
-															<entry>
-																<String>schemaAware</String>
-																<String>true</String>
-															</entry>
-															<entry>
-																<String>text</String>
-																<String>ᷓ</String>
-															</entry>
-														</serializableOrderedMap>
-													</field>
-													<field name="operationID">
-														<String>ro.sync.ecss.extensions.commons.operations.InsertOrReplaceTextOperation</String>
+														<String>ro.sync.ecss.extensions.commons.operations.XSLTOperation</String>
 													</field>
 												</actionMode>
 											</actionMode-array>
@@ -4734,13 +4658,13 @@ compl1(3)</String>
 									</action>
 									<action>
 										<field name="id">
-											<String>line_number_spalte</String>
+											<String>number_cb</String>
 										</field>
 										<field name="name">
-											<String>Versnummer - Spalte</String>
+											<String>Nummerierung - cb</String>
 										</field>
 										<field name="description">
-											<String>Nummeriert die Verse von der Caret bis zu Ende der Spalte</String>
+											<String></String>
 										</field>
 										<field name="largeIconPath">
 											<String></String>
@@ -4752,7 +4676,7 @@ compl1(3)</String>
 											<String></String>
 										</field>
 										<field name="accelerator">
-											<String>M1 M2 PLUS</String>
+											<null/>
 										</field>
 										<field name="actionModes">
 											<actionMode-array>
@@ -4763,25 +4687,18 @@ compl1(3)</String>
 													<field name="argValues">
 														<serializableOrderedMap>
 															<entry>
-																<String>Attribute</String>
-																<String>n</String>
-															</entry>
-															<entry>
-																<String>Element</String>
-																<String>l</String>
-															</entry>
-															<entry>
-																<String>Limit</String>
-																<String>cb</String>
-															</entry>
-															<entry>
-																<String>Prefix</String>
-																<String></String>
+																<String>script</String>
+																<String>function doOperation(){
+     caretOffset = authorAccess.getEditorAccess().getCaretOffset(); 
+      currentNode = authorAccess.getDocumentController().getNodeAtOffset(caretOffset); 
+      var newAttrValue = apiHelper.newInstance("ro.sync.ecss.extensions.api.node.AttrValue",  ['2']);
+      authorAccess.getDocumentController().setAttribute('url', newAttrValue, contextElement);
+}</String>
 															</entry>
 														</serializableOrderedMap>
 													</field>
 													<field name="operationID">
-														<String>ubheidelberg.heieditions.numbering</String>
+														<String>ro.sync.ecss.extensions.commons.operations.JSOperation</String>
 													</field>
 												</actionMode>
 											</actionMode-array>
@@ -4792,13 +4709,13 @@ compl1(3)</String>
 									</action>
 									<action>
 										<field name="id">
-											<String>lb_number_spalte</String>
+											<String>numbering</String>
 										</field>
 										<field name="name">
-											<String>Zeilennummer - Spalte</String>
+											<String>numbering</String>
 										</field>
 										<field name="description">
-											<String>Nummeriert die Zeilen von der Caret bis zu Ende der Spalte</String>
+											<String></String>
 										</field>
 										<field name="largeIconPath">
 											<String></String>
@@ -4810,7 +4727,48 @@ compl1(3)</String>
 											<String></String>
 										</field>
 										<field name="accelerator">
-											<String>M1 M2 MINUS</String>
+											<null/>
+										</field>
+										<field name="actionModes">
+											<actionMode-array>
+												<actionMode>
+													<field name="xpathCondition">
+														<String></String>
+													</field>
+													<field name="argValues">
+														<serializableOrderedMap/>
+													</field>
+													<field name="operationID">
+														<String>ubheidelberg.heieditions.gndplugin</String>
+													</field>
+												</actionMode>
+											</actionMode-array>
+										</field>
+										<field name="enabledInReadOnlyContext">
+											<Boolean>false</Boolean>
+										</field>
+									</action>
+									<action>
+										<field name="id">
+											<String>number-lb</String>
+										</field>
+										<field name="name">
+											<String>Durchnummerierung</String>
+										</field>
+										<field name="description">
+											<String></String>
+										</field>
+										<field name="largeIconPath">
+											<String></String>
+										</field>
+										<field name="smallIconPath">
+											<String></String>
+										</field>
+										<field name="accessKey">
+											<String></String>
+										</field>
+										<field name="accelerator">
+											<null/>
 										</field>
 										<field name="actionModes">
 											<actionMode-array>
@@ -4834,7 +4792,7 @@ compl1(3)</String>
 															</entry>
 															<entry>
 																<String>Prefix</String>
-																<String></String>
+																<String>null</String>
 															</entry>
 														</serializableOrderedMap>
 													</field>
@@ -4850,10 +4808,10 @@ compl1(3)</String>
 									</action>
 									<action>
 										<field name="id">
-											<String>lb_number_all</String>
+											<String>lb-num-cb</String>
 										</field>
 										<field name="name">
-											<String>Zeilennummer All</String>
+											<String>Zeilennummerierung (Spalte)</String>
 										</field>
 										<field name="description">
 											<String></String>
@@ -4879,13 +4837,21 @@ compl1(3)</String>
 													<field name="argValues">
 														<serializableOrderedMap>
 															<entry>
-																<String>scenarioNames</String>
-																<String>lb_n</String>
+																<String>Attribute</String>
+																<String>n</String>
+															</entry>
+															<entry>
+																<String>Element</String>
+																<String>lb</String>
+															</entry>
+															<entry>
+																<String>Limit</String>
+																<String>cb</String>
 															</entry>
 														</serializableOrderedMap>
 													</field>
 													<field name="operationID">
-														<String>ro.sync.ecss.extensions.commons.operations.ExecuteTransformationScenariosOperation</String>
+														<String>ubheidelberg.heieditions.numbering</String>
 													</field>
 												</actionMode>
 											</actionMode-array>
@@ -4896,10 +4862,10 @@ compl1(3)</String>
 									</action>
 									<action>
 										<field name="id">
-											<String>l_number_all</String>
+											<String>lg-wrap</String>
 										</field>
 										<field name="name">
-											<String>Versnummer All</String>
+											<String>Verspaare</String>
 										</field>
 										<field name="description">
 											<String></String>
@@ -4923,15 +4889,10 @@ compl1(3)</String>
 														<String></String>
 													</field>
 													<field name="argValues">
-														<serializableOrderedMap>
-															<entry>
-																<String>scenarioNames</String>
-																<String>l_n</String>
-															</entry>
-														</serializableOrderedMap>
+														<serializableOrderedMap/>
 													</field>
 													<field name="operationID">
-														<String>ro.sync.ecss.extensions.commons.operations.ExecuteTransformationScenariosOperation</String>
+														<String>ubheidelberg.heieditions.wrap</String>
 													</field>
 												</actionMode>
 											</actionMode-array>
@@ -4942,13 +4903,13 @@ compl1(3)</String>
 									</action>
 									<action>
 										<field name="id">
-											<String>hi</String>
+											<String>bar-n</String>
 										</field>
 										<field name="name">
-											<String>hi</String>
+											<String>Bar->n</String>
 										</field>
 										<field name="description">
-											<String>Ein hi tag</String>
+											<String></String>
 										</field>
 										<field name="largeIconPath">
 											<String></String>
@@ -4960,7 +4921,7 @@ compl1(3)</String>
 											<String></String>
 										</field>
 										<field name="accelerator">
-											<null/>
+											<String>M1 M2 N</String>
 										</field>
 										<field name="actionModes">
 											<actionMode-array>
@@ -4972,28 +4933,104 @@ compl1(3)</String>
 														<serializableOrderedMap>
 															<entry>
 																<String>fragment</String>
-																<String>&lt;hi xmlns="http://www.tei-c.org/ns/1.0" rendition="${ask('Rendition:', combobox,('hc:RedStroke':'hc:RedStroke';   
-'hc:Cadel' : 'hc:Cadel';
-'hc:DoubleUnderlined': 'hc:DoubleUnderlined';
-'hc:Enlarged' : 'hc:Enlarged';
-'hc:LitteraNotabilior' : 'hc:LitteraNotabilior';
-'hc:Oblique' : 'hc:Oblique';
-'hc:ProminentLowerPart' : 'hc:ProminentLowerPart';
-'hc:ProminentUpperPart' : 'hc:ProminentUpperPart';
-'hc:RedRetrace' : 'hc:RedRetrace';
-'hc:RedStrikethrough' : 'hc:RedStrikethrough';
-'hc:RedStroke' : 'hc:RedStroke';
-'hc:RedUnderlined' : 'hc:RedUnderlined';
-'hc:Subscript' :'hc:Subscript';
-'hc:Superscript' : 'hc:Superscript';
-'hc:Underlined' : 'hc:Underlined';
-'hc:Versal' : 'hc:Versal'
-))}">&lt;/hi></String>
+																<String>&lt;choice xmlns="http://www.tei-c.org/ns/1.0">&lt;am xmlns="http://www.tei-c.org/ns/1.0">&amp;bar;&lt;/am>&lt;ex xmlns="http://www.tei-c.org/ns/1.0">n&lt;/ex>&lt;/choice></String>
 															</entry>
 														</serializableOrderedMap>
 													</field>
 													<field name="operationID">
-														<String>ro.sync.ecss.extensions.commons.operations.SurroundWithFragmentOperation</String>
+														<String>ro.sync.ecss.extensions.commons.operations.InsertOrReplaceFragmentOperation</String>
+													</field>
+												</actionMode>
+											</actionMode-array>
+										</field>
+										<field name="enabledInReadOnlyContext">
+											<Boolean>false</Boolean>
+										</field>
+									</action>
+									<action>
+										<field name="id">
+											<String>curl-er</String>
+										</field>
+										<field name="name">
+											<String>Curl->er</String>
+										</field>
+										<field name="description">
+											<String></String>
+										</field>
+										<field name="largeIconPath">
+											<String></String>
+										</field>
+										<field name="smallIconPath">
+											<String></String>
+										</field>
+										<field name="accessKey">
+											<String></String>
+										</field>
+										<field name="accelerator">
+											<String>M1 M2 K</String>
+										</field>
+										<field name="actionModes">
+											<actionMode-array>
+												<actionMode>
+													<field name="xpathCondition">
+														<String></String>
+													</field>
+													<field name="argValues">
+														<serializableOrderedMap>
+															<entry>
+																<String>fragment</String>
+																<String>&lt;choice xmlns="http://www.tei-c.org/ns/1.0">&lt;am xmlns="http://www.tei-c.org/ns/1.0">&amp;curl;&lt;/am>&lt;ex xmlns="http://www.tei-c.org/ns/1.0">er&lt;/ex>&lt;/choice></String>
+															</entry>
+														</serializableOrderedMap>
+													</field>
+													<field name="operationID">
+														<String>ro.sync.ecss.extensions.commons.operations.InsertOrReplaceFragmentOperation</String>
+													</field>
+												</actionMode>
+											</actionMode-array>
+										</field>
+										<field name="enabledInReadOnlyContext">
+											<Boolean>false</Boolean>
+										</field>
+									</action>
+									<action>
+										<field name="id">
+											<String>zig-er</String>
+										</field>
+										<field name="name">
+											<String>Zig->er</String>
+										</field>
+										<field name="description">
+											<String></String>
+										</field>
+										<field name="largeIconPath">
+											<String></String>
+										</field>
+										<field name="smallIconPath">
+											<String></String>
+										</field>
+										<field name="accessKey">
+											<String></String>
+										</field>
+										<field name="accelerator">
+											<String>M1 M2 Z</String>
+										</field>
+										<field name="actionModes">
+											<actionMode-array>
+												<actionMode>
+													<field name="xpathCondition">
+														<String></String>
+													</field>
+													<field name="argValues">
+														<serializableOrderedMap>
+															<entry>
+																<String>fragment</String>
+																<String>&lt;choice xmlns="http://www.tei-c.org/ns/1.0">&lt;am xmlns="http://www.tei-c.org/ns/1.0">&amp;zig;&lt;/am>&lt;ex xmlns="http://www.tei-c.org/ns/1.0">er&lt;/ex>&lt;/choice></String>
+															</entry>
+														</serializableOrderedMap>
+													</field>
+													<field name="operationID">
+														<String>ro.sync.ecss.extensions.commons.operations.InsertOrReplaceFragmentOperation</String>
 													</field>
 												</actionMode>
 											</actionMode-array>
@@ -5087,26 +5124,6 @@ compl1(3)</String>
 										<toolbarEntry-array>
 											<toolbarItem>
 												<field name="actionID">
-													<String>break-no-LB</String>
-												</field>
-											</toolbarItem>
-											<toolbarItem>
-												<field name="actionID">
-													<String>abbr</String>
-												</field>
-											</toolbarItem>
-											<toolbarItem>
-												<field name="actionID">
-													<String>regularize</String>
-												</field>
-											</toolbarItem>
-											<toolbarItem>
-												<field name="actionID">
-													<String>new-w</String>
-												</field>
-											</toolbarItem>
-											<toolbarItem>
-												<field name="actionID">
 													<String>del-word</String>
 												</field>
 											</toolbarItem>
@@ -5153,32 +5170,6 @@ compl1(3)</String>
 														<toolbarEntry-array>
 															<toolbarItem>
 																<field name="actionID">
-																	<String>add</String>
-																</field>
-															</toolbarItem>
-															<toolbarItem>
-																<field name="actionID">
-																	<String>del</String>
-																</field>
-															</toolbarItem>
-															<toolbarItem>
-																<field name="actionID">
-																	<String>damage</String>
-																</field>
-															</toolbarItem>
-															<toolbarItem>
-																<field name="actionID">
-																	<String>subst</String>
-																</field>
-															</toolbarItem>
-															<toolbarItem>
-																<field name="actionID">
-																	<String>supplied</String>
-																</field>
-															</toolbarItem>
-															<toolbarSeparator/>
-															<toolbarItem>
-																<field name="actionID">
 																	<String>cb</String>
 																</field>
 															</toolbarItem>
@@ -5188,16 +5179,6 @@ compl1(3)</String>
 																</field>
 															</toolbarItem>
 															<toolbarSeparator/>
-															<toolbarItem>
-																<field name="actionID">
-																	<String>hi</String>
-																</field>
-															</toolbarItem>
-															<toolbarItem>
-																<field name="actionID">
-																	<String>decoration</String>
-																</field>
-															</toolbarItem>
 															<toolbarItem>
 																<field name="actionID">
 																	<String>initial</String>
@@ -5217,21 +5198,6 @@ compl1(3)</String>
 															<toolbarItem>
 																<field name="actionID">
 																	<String>lb</String>
-																</field>
-															</toolbarItem>
-															<toolbarItem>
-																<field name="actionID">
-																	<String>lb(ana)</String>
-																</field>
-															</toolbarItem>
-															<toolbarItem>
-																<field name="actionID">
-																	<String>metamark</String>
-																</field>
-															</toolbarItem>
-															<toolbarItem>
-																<field name="actionID">
-																	<String>note</String>
 																</field>
 															</toolbarItem>
 															<toolbarItem>
@@ -5285,29 +5251,7 @@ compl1(3)</String>
 															</toolbarItem>
 															<toolbarItem>
 																<field name="actionID">
-																	<String>lb_number</String>
-																</field>
-															</toolbarItem>
-															<toolbarSeparator/>
-															<toolbarItem>
-																<field name="actionID">
-																	<String>indent</String>
-																</field>
-															</toolbarItem>
-															<toolbarSeparator/>
-															<toolbarItem>
-																<field name="actionID">
-																	<String>join</String>
-																</field>
-															</toolbarItem>
-															<toolbarItem>
-																<field name="actionID">
-																	<String>broken-word</String>
-																</field>
-															</toolbarItem>
-															<toolbarItem>
-																<field name="actionID">
-																	<String>break-no-LB</String>
+																	<String>line_number</String>
 																</field>
 															</toolbarItem>
 														</toolbarEntry-array>
@@ -5336,33 +5280,17 @@ compl1(3)</String>
 															<toolbarSeparator/>
 															<toolbarItem>
 																<field name="actionID">
-																	<String>n(d)</String>
+																	<String>bar-n</String>
 																</field>
 															</toolbarItem>
 															<toolbarItem>
 																<field name="actionID">
-																	<String>(e)n</String>
+																	<String>curl-er</String>
 																</field>
 															</toolbarItem>
 															<toolbarItem>
 																<field name="actionID">
-																	<String>e(n)</String>
-																</field>
-															</toolbarItem>
-															<toolbarItem>
-																<field name="actionID">
-																	<String>n(e)</String>
-																</field>
-															</toolbarItem>
-															<toolbarItem>
-																<field name="actionID">
-																	<String>v(er)</String>
-																</field>
-															</toolbarItem>
-															<toolbarSeparator/>
-															<toolbarItem>
-																<field name="actionID">
-																	<String>w-versal</String>
+																	<String>zig-er</String>
 																</field>
 															</toolbarItem>
 														</toolbarEntry-array>
@@ -5382,74 +5310,7 @@ compl1(3)</String>
 														<String></String>
 													</field>
 													<field name="toolbarEntriesDescriptorList">
-														<toolbarEntry-array>
-															<toolbarItem>
-																<field name="actionID">
-																	<String>vn->und</String>
-																</field>
-															</toolbarItem>
-															<toolbarItem>
-																<field name="actionID">
-																	<String>compl1</String>
-																</field>
-															</toolbarItem>
-														</toolbarEntry-array>
-													</field>
-												</toolbar>
-												<toolbar>
-													<field name="id">
-														<String>Regularization</String>
-													</field>
-													<field name="type">
-														<Integer>3</Integer>
-													</field>
-													<field name="largeIconPath">
-														<String></String>
-													</field>
-													<field name="smallIconPath">
-														<String></String>
-													</field>
-													<field name="toolbarEntriesDescriptorList">
-														<toolbarEntry-array>
-															<toolbarItem>
-																<field name="actionID">
-																	<String>regularize</String>
-																</field>
-															</toolbarItem>
-															<toolbarSeparator/>
-															<toolbarItem>
-																<field name="actionID">
-																	<String>j=>i</String>
-																</field>
-															</toolbarItem>
-															<toolbarItem>
-																<field name="actionID">
-																	<String>i=>j</String>
-																</field>
-															</toolbarItem>
-															<toolbarSeparator/>
-															<toolbarItem>
-																<field name="actionID">
-																	<String>u=>v</String>
-																</field>
-															</toolbarItem>
-															<toolbarItem>
-																<field name="actionID">
-																	<String>v=>u</String>
-																</field>
-															</toolbarItem>
-															<toolbarSeparator/>
-															<toolbarItem>
-																<field name="actionID">
-																	<String>w=>wu</String>
-																</field>
-															</toolbarItem>
-															<toolbarItem>
-																<field name="actionID">
-																	<String>w-versal</String>
-																</field>
-															</toolbarItem>
-														</toolbarEntry-array>
+														<toolbarEntry-array/>
 													</field>
 												</toolbar>
 												<toolbar>
@@ -5487,100 +5348,6 @@ compl1(3)</String>
 																	<String>pilcrow</String>
 																</field>
 															</toolbarItem>
-															<toolbarSeparator/>
-															<toolbarItem>
-																<field name="actionID">
-																	<String>ae</String>
-																</field>
-															</toolbarItem>
-															<toolbarItem>
-																<field name="actionID">
-																	<String>oe</String>
-																</field>
-															</toolbarItem>
-															<toolbarItem>
-																<field name="actionID">
-																	<String>scharf-s</String>
-																</field>
-															</toolbarItem>
-															<toolbarItem>
-																<field name="actionID">
-																	<String>ÿ</String>
-																</field>
-															</toolbarItem>
-															<toolbarSeparator/>
-															<toolbarItem>
-																<field name="actionID">
-																	<String>dot above</String>
-																</field>
-															</toolbarItem>
-															<toolbarItem>
-																<field name="actionID">
-																	<String>dieresis</String>
-																</field>
-															</toolbarItem>
-															<toolbarItem>
-																<field name="actionID">
-																	<String>macron</String>
-																</field>
-															</toolbarItem>
-															<toolbarItem>
-																<field name="actionID">
-																	<String>vertical line above</String>
-																</field>
-															</toolbarItem>
-															<toolbarItem>
-																<field name="actionID">
-																	<String>-er_symbol</String>
-																</field>
-															</toolbarItem>
-															<toolbarItem>
-																<field name="actionID">
-																	<String>-ra_symbol</String>
-																</field>
-															</toolbarItem>
-															<toolbarItem>
-																<field name="actionID">
-																	<String>-quotation-mark-abbr</String>
-																</field>
-															</toolbarItem>
-															<toolbarSeparator/>
-															<toolbarItem>
-																<field name="actionID">
-																	<String>circumflex</String>
-																</field>
-															</toolbarItem>
-															<toolbarItem>
-																<field name="actionID">
-																	<String>a above</String>
-																</field>
-															</toolbarItem>
-															<toolbarItem>
-																<field name="actionID">
-																	<String>e above</String>
-																</field>
-															</toolbarItem>
-															<toolbarItem>
-																<field name="actionID">
-																	<String>o above</String>
-																</field>
-															</toolbarItem>
-															<toolbarItem>
-																<field name="actionID">
-																	<String>u above</String>
-																</field>
-															</toolbarItem>
-															<toolbarItem>
-																<field name="actionID">
-																	<String>v above - Copy</String>
-																</field>
-															</toolbarItem>
-															<toolbarSeparator/>
-															<toolbarItem>
-																<field name="actionID">
-																	<String>per abbr</String>
-																</field>
-															</toolbarItem>
 														</toolbarEntry-array>
 													</field>
 												</toolbar>
@@ -5601,23 +5368,13 @@ compl1(3)</String>
 														<toolbarEntry-array>
 															<toolbarItem>
 																<field name="actionID">
-																	<String>lb_number_all</String>
-																</field>
-															</toolbarItem>
-															<toolbarItem>
-																<field name="actionID">
-																	<String>l_number_all</String>
+																	<String>lg-wrap</String>
 																</field>
 															</toolbarItem>
 															<toolbarSeparator/>
 															<toolbarItem>
 																<field name="actionID">
-																	<String>lb_number_spalte</String>
-																</field>
-															</toolbarItem>
-															<toolbarItem>
-																<field name="actionID">
-																	<String>line_number_spalte</String>
+																	<String>lb-num-cb</String>
 																</field>
 															</toolbarItem>
 															<toolbarSeparator/>
@@ -5687,7 +5444,7 @@ compl1(3)</String>
 						<String-array/>
 					</field>
 					<field name="description">
-						<String>iwein	</String>
+						<String>Nikolaus von Jeroschin Chronik</String>
 					</field>
 					<field name="doctypeRules">
 						<documentTypeRule-array>
@@ -5699,7 +5456,7 @@ compl1(3)</String>
 									<String>*</String>
 								</field>
 								<field name="fileName">
-									<String>*</String>
+									<String>*eroschin*</String>
 								</field>
 								<field name="publicID">
 									<String>*</String>
@@ -5708,13 +5465,143 @@ compl1(3)</String>
 									<String></String>
 								</field>
 								<field name="attributeLocalName">
-									<String>ana</String>
+									<String>*</String>
 								</field>
 								<field name="attributeNamespace">
 									<String>*</String>
 								</field>
 								<field name="attributeValue">
-									<String>hc:IWDDocument - change</String>
+									<String>*</String>
+								</field>
+							</documentTypeRule>
+							<documentTypeRule>
+								<field name="namespace">
+									<String>*</String>
+								</field>
+								<field name="rootElem">
+									<String>*</String>
+								</field>
+								<field name="fileName">
+									<String>herzmaere*</String>
+								</field>
+								<field name="publicID">
+									<String>*</String>
+								</field>
+								<field name="javaRuleClass">
+									<String></String>
+								</field>
+								<field name="attributeLocalName">
+									<String>*</String>
+								</field>
+								<field name="attributeNamespace">
+									<String>*</String>
+								</field>
+								<field name="attributeValue">
+									<String>*</String>
+								</field>
+							</documentTypeRule>
+							<documentTypeRule>
+								<field name="namespace">
+									<String>*</String>
+								</field>
+								<field name="rootElem">
+									<String>*</String>
+								</field>
+								<field name="fileName">
+									<String>welt*</String>
+								</field>
+								<field name="publicID">
+									<String>*</String>
+								</field>
+								<field name="javaRuleClass">
+									<String></String>
+								</field>
+								<field name="attributeLocalName">
+									<String>*</String>
+								</field>
+								<field name="attributeNamespace">
+									<String>*</String>
+								</field>
+								<field name="attributeValue">
+									<String>*</String>
+								</field>
+							</documentTypeRule>
+							<documentTypeRule>
+								<field name="namespace">
+									<String>*</String>
+								</field>
+								<field name="rootElem">
+									<String>*</String>
+								</field>
+								<field name="fileName">
+									<String>heinrich*</String>
+								</field>
+								<field name="publicID">
+									<String>*</String>
+								</field>
+								<field name="javaRuleClass">
+									<String></String>
+								</field>
+								<field name="attributeLocalName">
+									<String>*</String>
+								</field>
+								<field name="attributeNamespace">
+									<String>*</String>
+								</field>
+								<field name="attributeValue">
+									<String>*</String>
+								</field>
+							</documentTypeRule>
+							<documentTypeRule>
+								<field name="namespace">
+									<String>*</String>
+								</field>
+								<field name="rootElem">
+									<String>*</String>
+								</field>
+								<field name="fileName">
+									<String>schwan*</String>
+								</field>
+								<field name="publicID">
+									<String>*</String>
+								</field>
+								<field name="javaRuleClass">
+									<String></String>
+								</field>
+								<field name="attributeLocalName">
+									<String>*</String>
+								</field>
+								<field name="attributeNamespace">
+									<String>*</String>
+								</field>
+								<field name="attributeValue">
+									<String>*</String>
+								</field>
+							</documentTypeRule>
+							<documentTypeRule>
+								<field name="namespace">
+									<String>*</String>
+								</field>
+								<field name="rootElem">
+									<String>*</String>
+								</field>
+								<field name="fileName">
+									<String>Iwein*</String>
+								</field>
+								<field name="publicID">
+									<String>*</String>
+								</field>
+								<field name="javaRuleClass">
+									<String></String>
+								</field>
+								<field name="attributeLocalName">
+									<String>*</String>
+								</field>
+								<field name="attributeNamespace">
+									<String>*</String>
+								</field>
+								<field name="attributeValue">
+									<String>*</String>
 								</field>
 							</documentTypeRule>
 						</documentTypeRule-array>
@@ -5897,7 +5784,7 @@ compl1(3)</String>
 									<null/>
 								</field>
 								<field name="name">
-									<String>lb_n</String>
+									<String>pruz</String>
 								</field>
 								<field name="baseURL">
 									<String></String>
@@ -5915,7 +5802,7 @@ compl1(3)</String>
 									<String></String>
 								</field>
 								<field name="inputXSLURL">
-									<String>${framework}/xslt/lb-n.xsl</String>
+									<String>${framework}/xslt/numer_cb.xsl</String>
 								</field>
 								<field name="inputXMLURL">
 									<String>${currentFileURL}</String>
@@ -5927,7 +5814,7 @@ compl1(3)</String>
 									<Boolean>false</Boolean>
 								</field>
 								<field name="type">
-									<String>XSL</String>
+									<String>XML</String>
 								</field>
 								<field name="saveAs">
 									<Boolean>true</Boolean>
@@ -5969,90 +5856,7 @@ compl1(3)</String>
 									<String-array/>
 								</field>
 								<field name="xslTransformer">
-									<String>Saxon-PE</String>
-								</field>
-								<field name="extensionURLs">
-									<String-array/>
-								</field>
-							</scenario>
-							<scenario>
-								<field name="advancedOptionsMap">
-									<null/>
-								</field>
-								<field name="name">
-									<String>l_n</String>
-								</field>
-								<field name="baseURL">
-									<String></String>
-								</field>
-								<field name="footerURL">
-									<String></String>
-								</field>
-								<field name="fOPMethod">
-									<String>pdf</String>
-								</field>
-								<field name="fOProcessorName">
-									<String>Apache FOP</String>
-								</field>
-								<field name="headerURL">
-									<String></String>
-								</field>
-								<field name="inputXSLURL">
-									<String>${framework}/xslt/l_n.xsl</String>
-								</field>
-								<field name="inputXMLURL">
-									<String>${currentFileURL}</String>
-								</field>
-								<field name="defaultScenario">
-									<Boolean>false</Boolean>
-								</field>
-								<field name="isFOPPerforming">
-									<Boolean>false</Boolean>
-								</field>
-								<field name="type">
-									<String>XSL</String>
-								</field>
-								<field name="saveAs">
-									<Boolean>true</Boolean>
-								</field>
-								<field name="openInBrowser">
-									<Boolean>false</Boolean>
-								</field>
-								<field name="outputResource">
-									<String>${currentFileURL}</String>
-								</field>
-								<field name="openOtherLocationInBrowser">
-									<Boolean>false</Boolean>
-								</field>
-								<field name="locationToOpenInBrowserURL">
-									<null/>
-								</field>
-								<field name="openInEditor">
-									<Boolean>false</Boolean>
-								</field>
-								<field name="showInHTMLPane">
-									<Boolean>false</Boolean>
-								</field>
-								<field name="showInXMLPane">
-									<Boolean>false</Boolean>
-								</field>
-								<field name="showInSVGPane">
-									<Boolean>false</Boolean>
-								</field>
-								<field name="showInResultSetPane">
-									<Boolean>false</Boolean>
-								</field>
-								<field name="useXSLTInput">
-									<Boolean>true</Boolean>
-								</field>
-								<field name="xsltParams">
-									<list/>
-								</field>
-								<field name="cascadingStylesheets">
-									<String-array/>
-								</field>
-								<field name="xslTransformer">
-									<String>Saxon-PE</String>
+									<String>Saxon6.5.5</String>
 								</field>
 								<field name="extensionURLs">
 									<String-array/>
@@ -6146,14 +5950,14 @@ compl1(3)</String>
 									<String>Validation_scenario</String>
 								</field>
 								<field name="name">
-									<String>iwein</String>
+									<String>tokenization</String>
 								</field>
 							</validationScenario>
 						</validationScenario-array>
 					</field>
 					<field name="defaultValidationScenarios">
 						<list>
-							<String>iwein</String>
+							<String>tokenization</String>
 						</list>
 					</field>
 					<field name="defaultTransformationScenarios">
@@ -6166,7 +5970,7 @@ compl1(3)</String>
 						<Boolean>true</Boolean>
 					</field>
 					<field name="imposedInitialPage">
-						<String>Author</String>
+						<String>Text</String>
 					</field>
 					<field name="elementLocatorExtension">
 						<null/>

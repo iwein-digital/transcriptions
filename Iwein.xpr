@@ -9,6 +9,7 @@
                         <String>additional.frameworks.directories</String>
                         <String-array>
                             <String>${pd}/Framework_Iwein</String>
+                            <String>${pd}/framework_jeroschin</String>
                         </String-array>
                     </entry>
                     <entry>

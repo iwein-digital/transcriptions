@@ -1,0 +1,312 @@
+﻿    @namespace hei "https://digi.ub.uni-heidelberg.de/schema/tei/heiEDITIONS";
+
+@font-face {
+  font-family: JunicodeFr;
+  src: url('font/Junicode.ttf');
+}
+
+* {
+    font-family: JunicodeFr;
+    -oxy-display-tags: none ;
+}
+
+*[hei|color~="Red"]{
+    color: red;
+}
+
+*[hei|color~="Blue"]{
+    color: blue;
+}
+
+*[hei|color~="Gold"]{
+    color: gold;
+}
+
+add:before {
+    content: "\\";
+}
+
+ab {
+    font-size: large;
+    font-weight: bold;
+}
+
+add:after {
+    content: "/";
+}
+
+/* JS: */
+am {
+    font-size: large;
+    color:#194d30;
+}
+
+c {
+	-oxy-display-tags: none;
+	-oxy-placeholder-content: "c";
+	font-size:large;
+}
+
+cb {
+     -oxy-append-content: attr(n);
+    font-size: large;
+    display: inline;
+    margin-left: 130px;
+}
+
+cb::before {
+    content: "\ASpaltenbeginn: ";
+}
+
+choice {
+    -oxy-display-tags: none;
+    /* JS: */
+    font-size: 0;
+}
+
+
+del:before {
+    content: "⟦";
+}
+
+del:after {
+    content: "⟧";
+}
+
+div {
+    content: oxy_label(text, "Abschnitt ", styles,
+      "font-size:2em;font-style:bold;")
+      oxy_textfield(
+            edit, "@n",
+            fontInherit, true,
+            columns, 5)
+            oxy_label(text, "Art: ", styles,
+      "font-size:1em;font-style:bold;")
+      oxy_textfield(
+            edit, "@ana",
+            fontInherit, true,
+            columns, 15);
+    padding: 1em;
+    margin: 1em;
+}
+
+encodingDesc {
+    display: none;
+}
+
+/* JS: */
+ex {
+    font-size: large;
+}
+
+ex:before {
+    content: "(";
+}
+
+ex:after {
+    content: ")";
+}
+
+facsimile {
+    display: none;
+}
+
+head{
+    display: block;
+    font-size: 0;
+}
+
+hi{
+    	-oxy-display-tags: none;
+    	background-color: white;
+    	/*border-top: solid 10px;
+    	padding-top: 0.5px;
+    	border-color: red;*/
+}
+
+hi[rendition~="hc:RedStroke"],hi[rendition~="hc:RedRetrace"]{
+    text-decoration: underline;
+    text-decoration-color: red;
+    color: black;
+}
+
+del[rendition~="hc:RedStrikethrough"]{
+    text-decoration: line-through;
+    -oxy-display-tags: none;
+    text-decoration-color: red;
+}
+
+hi[rendition~="hc:Versal"]{
+    font-weight: bold;
+    /*font-size: x-large;*/
+}
+
+hi[rendition~="hc:Cadel"]{
+    font-weight: bold;
+    font-size: x-large;
+}
+
+hei|initial{
+    font-weight: bold;
+    font-size: xx-large;
+}
+
+/*l {
+    content: attr(n)"-";
+    font-size: large;
+    display: block;
+}*/
+/* stattdessen JS: */
+
+l {
+    content: " ";
+    font-size: large;
+    display: block;
+    white-space: normal;
+    font-size: 0;
+}
+
+l::before {
+    content: " [" attr(n) "] ";
+    background-color: Gainsboro;
+    font-size: large;
+}
+
+l[rend~="indent"]{
+    margin-left: 20px;    
+}
+
+lb {
+    font-size: small;
+    -oxy-display-tags: none;
+    /*content: "("attr(n)")";*/
+    /* JS: */
+    content: " (" attr(n) ") ";   
+}
+
+lb:hover {
+        -oxy-prepend-content: oxy_xpath(
+    'preceding::cb[1]/@n'
+    );
+    background-color:#e6e6fa;
+}
+
+/*lg{
+    margin-left: 15px;
+    font-size: small;
+    -oxy-prepend-content: "lg";
+    padding: 0px;
+}*/
+
+/* stattdessen JS: */
+lg {
+    margin-left: 15px;
+    margin-top: 20px;
+    font-size: small;
+    -oxy-prepend-content: " — Versgruppe—";
+    padding: 0px;
+}
+
+metamark {
+     font-size: large;
+     -oxy-display-tags: none;
+    display: inline;
+    border-style: solid;
+    border-width: thin;
+    border-color: Coral;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+
+/* JS: */
+milestone[ana~="hc:LineSegmentBeginning"] {
+    font-size: small;
+    -oxy-display-tags: none;
+    content: "☰" attr(hei|belongsToLine) "☰" ;  
+    background-color: Gainsboro;
+    color: black;
+}
+
+
+mod[type=phase]{
+    font-size: small;
+    -oxy-prepend-content: "[";
+}
+
+
+p{
+    font-size: large;
+    display: block;
+}
+
+pb {
+    /*-oxy-append-content: "\A"attr(n);*/
+    -oxy-append-content: attr(n);
+    font-size: large;
+    display: inline-block;
+    margin-left: 130px;
+}
+
+pb::before {
+    content: "\ASeitenbeginn: ";
+}
+
+pc {
+     font-size: large;
+     -oxy-display-tags: none;
+    display: inline;
+    border-style: solid;
+    border-width: thin;
+    border-color: green;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+
+publicationStmt {
+    display: none;
+}
+
+respStmt {
+    display: none;
+}
+
+teiHeader{
+    visibility:-oxy-collapse-text;
+    -oxy-display-tags: none;
+}
+
+titleStmt > title:first-child {
+    visibility: visible;
+    display: block;
+    font-size: large;
+    font: bold;
+}
+
+sourceDesc > listWit > witness {
+    content:  "Handschrift: " oxy_textfield(edit, "@xml:id");
+}
+
+w {
+    background-color: white;
+    -oxy-show-placeholder: always;
+    -oxy-placeholder-content: "w";
+    -oxy-display-tags: none;
+    display: inline;
+    -oxy-editable: true;
+    /* JS: */
+    border-style: solid;
+    border-width: thin;
+    border-color: Silver;
+    padding-right: 3px;
+    padding-left: 3px;
+    
+    font-size: large;
+}
+
+
+
+
+
+
+
+
