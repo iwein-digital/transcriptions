@@ -1,0 +1,19 @@
+﻿
+ex {
+	visibility:-oxy-collapse-text;
+	-oxy-display-tags: none;
+	font-size: smaller;
+}
+
+ex:before {
+    content: "";
+}
+
+ex:after {
+    content: "";
+}
+
+w:hover > choice > ex{
+    visibility: visible;
+    background-color:#e6e6fa;
+}

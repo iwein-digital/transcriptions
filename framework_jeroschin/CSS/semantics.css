@@ -1,0 +1,13 @@
+﻿l::before {
+    content: url(../icons/vers_label_small.png) " [" attr(n) "] ";
+    background-color: Gainsboro;
+    font-size: large;
+}
+
+lg::before {
+    content: url(../icons/stanza_label_small.png);
+}
+
+head::before {
+    content: url(../icons/heading_label_small.png);
+}

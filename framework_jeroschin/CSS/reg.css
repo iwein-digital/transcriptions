@@ -1,0 +1,14 @@
+﻿orig {
+	-oxy-display-tags: none;
+	visibility:-oxy-collapse-text;
+	font-size: smaller;
+}
+reg {
+	-oxy-display-tags: none;
+	font-weight: bold;
+}
+
+choice:hover > orig {
+    visibility: visible;
+    background-color:#e6e6fa;
+}
