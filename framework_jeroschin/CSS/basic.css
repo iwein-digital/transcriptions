@@ -138,7 +138,7 @@ del[rendition~="hc:RedStrikethrough"]{
 
 hi[rendition~="hc:Versal"]{
     font-weight: bold;
-    /*font-size: x-large;*/
+    font-size: x-large;
 }
 
 hi[rendition~="hc:Cadel"]{
@@ -233,6 +233,23 @@ mod[type=phase]{
     -oxy-prepend-content: "[";
 }
 
+orig {
+     background-color: white;
+    display: inline;
+    -oxy-editable: true;
+    font-size: large;
+    
+    -oxy-display-tags: none;
+}
+
+reg {
+    background-color: white;
+    display: inline;
+    -oxy-editable: true;
+    font-size: large;
+    
+    -oxy-display-tags: none;
+}
 
 p{
     font-size: large;
