@@ -2,10 +2,18 @@
 	-oxy-display-tags: none;
 	visibility:-oxy-collapse-text;
 	font-size: smaller;
+	background-color: white;
+    display: inline;
+    -oxy-editable: true;
+    font-size: large;
 }
 reg {
 	-oxy-display-tags: none;
 	font-weight: bold;
+	background-color: white;
+    display: inline;
+    -oxy-editable: true;
+    font-size: large;
 }
 
 choice:hover > orig {
