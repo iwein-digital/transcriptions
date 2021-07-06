@@ -17,6 +17,27 @@
                         <documentTypeDescriptor-array/>
                     </entry>
                     <entry>
+                        <String>document.types.order</String>
+                        <documentTypeEntry-array>
+                            <documentTypeEntry>
+                                <field name="documentTypeID">
+                                    <String>3/framework_jeroschin/pruz.framework/Jeroschin Chronik</String>
+                                </field>
+                                <field name="enable">
+                                    <Boolean>false</Boolean>
+                                </field>
+                            </documentTypeEntry>
+                            <documentTypeEntry>
+                                <field name="documentTypeID">
+                                    <String>3/Framework_Iwein/iwein.framework/iwein</String>
+                                </field>
+                                <field name="enable">
+                                    <Boolean>false</Boolean>
+                                </field>
+                            </documentTypeEntry>
+                        </documentTypeEntry-array>
+                    </entry>
+                    <entry>
                         <String>editor.format.break.long.attributes</String>
                         <Boolean>false</Boolean>
                     </entry>
