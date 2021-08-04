@@ -54,7 +54,7 @@
         </encodingDesc>
     </teiHeader>
 
-    <facsimile> <!-- Ist das überhaupt eine Quellenansicht sinnvoll? Als komplette Rekonstruktion? Oder nur Leseansicht und Synopse? -->
+    <facsimile> <!-- Ist hier überhaupt eine Quellenansicht sinnvoll? Als komplette Rekonstruktion? Oder nur Leseansicht und Synopse? -->
         <surface xml:id="K_1r" ana="hc:Page" n="1r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit//0000" mimeType="image/*"/>
             <zone ana="hc:HorizontalLayout">

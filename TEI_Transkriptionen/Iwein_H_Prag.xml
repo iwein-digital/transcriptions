@@ -221,7 +221,7 @@
                 <lg ana="hc:Couplet">
                     <l n="6939" xml:id="l_6939" hei:altN="6">
                         <lb n="6"/>
-                        <w xml:id="w_6939_1"><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">M</hei:initial>achet</w>
+                        <w xml:id="w_6939_1"><hei:initial rendition="hc:Lombard" hei:color="Red" hei:heightLines="2">M</hei:initial>achet</w>
                         <c> </c>
                         <w xml:id="w_6939_2">ich</w>
                         <c> </c>
@@ -672,7 +672,7 @@
                 <lg ana="hc:Couplet">
                     <l n="6977" xml:id="l_6977" hei:altN="42">
                         <lb n="11"/>
-                        <w xml:id="w_6977_1"><hei:initial ana="hc:Lombard" hei:color="Blue" hei:heightLines="2">S</hei:initial>it</w>
+                        <w xml:id="w_6977_1"><hei:initial rendition="hc:Lombard" hei:color="Blue" hei:heightLines="2">S</hei:initial>it</w>
                         <c> </c>
                         <w xml:id="w_6977_2">daz</w>
                         <c> </c>
@@ -1413,7 +1413,7 @@
                     <l n="7041" xml:id="l_7041" hei:altN="102">
                         <lb n="9"/>
                         <w xml:id="w_7041_1">
-                            <hei:initial ana="hc:Lombard" hei:color="Blue" hei:heightLines="2">N</hei:initial>
+                            <hei:initial rendition="hc:Lombard" hei:color="Blue" hei:heightLines="2">N</hei:initial>
                             <hi rendition="hc:RedStroke"><choice><orig>v</orig><reg>u</reg></choice>&osup;</hi>
                         </w>
                         <c> </c>
@@ -1608,7 +1608,7 @@
                     <l n="7055" xml:id="l_7055" hei:altN="116">
                         <lb n="23"/>
                         <w xml:id="w_7055_1">
-                            <hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">D</hei:initial>
+                            <hei:initial rendition="hc:Lombard" hei:color="Red" hei:heightLines="2">D</hei:initial>
                             <hi rendition="hc:RedStroke">i</hi>
                             <choice>
                                 <orig>v</orig>
@@ -2787,7 +2787,7 @@
                 <lg ana="hc:Couplet">
                     <l n="7147" xml:id="l_7147" hei:altN="208">
                         <lb n="22"/>
-                        <w xml:id="w_7147_1"><hei:initial ana="hc:Lombard" hei:color="Blue" hei:heightLines="2">S</hei:initial>w<choice><am>&er;</am><ex>er</ex></choice></w>
+                        <w xml:id="w_7147_1"><hei:initial rendition="hc:Lombard" hei:color="Blue" hei:heightLines="2">S</hei:initial>w<choice><am>&er;</am><ex>er</ex></choice></w>
                         <c> </c>
                         <w xml:id="w_7147_2">gerne</w>
                         <c> </c>
@@ -3002,7 +3002,7 @@
                 <lg ana="hc:Couplet">
                     <l n="7175" xml:id="l_7175" hei:altN="225">
                         <lb n="8"/>
-                        <w xml:id="w_7175_1"><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">S</hei:initial>wer</w>
+                        <w xml:id="w_7175_1"><hei:initial rendition="hc:Lombard" hei:color="Red" hei:heightLines="2">S</hei:initial>wer</w>
                         <c> </c>
                         <w xml:id="w_7175_2">gerne</w>
                         <c> </c>
@@ -3350,7 +3350,7 @@
                 <lg ana="hc:Couplet">
                     <l n="7235" xml:id="l_7235" hei:altN="253">
                         <lb n="2"/>
-                        <w xml:id="w_7235_1"><hei:initial ana="hc:Lombard" hei:color="Blue" hei:heightLines="2">S</hei:initial>ich</w>
+                        <w xml:id="w_7235_1"><hei:initial rendition="hc:Lombard" hei:color="Blue" hei:heightLines="2">S</hei:initial>ich</w>
                         <c> </c>
                         <w xml:id="w_7235_2">h<choice><orig>v</orig><reg>u</reg></choice>&osup;p</w>
                         <c> </c>
@@ -3738,7 +3738,7 @@
                 <lg ana="hc:Couplet">
                     <l n="7459" xml:id="l_7459" hei:altN="282">
                         <lb n="5"/>
-                        <w xml:id="w_7459_1"><hei:initial ana="hc:Lombard" hei:color="Blue" hei:heightLines="2">M</hei:initial><hi rendition="hc:RedStroke">i</hi>n</w>
+                        <w xml:id="w_7459_1"><hei:initial rendition="hc:Lombard" hei:color="Blue" hei:heightLines="2">M</hei:initial><hi rendition="hc:RedStroke">i</hi>n</w>
                         <c> </c>
                         <w xml:id="w_7459_2">herze</w>
                         <c> </c>
@@ -4320,7 +4320,7 @@
                     <l n="7505" xml:id="l_7505" hei:altN="328">
                         <lb n="20"/>
                         <w xml:id="w_7505_1">
-                            <hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">D</hei:initial>
+                            <hei:initial rendition="hc:Lombard" hei:color="Red" hei:heightLines="2">D</hei:initial>
                             <hi rendition="hc:RedStroke">o</hi>
                         </w>
                         <c> </c>
@@ -4999,7 +4999,7 @@
                 <lg ana="hc:Couplet">
                     <l n="7557" xml:id="l_7557" hei:altN="380">
                         <lb n="10"/>
-                        <w xml:id="w_7557_1"><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">H</hei:initial>erre</w>
+                        <w xml:id="w_7557_1"><hei:initial rendition="hc:Lombard" hei:color="Red" hei:heightLines="2">H</hei:initial>erre</w>
                         <c> </c>
                         <w xml:id="w_7557_2">gawein</w>
                         <c> </c>
@@ -5132,7 +5132,7 @@
                 <lg ana="hc:Couplet">
                     <l n="7567" xml:id="l_7567" hei:altN="390">
                         <lb n="20"/>
-                        <w xml:id="w_7567_1"><hei:initial ana="hc:Lombard" hei:color="Blue" hei:heightLines="2">H</hei:initial><hi rendition="hc:RedStroke">e</hi>rre</w>
+                        <w xml:id="w_7567_1"><hei:initial rendition="hc:Lombard" hei:color="Blue" hei:heightLines="2">H</hei:initial><hi rendition="hc:RedStroke">e</hi>rre</w>
                         <c> </c>
                         <w xml:id="w_7567_2"><choice><orig>v</orig><reg>u</reg></choice>n<choice><am>&bar;</am><ex>d</ex></choice></w>
                         <c> </c>
@@ -5294,7 +5294,7 @@
                 <lg ana="hc:Couplet">
                     <l n="7579" xml:id="l_7579" hei:altN="402">
                         <lb n="1"/>
-                        <w xml:id="w_7579_1"><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">H</hei:initial>erre</w>
+                        <w xml:id="w_7579_1"><hei:initial rendition="hc:Lombard" hei:color="Red" hei:heightLines="2">H</hei:initial>erre</w>
                         <c> </c>
                         <w xml:id="w_7579_2">ywein</w>
                         <c> </c>
@@ -5912,7 +5912,7 @@
                     <l n="7625" xml:id="l_7625" hei:altN="448">
                         <lb n="16"/>
                         <w xml:id="w_7625_1">
-                            <hei:initial ana="hc:Lombard" hei:color="Blue" hei:heightLines="2">D</hei:initial>
+                            <hei:initial rendition="hc:Lombard" hei:color="Blue" hei:heightLines="2">D</hei:initial>
                             <hi rendition="hc:RedStroke">i</hi>
                             <choice>
                                 <orig>v</orig>
@@ -6302,7 +6302,7 @@
                 <lg ana="hc:Couplet">
                     <l n="7653" xml:id="l_7653" hei:altN="476">
                         <lb n="13"/>
-                        <w xml:id="w_7653_1"><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">D</hei:initial>i<choice><orig>v</orig><reg>u</reg></choice></w>
+                        <w xml:id="w_7653_1"><hei:initial rendition="hc:Lombard" hei:color="Red" hei:heightLines="2">D</hei:initial>i<choice><orig>v</orig><reg>u</reg></choice></w>
                         <c> </c>
                         <w xml:id="w_7653_2">rede</w>
                         <c> </c>
@@ -6469,7 +6469,7 @@
                 <lg ana="hc:Couplet">
                     <l n="7665" xml:id="l_7665" hei:altN="488">
                         <lb n="25"/>
-                        <w xml:id="w_7665_1"><hei:initial ana="hc:Lombard" hei:color="Blue" hei:heightLines="2">E</hei:initial>r</w>
+                        <w xml:id="w_7665_1"><hei:initial rendition="hc:Lombard" hei:color="Blue" hei:heightLines="2">E</hei:initial>r</w>
                         <c> </c>
                         <w xml:id="w_7665_2">ſp<choice><am>&ra;</am><ex>ra</ex></choice>ch</w>
                         <c> </c>
