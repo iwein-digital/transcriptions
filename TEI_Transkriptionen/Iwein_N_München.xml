@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-model href="https://digi.ub.uni-heidelberg.de/schema/tei/heiEDITIONS/tei_hes.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://digi.ub.uni-heidelberg.de/schema/tei/heiEDITIONS/tei_hes.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+<!DOCTYPE TEI 
+[
+<!ENTITY % heiEDITIONS_entities SYSTEM "https://digi.ub.uni-heidelberg.de/schema/tei/heiEDITIONS/declarations/heieditions-entities.txt">
+%heiEDITIONS_entities; ]>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:hei="https://digi.ub.uni-heidelberg.de/schema/tei/heiEDITIONS" ana="hc:IWDDocument">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Iwein-Fragm. N</title>
+                <author>Hartmann von Aue</author>
+                <respStmt>
+                    <resp>transcription</resp>
+                    <persName>Victor Millet</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>UB Heidelberg</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="N">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>München</settlement>
+                                <repository>Archiv des Erzbistums München und Freising</repository>
+                                <idno>ohne Signatur – verschollen</idno>
+                            </msIdentifier>
+                            <additional>
+                                <adminInfo>
+                                    <availability>
+                                        <ab>Lost</ab>
+                                    </availability>
+                                </adminInfo>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <listPrefixDef>
+                <prefixDef ident="hc" matchPattern="(.+)" replacementPattern="https://lod.ub.uni-heidelberg.de/ontologies/heieditions/hc/current/$1"> </prefixDef>
+                <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://digi.ub.uni-heidelberg.de/schema/tei/heiEDITIONS/declarations/chars.xml#$1"> </prefixDef>
+            </listPrefixDef>
+            <hei:elementsWithTokenizedContent include="l"/>
+        </encodingDesc>
+    </teiHeader>
+    <text ana="hc:CourtlyRomance hc:ExpressionFragmentThroughLoss">
+        <body>
+            <pb n="1v" facs="#N_1v"/>
+            <cb n="a" facs="#N_1v-a"/>
+            <lg ana="hc:Couplet">
+                <l n="6289" xml:id="l_6289" hei:altN="1">
+                    <lb n="1"/>
+                    <w xml:id="w_6289_1">Im</w>
+                    <c> </c>
+                    <w xml:id="w_6289_2">w<choice><orig/><reg>u</reg></choice>rde</w>
+                    <c> </c>
+                    <w xml:id="w_6289_3">all</w>
+                    <c> </c>
+                    <w xml:id="w_6289_4"><choice><orig>v</orig><reg>u</reg></choice>mbe</w>
+                    <c> </c>
+                    <w xml:id="w_6289_5">genigen</w>
+                </l>
+                <l n="6290" xml:id="l_6290" hei:altN="2">
+                    <lb n="2"/>
+                    <w xml:id="w_6290_1">si</w>
+                    <c> </c>
+                    <w xml:id="w_6290_2">liezen</w>
+                    <c> </c>
+                    <w xml:id="w_6290_3">ir</w>
+                    <c> </c>
+                    <w xml:id="w_6290_4">wech</w>
+                    <c> </c>
+                    <w xml:id="w_6290_5">geligen</w>
+                </l>
+            </lg>
+            <lg ana="hc:Couplet">
+                <l n="6291" xml:id="l_6291" hei:altN="3">
+                    <lb n="3"/>
+                    <w xml:id="w_6291_1">do</w>
+                    <c> </c>
+                    <w xml:id="w_6291_2">er</w>
+                    <c> </c>
+                    <w xml:id="w_6291_3">da</w>
+                    <c> </c>
+                    <w xml:id="w_6291_4">bi</w>
+                    <c> </c>
+                    <w xml:id="w_6291_5">in</w>
+                    <c> </c>
+                    <w xml:id="w_6291_6">saz</w>
+                </l>
+                <l n="6292" xml:id="l_6292" hei:altN="4">
+                    <lb n="4"/>
+                    <w xml:id="w_6292_1">ir</w>
+                    <c> </c>
+                    <w xml:id="w_6292_2">zucht</w>
+                    <c> </c>
+                    <w xml:id="w_6292_3">von</w>
+                    <c> </c>
+                    <w xml:id="w_6292_4">art</w>
+                    <c> </c>
+                    <w xml:id="w_6292_5">gebot</w>
+                    <c> </c>
+                    <w xml:id="w_6292_6">in</w>
+                    <c> </c>
+                    <w xml:id="w_6292_7">daz</w>
+                </l>
+            </lg>
+            <lg ana="hc:Couplet">
+                <l n="6293" xml:id="l_6293" hei:altN="5">
+                    <lb n="5"/>
+                    <w xml:id="w_6293_1">o<choice><orig>v</orig><reg>u</reg></choice>h</w>
+                    <c> </c>
+                    <w xml:id="w_6293_2">nam</w>
+                    <c> </c>
+                    <w xml:id="w_6293_3">er</w>
+                    <c> </c>
+                    <w xml:id="w_6293_4">war</w>
+                    <c> </c>
+                    <w xml:id="w_6293_5">daz</w>
+                </l>
+                <l n="6294" xml:id="l_6294" hei:altN="6">
+                    <lb n="6"/>
+                    <w xml:id="w_6294_1"><choice><orig>v</orig><reg>u</reg></choice>berige</w>
+                    <c> </c>
+                    <w xml:id="w_6294_2">rede</w>
+                    <c> </c>
+                    <w xml:id="w_6294_3">ergie</w>
+                </l>
+            </lg>
+            <lg ana="hc:Couplet">
+                <l n="6295" xml:id="l_6295" hei:altN="7">
+                    <lb n="7"/>
+                    <w xml:id="w_6295_1">der</w>
+                    <c> </c>
+                    <w xml:id="w_6295_2">da</w>
+                    <c> </c>
+                    <w xml:id="w_6295_3">doch</w>
+                    <c> </c>
+                    <w xml:id="w_6295_4">vil</w>
+                    <c> </c>
+                    <w xml:id="w_6295_5">geschiht</w>
+                </l>
+                <l n="6296" xml:id="l_6296" hei:altN="8">
+                    <lb n="8"/>
+                    <w xml:id="w_6296_1">da</w>
+                    <c> </c>
+                    <w xml:id="w_6296_2">man</w>
+                    <c> </c>
+                    <w xml:id="w_6296_3">die</w>
+                    <c> </c>
+                    <w xml:id="w_6296_4">li<choice><orig>v</orig><reg>u</reg></choice>te</w>
+                    <c> </c>
+                    <w xml:id="w_6296_5">samt</w>
+                    <c> </c>
+                    <w xml:id="w_6296_6">sih</w>
+                </l>
+            </lg>
+            <lg ana="hc:Couplet">
+                <l n="6297" xml:id="l_6297" hei:altN="9">
+                    <lb n="9"/>
+                    <w xml:id="w_6297_1">da</w>
+                    <c> </c>
+                    <w xml:id="w_6297_2">wonte</w>
+                    <c> </c>
+                    <w xml:id="w_6297_3">mit</w>
+                    <c> </c>
+                    <w xml:id="w_6297_4">arm<choice><orig>v</orig><reg>u</reg></choice>te</w>
+                </l>
+                <l n="6298" xml:id="l_6298" hei:altN="10">
+                    <lb n="10"/>
+                    <w xml:id="w_6298_1">bescheiden</w>
+                    <c> </c>
+                    <w xml:id="w_6298_2">wille</w>
+                    <c> </c>
+                    <w xml:id="w_6298_3"><choice><orig>v</orig><reg>u</reg></choice>nd</w>
+                    <c> </c>
+                    <w xml:id="w_6298_4">g<choice><orig>v</orig><reg>u</reg></choice>te</w>
+                </l>
+            </lg>
+            <lg ana="hc:Couplet">
+                <l n="6299" xml:id="l_6299" hei:altN="11">
+                    <lb n="11"/>
+                    <w xml:id="w_6299_1">si</w>
+                    <c> </c>
+                    <w xml:id="w_6299_2">w<choice><orig/><reg>u</reg></choice>rden</w>
+                    <c> </c>
+                    <w xml:id="w_6299_3">ofte</w>
+                    <c> </c>
+                    <w xml:id="w_6299_4">sam</w>
+                    <c> </c>
+                    <w xml:id="w_6299_5">rot</w>
+                </l>
+                <l n="6300" xml:id="l_6300" hei:altN="12">
+                    <lb n="12"/>
+                    <w xml:id="w_6300_1">swen</w>
+                    <c> </c>
+                    <w xml:id="w_6300_2">er</w>
+                    <c> </c>
+                    <w xml:id="w_6300_3">in</w>
+                    <c> </c>
+                    <w xml:id="w_6300_4">sinen</w>
+                    <c> </c>
+                    <w xml:id="w_6300_5">dienist</w>
+                    <c> </c>
+                    <w xml:id="w_6300_6">bot</w>
+                </l>
+            </lg>
+            <lg ana="hc:Couplet">
+                <l n="6301" xml:id="l_6301" hei:altN="13">
+                    <lb n="13"/>
+                    <w xml:id="w_6301_1">die</w>
+                    <c> </c>
+                    <w xml:id="w_6301_2">o<choice><orig>v</orig><reg>u</reg></choice>gen</w>
+                    <c> </c>
+                    <w xml:id="w_6301_3">tr<choice><orig>v</orig><reg>u</reg></choice>be</w>
+                    <c> </c>
+                    <w xml:id="w_6301_4"><choice><orig>v</orig><reg>u</reg></choice>nd</w>
+                    <c> </c>
+                    <w xml:id="w_6301_5">naz</w>
+                </l>
+                <l n="6302" xml:id="l_6302" hei:altN="14">
+                    <lb n="14"/>
+                    <w xml:id="w_6302_1">di</w>
+                    <c> </c>
+                    <w xml:id="w_6302_2">wil</w>
+                    <c> </c>
+                    <w xml:id="w_6302_3">er</w>
+                    <c> </c>
+                    <w xml:id="w_6302_4">da</w>
+                    <c> </c>
+                    <w xml:id="w_6302_5">bi</w>
+                    <c> </c>
+                    <w xml:id="w_6302_6">in</w>
+                    <c> </c>
+                    <w xml:id="w_6302_7">saz</w>
+                </l>
+            </lg>
+            <lg ana="hc:Couplet">
+                <l n="6303" xml:id="l_6303" hei:altN="15">
+                    <lb n="15"/>
+                    <w xml:id="w_6303_1">o<choice><orig>v</orig><reg>u</reg></choice>ch</w>
+                    <c> </c>
+                    <w xml:id="w_6303_2">m<choice><orig>v</orig><reg>u</reg></choice>ete</w>
+                    <c> </c>
+                    <w xml:id="w_6303_3">in</w>
+                    <c> </c>
+                    <w xml:id="w_6303_4">sere</w>
+                    <c> </c>
+                    <w xml:id="w_6303_5">ir</w>
+                    <c> </c>
+                    <w xml:id="w_6303_6">arbait</w>
+                </l>
+                <l n="6304" xml:id="l_6304" hei:altN="16">
+                    <lb n="16"/>
+                    <w xml:id="w_6304_1">er</w>
+                    <c> </c>
+                    <w xml:id="w_6304_2">sprach</w>
+                    <c> </c>
+                    <w xml:id="w_6304_3"><choice><orig>v</orig><reg>u</reg></choice>nd</w>
+                    <c> </c>
+                    <w xml:id="w_6304_4">wer</w>
+                    <w xml:id="w_6304_5">s</w>
+                    <c> </c>
+                    <w xml:id="w_6304_6">i<choice><orig>v</orig><reg>u</reg></choice></w>
+                    <c> </c>
+                    <w xml:id="w_6304_7">niht</w>
+                    <c> </c>
+                    <w xml:id="w_6304_8">lait</w>
+                </l>
+            </lg>
+            <lg ana="hc:Couplet">
+                <l n="6305" xml:id="l_6305" hei:altN="17">
+                    <lb n="17"/>
+                    <w xml:id="w_6305_1">so</w>
+                    <c> </c>
+                    <w xml:id="w_6305_2">hite</w>
+                    <c> </c>
+                    <w xml:id="w_6305_3">ich</w>
+                    <c> </c>
+                    <w xml:id="w_6305_4">gerne</w>
+                    <c> </c>
+                    <w xml:id="w_6305_5">fragt</w>
+                </l>
+                <l n="6306" xml:id="l_6306" hei:altN="18">
+                    <lb n="18"/>
+                    <w xml:id="w_6306_1">iver</w>
+                    <c> </c>
+                    <w xml:id="w_6306_2">acht</w>
+                    <c> </c>
+                    <w xml:id="w_6306_3"><choice><orig>v</orig><reg>u</reg></choice>nd</w>
+                    <c> </c>
+                    <w xml:id="w_6306_4">iwer</w>
+                    <c> </c>
+                    <w xml:id="w_6306_5">mage</w>
+                </l>
+            </lg>
+            <lg ana="hc:Couplet">
+                <l n="6307" xml:id="l_6307" hei:altN="19">
+                    <lb n="19"/>
+                    <w xml:id="w_6307_1">Ist</w>
+                    <c> </c>
+                    <w xml:id="w_6307_2">i<choice><orig>v</orig><reg>u</reg></choice></w>
+                    <c> </c>
+                    <w xml:id="w_6307_3">diser</w>
+                    <c> </c>
+                    <w xml:id="w_6307_4">arbait</w>
+                    <c> </c>
+                    <w xml:id="w_6307_5">an</w>
+                    <c> </c>
+                    <w xml:id="w_6307_6">geborn</w>
+                </l>
+                <l n="6308" xml:id="l_6308" hei:altN="20">
+                    <lb n="20"/>
+                    <w xml:id="w_6308_1">so</w>
+                    <c> </c>
+                    <w xml:id="w_6308_2">han</w>
+                    <c> </c>
+                    <w xml:id="w_6308_3">ich</w>
+                    <c> </c>
+                    <w xml:id="w_6308_4">minen</w>
+                    <c> </c>
+                    <w xml:id="w_6308_5">wan</w>
+                    <c> </c>
+                    <w xml:id="w_6308_6">verlorn</w>
+                </l>
+            </lg>
+        </body>
+    </text>
+</TEI>

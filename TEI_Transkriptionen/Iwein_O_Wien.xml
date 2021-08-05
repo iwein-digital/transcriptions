@@ -1,0 +1,2469 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-model href="https://digi.ub.uni-heidelberg.de/schema/tei/heiEDITIONS/tei_hes.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://digi.ub.uni-heidelberg.de/schema/tei/heiEDITIONS/tei_hes.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+<!DOCTYPE TEI 
+[
+<!ENTITY % heiEDITIONS_entities SYSTEM "https://digi.ub.uni-heidelberg.de/schema/tei/heiEDITIONS/declarations/heieditions-entities.txt">
+%heiEDITIONS_entities; ]>
+
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:hei="https://digi.ub.uni-heidelberg.de/schema/tei/heiEDITIONS" ana="hc:IWDDocument">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Iwein-Fragm. O</title>
+                <author>Hartmann von Aue</author>
+                <respStmt>
+                    <resp>transcription</resp>
+                    <persName>Victor Millet</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>UB Heidelberg</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="O">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Wien</settlement>
+                                <repository>Österreichische Nationalbibliothek</repository>
+                                <idno>Cod. Ser. nova 316</idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <listPrefixDef>
+                <prefixDef ident="hc" matchPattern="(.+)" replacementPattern="https://lod.ub.uni-heidelberg.de/ontologies/heieditions/hc/current/$1"> </prefixDef>
+                <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://digi.ub.uni-heidelberg.de/schema/tei/heiEDITIONS/declarations/chars.xml#$1"> </prefixDef>
+            </listPrefixDef>
+            <hei:elementsWithTokenizedContent include="l head ab trailer"/>
+        </encodingDesc>
+    </teiHeader>
+    <facsimile>
+        <surface ana="hc:Page" xml:id="O_1r" n="1r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/onb_codsn_316/0005/image" mimeType="image/*"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone ana="hc:Column" xml:id="O_1r-a" n="a"/>
+                <zone ana="hc:Column" xml:id="O_1r-b" n="b"/>
+            </zone>
+        </surface>
+        <surface ana="hc:Page" xml:id="O_1v" n="1v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/onb_codsn_316/0006/image" mimeType="image/*"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone ana="hc:Column" xml:id="O_1v-a" n="a"/>
+                <zone ana="hc:Column" xml:id="O_1v-b" n="b"/>
+            </zone>
+        </surface>
+        <surface ana="hc:Page" xml:id="O_2r" n="2r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/onb_codsn_316/0007/image" mimeType="image/*"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone ana="hc:Column" xml:id="O_2r-a" n="a"/>
+                <zone ana="hc:Column" xml:id="O_2r-b" n="b"/>
+            </zone>
+            <zone ana="hc:MarginalZone" xml:id="O_2r-c"/>
+        </surface>
+        <surface ana="hc:Page" xml:id="O_2v" n="2v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/onb_codsn_316/0008/image" mimeType="image/*"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone ana="hc:Column" xml:id="O_2v-a" n="a"/>
+                <zone ana="hc:Column" xml:id="O_2v-b" n="b"/>
+            </zone>
+            <zone ana="hc:MarginalZone" xml:id="O_2v-c"/>
+        </surface>
+    </facsimile>
+    <text ana="hc:CourtlyRomance hc:ExpressionFragmentThroughLoss">
+        <body>
+            <pb n="1r" facs="#O_1r"/>
+            <cb n="a" facs="#O_1r-a"/>
+            <lg ana="hc:Couplet">
+                <l n="6209" xml:id="l_6209" hei:altN="1">
+                    <lb n="1"/>
+                    <gap rendition="hc:CutOff"/>
+                    <w xml:id="w_6209_1">nger</w>
+                    <c> </c>
+                    <w xml:id="w_6209_2"><choice><orig>v</orig><reg>u</reg></choice>n<choice><am>&bar;</am><ex>d</ex></choice></w>
+                    <c> </c>
+                    <w xml:id="w_6209_3">vor</w>
+                    <c> </c>
+                    <w xml:id="w_6209_4">d<choice><orig>v</orig><reg>u</reg></choice>rſte</w>
+                    <c> </c>
+                    <w xml:id="w_6209_5">waſ</w>
+                </l>
+                <l n="6210" xml:id="l_6210" hei:altN="2">
+                    <lb n="2"/>
+                    <gap rendition="hc:CutOff"/>
+                    <w xml:id="w_6210_1">z</w>
+                    <c> </c>
+                    <w xml:id="w_6210_2">in</w>
+                    <c> </c>
+                    <w xml:id="w_6210_3">ch<choice><orig>v</orig><reg>u</reg></choice>m</w>
+                    <c> </c>
+                    <w xml:id="w_6210_4">genaſ</w>
+                </l>
+            </lg>
+            <lg ana="hc:Couplet">
+                <l n="6211" xml:id="l_6211" hei:altN="3">
+                    <lb n="3"/>
+                    <gap rendition="hc:CutOff"/>
+                    <w xml:id="w_6211_1">der</w>
+                    <c> </c>
+                    <w xml:id="w_6211_2">in</w>
+                    <c> </c>
+                    <w xml:id="w_6211_3">doch</w>
+                    <c> </c>
+                    <w xml:id="w_6211_4">nach</w>
+                    <c> </c>
+                    <w xml:id="w_6211_5">geſweich</w>
+                </l>
+                <l n="6212" xml:id="l_6212" hei:altN="4">
+                    <lb n="4"/>
+                    <gap rendition="hc:CutOff"/>
+                    <w xml:id="w_6212_1">ren</w>
+                    <c> </c>
+                    <w xml:id="w_6212_2">mager</w>
+                    <c> </c>
+                    <w xml:id="w_6212_3"><choice><orig>v</orig><reg>u</reg></choice>n<choice><am>&bar;</am><ex>d</ex></choice></w>
+                    <c> </c>
+                    <w xml:id="w_6212_4">bleich</w>
+                    <pc>·</pc>
+                </l>
+            </lg>
+            <lg ana="hc:Couplet">
+                <l n="6213" xml:id="l_6213" hei:altN="5">
+                    <lb n="5"/>
+                    <gap rendition="hc:CutOff"/>
+                    <w xml:id="w_6213_1">n</w>
+                    <c> </c>
+                    <w xml:id="w_6213_2">grozen</w>
+                    <c> </c>
+                    <w xml:id="w_6213_3"><choice><orig>v</orig><reg>u</reg></choice>nrat</w>
+                    <pc>·</pc>
+                </l>
+                <l n="6214" xml:id="l_6214" hei:altN="6">
+                    <lb n="6"/>
+                    <gap rendition="hc:CutOff"/>
+                    <w xml:id="w_6214_1">n</w>
+                    <c> </c>
+                    <w xml:id="w_6214_2">libe</w>
+                    <c> </c>
+                    <w xml:id="w_6214_3"><choice><orig>v</orig><reg>u</reg></choice>n<choice><am>&bar;</am><ex>d</ex></choice></w>
+                    <c> </c>
+                    <w xml:id="w_6214_4">an</w>
+                    <w xml:id="w_6214_5">der</w>
+                    <c> </c>
+                    <w xml:id="w_6214_6">wat</w>
+                    <pc>·</pc>
+                </l>
+            </lg>
+            <lg ana="hc:Couplet">
+                <l n="6215" xml:id="l_6215" hei:altN="7">
+                    <lb n="7"/>
+                    <gap rendition="hc:CutOff"/>
+                    <w xml:id="w_6215_1">ren</w>
+                    <c> </c>
+                    <w xml:id="w_6215_2">bi</w>
+                    <c> </c>
+                    <w xml:id="w_6215_3">ir</w>
+                    <c> </c>
+                    <w xml:id="w_6215_4">fi<choice><orig>v</orig><reg>u</reg></choice>re</w>
+                    <pc>·</pc>
+                </l>
+                <l n="6216" xml:id="l_6216" hei:altN="8">
+                    <lb n="8"/>
+                    <gap rendition="hc:CutOff"/>
+                    <w xml:id="w_6216_1">r</w>
+                    <c> </c>
+                    <w xml:id="w_6216_2">wilen</w>
+                    <c> </c>
+                    <w xml:id="w_6216_3">ti<choice><orig>v</orig><reg>u</reg></choice>ere</w>
+                    <pc>·</pc>
+                </l>
+            </lg>
+            <lg ana="hc:Couplet">
+                <l n="6217" xml:id="l_6217" hei:altN="9">
+                    <lb n="9"/>
+                    <gap rendition="hc:CutOff"/>
+                    <w xml:id="w_6217_1">ei<add hei:placeRef="hc:AboveLine">ſ</add>ch</w>
+                    <c> </c>
+                    <w xml:id="w_6217_2">z<choice><orig>v</orig><reg>u</reg></choice>&osup;</w>
+                    <c> </c>
+                    <w xml:id="w_6217_3">den</w>
+                    <c> </c>
+                    <w xml:id="w_6217_4"><subst><del rendition="hc:Adapted">w</del><add rendition="hc:Adapted">vi</add></subst>ſchen</w>
+                    <pc>·</pc>
+                </l>
+                <l n="6218" xml:id="l_6218" hei:altN="10">
+                    <lb n="10"/>
+                    <gap rendition="hc:CutOff"/>
+                    <w xml:id="w_6218_1">ſe</w>
+                    <c> </c>
+                    <w xml:id="w_6218_2">verwiſchen</w>
+                </l>
+            </lg>
+            <lg ana="hc:Couplet">
+                <l n="6219" xml:id="l_6219" hei:altN="11">
+                    <lb n="11"/>
+                    <gap rendition="hc:CutOff"/>
+                    <w xml:id="w_6219_1">haft</w>
+                    <c> </c>
+                    <w xml:id="w_6219_2"><choice><orig>v</orig><reg>u</reg></choice>n<choice><am>&bar;</am><ex>d</ex></choice></w>
+                    <c> </c>
+                    <w xml:id="w_6219_3">ere</w>
+                    <pc>·</pc>
+                </l>
+                <l n="6220" xml:id="l_6220" hei:altN="12">
+                    <lb n="12"/>
+                    <gap rendition="hc:CutOff"/>
+                    <w xml:id="w_6220_1">gen</w>
+                    <c> </c>
+                    <w xml:id="w_6220_2">et</w>
+                    <c> </c>
+                    <w xml:id="w_6220_3">mit</w>
+                    <c> </c>
+                    <w xml:id="w_6220_4">ſere</w>
+                    <pc>·</pc>
+                </l>
+            </lg>
+            <lg ana="hc:Couplet">
+                <l n="6221" xml:id="l_6221" hei:altN="13">
+                    <lb n="13"/>
+                    <gap rendition="hc:CutOff"/>
+                    <w xml:id="w_6221_1">ame<choice><am>&bar;</am><ex>n</ex></choice></w>
+                    <c> </c>
+                    <w xml:id="w_6221_2">ſi</w>
+                    <c> </c>
+                    <w xml:id="w_6221_3">ſin</w>
+                    <c> </c>
+                    <w xml:id="w_6221_4">war</w>
+                    <pc>·</pc>
+                </l>
+                <l n="6222" xml:id="l_6222" hei:altN="14">
+                    <lb n="14"/>
+                    <gap rendition="hc:CutOff"/>
+                    <w xml:id="w_6222_1">ren</w>
+                    <c> </c>
+                    <w xml:id="w_6222_2">ſie</w>
+                    <c> </c>
+                    <w xml:id="w_6222_3">ê</w>
+                    <c> </c>
+                    <w xml:id="w_6222_4">riwe</w>
+                    <c> </c>
+                    <w xml:id="w_6222_5">var</w>
+                    <pc>·</pc>
+                </l>
+            </lg>
+            <lg ana="hc:Couplet">
+                <l n="6223" xml:id="l_6223" hei:altN="15">
+                    <lb n="15"/>
+                    <gap rendition="hc:CutOff"/>
+                    <w xml:id="w_6223_1">ſ</w>
+                    <c> </c>
+                    <w xml:id="w_6223_2">wart</w>
+                    <c> </c>
+                    <w xml:id="w_6223_3">do</w>
+                    <c> </c>
+                    <w xml:id="w_6223_4">michelſ</w>
+                    <c> </c>
+                    <w xml:id="w_6223_5">m<gap rendition="hc:Perforated" quantity="1" unit="character"/></w>
+                    <pc>·</pc>
+                </l>
+                <l n="6224" xml:id="l_6224" hei:altN="16">
+                    <lb n="16"/>
+                    <gap rendition="hc:CutOff"/>
+                    <w xml:id="w_6224_1">di<choice><orig>v</orig><reg>u</reg></choice></w>
+                    <c> </c>
+                    <w xml:id="w_6224_2">ſcham</w>
+                    <c> </c>
+                    <w xml:id="w_6224_3">alſo</w>
+                    <c> </c>
+                    <w xml:id="w_6224_4">we</w>
+                    <pc>·</pc>
+                </l>
+            </lg>
+            <lg ana="hc:Couplet">
+                <l n="6225" xml:id="l_6225" hei:altN="17">
+                    <lb n="17"/>
+                    <gap rendition="hc:CutOff"/>
+                    <w xml:id="w_6225_1">die</w>
+                    <c> </c>
+                    <w xml:id="w_6225_2">arme</w>
+                    <c> </c>
+                    <w xml:id="w_6225_3">enpfielen</w>
+                    <pc>·</pc>
+                </l>
+                <l n="6226" xml:id="l_6226" hei:altN="18">
+                    <lb n="18"/>
+                    <gap rendition="hc:CutOff"/>
+                    <w xml:id="w_6226_1">die</w>
+                    <c> </c>
+                    <w xml:id="w_6226_2">træhne</w>
+                    <c> </c>
+                    <w xml:id="w_6226_3">vielen</w>
+                    <pc>·</pc>
+                </l>
+            </lg>
+            <lg ana="hc:Couplet">
+                <l n="6227" xml:id="l_6227" hei:altN="19">
+                    <lb n="19"/>
+                    <gap rendition="hc:CutOff"/>
+                    <w xml:id="w_6227_1">n</w>
+                    <c> </c>
+                    <w xml:id="w_6227_2">o<choice><orig>v</orig><reg>u</reg></choice>gen</w>
+                    <c> </c>
+                    <w xml:id="w_6227_3"><choice><orig>v</orig><reg>u</reg></choice>f</w>
+                    <c> </c>
+                    <w xml:id="w_6227_4">die</w>
+                    <c> </c>
+                    <w xml:id="w_6227_5">wat</w>
+                    <pc>·</pc>
+                </l>
+                <l n="6228" xml:id="l_6228" hei:altN="20">
+                    <lb n="20"/>
+                    <gap rendition="hc:CutOff"/>
+                    <w xml:id="w_6228_1">grozen</w>
+                    <c> </c>
+                    <w xml:id="w_6228_2"><choice><orig>v</orig><reg>u</reg></choice>nrat</w>
+                    <pc>·</pc>
+                </l>
+            </lg>
+            <lg ana="hc:Couplet">
+                <l n="6229" xml:id="l_6229" hei:altN="21">
+                    <lb n="21"/>
+                    <gap rendition="hc:CutOff"/>
+                    <w xml:id="w_6229_1">fr<choice><orig>v</orig><reg>u</reg></choice>mer</w>
+                    <c> </c>
+                    <w xml:id="w_6229_2">het</w>
+                    <c> </c>
+                    <w xml:id="w_6229_3">erſehen</w>
+                    <pc>·</pc>
+                </l>
+                <l n="6230" xml:id="l_6230" hei:altN="22">
+                    <lb n="22"/>
+                    <gap rendition="hc:CutOff"/>
+                    <w xml:id="w_6230_1">ſ</w>
+                    <c> </c>
+                    <w xml:id="w_6230_2">in</w>
+                    <c> </c>
+                    <w xml:id="w_6230_3">leide</w>
+                    <c> </c>
+                    <w xml:id="w_6230_4">an</w>
+                    <c> </c>
+                    <w xml:id="w_6230_5">geſchehe<choice><am>&bar;</am><ex>n</ex></choice></w>
+                    <pc>·</pc>
+                </l>
+            </lg>
+            <cb n="b" facs="#O_1r-b"/>
+            <lg ana="hc:Couplet">
+                <l n="6231" xml:id="l_6231" hei:altN="23">
+                    <lb n="1"/>
+                    <w xml:id="w_6231_1"><hi rendition="hc:Versal hc:RedStroke">J</hi>n</w>
+                    <c> </c>
+                    <w xml:id="w_6231_2">hie</w>
+                    <c> </c>
+                    <w xml:id="w_6231_3">daz</w>
+                    <c> </c>
+                    <w xml:id="w_6231_4">ho<choice><orig>v</orig><reg>u</reg></choice>bet</w>
+                    <c> </c>
+                    <w xml:id="w_6231_5">zetal</w>
+                    <pc>·</pc>
+                </l>
+                <l n="6232" xml:id="l_6232" hei:altN="24">
+                    <lb n="2"/>
+                    <w xml:id="w_6232_1"><choice><orig>v</orig><reg>u</reg></choice>nz</w>
+                    <c> </c>
+                    <w xml:id="w_6232_2">ſi</w>
+                    <c> </c>
+                    <w xml:id="w_6232_3">vergazen</w>
+                    <c> </c>
+                    <w xml:id="w_6232_4"><choice><orig>v</orig><reg>u</reg></choice>ber</w>
+                    <c> </c>
+                    <w xml:id="w_6232_5">al</w>
+                    <pc>·</pc>
+                </l>
+            </lg>
+            <lg ana="hc:Couplet">
+                <l n="6233" xml:id="l_6233" hei:altN="25">
+                    <lb n="3"/>
+                    <w xml:id="w_6233_1"><hi rendition="hc:Versal hc:RedStroke">D</hi>eſ</w>
+                    <c> </c>
+                    <w xml:id="w_6233_2">werkeſ</w>
+                    <c> </c>
+                    <w xml:id="w_6233_3">in</w>
+                    <w xml:id="w_6233_4">den</w>
+                    <c> </c>
+                    <w xml:id="w_6233_5">hænden</w>
+                    <pc>·</pc>
+                </l>
+                <l n="6234" xml:id="l_6234" hei:altN="26">
+                    <lb n="4"/>
+                    <w xml:id="w_6234_1">von</w>
+                    <c> </c>
+                    <w xml:id="w_6234_2">den</w>
+                    <c> </c>
+                    <w xml:id="w_6234_3">ellenden</w>
+                    <pc>·</pc>
+                </l>
+            </lg>
+            <lg ana="hc:Couplet">
+                <l n="6235" xml:id="l_6235" hei:altN="27">
+                    <lb n="5"/>
+                    <w xml:id="w_6235_1"><hi rendition="hc:Versal hc:RedStroke">w</hi>old</w>
+                    <c> </c>
+                    <w xml:id="w_6235_2">er</w>
+                    <c> </c>
+                    <w xml:id="w_6235_3">den</w>
+                    <c> </c>
+                    <w xml:id="w_6235_4">portenære</w>
+                    <pc>·</pc>
+                </l>
+                <l n="6236" xml:id="l_6236" hei:altN="28">
+                    <lb n="6"/>
+                    <w xml:id="w_6236_1">gerne</w>
+                    <c> </c>
+                    <w xml:id="w_6236_2">gefragte</w>
+                    <c> </c>
+                    <w xml:id="w_6236_3">han</w>
+                    <c> </c>
+                    <w xml:id="w_6236_4">der</w>
+                    <c> </c>
+                    <w xml:id="w_6236_5">mære</w>
+                    <pc>·</pc>
+                </l>
+            </lg>
+            <lg ana="hc:Couplet">
+                <l n="6237" xml:id="l_6237" hei:altN="29">
+                    <lb n="7"/>
+                    <w xml:id="w_6237_1"><hi rendition="hc:Versal hc:RedStroke">w</hi>ande</w>
+                    <c> </c>
+                    <w xml:id="w_6237_2">er</w>
+                    <c> </c>
+                    <w xml:id="w_6237_3">da</w>
+                    <c> </c>
+                    <w xml:id="w_6237_4">niemen</w>
+                    <c> </c>
+                    <w xml:id="w_6237_5">andern</w>
+                    <c> </c>
+                    <w xml:id="w_6237_6">ſach</w>
+                    <pc>·</pc>
+                </l>
+                <l n="6238" xml:id="l_6238" hei:altN="30">
+                    <lb n="8"/>
+                    <w xml:id="w_6238_1">der</w>
+                    <c> </c>
+                    <w xml:id="w_6238_2">ſchalc</w>
+                    <c> </c>
+                    <w xml:id="w_6238_3">do</w>
+                    <c> </c>
+                    <w xml:id="w_6238_4">ſchalkliche<choice><am>&bar;</am><ex>n</ex></choice></w>
+                    <c> </c>
+                    <w xml:id="w_6238_5">ſprach</w>
+                    <pc>·</pc>
+                </l>
+            </lg>
+            <lg ana="hc:Couplet">
+                <l n="6241" xml:id="l_6241" hei:altN="31">
+                    <lb n="9"/>
+                    <w xml:id="w_6241_1"><hi rendition="hc:Versal hc:RedStroke">E</hi>r</w>
+                    <c> </c>
+                    <w xml:id="w_6241_2">ſprach</w>
+                    <c> </c>
+                    <w xml:id="w_6241_3"><choice><orig>v</orig><reg>u</reg></choice>z</w>
+                    <c> </c>
+                    <w xml:id="w_6241_4">ſchalkez</w>
+                    <c> </c>
+                    <w xml:id="w_6241_5">m<choice><orig>v</orig><reg>u</reg></choice>ndeſ</w>
+                    <pc>·</pc>
+                </l>
+                <l n="6242" xml:id="l_6242" hei:altN="32">
+                    <lb n="10"/>
+                    <w xml:id="w_6242_1">ſo</w>
+                    <c> </c>
+                    <w xml:id="w_6242_2">er</w>
+                    <c> </c>
+                    <w xml:id="w_6242_3">ſchalklicheſte</w>
+                    <c> </c>
+                    <w xml:id="w_6242_4">ch<choice><orig>v</orig><reg>u</reg></choice>nde</w>
+                    <pc>·</pc>
+                </l>
+            </lg>
+            <lg ana="hc:Couplet">
+                <l n="6243" xml:id="l_6243" hei:altN="33">
+                    <lb n="11"/>
+                    <w xml:id="w_6243_1"><hi rendition="hc:Versal hc:RedStroke">h</hi>er</w>
+                    <c> </c>
+                    <w xml:id="w_6243_2">gaſte</w>
+                    <c> </c>
+                    <w xml:id="w_6243_3">ir</w>
+                    <c> </c>
+                    <w xml:id="w_6243_4">woldet</w>
+                    <c> </c>
+                    <w xml:id="w_6243_5">f<choice><orig>v</orig><reg>u</reg></choice>r</w>
+                    <c> </c>
+                    <w xml:id="w_6243_6">daz</w>
+                    <c> </c>
+                    <w xml:id="w_6243_7">tor</w>
+                    <pc>·</pc>
+                </l>
+                <l n="6244" xml:id="l_6244" hei:altN="34">
+                    <lb n="12"/>
+                    <w xml:id="w_6244_1">nein</w>
+                    <c> </c>
+                    <w xml:id="w_6244_2">da</w>
+                    <c> </c>
+                    <w xml:id="w_6244_3">iſt</w>
+                    <c> </c>
+                    <w xml:id="w_6244_4">ein</w>
+                    <c> </c>
+                    <w xml:id="w_6244_5">rigel</w>
+                    <c> </c>
+                    <w xml:id="w_6244_6">vor</w>
+                    <pc>·</pc>
+                </l>
+            </lg>
+            <lg ana="hc:Couplet">
+                <l n="6245" xml:id="l_6245" hei:altN="35">
+                    <lb n="13"/>
+                    <w xml:id="w_6245_1"><hi rendition="hc:Versal hc:RedStroke">E</hi>z</w>
+                    <c> </c>
+                    <w xml:id="w_6245_2">iſt</w>
+                    <c> </c>
+                    <w xml:id="w_6245_3">i<choice><orig>v</orig><reg>u</reg></choice></w>
+                    <c> </c>
+                    <w xml:id="w_6245_4">anderſ</w>
+                    <c> </c>
+                    <w xml:id="w_6245_5"><choice><orig>v</orig><reg>u</reg></choice>nderſehen</w>
+                    <pc>·</pc>
+                </l>
+                <l n="6246" xml:id="l_6246" hei:altN="36">
+                    <lb n="14"/>
+                    <w xml:id="w_6246_1">i<choice><orig>v</orig><reg>u</reg></choice></w>
+                    <c> </c>
+                    <w xml:id="w_6246_2">ſolt</w>
+                    <c> </c>
+                    <w xml:id="w_6246_3">iwer</w>
+                    <c> </c>
+                    <w xml:id="w_6246_4">reht</w>
+                    <c> </c>
+                    <w xml:id="w_6246_5">hie</w>
+                    <c> </c>
+                    <w xml:id="w_6246_6">geſchehen</w>
+                    <pc>·</pc>
+                </l>
+            </lg>
+            <lg ana="hc:Couplet">
+                <l n="6247" xml:id="l_6247" hei:altN="37">
+                    <lb n="15"/>
+                    <w xml:id="w_6247_1">
+                        <hi rendition="hc:Versal hc:RedStroke">E</hi>
+                    </w>
+                    <c> </c>
+                    <w xml:id="w_6247_2">daz</w>
+                    <c> </c>
+                    <w xml:id="w_6247_3">tor</w>
+                    <c> </c>
+                    <w xml:id="w_6247_4">werde</w>
+                    <c> </c>
+                    <w xml:id="w_6247_5">i<choice><orig>v</orig><reg>u</reg></choice></w>
+                    <c> </c>
+                    <w xml:id="w_6247_6"><choice><orig>v</orig><reg>u</reg></choice>f</w>
+                    <c> </c>
+                    <w xml:id="w_6247_7">geſpart</w>
+                </l>
+                <l n="6248" xml:id="l_6248" hei:altN="38">
+                    <lb n="16"/>
+                    <w xml:id="w_6248_1">man</w>
+                    <c> </c>
+                    <w xml:id="w_6248_2">ſol</w>
+                    <c> </c>
+                    <w xml:id="w_6248_3">i<choice><orig>v</orig><reg>u</reg></choice>ch</w>
+                    <c> </c>
+                    <w xml:id="w_6248_4">ze</w>
+                    <w xml:id="w_6248_5">iwerre</w>
+                    <c> </c>
+                    <w xml:id="w_6248_6"><choice><orig>v</orig><reg>u</reg></choice>zvart</w>
+                    <pc>·</pc>
+                </l>
+            </lg>
+            <lg ana="hc:Couplet">
+                <l n="6249" xml:id="l_6249" hei:altN="39">
+                    <lb n="17"/>
+                    <w xml:id="w_6249_1"><hi rendition="hc:Versal hc:RedStroke">a</hi>nderſ</w>
+                    <c> </c>
+                    <w xml:id="w_6249_2">beleiten</w>
+                    <pc>·</pc>
+                </l>
+                <l n="6250" xml:id="l_6250" hei:altN="40">
+                    <lb n="18"/>
+                    <w xml:id="w_6250_1">man</w>
+                    <c> </c>
+                    <w xml:id="w_6250_2">ſol</w>
+                    <c> </c>
+                    <w xml:id="w_6250_3">i<choice><orig>v</orig><reg>u</reg></choice>ch</w>
+                    <c> </c>
+                    <w xml:id="w_6250_4">bereitten</w>
+                    <pc>·</pc>
+                </l>
+            </lg>
+            <lg ana="hc:Couplet">
+                <l n="6251" xml:id="l_6251" hei:altN="41">
+                    <lb n="19"/>
+                    <w xml:id="w_6251_1"><hi rendition="hc:Versal hc:RedStroke">m</hi>aniger</w>
+                    <c> </c>
+                    <w xml:id="w_6251_2"><choice><orig>v</orig><reg>u</reg></choice>neren</w>
+                    <pc>·</pc>
+                </l>
+                <l n="6252" xml:id="l_6252" hei:altN="42">
+                    <lb n="20"/>
+                    <w xml:id="w_6252_1">man</w>
+                    <c> </c>
+                    <w xml:id="w_6252_2">ſol</w>
+                    <c> </c>
+                    <w xml:id="w_6252_3">i<choice><orig>v</orig><reg>u</reg></choice>ch</w>
+                    <c> </c>
+                    <w xml:id="w_6252_4">hie</w>
+                    <c> </c>
+                    <w xml:id="w_6252_5">leren</w>
+                    <pc>·</pc>
+                </l>
+            </lg>
+            <lg ana="hc:Couplet">
+                <l n="6253" xml:id="l_6253" hei:altN="43">
+                    <lb n="21"/>
+                    <w xml:id="w_6253_1"><hi rendition="hc:Versal hc:RedStroke">D</hi>iſe</w>
+                    <c> </c>
+                    <w xml:id="w_6253_2">hofz<choice><orig>v</orig><reg>u</reg></choice>&osup;cht</w>
+                    <c> </c>
+                    <w xml:id="w_6253_3">baz</w>
+                    <pc>·</pc>
+                </l>
+                <l n="6254" xml:id="l_6254" hei:altN="44">
+                    <lb n="22"/>
+                    <w xml:id="w_6254_1">wie</w>
+                    <c> </c>
+                    <w xml:id="w_6254_2">gar</w>
+                    <c> </c>
+                    <w xml:id="w_6254_3">iwer</w>
+                    <c> </c>
+                    <w xml:id="w_6254_4">got</w>
+                    <c> </c>
+                    <w xml:id="w_6254_5">vergaz</w>
+                    <pc>·</pc>
+                </l>
+            </lg>
+            <pb n="1v" facs="#O_1v"/>
+            <cb n="a" facs="#O_1v-a"/>
+            <lg ana="hc:Couplet">
+                <l n="6255" xml:id="l_6255" hei:altN="45">
+                    <lb n="1"/>
+                    <w xml:id="w_6255_1"><hi rendition="hc:Versal hc:RedStroke">D</hi>o</w>
+                    <c> </c>
+                    <w xml:id="w_6255_2">ich</w>
+                    <c> </c>
+                    <w xml:id="w_6255_3">i<choice><orig>v</orig><reg>u</reg></choice>ch</w>
+                    <c> </c>
+                    <w xml:id="w_6255_4">brahte</w>
+                    <c> </c>
+                    <w xml:id="w_6255_5">her</w>
+                    <c> </c>
+                    <w xml:id="w_6255_6">in</w>
+                    <pc>·</pc>
+                </l>
+                <l n="6256" xml:id="l_6256" hei:altN="46">
+                    <lb n="2"/>
+                    <w xml:id="w_6256_1">ir</w>
+                    <c> </c>
+                    <w xml:id="w_6256_2">ſcheidet</w>
+                    <c> </c>
+                    <w xml:id="w_6256_3">mit</w>
+                    <c> </c>
+                    <w xml:id="w_6256_4"><choice><orig>v</orig><reg>u</reg></choice>neren</w>
+                    <c> </c>
+                    <w xml:id="w_6256_5">hin</w>
+                    <pc>·</pc>
+                </l>
+            </lg>
+            <lg ana="hc:Couplet">
+                <l n="6257" xml:id="l_6257" hei:altN="47">
+                    <lb n="3"/>
+                    <metamark ana="hc:CueInitial ">d</metamark>
+                    <w xml:id="w_6257_1"><hei:initial rendition="hc:Lombard" hei:color="Red Black" hei:heightLines="2">D</hei:initial>o</w>
+                    <c> </c>
+                    <w xml:id="w_6257_2">ſprach</w>
+                    <c> </c>
+                    <w xml:id="w_6257_3">der</w>
+                    <c> </c>
+                    <w xml:id="w_6257_4">ritter</w>
+                    <c> </c>
+                    <w xml:id="w_6257_5">mit</w>
+                    <c> </c>
+                    <w xml:id="w_6257_6">de<choice><am>&bar;</am><ex>m</ex></choice></w>
+                    <c> </c>
+                    <w xml:id="w_6257_7">
+                        <choice>
+                            <orig>
+                                <choice>
+                                    <abbr>le<am>v&bar;</am></abbr>
+                                    <expan>le<ex>vn</ex></expan>
+                                </choice>
+                            </orig>
+                            <reg>leun</reg>
+                        </choice>
+                    </w>
+                    <pc>·</pc>
+                </l>
+                <l n="6258" xml:id="l_6258" hei:altN="48">
+                    <lb n="4"/>
+                    <w xml:id="w_6258_1">d<choice><orig>v</orig><reg>u</reg></choice></w>
+                    <c> </c>
+                    <w xml:id="w_6258_2">maht</w>
+                    <c> </c>
+                    <w xml:id="w_6258_3">mir</w>
+                    <c> </c>
+                    <w xml:id="w_6258_4">harte</w>
+                    <c> </c>
+                    <w xml:id="w_6258_5">vil</w>
+                    <c> </c>
+                    <w xml:id="w_6258_6">
+                        <choice>
+                            <orig>
+                                <choice>
+                                    <abbr>gedre<am>v&bar;</am></abbr>
+                                    <expan>gedre<ex>vn</ex></expan>
+                                </choice>
+                            </orig>
+                            <reg>gedreun</reg>
+                        </choice>
+                    </w>
+                    <pc>·</pc>
+                </l>
+            </lg>
+            <lg ana="hc:Couplet">
+                <l n="6259" xml:id="l_6259" hei:altN="49">
+                    <lb n="5"/>
+                    <w xml:id="w_6259_1"><hi rendition="hc:Versal hc:RedStroke">M</hi>ich</w>
+                    <w xml:id="w_6259_2">n</w>
+                    <c> </c>
+                    <w xml:id="w_6259_3">en</w>
+                    <w xml:id="w_6259_4">beſte</w>
+                    <c> </c>
+                    <w xml:id="w_6259_5">ein</w>
+                    <c> </c>
+                    <w xml:id="w_6259_6">grozeri<choice><orig>v</orig><reg>u</reg></choice></w>
+                    <c> </c>
+                    <w xml:id="w_6259_7">not</w>
+                    <pc>·</pc>
+                </l>
+                <l n="6260" xml:id="l_6260" hei:altN="50">
+                    <lb n="6"/>
+                    <w xml:id="w_6260_1">ze</w>
+                    <w xml:id="w_6260_2">ware</w>
+                    <c> </c>
+                    <w xml:id="w_6260_3">ſo</w>
+                    <w xml:id="w_6260_4">ne</w>
+                    <c> </c>
+                    <w xml:id="w_6260_5">lige</w>
+                    <c> </c>
+                    <w xml:id="w_6260_6">ich</w>
+                    <c> </c>
+                    <w xml:id="w_6260_7">hie</w>
+                    <c> </c>
+                    <w xml:id="w_6260_8">ni<choice><am>&bar;</am><ex>m</ex></choice>m<choice><am>&er;</am><ex>er</ex></choice></w>
+                    <c> </c>
+                    <w xml:id="w_6260_9">tot</w>
+                    <pc>·</pc>
+                </l>
+            </lg>
+            <lg ana="hc:Couplet">
+                <l n="6261" xml:id="l_6261" hei:altN="51">
+                    <lb n="7"/>
+                    <w xml:id="w_6261_1"><hi rendition="hc:Versal hc:RedStroke">w</hi>an</w>
+                    <c> </c>
+                    <w xml:id="w_6261_2">beſli<choice><orig>v</orig><reg>u</reg></choice>zzeſt</w>
+                    <c> </c>
+                    <w xml:id="w_6261_3">d<choice><orig>v</orig><reg>u</reg></choice></w>
+                    <c> </c>
+                    <w xml:id="w_6261_4">vaſte</w>
+                    <c> </c>
+                    <w xml:id="w_6261_5">din</w>
+                    <c> </c>
+                    <w xml:id="w_6261_6">tor</w>
+                    <pc>·</pc>
+                </l>
+                <l n="6262" xml:id="l_6262" hei:altN="52">
+                    <lb n="8"/>
+                    <w xml:id="w_6262_1">ze</w>
+                    <w xml:id="w_6262_2">wære</w>
+                    <c> </c>
+                    <w xml:id="w_6262_3">wær</w>
+                    <c> </c>
+                    <w xml:id="w_6262_4">ich</w>
+                    <c> </c>
+                    <w xml:id="w_6262_5">da</w>
+                    <c> </c>
+                    <w xml:id="w_6262_6">vor</w>
+                    <pc>·</pc>
+                </l>
+            </lg>
+            <lg ana="hc:Couplet">
+                <l n="6263" xml:id="l_6263" hei:altN="53">
+                    <lb n="9"/>
+                    <w xml:id="w_6263_1"><hi rendition="hc:Versal hc:RedStroke">J</hi>ch</w>
+                    <c> </c>
+                    <w xml:id="w_6263_2">wolde</w>
+                    <c> </c>
+                    <w xml:id="w_6263_3">doch</w>
+                    <c> </c>
+                    <w xml:id="w_6263_4">her</w>
+                    <c> </c>
+                    <w xml:id="w_6263_5">wid<choice><am>&er;</am><ex>er</ex></choice></w>
+                    <c> </c>
+                    <w xml:id="w_6263_6">in</w>
+                    <pc>·</pc>
+                </l>
+                <l n="6264" xml:id="l_6264" hei:altN="54">
+                    <lb n="10"/>
+                    <w xml:id="w_6264_1">daz</w>
+                    <c> </c>
+                    <w xml:id="w_6264_2">ich</w>
+                    <c> </c>
+                    <w xml:id="w_6264_3">z<choice><orig>v</orig><reg>u</reg></choice>&osup;</w>
+                    <c> </c>
+                    <w xml:id="w_6264_4">dir</w>
+                    <c> </c>
+                    <w xml:id="w_6264_5">gegangen</w>
+                    <c> </c>
+                    <w xml:id="w_6264_6">bin</w>
+                    <pc>·</pc>
+                </l>
+            </lg>
+            <lg ana="hc:Couplet">
+                <l n="6265" xml:id="l_6265" hei:altN="55">
+                    <lb n="11"/>
+                    <w xml:id="w_6265_1"><hi rendition="hc:Versal hc:RedStroke">D</hi>az</w>
+                    <c> </c>
+                    <w xml:id="w_6265_2">iſt</w>
+                    <c> </c>
+                    <w xml:id="w_6265_3">d<choice><orig>v</orig><reg>u</reg></choice>rch</w>
+                    <c> </c>
+                    <w xml:id="w_6265_4">fragen</w>
+                    <c> </c>
+                    <w xml:id="w_6265_5">getan</w>
+                    <pc>·</pc>
+                </l>
+                <l n="6266" xml:id="l_6266" hei:altN="56">
+                    <lb n="12"/>
+                    <w xml:id="w_6266_1">fri<choice><orig>v</orig><reg>u</reg></choice>nt</w>
+                    <c> </c>
+                    <w xml:id="w_6266_2">d<choice><orig>v</orig><reg>u</reg></choice></w>
+                    <c> </c>
+                    <w xml:id="w_6266_3">ſolt</w>
+                    <c> </c>
+                    <w xml:id="w_6266_4">mich</w>
+                    <c> </c>
+                    <w xml:id="w_6266_5">wizze<choice><am>&bar;</am><ex>n</ex></choice></w>
+                    <c> </c>
+                    <w xml:id="w_6266_6">lan</w>
+                    <pc>·</pc>
+                </l>
+            </lg>
+            <lg ana="hc:Couplet">
+                <l n="6267" xml:id="l_6267" hei:altN="57">
+                    <lb n="13"/>
+                    <w xml:id="w_6267_1"><hi rendition="hc:Versal hc:RedStroke">w</hi>ie</w>
+                    <c> </c>
+                    <w xml:id="w_6267_2">ſtet</w>
+                    <c> </c>
+                    <w xml:id="w_6267_3">ez</w>
+                    <c> </c>
+                    <w xml:id="w_6267_4"><choice><orig>v</orig><reg>u</reg></choice>mbe</w>
+                    <c> </c>
+                    <w xml:id="w_6267_5">diſi<choice><orig>v</orig><reg>u</reg></choice></w>
+                    <c> </c>
+                    <w xml:id="w_6267_6">armen</w>
+                    <c> </c>
+                    <w xml:id="w_6267_7">wip</w>
+                    <pc>·</pc>
+                </l>
+                <l n="6268" xml:id="l_6268" hei:altN="58">
+                    <lb n="14"/>
+                    <w xml:id="w_6268_1">in</w>
+                    <c> </c>
+                    <w xml:id="w_6268_2">ſint</w>
+                    <c> </c>
+                    <w xml:id="w_6268_3">die</w>
+                    <c> </c>
+                    <w xml:id="w_6268_4">ſiten</w>
+                    <c> </c>
+                    <w xml:id="w_6268_5"><choice><orig>v</orig><reg>u</reg></choice>nt</w>
+                    <c> </c>
+                    <w xml:id="w_6268_6">der</w>
+                    <c> </c>
+                    <w xml:id="w_6268_7">lip</w>
+                    <pc>·</pc>
+                </l>
+            </lg>
+            <lg ana="hc:Couplet">
+                <l n="6269" xml:id="l_6269" hei:altN="59">
+                    <lb n="15"/>
+                    <w xml:id="w_6269_1"><hi rendition="hc:Versal hc:RedStroke">G</hi>eſtalt</w>
+                    <c> </c>
+                    <w xml:id="w_6269_2">vil</w>
+                    <c> </c>
+                    <w xml:id="w_6269_3">wol</w>
+                    <c> </c>
+                    <w xml:id="w_6269_4">dem</w>
+                    <c> </c>
+                    <w xml:id="w_6269_5">gelich</w>
+                    <pc>·</pc>
+                </l>
+                <l n="6270" xml:id="l_6270" hei:altN="60">
+                    <lb n="16"/>
+                    <w xml:id="w_6270_1">waren</w>
+                    <c> </c>
+                    <w xml:id="w_6270_2">ſi</w>
+                    <c> </c>
+                    <w xml:id="w_6270_3">fro</w>
+                    <c> </c>
+                    <w xml:id="w_6270_4"><choice><orig>v</orig><reg>u</reg></choice>nt</w>
+                    <c> </c>
+                    <w xml:id="w_6270_5">rich</w>
+                    <pc>·</pc>
+                </l>
+            </lg>
+            <lg ana="hc:Couplet">
+                <l n="6271" xml:id="l_6271" hei:altN="61">
+                    <lb n="17"/>
+                    <w xml:id="w_6271_1"><hi rendition="hc:Versal hc:RedStroke">S</hi>i</w>
+                    <c> </c>
+                    <w xml:id="w_6271_2">wæren</w>
+                    <c> </c>
+                    <w xml:id="w_6271_3">harte</w>
+                    <c> </c>
+                    <w xml:id="w_6271_4">wol</w>
+                    <c> </c>
+                    <w xml:id="w_6271_5">getan</w>
+                    <pc>·</pc>
+                </l>
+                <l n="6272" xml:id="l_6272" hei:altN="62">
+                    <lb n="18"/>
+                    <w xml:id="w_6272_1">der</w>
+                    <c> </c>
+                    <w xml:id="w_6272_2">vrage</w>
+                    <c> </c>
+                    <w xml:id="w_6272_3">hiez</w>
+                    <c> </c>
+                    <w xml:id="w_6272_4">er</w>
+                    <c> </c>
+                    <w xml:id="w_6272_5">ſich</w>
+                    <c> </c>
+                    <w xml:id="w_6272_6">erlan</w>
+                    <pc>·</pc>
+                </l>
+            </lg>
+            <lg ana="hc:Couplet">
+                <l n="6273" xml:id="l_6273" hei:altN="63">
+                    <lb n="19"/>
+                    <w xml:id="w_6273_1"><hi rendition="hc:Versal hc:RedStroke">E</hi>r</w>
+                    <c> </c>
+                    <w xml:id="w_6273_2">ſprach</w>
+                    <c> </c>
+                    <w xml:id="w_6273_3">ich</w>
+                    <c> </c>
+                    <w xml:id="w_6273_4">ſage</w>
+                    <c> </c>
+                    <w xml:id="w_6273_5">i<choice><orig>v</orig><reg>u</reg></choice></w>
+                    <c> </c>
+                    <w xml:id="w_6273_6">ein</w>
+                    <c> </c>
+                    <w xml:id="w_6273_7">baſt</w>
+                    <pc>·</pc>
+                </l>
+                <l n="6274" xml:id="l_6274" hei:altN="64">
+                    <lb n="20"/>
+                    <w xml:id="w_6274_1">wænt</w>
+                    <c> </c>
+                    <w xml:id="w_6274_2">ir</w>
+                    <c> </c>
+                    <w xml:id="w_6274_3">niht</w>
+                    <c> </c>
+                    <w xml:id="w_6274_4">her</w>
+                    <c> </c>
+                    <w xml:id="w_6274_5">gaſt</w>
+                    <pc>·</pc>
+                </l>
+            </lg>
+            <lg ana="hc:Couplet">
+                <l n="6275" xml:id="l_6275" hei:altN="65">
+                    <lb n="21"/>
+                    <w xml:id="w_6275_1"><hi rendition="hc:Versal hc:RedStroke">D</hi>az</w>
+                    <c> </c>
+                    <w xml:id="w_6275_2">mich</w>
+                    <c> </c>
+                    <w xml:id="w_6275_3">iht</w>
+                    <c> </c>
+                    <w xml:id="w_6275_4">betrage</w>
+                    <pc>·</pc>
+                </l>
+                <l n="6276" xml:id="l_6276" hei:altN="66">
+                    <lb n="22"/>
+                    <w xml:id="w_6276_1">iwerre</w>
+                    <c> </c>
+                    <w xml:id="w_6276_2"><choice><orig>v</orig><reg>u</reg></choice>nn<choice><orig>v</orig><reg>u</reg></choice>tzen</w>
+                    <c> </c>
+                    <w xml:id="w_6276_3">vrage</w>
+                    <pc>·</pc>
+                </l>
+            </lg>
+            <cb n="b" facs="#O_1v-b"/>
+            <lg ana="hc:Couplet">
+                <l n="6277" xml:id="l_6277" hei:altN="67">
+                    <lb n="1"/>
+                    <w xml:id="w_6277_1"><hi rendition="hc:Versal hc:RedStroke">J</hi>r</w>
+                    <c> </c>
+                    <w xml:id="w_6277_2">v<choice><am>&er;</am><ex>er</ex></choice>lieſet</w>
+                    <c> </c>
+                    <w xml:id="w_6277_3">michel</w>
+                    <c> </c>
+                    <w xml:id="w_6277_4">arbeit</w>
+                    <pc>·</pc>
+                </l>
+                <l n="6278" xml:id="l_6278" hei:altN="68">
+                    <lb n="2"/>
+                    <w xml:id="w_6278_1">der</w>
+                    <c> </c>
+                    <w xml:id="w_6278_2">ritter</w>
+                    <c> </c>
+                    <w xml:id="w_6278_3">ſprach</w>
+                    <c> </c>
+                    <w xml:id="w_6278_4">daz</w>
+                    <c> </c>
+                    <w xml:id="w_6278_5">iſt</w>
+                    <gap rendition="hc:CutOff"/>
+                </l>
+            </lg>
+            <lg ana="hc:Couplet">
+                <l n="6279" xml:id="l_6279" hei:altN="69">
+                    <lb n="3"/>
+                    <w xml:id="w_6279_1"><hi rendition="hc:Versal hc:RedStroke"><choice><orig>V</orig><reg>U</reg></choice></hi>nt</w>
+                    <c> </c>
+                    <w xml:id="w_6279_2">gie</w>
+                    <c> </c>
+                    <w xml:id="w_6279_3">lachende</w>
+                    <c> </c>
+                    <w xml:id="w_6279_4">dan</w>
+                    <pc>·</pc>
+                </l>
+                <l n="6280" xml:id="l_6280" hei:altN="70">
+                    <lb n="4"/>
+                    <w xml:id="w_6280_1">alſ</w>
+                    <c> </c>
+                    <w xml:id="w_6280_2">der</w>
+                    <c> </c>
+                    <w xml:id="w_6280_3">ſich</w>
+                    <c> </c>
+                    <w xml:id="w_6280_4">mit</w>
+                    <c> </c>
+                    <w xml:id="w_6280_5">dem</w>
+                    <c> </c>
+                    <w xml:id="w_6280_6">bo&esup;ſ</w>
+                    <gap rendition="hc:CutOff"/>
+                </l>
+            </lg>
+            <lg ana="hc:Couplet">
+                <l n="6281" xml:id="l_6281" hei:altN="71">
+                    <lb n="5"/>
+                    <w xml:id="w_6281_1"><hi rendition="hc:Versal hc:RedStroke">M</hi>it</w>
+                    <c> </c>
+                    <w xml:id="w_6281_2">worten</w>
+                    <c> </c>
+                    <w xml:id="w_6281_3">niht</w>
+                    <c> </c>
+                    <w xml:id="w_6281_4">beheft</w>
+                    <gap rendition="hc:CutOff"/>
+                </l>
+                <l n="6282" xml:id="l_6282" hei:altN="72">
+                    <lb n="6"/>
+                    <w xml:id="w_6282_1">er</w>
+                    <c> </c>
+                    <w xml:id="w_6282_2">het</w>
+                    <c> </c>
+                    <w xml:id="w_6282_3">ſin</w>
+                    <c> </c>
+                    <w xml:id="w_6282_4">rede</w>
+                    <c> </c>
+                    <w xml:id="w_6282_5">f<choice><orig>v</orig><reg>u</reg></choice>r</w>
+                    <c> </c>
+                    <w xml:id="w_6282_6">ein</w>
+                    <gap rendition="hc:CutOff"/>
+                </l>
+            </lg>
+            <lg ana="hc:Couplet">
+                <l n="6283" xml:id="l_6283" hei:altN="73">
+                    <lb n="7"/>
+                    <w xml:id="w_6283_1"><hi rendition="hc:Versal hc:RedStroke">E</hi>r</w>
+                    <c> </c>
+                    <w xml:id="w_6283_2">erſ<choice><orig>v</orig><reg>u</reg></choice>&osup;chte</w>
+                    <c> </c>
+                    <w xml:id="w_6283_3">want</w>
+                    <c> </c>
+                    <w xml:id="w_6283_4"><choice><orig>v</orig><reg>u</reg></choice>nd</w>
+                    <c> </c>
+                    <w xml:id="w_6283_5">v</w>
+                    <gap rendition="hc:CutOff"/>
+                </l>
+                <l n="6284" xml:id="l_6284" hei:altN="74">
+                    <lb n="8"/>
+                    <w xml:id="w_6284_1"><choice><orig>v</orig><reg>u</reg></choice>nz</w>
+                    <c> </c>
+                    <w xml:id="w_6284_2">er</w>
+                    <c> </c>
+                    <w xml:id="w_6284_3">die</w>
+                    <c> </c>
+                    <w xml:id="w_6284_4">h<choice><orig>v</orig><reg>u</reg></choice>ſ t<choice><orig>v</orig><reg>u</reg></choice>r</w>
+                    <c> </c>
+                    <w xml:id="w_6284_5">vant</w>
+                    <pc>·</pc>
+                </l>
+            </lg>
+            <lg ana="hc:Couplet">
+                <l n="6285" xml:id="l_6285" hei:altN="75">
+                    <lb n="9"/>
+                    <w xml:id="w_6285_1"><hi rendition="hc:Versal hc:RedStroke"><choice><orig>V</orig><reg>U</reg></choice></hi>nt</w>
+                    <c> </c>
+                    <w xml:id="w_6285_2">z<choice><orig>v</orig><reg>u</reg></choice>&osup;</w>
+                    <w xml:id="w_6285_3">z</w>
+                    <w xml:id="w_6285_4">in</w>
+                    <c> </c>
+                    <w xml:id="w_6285_5">dar</w>
+                    <c> </c>
+                    <w xml:id="w_6285_6">in</w>
+                </l>
+                <l n="6286" xml:id="l_6286" hei:altN="76">
+                    <lb n="10"/>
+                    <w xml:id="w_6286_1">ſwi</w>
+                    <c> </c>
+                    <w xml:id="w_6286_2">gar</w>
+                    <c> </c>
+                    <w xml:id="w_6286_3">von</w>
+                    <c> </c>
+                    <w xml:id="w_6286_4">arm<choice><orig>v</orig><reg>u</reg></choice>&osup;t</w>
+                    <c> </c>
+                    <w xml:id="w_6286_5">ir</w>
+                    <c> </c>
+                    <w xml:id="w_6286_6">ſin</w>
+                </l>
+            </lg>
+            <lg ana="hc:Couplet">
+                <l n="6287" xml:id="l_6287" hei:altN="77">
+                    <lb n="11"/>
+                    <w xml:id="w_6287_1"><hi rendition="hc:Versal hc:RedStroke">W</hi>ære</w>
+                    <c> </c>
+                    <w xml:id="w_6287_2">beſwæret</w>
+                    <c> </c>
+                    <w xml:id="w_6287_3">doch</w>
+                    <c> </c>
+                    <w xml:id="w_6287_4">wære<choice><am>&bar;</am><ex>n</ex></choice></w>
+                </l>
+                <l n="6288" xml:id="l_6288" hei:altN="78">
+                    <lb n="12"/>
+                    <w xml:id="w_6288_1">doch</w>
+                    <c> </c>
+                    <w xml:id="w_6288_2">wæren</w>
+                    <c> </c>
+                    <w xml:id="w_6288_3">ſi</w>
+                    <c> </c>
+                    <w xml:id="w_6288_4"><choice><orig>v</orig><reg>u</reg></choice>nervær</w>
+                    <gap rendition="hc:CutOff"/>
+                </l>
+            </lg>
+            <lg ana="hc:Couplet">
+                <l n="6289" xml:id="l_6289" hei:altN="79">
+                    <lb n="13"/>
+                    <w xml:id="w_6289_1"><hi rendition="hc:Versal hc:RedStroke">I</hi>m</w>
+                    <c> </c>
+                    <w xml:id="w_6289_2">en</w>
+                    <w xml:id="w_6289_3">wurde</w>
+                    <c> </c>
+                    <w xml:id="w_6289_4">al</w>
+                    <c> </c>
+                    <w xml:id="w_6289_5"><choice><orig>v</orig><reg>u</reg></choice>mbe</w>
+                    <c> </c>
+                    <w xml:id="w_6289_6">ge</w>
+                    <gap rendition="hc:CutOff"/>
+                </l>
+                <l n="6290" xml:id="l_6290" hei:altN="80">
+                    <lb n="14"/>
+                    <w xml:id="w_6290_1"><choice><orig>v</orig><reg>u</reg></choice>nt</w>
+                    <c> </c>
+                    <w xml:id="w_6290_2">liezen</w>
+                    <c> </c>
+                    <w xml:id="w_6290_3">ir</w>
+                    <c> </c>
+                    <w xml:id="w_6290_4">werck</w>
+                    <c> </c>
+                    <w xml:id="w_6290_5">lig</w>
+                    <gap rendition="hc:CutOff"/>
+                </l>
+            </lg>
+            <lg ana="hc:Couplet">
+                <l n="6291" xml:id="l_6291" hei:altN="81">
+                    <lb n="15"/>
+                    <w xml:id="w_6291_1">
+                        <hi rendition="hc:Versal hc:RedStroke">D</hi>
+                        <gap rendition="hc:Perforated" quantity="2" unit="character"/>
+                    </w>
+                    <c> </c>
+                    <w xml:id="w_6291_2">wile</w>
+                    <c> </c>
+                    <w xml:id="w_6291_3">daz</w>
+                    <c> </c>
+                    <w xml:id="w_6291_4">er</w>
+                    <c> </c>
+                    <w xml:id="w_6291_5">bi</w>
+                    <c> </c>
+                    <w xml:id="w_6291_6">in</w>
+                    <c> </c>
+                    <w xml:id="w_6291_7">ſaz</w>
+                    <pc>·</pc>
+                </l>
+                <l n="6292" xml:id="l_6292" hei:altN="82">
+                    <lb n="16"/>
+                    <w xml:id="w_6292_1">ir</w>
+                    <c> </c>
+                    <w xml:id="w_6292_2">z<choice><orig>v</orig><reg>u</reg></choice>&osup;cht</w>
+                    <c> </c>
+                    <w xml:id="w_6292_3">von</w>
+                    <c> </c>
+                    <w xml:id="w_6292_4">arde</w>
+                    <c> </c>
+                    <w xml:id="w_6292_5">gebot</w>
+                    <gap rendition="hc:CutOff"/>
+                </l>
+            </lg>
+            <lg ana="hc:Couplet">
+                <l n="6293" xml:id="l_6293" hei:altN="83">
+                    <lb n="17"/>
+                    <w xml:id="w_6293_1"><hi rendition="hc:Versal hc:RedStroke">O</hi><choice><orig>v</orig><reg>u</reg></choice>ch</w>
+                    <c> </c>
+                    <w xml:id="w_6293_2">nam</w>
+                    <c> </c>
+                    <w xml:id="w_6293_3">er</w>
+                    <c> </c>
+                    <w xml:id="w_6293_4">war</w>
+                    <c> </c>
+                    <w xml:id="w_6293_5">daz</w>
+                    <c> </c>
+                    <w xml:id="w_6293_6">lut</w>
+                    <gap rendition="hc:CutOff"/>
+                </l>
+                <l n="6294" xml:id="l_6294" hei:altN="84">
+                    <lb n="18"/>
+                    <w xml:id="w_6294_1"><choice><orig>v</orig><reg>u</reg></choice>beriger</w>
+                    <c> </c>
+                    <w xml:id="w_6294_2">rede</w>
+                    <c> </c>
+                    <w xml:id="w_6294_3">ergie</w>
+                    <gap rendition="hc:CutOff"/>
+                </l>
+            </lg>
+            <lg ana="hc:Couplet">
+                <l n="6295" xml:id="l_6295" hei:altN="85">
+                    <lb n="19"/>
+                    <w xml:id="w_6295_1"><hi rendition="hc:Versal hc:RedStroke">D</hi>er</w>
+                    <c> </c>
+                    <w xml:id="w_6295_2">doch</w>
+                    <c> </c>
+                    <w xml:id="w_6295_3">gerne</w>
+                    <c> </c>
+                    <w xml:id="w_6295_4">vil</w>
+                    <c> </c>
+                    <w xml:id="w_6295_5">geſchi</w>
+                    <gap rendition="hc:CutOff"/>
+                </l>
+                <l n="6296" xml:id="l_6296" hei:altN="86">
+                    <lb n="20"/>
+                    <w xml:id="w_6296_1">da</w>
+                    <c> </c>
+                    <w xml:id="w_6296_2">man</w>
+                    <c> </c>
+                    <w xml:id="w_6296_3">vil</w>
+                    <c> </c>
+                    <w xml:id="w_6296_4">wibe</w>
+                    <c> </c>
+                    <w xml:id="w_6296_5">enſam</w>
+                    <gap rendition="hc:CutOff"/>
+                </l>
+            </lg>
+            <lg ana="hc:Couplet">
+                <l n="6297" xml:id="l_6297" hei:altN="87">
+                    <lb n="21"/>
+                    <w xml:id="w_6297_1"><hi rendition="hc:Versal hc:RedStroke">W</hi>an</w>
+                    <c> </c>
+                    <w xml:id="w_6297_2">da</w>
+                    <c> </c>
+                    <w xml:id="w_6297_3">wont</w>
+                    <c> </c>
+                    <w xml:id="w_6297_4">in</w>
+                    <c> </c>
+                    <w xml:id="w_6297_5">ir</w>
+                    <c> </c>
+                    <w xml:id="w_6297_6">arm</w>
+                    <gap rendition="hc:CutOff"/>
+                </l>
+                <l n="6298" xml:id="l_6298" hei:altN="88">
+                    <lb n="22"/>
+                    <w xml:id="w_6298_1">beſcheiden</w>
+                    <c> </c>
+                    <w xml:id="w_6298_2">wille</w>
+                    <c> </c>
+                    <w xml:id="w_6298_3"><choice><orig>v</orig><reg>u</reg></choice>nd<choice><am>̓ </am><ex>e</ex></choice></w>
+                    <c> </c>
+                    <w xml:id="w_6298_4">g</w>
+                    <gap rendition="hc:CutOff"/>
+                </l>
+            </lg>
+            <gap rendition="hc:Lost" quantity="176" unit="line"/>
+            <pb n="2r" facs="#O_2r"/>
+            <cb n="a" facs="#O_2r-a"/>
+            <lg>
+                <gap rendition="hc:CutOff" quantity="1" unit="line"/>
+                <l n="6476" xml:id="l_6476" hei:altN="89">
+                    <lb n="1"/>
+                    <gap rendition="hc:CutOff"/>
+                    <w xml:id="w_6476_1">wirt</w>
+                    <c> </c>
+                    <w xml:id="w_6476_2">den</w>
+                    <c> </c>
+                    <w xml:id="w_6476_3">gaſt</w>
+                    <c> </c>
+                    <w xml:id="w_6476_4">ſol</w>
+                </l>
+            </lg>
+            <lg ana="hc:Couplet">
+                <l n="6477" xml:id="l_6477" hei:altN="90">
+                    <lb n="2"/>
+                    <gap rendition="hc:CutOff"/>
+                    <w xml:id="w_6477_1">illechomen</w>
+                    <c> </c>
+                    <w xml:id="w_6477_2">iſt</w>
+                    <pc>·</pc>
+                </l>
+                <l n="6478" xml:id="l_6478" hei:altN="91">
+                    <lb n="3"/>
+                    <gap rendition="hc:CutOff"/>
+                    <w xml:id="w_6478_1">het</w>
+                    <c> </c>
+                    <w xml:id="w_6478_2">in</w>
+                    <c> </c>
+                    <add hei:placeRef="hc:AboveLine">
+                        <w xml:id="w_6478_3">i<choice><am>&bar;</am><ex>n</ex></choice></w>
+                    </add>
+                    <w xml:id="w_6478_4">ch<choice><orig>v</orig><reg>u</reg></choice>rzer</w>
+                    <c> </c>
+                    <w xml:id="w_6478_5">friſt</w>
+                    <pc>·</pc>
+                </l>
+            </lg>
+            <lg ana="hc:Couplet">
+                <l n="6479" xml:id="l_6479" hei:altN="92">
+                    <lb n="4"/>
+                    <gap rendition="hc:CutOff"/>
+                    <w xml:id="w_6479_1">t</w>
+                    <c> </c>
+                    <w xml:id="w_6479_2">di<choice><orig>v</orig><reg>u</reg></choice></w>
+                    <c> </c>
+                    <w xml:id="w_6479_3">i<choice><orig>v</orig><reg>u</reg></choice>nge</w>
+                    <pc>·</pc>
+                </l>
+                <l n="6480" xml:id="l_6480" hei:altN="93">
+                    <lb n="5"/>
+                    <gap rendition="hc:CutOff"/>
+                    <w xml:id="w_6480_1">ndel<choice><orig>v</orig><reg>u</reg></choice>nge</w>
+                </l>
+            </lg>
+            <lg ana="hc:Couplet">
+                <l n="6481" xml:id="l_6481" hei:altN="94">
+                    <lb n="6"/>
+                    <gap rendition="hc:CutOff"/>
+                    <w xml:id="w_6481_1">einem</w>
+                    <c> </c>
+                    <w xml:id="w_6481_2">ellenden</w>
+                    <c> </c>
+                    <w xml:id="w_6481_3">man</w>
+                    <pc>·</pc>
+                </l>
+                <l n="6482" xml:id="l_6482" hei:altN="95">
+                    <lb n="7"/>
+                    <gap rendition="hc:CutOff"/>
+                    <w xml:id="w_6482_1">gap</w>
+                    <c> </c>
+                    <w xml:id="w_6482_2">ſi</w>
+                    <c> </c>
+                    <w xml:id="w_6482_3">im</w>
+                    <c> </c>
+                    <w xml:id="w_6482_4">an</w>
+                    <pc>·</pc>
+                </l>
+            </lg>
+            <lg ana="hc:Couplet">
+                <l n="6483" xml:id="l_6483" hei:altN="96">
+                    <lb n="8"/>
+                    <gap rendition="hc:CutOff"/>
+                    <w xml:id="w_6483_1">nwat</w>
+                    <c> </c>
+                    <w xml:id="w_6483_2">reine</w>
+                    <pc>·</pc>
+                </l>
+                <l n="6484" xml:id="l_6484" hei:altN="97">
+                    <lb n="9"/>
+                    <gap rendition="hc:CutOff"/>
+                    <w xml:id="w_6484_1">harte</w>
+                    <c> </c>
+                    <w xml:id="w_6484_2">chleine</w>
+                    <pc>·</pc>
+                </l>
+            </lg>
+            <lg ana="hc:Couplet">
+                <l n="6485" xml:id="l_6485" hei:altN="98">
+                    <lb n="10"/>
+                    <gap rendition="hc:CutOff"/>
+                    <w xml:id="w_6485_1">mites</w>
+                    <c> </c>
+                    <w xml:id="w_6485_2">mandellin</w>
+                    <pc>·</pc>
+                </l>
+                <l n="6486" xml:id="l_6486" hei:altN="99">
+                    <lb n="11"/>
+                    <gap rendition="hc:CutOff"/>
+                    <w xml:id="w_6486_1">daz</w>
+                    <c> </c>
+                    <w xml:id="w_6486_2">waſ</w>
+                    <c> </c>
+                    <w xml:id="w_6486_3">hermin</w>
+                    <pc>·</pc>
+                </l>
+            </lg>
+            <lg ana="hc:Couplet">
+                <l n="6487" xml:id="l_6487" hei:altN="100">
+                    <lb n="12"/>
+                    <gap rendition="hc:CutOff"/>
+                    <w xml:id="w_6487_1">meden</w>
+                    <c> </c>
+                    <w xml:id="w_6487_2">wol</w>
+                    <c> </c>
+                    <w xml:id="w_6487_3">ſtat</w>
+                    <pc>·</pc>
+                </l>
+                <l n="6488" xml:id="l_6488" hei:altN="101">
+                    <lb n="13"/>
+                    <gap rendition="hc:CutOff"/>
+                    <w xml:id="w_6488_1">het</w>
+                    <c> </c>
+                    <w xml:id="w_6488_2">er</w>
+                    <c> </c>
+                    <w xml:id="w_6488_3">wol</w>
+                    <c> </c>
+                    <w xml:id="w_6488_4">rat</w>
+                    <pc>·</pc>
+                </l>
+            </lg>
+            <lg ana="hc:Couplet">
+                <l n="6489" xml:id="l_6489" hei:altN="102">
+                    <lb n="14"/>
+                    <gap rendition="hc:CutOff"/>
+                    <w xml:id="w_6489_1">warmer</w>
+                    <c> </c>
+                    <w xml:id="w_6489_2">abe<choice><am>&bar;</am><ex>n</ex></choice>de</w>
+                    <c> </c>
+                    <w xml:id="w_6489_3">waſ</w>
+                    <pc>·</pc>
+                </l>
+                <l n="6490" xml:id="l_6490" hei:altN="103">
+                    <lb n="15"/>
+                    <gap rendition="hc:CutOff"/>
+                    <w xml:id="w_6490_1">niſte</w>
+                    <c> </c>
+                    <w xml:id="w_6490_2">graſ</w>
+                    <pc>·</pc>
+                </l>
+            </lg>
+            <lg ana="hc:Couplet">
+                <l n="6491" xml:id="l_6491" hei:altN="104">
+                    <lb n="16"/>
+                    <gap rendition="hc:CutOff"/>
+                    <w xml:id="w_6491_1">m</w>
+                    <c> </c>
+                    <w xml:id="w_6491_2">bo<choice><orig>v</orig><reg>u</reg></choice>mgarte<choice><am>&bar;</am><ex>n</ex></choice></w>
+                    <c> </c>
+                    <w xml:id="w_6491_3">vant</w>
+                    <pc>·</pc>
+                </l>
+                <l n="6492" xml:id="l_6492" hei:altN="105">
+                    <lb n="17"/>
+                    <gap rendition="hc:CutOff"/>
+                    <w xml:id="w_6492_1">ſi</w>
+                    <c> </c>
+                    <w xml:id="w_6492_2">in</w>
+                    <c> </c>
+                    <w xml:id="w_6492_3">bi</w>
+                    <c> </c>
+                    <w xml:id="w_6492_4">der</w>
+                    <c> </c>
+                    <w xml:id="w_6492_5">hant</w>
+                    <pc>·</pc>
+                </l>
+            </lg>
+            <lg ana="hc:Couplet">
+                <l n="6493" xml:id="l_6493" hei:altN="106">
+                    <lb n="18"/>
+                    <gap rendition="hc:CutOff"/>
+                    <w xml:id="w_6493_1"><choice><orig>v</orig><reg>u</reg></choice>&osup;</w>
+                    <c> </c>
+                    <w xml:id="w_6493_2">ein</w>
+                    <c> </c>
+                    <w xml:id="w_6493_3">ander</w>
+                    <pc>·</pc>
+                </l>
+                <l n="6494" xml:id="l_6494" hei:altN="107">
+                    <lb n="19"/>
+                    <gap rendition="hc:CutOff"/>
+                    <w xml:id="w_6494_1">evand</w>
+                    <w xml:id="w_6494_2">er</w>
+                    <pc>·</pc>
+                </l>
+            </lg>
+            <lg ana="hc:Couplet">
+                <l n="6495" xml:id="l_6495" hei:altN="108">
+                    <lb n="20"/>
+                    <gap rendition="hc:CutOff"/>
+                    <w xml:id="w_6495_1">necklicher</w>
+                    <c> </c>
+                    <w xml:id="w_6495_2"><choice><orig>i</orig><reg>j</reg></choice><choice><orig>v</orig><reg>u</reg></choice>ge<choice><am>&bar;</am><ex>n</ex></choice>de</w>
+                </l>
+                <l n="6496" xml:id="l_6496" hei:altN="109">
+                    <lb n="21"/>
+                    <gap rendition="hc:CutOff"/>
+                    <w xml:id="w_6496_1"><choice><orig>v</orig><reg>u</reg></choice>n<choice><am>&bar;</am><ex>d</ex></choice></w>
+                    <c> </c>
+                    <w xml:id="w_6496_2">michel</w>
+                    <c> </c>
+                    <w xml:id="w_6496_3">t<choice><orig>v</orig><reg>u</reg></choice>gende</w>
+                    <pc>·</pc>
+                </l>
+            </lg>
+            <cb n="b" facs="#O_2r-b"/>
+            <lg>
+                <gap rendition="hc:CutOff" quantity="1" unit="line"/>
+                <l n="6498" xml:id="l_6498" hei:altN="110">
+                    <lb n="1"/>
+                    <w xml:id="w_6498_1">nimer</w>
+                    <c> </c>
+                    <w xml:id="w_6498_2">mere</w>
+                    <c> </c>
+                    <w xml:id="w_6498_3">vinde</w>
+                    <pc>·</pc>
+                </l>
+            </lg>
+            <lg ana="hc:Couplet">
+                <l n="6499" xml:id="l_6499" hei:altN="111">
+                    <lb n="2"/>
+                    <w xml:id="w_6499_1"><hi rendition="hc:Versal"><damage ana="hc:Perforated"
+                        >S</damage></hi><choice><orig>v</orig><reg>u</reg></choice>ezzeri<choice><orig>v</orig><reg>u</reg></choice></w>
+                    <c> </c>
+                    <w xml:id="w_6499_2">wort</w>
+                    <c> </c>
+                    <w xml:id="w_6499_3"><choice><orig>v</orig><reg>u</reg></choice>n<choice><am>&bar;</am><ex>d</ex></choice></w>
+                    <c> </c>
+                    <w xml:id="w_6499_4">reht<choice><am>&er;</am><ex>er</ex></choice></w>
+                    <c> </c>
+                    <w xml:id="w_6499_5">ſite</w>
+                    <pc>·</pc>
+                </l>
+                <l n="6500" xml:id="l_6500" hei:altN="112">
+                    <lb n="3"/>
+                    <w xml:id="w_6500_1">ſi</w>
+                    <c> </c>
+                    <w xml:id="w_6500_2">mohte</w>
+                    <c> </c>
+                    <w xml:id="w_6500_3">nach</w>
+                    <c> </c>
+                    <w xml:id="w_6500_4">bet winge<choice><am>&bar;</am><ex>n</ex></choice></w>
+                    <c> </c>
+                    <w xml:id="w_6500_5">da</w>
+                    <c> </c>
+                    <w xml:id="w_6500_6">mite</w>
+                    <pc>·</pc>
+                </l>
+            </lg>
+            <lg ana="hc:Couplet">
+                <l n="6501" xml:id="l_6501" hei:altN="113">
+                    <lb n="4"/>
+                    <w xml:id="w_6501_1"><hi rendition="hc:Versal">e</hi>ineſ</w>
+                    <c> </c>
+                    <w xml:id="w_6501_2">engelſ</w>
+                    <c> </c>
+                    <w xml:id="w_6501_3">gedanch</w>
+                    <pc>·</pc>
+                </l>
+                <l n="6502" xml:id="l_6502" hei:altN="114">
+                    <lb n="5"/>
+                    <w xml:id="w_6502_1">daz</w>
+                    <c> </c>
+                    <w xml:id="w_6502_2">er</w>
+                    <c> </c>
+                    <w xml:id="w_6502_3">vil</w>
+                    <c> </c>
+                    <w xml:id="w_6502_4">lihte</w>
+                    <c> </c>
+                    <w xml:id="w_6502_5">eine<choice><am>&bar;</am><ex>n</ex></choice></w>
+                    <c> </c>
+                    <w xml:id="w_6502_6">wanch</w>
+                    <pc>·</pc>
+                </l>
+            </lg>
+            <lg ana="hc:Couplet">
+                <l n="6503" xml:id="l_6503" hei:altN="115">
+                    <lb n="6"/>
+                    <w xml:id="w_6503_1"><hi rendition="hc:Versal">D</hi><choice><orig>v</orig><reg>u</reg></choice>rch</w>
+                    <c> </c>
+                    <w xml:id="w_6503_2">ſi</w>
+                    <c> </c>
+                    <w xml:id="w_6503_3">von</w>
+                    <c> </c>
+                    <w xml:id="w_6503_4">himel</w>
+                    <c> </c>
+                    <w xml:id="w_6503_5">tæte</w>
+                    <pc>·</pc>
+                </l>
+                <l n="6504" xml:id="l_6504" hei:altN="116">
+                    <lb n="7"/>
+                    <w xml:id="w_6504_1">wand</w>
+                    <c> </c>
+                    <w xml:id="w_6504_2">im</w>
+                    <c> </c>
+                    <w xml:id="w_6504_3">ſin</w>
+                    <c> </c>
+                    <w xml:id="w_6504_4">ſælbeſ</w>
+                    <c> </c>
+                    <w xml:id="w_6504_5">ſtæte</w>
+                    <pc>·</pc>
+                </l>
+            </lg>
+            <lg ana="hc:Couplet">
+                <l n="6505" xml:id="l_6505" hei:altN="117">
+                    <lb n="8"/>
+                    <w xml:id="w_6505_1"><hi rendition="hc:Versal">e</hi>inen</w>
+                    <c> </c>
+                    <w xml:id="w_6505_2">ſolhen</w>
+                    <c> </c>
+                    <w xml:id="w_6505_3">minne<choice><am>&bar;</am><ex>n</ex></choice>ſlac</w>
+                    <c> </c>
+                    <w xml:id="w_6505_4">ſl<choice><orig>v</orig><reg>u</reg></choice>&osup;c</w>
+                    <pc>·</pc>
+                </l>
+                <l n="6506" xml:id="l_6506" hei:altN="118">
+                    <lb n="9"/>
+                    <w xml:id="w_6506_1">die</w>
+                    <c> </c>
+                    <w xml:id="w_6506_2">er</w>
+                    <c> </c>
+                    <w xml:id="w_6506_3">in</w>
+                    <c> </c>
+                    <w xml:id="w_6506_4">ſinem</w>
+                    <c> </c>
+                    <w xml:id="w_6506_5">h<choice><am>&er;</am><ex>er</ex></choice>zen</w>
+                    <c> </c>
+                    <w xml:id="w_6506_6">tr<choice><orig>v</orig><reg>u</reg></choice>&osup;c</w>
+                    <pc>·</pc>
+                </l>
+            </lg>
+            <lg ana="hc:Couplet">
+                <l n="6507" xml:id="l_6507" hei:altN="119">
+                    <lb n="10"/>
+                    <w xml:id="w_6507_1"><hi rendition="hc:Versal">M</hi>ohte</w>
+                    <c> </c>
+                    <w xml:id="w_6507_2">die</w>
+                    <c> </c>
+                    <w xml:id="w_6507_3"><choice><orig>v</orig><reg>u</reg></choice>z</w>
+                    <c> </c>
+                    <w xml:id="w_6507_4">ſinem</w>
+                    <c> </c>
+                    <w xml:id="w_6507_5">gem<choice><orig>v</orig><reg>u</reg></choice>te</w>
+                    <pc>·</pc>
+                </l>
+                <l n="6508" xml:id="l_6508" hei:altN="120">
+                    <lb n="11"/>
+                    <w xml:id="w_6508_1">deheineſ</w>
+                    <c> </c>
+                    <w xml:id="w_6508_2">wibeſ</w>
+                    <c> </c>
+                    <w xml:id="w_6508_3">g<choice><orig>v</orig><reg>u</reg></choice>&osup;te</w>
+                    <pc>·</pc>
+                </l>
+            </lg>
+            <lg ana="hc:Couplet">
+                <l n="6509" xml:id="l_6509" hei:altN="121">
+                    <lb n="12"/>
+                    <w xml:id="w_6509_1"><hi rendition="hc:Versal">I</hi>mmer</w>
+                    <c> </c>
+                    <w xml:id="w_6509_2">benome<choice><am>&bar;</am><ex>n</ex></choice></w>
+                    <c> </c>
+                    <w xml:id="w_6509_3">han</w>
+                    <pc>·</pc>
+                </l>
+                <l n="6510" xml:id="l_6510" hei:altN="122">
+                    <lb n="13"/>
+                    <w xml:id="w_6510_1">daz</w>
+                    <c> </c>
+                    <w xml:id="w_6510_2">het</w>
+                    <c> </c>
+                    <w xml:id="w_6510_3">o<choice><orig>v</orig><reg>u</reg></choice>ch</w>
+                    <c> </c>
+                    <w xml:id="w_6510_4">ſi</w>
+                    <c> </c>
+                    <w xml:id="w_6510_5">ze</w>
+                    <w xml:id="w_6510_6">wære</w>
+                    <c> </c>
+                    <w xml:id="w_6510_7">getan</w>
+                    <pc>·</pc>
+                </l>
+            </lg>
+            <lg ana="hc:Couplet">
+                <l n="6511" xml:id="l_6511" hei:altN="123">
+                    <lb n="14"/>
+                    <w xml:id="w_6511_1"><hi rendition="hc:Versal"><choice><orig>V</orig><reg>U</reg></choice></hi>nt</w>
+                    <c> </c>
+                    <w xml:id="w_6511_2">het</w>
+                    <c> </c>
+                    <w xml:id="w_6511_3">er</w>
+                    <c> </c>
+                    <w xml:id="w_6511_4">ſi</w>
+                    <c> </c>
+                    <w xml:id="w_6511_5">me</w>
+                    <c> </c>
+                    <w xml:id="w_6511_6">geſehen</w>
+                    <pc>·</pc>
+                </l>
+                <l n="6512" xml:id="l_6512" hei:altN="124">
+                    <lb n="15"/>
+                    <w xml:id="w_6512_1">ſo</w>
+                    <c> </c>
+                    <w xml:id="w_6512_2">wær</w>
+                    <c> </c>
+                    <w xml:id="w_6512_3">im</w>
+                    <c> </c>
+                    <w xml:id="w_6512_4">verre</w>
+                    <c> </c>
+                    <w xml:id="w_6512_5">baz</w>
+                    <c> </c>
+                    <w xml:id="w_6512_6">geſchehen</w>
+                    <pc>·</pc>
+                </l>
+            </lg>
+            <lg ana="hc:Couplet">
+                <l n="6513" xml:id="l_6513" hei:altN="125">
+                    <lb n="16"/>
+                    <w xml:id="w_6513_1"><hi rendition="hc:Versal">W</hi>and</w>
+                    <c> </c>
+                    <w xml:id="w_6513_2">im</w>
+                    <c> </c>
+                    <w xml:id="w_6513_3">tet</w>
+                    <c> </c>
+                    <w xml:id="w_6513_4">daz</w>
+                    <c> </c>
+                    <w xml:id="w_6513_5">ſcheiden</w>
+                    <c> </c>
+                    <w xml:id="w_6513_6">we</w>
+                    <pc>·</pc>
+                </l>
+                <l n="6514" xml:id="l_6514" hei:altN="126">
+                    <lb n="17"/>
+                    <w xml:id="w_6514_1">er</w>
+                    <c> </c>
+                    <w xml:id="w_6514_2">en</w>
+                    <w xml:id="w_6514_3">ch<choice><orig>v</orig><reg>u</reg></choice>nde</w>
+                    <c> </c>
+                    <w xml:id="w_6514_4">ſit</w>
+                    <c> </c>
+                    <w xml:id="w_6514_5">noch</w>
+                    <c> </c>
+                    <w xml:id="w_6514_6">ê</w>
+                    <pc>·</pc>
+                </l>
+            </lg>
+            <lg ana="hc:Couplet">
+                <l n="6515" xml:id="l_6515" hei:altN="127">
+                    <lb n="18"/>
+                    <w xml:id="w_6515_1"><hi rendition="hc:Versal">A</hi>ne</w>
+                    <c> </c>
+                    <w xml:id="w_6515_2">ſin</w>
+                    <c> </c>
+                    <w xml:id="w_6515_3">ſelbeſ</w>
+                    <c> </c>
+                    <w xml:id="w_6515_4">wip</w>
+                </l>
+                <l n="6516" xml:id="l_6516" hei:altN="128">
+                    <lb n="19"/>
+                    <w xml:id="w_6516_1">nie</w>
+                    <c> </c>
+                    <w xml:id="w_6516_2">ſ<choice><orig>v</orig><reg>u</reg></choice>&esup;zer</w>
+                    <c> </c>
+                    <w xml:id="w_6516_3">rede</w>
+                    <c> </c>
+                    <w xml:id="w_6516_4">noch</w>
+                    <c> </c>
+                    <w xml:id="w_6516_5">ſcho&esup;nere<choice><am>&bar;</am><ex>n</ex></choice></w>
+                    <c> </c>
+                    <w xml:id="w_6516_6">lip</w>
+                    <pc>·</pc>
+                </l>
+            </lg>
+            <lg ana="hc:Couplet">
+                <l n="6517" xml:id="l_6517" hei:altN="129">
+                    <lb n="20"/>
+                    <w xml:id="w_6517_1"><hi rendition="hc:Versal">D</hi>o</w>
+                    <c> </c>
+                    <w xml:id="w_6517_2">ſich</w>
+                    <c> </c>
+                    <w xml:id="w_6517_3">ê</w>
+                    <c> </c>
+                    <w xml:id="w_6517_4">die</w>
+                    <c> </c>
+                    <w xml:id="w_6517_5">viere</w>
+                    <pc>·</pc>
+                </l>
+                <l n="6518" xml:id="l_6518" hei:altN="130">
+                    <lb n="21"/>
+                    <w xml:id="w_6518_1">geſ<choice><orig>v</orig><reg>u</reg></choice>nderten</w>
+                    <c> </c>
+                    <w xml:id="w_6518_2">ſo</w>
+                    <c> </c>
+                    <w xml:id="w_6518_3">ſchiere</w>
+                    <pc>·</pc>
+                </l>
+            </lg>
+            <milestone ana="hc:ZoneShift" facs="#O_2r-c"/>
+            <p>
+                <w>Blaſiu&osup;s</w>
+                <c> </c>
+                <w>feldegkher</w>
+                <c> </c>
+                <w>eccleſiensus</w>
+                <c> </c>
+                <w>pauper</w>
+                <lb/>
+                <w>et</w>
+                <c> </c>
+                <w>humilis</w>
+                <c> </c>
+                <w>multum</w>
+                <c> </c>
+                <w>ſibi</w>
+                <c> </c>
+                <w>imponunt</w>
+                <lb/>
+                <w>parvum</w>
+                <c> </c>
+                <w>inuenit</w>
+                <c> </c>
+                <w>et</w>
+                <c> </c>
+                <w>habet</w>
+            </p>
+            <!-- Diese Notiz von späterer Hand und umgekehrt (von unten nach oben) -->
+            <pb n="2v" facs="#O_2v"/>
+            <cb n="a" facs="#O_2v-a"/>
+            <gap rendition="hc:CutOff" quantity="1" unit="line"/>
+            <lg>
+                <l n="6520" xml:id="l_6520" hei:altN="131">
+                    <lb n="1"/>
+                    <w xml:id="w_6520_1">geliche</w>
+                    <c> </c>
+                    <w xml:id="w_6520_2">ſin</w>
+                    <c> </c>
+                    <w xml:id="w_6520_3">geſcheiden</w>
+                    <pc>·</pc>
+                </l>
+            </lg>
+            <lg ana="hc:Couplet">
+                <l n="6521" xml:id="l_6521" hei:altN="132">
+                    <lb n="2"/>
+                    <w xml:id="w_6521_1"><hi rendition="hc:Versal">D</hi>eſ</w>
+                    <c> </c>
+                    <w xml:id="w_6521_2">m<choice><orig>v</orig><reg>u</reg></choice>&osup;teſ</w>
+                    <c> </c>
+                    <w xml:id="w_6521_3">ſam</w>
+                    <c> </c>
+                    <w xml:id="w_6521_4">der</w>
+                    <c> </c>
+                    <w xml:id="w_6521_5"><choice><orig>i</orig><reg>j</reg></choice>are</w>
+                    <pc>·</pc>
+                </l>
+                <l n="6522" xml:id="l_6522" hei:altN="133">
+                    <lb n="3"/>
+                    <w xml:id="w_6522_1">ich</w>
+                    <c> </c>
+                    <w xml:id="w_6522_2">verſich</w>
+                    <c> </c>
+                    <w xml:id="w_6522_3">mich</w>
+                    <c> </c>
+                    <w xml:id="w_6522_4">wol</w>
+                    <c> </c>
+                    <w xml:id="w_6522_5">ze</w>
+                    <w xml:id="w_6522_6">ware</w>
+                    <pc>·</pc>
+                </l>
+            </lg>
+            <lg ana="hc:Couplet">
+                <l n="6523" xml:id="l_6523" hei:altN="134">
+                    <lb n="4"/>
+                    <w xml:id="w_6523_1"><hi rendition="hc:Versal">I</hi>r</w>
+                    <c> </c>
+                    <w xml:id="w_6523_2">herze</w>
+                    <c> </c>
+                    <w xml:id="w_6523_3">waren</w>
+                    <c> </c>
+                    <w xml:id="w_6523_4">miſlich</w>
+                    <pc>·</pc>
+                </l>
+                <l n="6524" xml:id="l_6524" hei:altN="135">
+                    <lb n="5"/>
+                    <w xml:id="w_6524_1">di<choice><orig>v</orig><reg>u</reg></choice></w>
+                    <c> </c>
+                    <w xml:id="w_6524_2">zwei</w>
+                    <c> </c>
+                    <w xml:id="w_6524_3"><choice><orig>i</orig><reg>j</reg></choice><choice><orig>v</orig><reg>u</reg></choice>ngen</w>
+                    <c> </c>
+                    <w xml:id="w_6524_4">ſenten</w>
+                    <c> </c>
+                    <w xml:id="w_6524_5">ſich</w>
+                    <pc>·</pc>
+                </l>
+            </lg>
+            <lg ana="hc:Couplet">
+                <l n="6525" xml:id="l_6525" hei:altN="136">
+                    <lb n="6"/>
+                    <w xml:id="w_6525_1"><hi rendition="hc:Versal">V</hi>il</w>
+                    <c> </c>
+                    <w xml:id="w_6525_2">to<choice><orig>v</orig><reg>u</reg></choice>gen</w>
+                    <c> </c>
+                    <w xml:id="w_6525_3">in</w>
+                    <c> </c>
+                    <w xml:id="w_6525_4">ir</w>
+                    <c> </c>
+                    <w xml:id="w_6525_5">ſinne</w>
+                    <pc>·</pc>
+                </l>
+                <l n="6526" xml:id="l_6526" hei:altN="137">
+                    <lb n="7"/>
+                    <w xml:id="w_6526_1">nach</w>
+                    <c> </c>
+                    <w xml:id="w_6526_2">redelicher</w>
+                    <c> </c>
+                    <w xml:id="w_6526_3">minne</w>
+                    <pc>·</pc>
+                </l>
+            </lg>
+            <lg ana="hc:Couplet">
+                <l n="6527" xml:id="l_6527" hei:altN="138">
+                    <lb n="8"/>
+                    <w xml:id="w_6527_1"><hi rendition="hc:Versal"><choice><orig>V</orig><reg>U</reg></choice></hi>nt</w>
+                    <c> </c>
+                    <w xml:id="w_6527_2">fre<choice><orig>v</orig><reg>u</reg></choice>ten</w>
+                    <c> </c>
+                    <w xml:id="w_6527_3">ſich</w>
+                    <c> </c>
+                    <w xml:id="w_6527_4">ir</w>
+                    <c> </c>
+                    <w xml:id="w_6527_5"><choice><orig>i</orig><reg>j</reg></choice><choice><orig>v</orig><reg>u</reg></choice>gende</w>
+                    <pc>·</pc>
+                </l>
+                <l n="6528" xml:id="l_6528" hei:altN="139">
+                    <lb n="9"/>
+                    <w xml:id="w_6528_1"><choice><orig>v</orig><reg>u</reg></choice>n<choice><am>&bar;</am><ex>d</ex></choice></w>
+                    <c> </c>
+                    <w xml:id="w_6528_2">redeten</w>
+                    <c> </c>
+                    <w xml:id="w_6528_3">vo<choice><am>&bar;</am><ex>n</ex></choice></w>
+                    <c> </c>
+                    <w xml:id="w_6528_4">deſ</w>
+                    <c> </c>
+                    <w xml:id="w_6528_5">ſ<choice><orig>v</orig><reg>u</reg></choice>merſ</w>
+                    <c> </c>
+                    <w xml:id="w_6528_6">t<choice><orig>v</orig><reg>u</reg></choice>ge<choice><am>&bar;</am><ex>n</ex></choice>de</w>
+                    <pc>·</pc>
+                </l>
+            </lg>
+            <lg ana="hc:Couplet">
+                <l n="6529" xml:id="l_6529" hei:altN="140">
+                    <lb n="10"/>
+                    <w xml:id="w_6529_1"><hi rendition="hc:Versal"><choice><orig>V</orig><reg>U</reg></choice></hi>n<choice><am>&bar;</am><ex>d</ex></choice></w>
+                    <c> </c>
+                    <w xml:id="w_6529_2">wie</w>
+                    <c> </c>
+                    <w xml:id="w_6529_3">ſie</w>
+                    <c> </c>
+                    <w xml:id="w_6529_4">beidi<choice><orig>v</orig><reg>u</reg></choice></w>
+                    <c> </c>
+                    <w xml:id="w_6529_5">wolden</w>
+                    <pc>·</pc>
+                </l>
+                <l n="6530" xml:id="l_6530" hei:altN="141">
+                    <lb n="11"/>
+                    <w xml:id="w_6530_1">ob</w>
+                    <c> </c>
+                    <w xml:id="w_6530_2">ſi</w>
+                    <c> </c>
+                    <w xml:id="w_6530_3">enſamt</w>
+                    <c> </c>
+                    <w xml:id="w_6530_4">leben</w>
+                    <c> </c>
+                    <w xml:id="w_6530_5">ſolden</w>
+                    <pc>·</pc>
+                </l>
+            </lg>
+            <lg ana="hc:Couplet">
+                <l n="6531" xml:id="l_6531" hei:altN="142">
+                    <lb n="12"/>
+                    <w xml:id="w_6531_1"><hi rendition="hc:Versal">G</hi><choice><orig>v</orig><reg>u</reg></choice>&osup;ter</w>
+                    <c> </c>
+                    <w xml:id="w_6531_2">vre<choice><orig>v</orig><reg>u</reg></choice>de</w>
+                    <c> </c>
+                    <w xml:id="w_6531_3">walten</w>
+                    <pc>·</pc>
+                </l>
+                <l n="6532" xml:id="l_6532" hei:altN="143">
+                    <lb n="13"/>
+                    <w xml:id="w_6532_1">do</w>
+                    <c> </c>
+                    <w xml:id="w_6532_2">redeten</w>
+                    <c> </c>
+                    <w xml:id="w_6532_3">aber</w>
+                    <c> </c>
+                    <w xml:id="w_6532_4">die</w>
+                    <c> </c>
+                    <w xml:id="w_6532_5">alten</w>
+                    <pc>·</pc>
+                </l>
+            </lg>
+            <lg ana="hc:Couplet">
+                <l n="6533" xml:id="l_6533" hei:altN="144">
+                    <lb n="14"/>
+                    <w xml:id="w_6533_1"><hi rendition="hc:Versal">S</hi>i</w>
+                    <c> </c>
+                    <w xml:id="w_6533_2">wæren</w>
+                    <c> </c>
+                    <w xml:id="w_6533_3">beidi<choice><orig>v</orig><reg>u</reg></choice></w>
+                    <c> </c>
+                    <w xml:id="w_6533_4">ſamt</w>
+                    <c> </c>
+                    <w xml:id="w_6533_5">alt</w>
+                    <pc>·</pc>
+                </l>
+                <l n="6534" xml:id="l_6534" hei:altN="145">
+                    <lb n="15"/>
+                    <w xml:id="w_6534_1"><choice><orig>v</orig><reg>u</reg></choice>n<choice><am>&bar;</am><ex>d</ex></choice></w>
+                    <c> </c>
+                    <w xml:id="w_6534_2">der</w>
+                    <c> </c>
+                    <w xml:id="w_6534_3">winder</w>
+                    <c> </c>
+                    <w xml:id="w_6534_4">wurde</w>
+                    <c> </c>
+                    <w xml:id="w_6534_5">lihte</w>
+                    <c> </c>
+                    <w xml:id="w_6534_6">ckalt</w>
+                    <pc>·</pc>
+                </l>
+            </lg>
+            <lg ana="hc:Couplet">
+                <l n="6535" xml:id="l_6535" hei:altN="146">
+                    <lb n="16"/>
+                    <w xml:id="w_6535_1"><hi rendition="hc:Versal">S</hi>o</w>
+                    <c> </c>
+                    <w xml:id="w_6535_2">ſolden</w>
+                    <c> </c>
+                    <w xml:id="w_6535_3">ſi</w>
+                    <c> </c>
+                    <w xml:id="w_6535_4">ſich</w>
+                    <c> </c>
+                    <w xml:id="w_6535_5">beh<choice><orig>v</orig><reg>u</reg></choice>&esup;ten</w>
+                    <pc>·</pc>
+                </l>
+                <l n="6536" xml:id="l_6536" hei:altN="147">
+                    <lb n="17"/>
+                    <w xml:id="w_6536_1">mit</w>
+                    <c> </c>
+                    <w xml:id="w_6536_2">r<choice><orig>v</orig><reg>u</reg></choice>hen</w>
+                    <c> </c>
+                    <w xml:id="w_6536_3">f<choice><orig>v</orig><reg>u</reg></choice>hſ h<choice><orig>v</orig><reg>u</reg></choice>&esup;ten</w>
+                    <pc>·</pc>
+                </l>
+            </lg>
+            <lg ana="hc:Couplet">
+                <l n="6537" xml:id="l_6537" hei:altN="148">
+                    <lb n="18"/>
+                    <w xml:id="w_6537_1"><hi rendition="hc:Versal"><choice><orig>U</orig><reg>V</reg></choice></hi>or</w>
+                    <c> </c>
+                    <w xml:id="w_6537_2">dem</w>
+                    <c> </c>
+                    <w xml:id="w_6537_3">ho&vsup;bet froſte</w>
+                    <pc>·</pc>
+                </l>
+                <l n="6538" xml:id="l_6538" hei:altN="149">
+                    <lb n="19"/>
+                    <w xml:id="w_6538_1">ſ<choice><orig>v</orig><reg>u</reg></choice>ſ</w>
+                    <c> </c>
+                    <w xml:id="w_6538_2">ſch<choice><orig>v</orig><reg>u</reg></choice>&osup;fen</w>
+                    <c> </c>
+                    <w xml:id="w_6538_3">ſi</w>
+                    <c> </c>
+                    <w xml:id="w_6538_4">ir</w>
+                    <c> </c>
+                    <w xml:id="w_6538_5">choſte</w>
+                    <pc>·</pc>
+                </l>
+            </lg>
+            <lg ana="hc:Couplet">
+                <l n="6539" xml:id="l_6539" hei:altN="150">
+                    <lb n="20"/>
+                    <w xml:id="w_6539_1"><hi rendition="hc:Versal">Z</hi>e</w>
+                    <w xml:id="w_6539_2">gef<choice><orig>v</orig><reg>u</reg></choice>&esup;re</w>
+                    <c> </c>
+                    <w xml:id="w_6539_3"><choice><orig>v</orig><reg>u</reg></choice>n<choice><am>&bar;</am><ex>d</ex></choice></w>
+                    <c> </c>
+                    <w xml:id="w_6539_4">ze</w>
+                    <w xml:id="w_6539_5">gemache</w>
+                    <pc>·</pc>
+                </l>
+                <l n="6540" xml:id="l_6540" hei:altN="151">
+                    <lb n="21"/>
+                    <w xml:id="w_6540_1">ſi</w>
+                    <c> </c>
+                    <w xml:id="w_6540_2">ahten</w>
+                    <c> </c>
+                    <w xml:id="w_6540_3">et</w>
+                    <c> </c>
+                    <w xml:id="w_6540_4">ir</w>
+                    <c> </c>
+                    <w xml:id="w_6540_5">ſache</w>
+                    <pc>·</pc>
+                </l>
+            </lg>
+            <cb n="b" facs="#O_2v-b"/>
+            <gap rendition="hc:CutOff" quantity="1" unit="line"/>
+            <lg>
+                <l n="6542" xml:id="l_6542" hei:altN="152">
+                    <lb n="1"/>
+                    <w xml:id="w_6542_1">n<choice><orig>v</orig><reg>u</reg></choice></w>
+                    <c> </c>
+                    <w xml:id="w_6542_2">waſ</w>
+                    <c> </c>
+                    <w xml:id="w_6542_3">ez</w>
+                    <c> </c>
+                    <w xml:id="w_6542_4">o<choice><orig>v</orig><reg>u</reg></choice>ch</w>
+                    <c> </c>
+                    <w xml:id="w_6542_5">ſo</w>
+                    <c> </c>
+                    <w xml:id="w_6542_6">ſpot</w>
+                    <gap rendition="hc:CutOff"/>
+                </l>
+            </lg>
+            <lg ana="hc:Couplet">
+                <l n="6543" xml:id="l_6543" hei:altN="153">
+                    <lb n="2"/>
+                    <w xml:id="w_6543_1"><hi rendition="hc:Versal"><damage ana="hc:Perforated">D</damage></hi>az</w>
+                    <c> </c>
+                    <w xml:id="w_6543_2">in</w>
+                    <c> </c>
+                    <w xml:id="w_6543_3">ein</w>
+                    <c> </c>
+                    <w xml:id="w_6543_4">bote</w>
+                    <c> </c>
+                    <w xml:id="w_6543_5">ſeite</w>
+                    <pc>·</pc>
+                </l>
+                <l n="6544" xml:id="l_6544" hei:altN="154">
+                    <lb n="3"/>
+                    <w xml:id="w_6544_1">daz</w>
+                    <c> </c>
+                    <w xml:id="w_6544_2">ezen</w>
+                    <c> </c>
+                    <w xml:id="w_6544_3">wart</w>
+                    <c> </c>
+                    <w xml:id="w_6544_4">gereite</w>
+                </l>
+            </lg>
+            <lg ana="hc:Couplet">
+                <l n="6545" xml:id="l_6545" hei:altN="155">
+                    <lb n="4"/>
+                    <w xml:id="w_6545_1">
+                        <choice>
+                            <orig>
+                                <hi rendition="hc:Versal">
+                                    <choice>
+                                        <abbr>
+                                            <am>V</am>
+                                        </abbr>
+                                        <expan>
+                                            <ex><hi rendition="hc:Versal">V</hi>nd</ex>
+                                        </expan>
+                                    </choice>
+                                </hi>
+                            </orig>
+                            <reg>und</reg>
+                        </choice>
+                    </w>
+                    <c> </c>
+                    <w xml:id="w_6545_2">giengen</w>
+                    <c> </c>
+                    <w xml:id="w_6545_3">ſi</w>
+                    <c> </c>
+                    <w xml:id="w_6545_4">o<choice><orig>v</orig><reg>u</reg></choice>ch</w>
+                    <c> </c>
+                    <w xml:id="w_6545_5">e</w>
+                    <gap rendition="hc:CutOff"/>
+                </l>
+                <l n="6546" xml:id="l_6546" hei:altN="156">
+                    <lb n="5"/>
+                    <w xml:id="w_6546_1"><choice><orig>v</orig><reg>u</reg></choice>n<choice><am>&bar;</am><ex>d</ex></choice></w>
+                    <c> </c>
+                    <w xml:id="w_6546_2">en</w>
+                    <w xml:id="w_6546_3">wart</w>
+                    <c> </c>
+                    <w xml:id="w_6546_4">deſ</w>
+                    <c> </c>
+                    <w xml:id="w_6546_5">niht</w>
+                    <gap rendition="hc:CutOff"/>
+                </l>
+            </lg>
+            <lg ana="hc:Couplet">
+                <l n="6547" xml:id="l_6547" hei:altN="157">
+                    <lb n="6"/>
+                    <w xml:id="w_6547_1"><hi rendition="hc:Versal">S</hi>i</w>
+                    <c> </c>
+                    <w xml:id="w_6547_2">b<choice><orig>v</orig><reg>u</reg></choice>ten</w>
+                    <c> </c>
+                    <w xml:id="w_6547_3">dem</w>
+                    <c> </c>
+                    <w xml:id="w_6547_4">gaſte</w>
+                    <pc>·</pc>
+                </l>
+                <l n="6548" xml:id="l_6548" hei:altN="158">
+                    <lb n="7"/>
+                    <w xml:id="w_6548_1">vollecklichen</w>
+                    <c> </c>
+                    <w xml:id="w_6548_2">vaſte</w>
+                    <pc>·</pc>
+                </l>
+            </lg>
+            <lg ana="hc:Couplet">
+                <l n="6549" xml:id="l_6549" hei:altN="159">
+                    <lb n="8"/>
+                    <w xml:id="w_6549_1"><hi rendition="hc:Versal">A</hi>lſo</w>
+                    <c> </c>
+                    <w xml:id="w_6549_2">groze</w>
+                    <c> </c>
+                    <w xml:id="w_6549_3">ere</w>
+                    <pc>·</pc>
+                </l>
+                <l n="6550" xml:id="l_6550" hei:altN="160">
+                    <lb n="9"/>
+                    <w xml:id="w_6550_1">daz</w>
+                    <c> </c>
+                    <w xml:id="w_6550_2">er</w>
+                    <c> </c>
+                    <w xml:id="w_6550_3">nie</w>
+                    <c> </c>
+                    <w xml:id="w_6550_4">wirt</w>
+                    <c> </c>
+                    <w xml:id="w_6550_5">me</w>
+                    <gap rendition="hc:CutOff"/>
+                </l>
+            </lg>
+            <lg ana="hc:Couplet">
+                <l n="6551" xml:id="l_6551" hei:altN="161">
+                    <lb n="10"/>
+                    <w xml:id="w_6551_1"><hi rendition="hc:Versal">S</hi>inem</w>
+                    <c> </c>
+                    <w xml:id="w_6551_2">gaſte</w>
+                    <c> </c>
+                    <w xml:id="w_6551_3">baz</w>
+                    <c> </c>
+                    <w xml:id="w_6551_4">erb</w>
+                    <gap rendition="hc:CutOff"/>
+                </l>
+                <l n="6552" xml:id="l_6552" hei:altN="162">
+                    <lb n="11"/>
+                    <w xml:id="w_6552_1">deſ</w>
+                    <c> </c>
+                    <w xml:id="w_6552_2">waſ</w>
+                    <c> </c>
+                    <w xml:id="w_6552_3">er</w>
+                    <c> </c>
+                    <w xml:id="w_6552_4">wert</w>
+                    <c> </c>
+                    <w xml:id="w_6552_5"><choice><orig>v</orig><reg>u</reg></choice>n<choice><am>&bar;</am><ex>d</ex></choice></w>
+                    <c> </c>
+                    <w xml:id="w_6552_6">w</w>
+                    <gap rendition="hc:CutOff"/>
+                </l>
+            </lg>
+            <lg ana="hc:Couplet">
+                <l n="6553" xml:id="l_6553" hei:altN="163">
+                    <lb n="12"/>
+                    <w xml:id="w_6553_1"><hi rendition="hc:Versal">D</hi>a</w>
+                    <c> </c>
+                    <w xml:id="w_6553_2">waſ</w>
+                    <c> </c>
+                    <w xml:id="w_6553_3">mir</w>
+                    <c> </c>
+                    <w xml:id="w_6553_4">volleklic</w>
+                    <gap rendition="hc:CutOff"/>
+                </l>
+                <l n="6554" xml:id="l_6554" hei:altN="164">
+                    <lb n="13"/>
+                    <w xml:id="w_6554_1">wirde</w>
+                    <c> </c>
+                    <w xml:id="w_6554_2"><choice><orig>v</orig><reg>u</reg></choice>n<choice><am>&bar;</am><ex>d</ex></choice></w>
+                    <c> </c>
+                    <w xml:id="w_6554_3">wirt ſch</w>
+                    <gap rendition="hc:CutOff"/>
+                </l>
+            </lg>
+            <lg ana="hc:Couplet">
+                <l n="6555" xml:id="l_6555" hei:altN="165">
+                    <lb n="14"/>
+                    <w xml:id="w_6555_1"><hi rendition="hc:Versal">D</hi>ar</w>
+                    <c> </c>
+                    <w xml:id="w_6555_2"><choice><orig>v</orig><reg>u</reg></choice>nder</w>
+                    <c> </c>
+                    <w xml:id="w_6555_3">gedaht</w>
+                    <c> </c>
+                    <w xml:id="w_6555_4">er</w>
+                    <gap rendition="hc:CutOff"/>
+                </l>
+                <l n="6556" xml:id="l_6556" hei:altN="166">
+                    <lb n="15"/>
+                    <w xml:id="w_6556_1">ez</w>
+                    <c> </c>
+                    <w xml:id="w_6556_2">vert</w>
+                    <c> </c>
+                    <w xml:id="w_6556_3">allez</w>
+                    <c> </c>
+                    <w xml:id="w_6556_4">wol</w>
+                    <c> </c>
+                    <w xml:id="w_6556_5">n</w>
+                    <gap rendition="hc:CutOff"/>
+                </l>
+            </lg>
+            <lg ana="hc:Couplet">
+                <l n="6557" xml:id="l_6557" hei:altN="167">
+                    <lb n="16"/>
+                    <w xml:id="w_6557_1">
+                        <hi rendition="hc:Versal">N</hi>
+                        <choice>
+                            <orig>v</orig>
+                            <reg>u</reg>
+                        </choice>
+                    </w>
+                    <c> </c>
+                    <w xml:id="w_6557_2">f<choice><orig>v</orig><reg>u</reg></choice>rchte</w>
+                    <c> </c>
+                    <w xml:id="w_6557_3">aber</w>
+                    <c> </c>
+                    <w xml:id="w_6557_4">ich</w>
+                    <c> </c>
+                    <w xml:id="w_6557_5">v</w>
+                    <gap rendition="hc:CutOff"/>
+                </l>
+                <l n="6558" xml:id="l_6558" hei:altN="168">
+                    <lb n="17"/>
+                    <w xml:id="w_6558_1">daz</w>
+                    <c> </c>
+                    <w xml:id="w_6558_2">ich</w>
+                    <c> </c>
+                    <w xml:id="w_6558_3">diſe</w>
+                    <c> </c>
+                    <w xml:id="w_6558_4">groze</w>
+                    <gap rendition="hc:CutOff"/>
+                </l>
+            </lg>
+            <lg ana="hc:Couplet">
+                <l n="6559" xml:id="l_6559" hei:altN="169">
+                    <lb n="18"/>
+                    <w xml:id="w_6559_1"><hi rendition="hc:Versal">V</hi>il</w>
+                    <c> </c>
+                    <w xml:id="w_6559_2">tiwer</w>
+                    <c> </c>
+                    <w xml:id="w_6559_3">gælten</w>
+                    <c> </c>
+                    <w xml:id="w_6559_4">m<choice><orig>v</orig><reg>u</reg></choice>&esup;z</w>
+                    <gap rendition="hc:CutOff"/>
+                </l>
+                <l n="6560" xml:id="l_6560" hei:altN="170">
+                    <lb n="19"/>
+                    <w xml:id="w_6560_1">der</w>
+                    <c> </c>
+                    <w xml:id="w_6560_2">antvanch</w>
+                    <c> </c>
+                    <w xml:id="w_6560_3">iſt</w>
+                    <c> </c>
+                    <w xml:id="w_6560_4">z</w>
+                    <gap rendition="hc:CutOff"/>
+                </l>
+            </lg>
+            <lg ana="hc:Couplet">
+                <l n="6561" xml:id="l_6561" hei:altN="171">
+                    <lb n="20"/>
+                    <w xml:id="w_6561_1"><hi rendition="hc:Versal">A</hi>ls</w>
+                    <c> </c>
+                    <w xml:id="w_6561_2">mir</w>
+                    <c> </c>
+                    <w xml:id="w_6561_3">d<choice><am>&er;</am><ex>er</ex></choice></w>
+                    <c> </c>
+                    <w xml:id="w_6561_4">arge</w>
+                    <c> </c>
+                    <w xml:id="w_6561_5">ſchall</w>
+                    <gap rendition="hc:CutOff"/>
+                </l>
+                <l n="6562" xml:id="l_6562" hei:altN="172">
+                    <lb n="21"/>
+                    <w xml:id="w_6562_1">der</w>
+                    <c> </c>
+                    <w xml:id="w_6562_2">mich</w>
+                    <c> </c>
+                    <w xml:id="w_6562_3">in</w>
+                    <c> </c>
+                    <w xml:id="w_6562_4">die</w>
+                    <c> </c>
+                    <w xml:id="w_6562_5">b<choice><orig>v</orig><reg>u</reg></choice>&osup;r</w>
+                    <gap rendition="hc:CutOff"/>
+                </l>
+            </lg>
+            <milestone ana="hc:ZoneShift" facs="#O_2v-c"/>
+            <p>
+                <w>Non</w>
+                <c> </c>
+                <w>meminit</w>
+                <c> </c>
+                <w>dulcia</w>
+                <lb/>
+                <w>Qui</w>
+                <c> </c>
+                <w>non</w>
+                <c> </c>
+                <w>Gustauit</w>
+                <c> </c>
+                <w>amara</w>
+            </p>
+            <!-- Diese Notiz von späterer Hand und umgekehrt (von unten nach oben) -->
+        </body>
+    </text>
+</TEI>
