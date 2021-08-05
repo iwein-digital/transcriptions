@@ -722,7 +722,7 @@
                     <w xml:id="w_4965_2">kan</w>
                     <c> </c>
                     <w xml:id="w_4965_3">ſich</w>
-                    <gap rendition="hc:Illegible" quantity="2" unit="words"/>
+                    <gap rendition="hc:Illegible" extent="unknown" unit="character"/>
                     <w xml:id="w_4965_4">ſchame<choice><am>&bar;</am><ex>n</ex></choice></w>
                 </l>
                 <l n="4966" xml:id="l_4966" hei:altN="53">
@@ -786,7 +786,7 @@
                 <l n="4970" xml:id="l_4970" hei:altN="57">
                     <lb n="16"/>
                     <w xml:id="w_4970_1">doch</w>
-                    <gap rendition="hc:Illegible" quantity="1" unit="words"/>
+                    <gap rendition="hc:Illegible" extent="unknown" unit="character"/>
                     <w xml:id="w_4970_2">er</w>
                     <c> </c>
                     <w xml:id="w_4970_3">engelte<choice><am>&bar;</am><ex>n</ex></choice></w>
@@ -938,7 +938,7 @@
                 <l n="4983" xml:id="l_4983" hei:altN="69">
                     <lb n="28"/>
                     <w xml:id="w_4983_1">dz</w>
-                    <gap rendition="hc:Illegible" quantity="1" unit="words"/>
+                    <gap rendition="hc:Illegible" extent="unknown" unit="character"/>
                     <w xml:id="w_4983_2">sin</w>
                     <c> </c>
                     <w xml:id="w_4983_3">dro</w>
@@ -948,7 +948,7 @@
                 <l n="4984" xml:id="l_4984" hei:altN="70">
                     <lb n="29"/>
                     <w xml:id="w_4984_1">dz</w>
-                    <gap rendition="hc:Illegible" quantity="2" unit="words"/>
+                    <gap rendition="hc:Illegible" extent="unknown" unit="character"/>
                     <w xml:id="w_4984_2">er</w>
                     <c> </c>
                     <w xml:id="w_4984_3">müz</w>
@@ -1002,7 +1002,7 @@
                 <l n="4990" xml:id="l_4990" hei:altN="74">
                     <lb n="33"/>
                     <w xml:id="w_4990_1">Sin</w>
-                    <gap rendition="hc:Illegible" quantity="1" unit="words"/>
+                    <gap rendition="hc:Illegible" extent="unknown" unit="character"/>
                     <w xml:id="w_4990_2"><choice><orig>u</orig><reg>v</reg></choice>olget</w>
                     <c> </c>
                     <w xml:id="w_4990_3">im</w>
@@ -1074,7 +1074,7 @@
                 <l n="4995" xml:id="l_4995" hei:altN="79">
                     <lb n="38"/>
                     <w xml:id="w_4995_1">dz</w>
-                    <gap rendition="hc:Perforated" quantity="1" unit="words"/>
+                    <gap rendition="hc:Perforated" extent="unknown" unit="character"/>
                     <w xml:id="w_4995_2">als</w>
                     <c> </c>
                     <w xml:id="w_4995_3"><choice><orig>v</orig><reg>u</reg></choice>ng<choice><am>&er;</am><ex>er</ex></choice>n</w>
@@ -1100,7 +1100,7 @@
                 <l n="4997" xml:id="l_4997" hei:altN="81">
                     <lb n="40"/>
                     <w xml:id="w_4997_1">dz</w>
-                    <gap rendition="hc:Perforated" quantity="1" unit="words"/>
+                    <gap rendition="hc:Perforated" extent="unknown" unit="character"/>
                     <w xml:id="w_4997_2">ain</w>
                     <c> </c>
                     <w xml:id="w_4997_3"><choice><orig>v</orig><reg>u</reg></choice>nwiſer</w>
@@ -1240,7 +1240,7 @@
             <lg ana="hc:Couplet">
                 <l n="5007" xml:id="l_5007" hei:altN="91">
                     <lb n="9"/>
-                    <w xml:id="w_5007_1"><supplied><hei:initial ana="hc:Lombard" hei:heightLines="2">D</hei:initial></supplied>ez</w>
+                    <w xml:id="w_5007_1"><supplied><hei:initial rendition="hc:Lombard" hei:heightLines="2">D</hei:initial></supplied>ez</w>
                     <c> </c>
                     <w xml:id="w_5007_2">antwurt</w>
                     <c> </c>
@@ -2257,7 +2257,7 @@
                     <c> </c>
                     <w xml:id="w_5080_4">fur</w>
                     <c> </c>
-                    <w xml:id="w_5080_5">d<damage ana="hc:Stained">e</damage>n</w>
+                    <w xml:id="w_5080_5">d<damage rendition="hc:Stained">e</damage>n</w>
                     <c> </c>
                     <w xml:id="w_5080_6">tag</w>
                 </l>
@@ -2299,7 +2299,7 @@
                     <c> </c>
                     <w xml:id="w_5083_4">gnaden</w>
                     <c> </c>
-                    <w xml:id="w_5083_5">gn<damage ana="hc:Perforated">u&osup;</damage>g</w>
+                    <w xml:id="w_5083_5">gn<damage rendition="hc:Perforated">u&osup;</damage>g</w>
                 </l>
                 <l n="5084" xml:id="l_5084" hei:altN="168">
                     <lb n="42"/>

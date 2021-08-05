@@ -126,7 +126,7 @@
                     </metamark>
                     <w xml:id="w_332_4">de</w>
                     <c> </c>
-                    <w xml:id="w_332_5">rein<damage ana="hc:TornOff">e</damage></w>
+                    <w xml:id="w_332_5">rein<damage rendition="hc:TornOff">e</damage></w>
                 </l>
             </lg>
             <lg ana="hc:Couplet">
@@ -745,7 +745,7 @@
             <lg ana="hc:Couplet">
                 <l n="373" xml:id="l_373" hei:altN="43">
                     <lb n="29"/>
-                    <damage ana="hc:TornOff">
+                    <damage rendition="hc:TornOff">
                         <w xml:id="w_373_1">Do</w>
                     </damage>
                     <w xml:id="w_373_2">wuderet</w>
@@ -764,7 +764,7 @@
                     <c> </c>
                     <w xml:id="w_374_3">daz</w>
                     <c> </c>
-                    <w xml:id="w_374_4">i<damage ana="hc:TornOff">m</damage></w>
+                    <w xml:id="w_374_4">i<damage rendition="hc:TornOff">m</damage></w>
                     <lb ana="hc:DependentLine hc:RunOverLineAbove" n="29a"/>
                     <metamark ana="hc:Hyphen ">
                         <hi hei:color="Red">|</hi>
@@ -1100,7 +1100,7 @@
                     <c> </c>
                     <w xml:id="w_399_2">vant</w>
                     <c> </c>
-                    <w xml:id="w_399_3"><damage ana="hc:Perforated">n</damage>ach</w>
+                    <w xml:id="w_399_3"><damage rendition="hc:Perforated">n</damage>ach</w>
                     <c> </c>
                     <w xml:id="w_399_4">mitten</w>
                     <w xml:id="w_399_5">morgen</w>
@@ -1112,7 +1112,7 @@
                     <c> </c>
                     <w xml:id="w_400_2">de<unclear>m</unclear></w>
                     <c> </c>
-                    <w xml:id="w_400_3"><gap rendition="hc:Perforated"/>a<damage ana="hc:Perforated">ld</damage>e</w>
+                    <w xml:id="w_400_3"><gap rendition="hc:Perforated"/>a<damage rendition="hc:Perforated">ld</damage>e</w>
                     <c> </c>
                     <w xml:id="w_400_4"><choice><orig>u</orig><reg>v</reg></choice>erborgen</w>
                     <pc>··</pc>
@@ -1148,7 +1148,7 @@
                     <c> </c>
                     <w xml:id="w_403_2">ſa</w>
                     <gap rendition="hc:Perforated"/>
-                    <w xml:id="w_403_3"><damage ana="hc:Perforated">m</damage>i<damage ana="hc:Perforated">r</damage></w>
+                    <w xml:id="w_403_3"><damage rendition="hc:Perforated">m</damage>i<damage rendition="hc:Perforated">r</damage></w>
                     <c> </c>
                     <w xml:id="w_403_4"><choice><orig>u</orig><reg>v</reg></choice>il</w>
                     <c> </c>
@@ -1975,7 +1975,7 @@
                     <c> </c>
                     <w xml:id="w_2620_3">in</w>
                     <c> </c>
-                    <w xml:id="w_2620_4">z<damage ana="hc:Perforated">we</damage>n</w>
+                    <w xml:id="w_2620_4">z<damage rendition="hc:Perforated">we</damage>n</w>
                     <pc>·</pc>
                 </l>
             </lg>
@@ -2013,7 +2013,7 @@
             <lg>
                 <l n="2706" xml:id="l_2706" hei:altN="134">
                     <lb n="1"/>
-                    <damage ana="hc:Faded">
+                    <damage rendition="hc:Faded">
                         <w xml:id="w_2706_1"><hi rendition="hc:RedStroke">S</hi>ie</w>
                         <c> </c>
                         <w xml:id="w_2706_2">sin</w>
@@ -2029,7 +2029,7 @@
             <lg ana="hc:Couplet">
                 <l n="2707" xml:id="l_2707" hei:altN="135">
                     <lb n="2"/>
-                    <damage ana="hc:Faded">
+                    <damage rendition="hc:Faded">
                         <w xml:id="w_2707_1"><hi rendition="hc:RedStroke">T</hi>ruwe</w>
                         <c> </c>
                         <w xml:id="w_2707_2">under</w>
@@ -2057,7 +2057,7 @@
             <lg ana="hc:Couplet">
                 <l n="2709" xml:id="l_2709" hei:altN="137">
                     <lb n="3"/>
-                    <damage ana="hc:Faded">
+                    <damage rendition="hc:Faded">
                         <w xml:id="w_2709_1"><hi rendition="hc:RedStroke">D</hi>us</w>
                         <c> </c>
                         <w xml:id="w_2709_2">was</w>
@@ -2083,7 +2083,7 @@
                     <c> </c>
                     <w xml:id="w_2710_5">her</w>
                     <c> </c>
-                    <w xml:id="w_2710_6"><damage ana="hc:Faded">g</damage>awen</w>
+                    <w xml:id="w_2710_6"><damage rendition="hc:Faded">g</damage>awen</w>
                     <pc>·</pc>
                 </l>
             </lg>
@@ -2125,7 +2125,7 @@
             <lg ana="hc:Couplet">
                 <l n="2713" xml:id="l_2713" hei:altN="141">
                     <lb n="6"/>
-                    <damage ana="hc:Faded">
+                    <damage rendition="hc:Faded">
                         <w xml:id="w_2713_1"><hi rendition="hc:RedStroke">D</hi>es</w>
                         <c> </c>
                         <w xml:id="w_2713_2">andern</w>
@@ -2174,7 +2174,7 @@
                     <pc>·</pc>
                 </l>
                 <l n="2716" xml:id="l_2716" hei:altN="144">
-                    <damage ana="hc:CutOff">
+                    <damage rendition="hc:CutOff">
                         <w xml:id="w_2716_1"><hi rendition="hc:RedStroke"><choice><orig>V</orig><reg>U</reg></choice></hi>nde</w>
                         <c> </c>
                         <w xml:id="w_2716_2">gesage</w>
@@ -2183,7 +2183,7 @@
                     <metamark ana="hc:Hyphen ">
                         <hi hei:color="Red">|</hi>
                     </metamark>
-                    <damage ana="hc:Faded">
+                    <damage rendition="hc:Faded">
                         <w xml:id="w_2716_3">uch</w>
                         <c> </c>
                         <w xml:id="w_2716_4">war</w>
@@ -2238,12 +2238,12 @@
                     <metamark ana="hc:Hyphen ">
                         <hi hei:color="Red">|</hi>
                     </metamark>
-                    <w xml:id="w_2720_3">yw<damage ana="hc:Faded">en</damage></w>
+                    <w xml:id="w_2720_3">yw<damage rendition="hc:Faded">en</damage></w>
                     <lb ana="hc:DependentLine hc:RunOverLineAbove" n="11b"/>
                     <metamark ana="hc:Hyphen ">
                         <hi hei:color="Red">|</hi>
                     </metamark>
-                    <w xml:id="w_2720_4">ner<damage ana="hc:Faded">te</damage></w>
+                    <w xml:id="w_2720_4">ner<damage rendition="hc:Faded">te</damage></w>
                 </l>
             </lg>
             <lg ana="hc:Couplet">
@@ -2286,7 +2286,7 @@
                     </metamark>
                     <w xml:id="w_2723_4"><choice><orig>u</orig><reg>v</reg></choice>il</w>
                     <c> </c>
-                    <damage ana="hc:Faded">
+                    <damage rendition="hc:Faded">
                         <w xml:id="w_2723_5">ſere</w>
                     </damage>
                 </l>
@@ -2317,7 +2317,7 @@
                     <c> </c>
                     <w xml:id="w_2725_5">ſellen</w>
                     <c> </c>
-                    <damage ana="hc:Faded">
+                    <damage rendition="hc:Faded">
                         <w xml:id="w_2725_6">bot</w>
                     </damage>
                     <pc>·</pc>
@@ -2343,7 +2343,7 @@
                     <c> </c>
                     <w xml:id="w_2727_2">chumber</w>
                     <c> </c>
-                    <w xml:id="w_2727_3">g<damage ana="hc:Perforated">nas</damage></w>
+                    <w xml:id="w_2727_3">g<damage rendition="hc:Perforated">nas</damage></w>
                     <pc>·</pc>
                 </l>
                 <l n="2728" xml:id="l_2728" hei:altN="156">
@@ -2410,7 +2410,7 @@
                         </choice>
                     </w>
                     <c> </c>
-                    <damage ana="hc:Faded">
+                    <damage rendition="hc:Faded">
                         <w xml:id="w_2746_2">in</w>
                     </damage>
                     <w xml:id="w_2746_3">an</w>
@@ -2559,10 +2559,10 @@
                                 <reg>U</reg>
                             </choice>
                         </hi>
-                        <damage ana="hc:CutOff">m</damage>
+                        <damage rendition="hc:CutOff">m</damage>
                     </w>
                     <c> </c>
-                    <damage ana="hc:CutOff">
+                    <damage rendition="hc:CutOff">
                         <w xml:id="w_2754_2">mines</w>
                         <c> </c>
                         <w xml:id="w_2754_3">geſellen</w>
@@ -2789,7 +2789,7 @@
             <lg ana="hc:Couplet">
                 <l n="2769" xml:id="l_2769" hei:altN="183">
                     <lb n="18"/>
-                    <damage ana="hc:CutOff">
+                    <damage rendition="hc:CutOff">
                         <w xml:id="w_2769_1"><hi rendition="hc:RedStroke">V</hi>on</w>
                         <c> </c>
                         <w xml:id="w_2769_2">den</w>
@@ -3292,7 +3292,7 @@
                 <l n="6130" xml:id="l_6130" hei:altN="216">
                     <w xml:id="w_6130_1"><hi rendition="hc:RedStroke"><choice><orig>V</orig><reg>U</reg></choice></hi>nde</w>
                     <c> </c>
-                    <w xml:id="w_6130_2">ſpra<damage ana="hc:Perforated">c</damage>h</w>
+                    <w xml:id="w_6130_2">ſpra<damage rendition="hc:Perforated">c</damage>h</w>
                     <lb ana="hc:DependentLine hc:RunOverLineAbove" n="25a"/>
                     <metamark ana="hc:Hyphen ">
                         <hi hei:color="Red">|</hi>
@@ -3321,7 +3321,7 @@
                     <unclear>
                         <w xml:id="w_6138_1">ir</w>
                     </unclear>
-                    <damage ana="hc:CutOff">
+                    <damage rendition="hc:CutOff">
                         <w xml:id="w_6138_2">uf</w>
                         <c> </c>
                         <w xml:id="w_6138_3">die</w>
@@ -3378,7 +3378,7 @@
                     <metamark ana="hc:Hyphen ">
                         <hi hei:color="Red">|</hi>
                     </metamark>
-                    <w xml:id="w_6141_6"><damage ana="hc:Stained">m</damage>iten</w>
+                    <w xml:id="w_6141_6"><damage rendition="hc:Stained">m</damage>iten</w>
                     <pc>·</pc>
                 </l>
                 <l n="6142" xml:id="l_6142" hei:altN="221">
@@ -3848,7 +3848,7 @@
             <lg>
                 <l n="6171" xml:id="l_6171" hei:altN="250">
                     <lb n="25"/>
-                    <w xml:id="w_6171_1"><hi rendition="hc:RedStroke">N</hi><damage ana="hc:Perforated">a</damage>ch</w>
+                    <w xml:id="w_6171_1"><hi rendition="hc:RedStroke">N</hi><damage rendition="hc:Perforated">a</damage>ch</w>
                     <c> </c>
                     <w xml:id="w_6171_2">diſem</w>
                     <c> </c>
@@ -3930,7 +3930,7 @@
                 </l>
                 <l n="6636" xml:id="l_6636" hei:altN="256">
                     <lb n="5"/>
-                    <w xml:id="w_6636_1"><damage ana="hc:CutOff">w</damage>an</w>
+                    <w xml:id="w_6636_1"><damage rendition="hc:CutOff">w</damage>an</w>
                     <c> </c>
                     <w xml:id="w_6636_2">zweine</w>
                     <c> </c>
@@ -3979,10 +3979,10 @@
                     <lb n="8"/>
                     <gap rendition="hc:CutOff"/>
                     <w xml:id="w_6639_1">
-                        <damage ana="hc:CutOff">ſ</damage>
+                        <damage rendition="hc:CutOff">ſ</damage>
                     </w>
                     <gap rendition="hc:CutOff"/>
-                    <damage ana="hc:CutOff">
+                    <damage rendition="hc:CutOff">
                         <w xml:id="w_6639_2">die</w>
                     </damage>
                     <w xml:id="w_6639_3">wirt</w>
@@ -4125,7 +4125,7 @@
                     <c> </c>
                     <w xml:id="w_7821_2">walt ge<unclear>v</unclear></w>
                     <gap rendition="hc:Perforated"/>
-                    <w xml:id="w_7821_3"><damage ana="hc:Perforated">w</damage>art</w>
+                    <w xml:id="w_7821_3"><damage rendition="hc:Perforated">w</damage>art</w>
                     <c> </c>
                     <w xml:id="w_7821_4">ſo</w>
                     <c> </c>
@@ -4459,7 +4459,7 @@
                     <w xml:id="w_7845_2">d<gap rendition="hc:Mould"/></w>
                     <c> </c>
                     <w xml:id="w_7845_3">
-                        <damage ana="hc:Mould">f</damage>
+                        <damage rendition="hc:Mould">f</damage>
                     </w>
                     <gap rendition="hc:CutOff"/>
                     <w xml:id="w_7845_4">d<choice><am>&er;</am><ex>er</ex></choice></w>
@@ -4486,7 +4486,7 @@
                     <w xml:id="w_7847_1"><hi rendition="hc:RedStroke">W</hi>an</w>
                     <c> </c>
                     <w xml:id="w_7847_2">
-                        <damage ana="hc:Mould">d</damage>
+                        <damage rendition="hc:Mould">d</damage>
                         <gap rendition="hc:Mould hc:CutOff"/>
                     </w>
                     <lb ana="hc:DependentLine hc:RunOverLineAbove" n="19a"/>
@@ -5196,7 +5196,7 @@
                 <l n="7898" xml:id="l_7898" hei:altN="344">
                     <lb n="25"/>
                     <gap rendition="hc:Mould"/>
-                    <w xml:id="w_7898_1"><damage ana="hc:Mould">fl</damage>ize</w>
+                    <w xml:id="w_7898_1"><damage rendition="hc:Mould">fl</damage>ize</w>
                     <c> </c>
                     <w xml:id="w_7898_2">wolden</w>
                     <c> </c>

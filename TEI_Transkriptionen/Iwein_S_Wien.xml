@@ -123,18 +123,7 @@
             <lg ana="hc:Couplet">
                 <l n="485" xml:id="l_485" hei:altN="3">
                     <lb n="3"/>
-                    <w xml:id="w_485_1">
-                        <choice>
-                            <abbr>
-                                <am>
-                                    <hi rendition="hc:RedStroke">D&er;</hi>
-                                </am>
-                            </abbr>
-                            <expan>
-                                <ex><hi rendition="hc:RedStroke">D</hi>er</ex>
-                            </expan>
-                        </choice>
-                    </w>
+                    <w xml:id="w_485_1"><hi rendition="hc:RedStroke">D</hi><choice><am>&er;</am><ex>er</ex></choice></w>
                     <c> </c>
                     <w xml:id="w_485_2">ſol</w>
                     <c> </c>
@@ -412,18 +401,7 @@
             <lg ana="hc:Couplet">
                 <l n="503" xml:id="l_503" hei:altN="21">
                     <lb n="21"/>
-                    <w xml:id="w_503_1">
-                        <choice>
-                            <abbr>
-                                <am>
-                                    <hi rendition="hc:RedStroke">D&er;</hi>
-                                </am>
-                            </abbr>
-                            <expan>
-                                <ex><hi rendition="hc:RedStroke">D</hi>er</ex>
-                            </expan>
-                        </choice>
-                    </w>
+                    <w xml:id="w_503_1"><hi rendition="hc:RedStroke">D</hi><choice><am>&er;</am><ex>er</ex></choice></w>
                     <c> </c>
                     <w xml:id="w_503_2">gewalt</w>
                     <c> </c>
@@ -434,18 +412,7 @@
                 </l>
                 <l n="504" xml:id="l_504" hei:altN="22">
                     <lb n="22"/>
-                    <w xml:id="w_504_1">
-                        <choice>
-                            <abbr>
-                                <am>
-                                    <hi rendition="hc:RedStroke">D&er;</hi>
-                                </am>
-                            </abbr>
-                            <expan>
-                                <ex><hi rendition="hc:RedStroke">D</hi>er</ex>
-                            </expan>
-                        </choice>
-                    </w>
+                    <w xml:id="w_504_1"><hi rendition="hc:RedStroke">D</hi><choice><am>&er;</am><ex>er</ex></choice></w>
                     <c> </c>
                     <w xml:id="w_504_2">ſi</w>
                     <c> </c>
@@ -580,18 +547,7 @@
             <lg ana="hc:Couplet">
                 <l n="513" xml:id="l_513" hei:altN="31">
                     <lb n="31"/>
-                    <w xml:id="w_513_1">
-                        <choice>
-                            <abbr>
-                                <am>
-                                    <hi rendition="hc:RedStroke">D&er;</hi>
-                                </am>
-                            </abbr>
-                            <expan>
-                                <ex><hi rendition="hc:RedStroke">D</hi>er</ex>
-                            </expan>
-                        </choice>
-                    </w>
+                    <w xml:id="w_513_1"><hi rendition="hc:RedStroke">D</hi><choice><am>&er;</am><ex>er</ex></choice></w>
                     <c> </c>
                     <w xml:id="w_513_2">w<choice><am>&er;</am><ex>er</ex></choice>e</w>
                     <c> </c>
@@ -768,7 +724,7 @@
                     <lb n="12"/>
                     <w xml:id="w_530_1"><hi rendition="hc:RedStroke">I</hi>ch</w>
                     <c> </c>
-                    <w xml:id="w_530_2">hei<damage ana="hc:Faded">s</damage></w>
+                    <w xml:id="w_530_2">hei<damage rendition="hc:Faded">s</damage></w>
                     <c> </c>
                     <w xml:id="w_530_3">ei<choice><am>&bar;</am><ex>n</ex></choice></w>
                     <c> </c>
@@ -815,18 +771,7 @@
             <lg ana="hc:Couplet">
                 <l n="533" xml:id="l_533" hei:altN="48">
                     <lb n="15"/>
-                    <w xml:id="w_533_1">
-                        <choice>
-                            <abbr>
-                                <am>
-                                    <hi rendition="hc:RedStroke">D&er;</hi>
-                                </am>
-                            </abbr>
-                            <expan>
-                                <ex><hi rendition="hc:RedStroke">D</hi>er</ex>
-                            </expan>
-                        </choice>
-                    </w>
+                    <w xml:id="w_533_1"><hi rendition="hc:RedStroke">D</hi><choice><am>&er;</am><ex>er</ex></choice></w>
                     <c> </c>
                     <w xml:id="w_533_2">gewafent</w>
                     <c> </c>
@@ -1075,7 +1020,7 @@
                 </l>
                 <l n="550" xml:id="l_550" hei:altN="65">
                     <lb n="32"/>
-                    <damage ana="hc:CutOff">
+                    <damage rendition="hc:CutOff">
                         <w xml:id="w_550_1"><hi rendition="hc:RedStroke">D</hi>och</w>
                         <c> </c>
                         <w xml:id="w_550_2">ſag</w>
@@ -1510,18 +1455,7 @@
             <lg ana="hc:Couplet">
                 <l n="585" xml:id="l_585" hei:altN="94">
                     <lb n="29"/>
-                    <w xml:id="w_585_1">
-                        <choice>
-                            <abbr>
-                                <am>
-                                    <hi rendition="hc:RedStroke">D&er;</hi>
-                                </am>
-                            </abbr>
-                            <expan>
-                                <ex><hi rendition="hc:RedStroke">D</hi>er</ex>
-                            </expan>
-                        </choice>
-                    </w>
+                    <w xml:id="w_585_1"><hi rendition="hc:RedStroke">D</hi><choice><am>&er;</am><ex>er</ex></choice></w>
                     <c> </c>
                     <w xml:id="w_585_2">iſt</w>
                     <c> </c>
@@ -1737,18 +1671,7 @@
             <lg ana="hc:Couplet">
                 <l n="601" xml:id="l_601" hei:altN="108">
                     <lb n="12"/>
-                    <w xml:id="w_601_1">
-                        <choice>
-                            <abbr>
-                                <am>
-                                    <hi rendition="hc:RedStroke">D&er;</hi>
-                                </am>
-                            </abbr>
-                            <expan>
-                                <ex><hi rendition="hc:RedStroke">D</hi>er</ex>
-                            </expan>
-                        </choice>
-                    </w>
+                    <w xml:id="w_601_1"><hi rendition="hc:RedStroke">D</hi><choice><am>&er;</am><ex>er</ex></choice></w>
                     <c> </c>
                     <w xml:id="w_601_2">rede</w>
                     <c> </c>
@@ -1858,18 +1781,7 @@
             <lg ana="hc:Couplet">
                 <l n="609" xml:id="l_609" hei:altN="116">
                     <lb n="20"/>
-                    <w xml:id="w_609_1">
-                        <choice>
-                            <abbr>
-                                <am>
-                                    <hi rendition="hc:RedStroke">D&er;</hi>
-                                </am>
-                            </abbr>
-                            <expan>
-                                <ex><hi rendition="hc:RedStroke">D</hi>er</ex>
-                            </expan>
-                        </choice>
-                    </w>
+                    <w xml:id="w_609_1"><hi rendition="hc:RedStroke">D</hi><choice><am>&er;</am><ex>er</ex></choice></w>
                     <c> </c>
                     <w xml:id="w_609_2">ie</w>
                     <c> </c>
@@ -1951,18 +1863,7 @@
             <lg ana="hc:Couplet">
                 <l n="615" xml:id="l_615" hei:altN="122">
                     <lb n="26"/>
-                    <w xml:id="w_615_1">
-                        <choice>
-                            <abbr>
-                                <am>
-                                    <hi rendition="hc:RedStroke">D&er;</hi>
-                                </am>
-                            </abbr>
-                            <expan>
-                                <ex><hi rendition="hc:RedStroke">D</hi>er</ex>
-                            </expan>
-                        </choice>
-                    </w>
+                    <w xml:id="w_615_1"><hi rendition="hc:RedStroke">D</hi><choice><am>&er;</am><ex>er</ex></choice></w>
                     <c> </c>
                     <w xml:id="w_615_2">en</w>
                     <w xml:id="w_615_3">ware<choice><am>&bar;</am><ex>n</ex></choice></w>
@@ -2415,18 +2316,7 @@
             <lg ana="hc:Couplet">
                 <l n="877" xml:id="l_877" hei:altN="152">
                     <lb n="23"/>
-                    <w xml:id="w_877_1">
-                        <choice>
-                            <abbr>
-                                <am>
-                                    <hi rendition="hc:RedStroke">D&er;</hi>
-                                </am>
-                            </abbr>
-                            <expan>
-                                <ex><hi rendition="hc:RedStroke">D</hi>er</ex>
-                            </expan>
-                        </choice>
-                    </w>
+                    <w xml:id="w_877_1"><hi rendition="hc:RedStroke">D</hi><choice><am>&er;</am><ex>er</ex></choice></w>
                     <c> </c>
                     <w xml:id="w_877_2">da</w>
                     <c> </c>
@@ -3059,18 +2949,7 @@
             <lg ana="hc:Couplet">
                 <l n="941" xml:id="l_941" hei:altN="195">
                     <lb n="9"/>
-                    <w xml:id="w_941_1">
-                        <choice>
-                            <abbr>
-                                <am>
-                                    <hi rendition="hc:RedStroke">D&er;</hi>
-                                </am>
-                            </abbr>
-                            <expan>
-                                <ex><hi rendition="hc:RedStroke">D</hi>er</ex>
-                            </expan>
-                        </choice>
-                    </w>
+                    <w xml:id="w_941_1"><hi rendition="hc:RedStroke">D</hi><choice><am>&er;</am><ex>er</ex></choice></w>
                     <c> </c>
                     <w xml:id="w_941_2">antwurte</w>
                     <c> </c>
@@ -3160,18 +3039,7 @@
             <lg ana="hc:Couplet">
                 <l n="947" xml:id="l_947" hei:altN="201">
                     <lb n="15"/>
-                    <w xml:id="w_947_1">
-                        <choice>
-                            <abbr>
-                                <am>
-                                    <hi rendition="hc:RedStroke">D&er;</hi>
-                                </am>
-                            </abbr>
-                            <expan>
-                                <ex><hi rendition="hc:RedStroke">D</hi>er</ex>
-                            </expan>
-                        </choice>
-                    </w>
+                    <w xml:id="w_947_1"><hi rendition="hc:RedStroke">D</hi><choice><am>&er;</am><ex>er</ex></choice></w>
                     <c> </c>
                     <w xml:id="w_947_2">ere</w>
                     <c> </c>
@@ -3508,18 +3376,7 @@
                 </l>
                 <l n="974" xml:id="l_974" hei:altN="226">
                     <lb n="15"/>
-                    <w xml:id="w_974_1">
-                        <choice>
-                            <abbr>
-                                <am>
-                                    <hi rendition="hc:RedStroke">D&er;</hi>
-                                </am>
-                            </abbr>
-                            <expan>
-                                <ex><hi rendition="hc:RedStroke">D</hi>er</ex>
-                            </expan>
-                        </choice>
-                    </w>
+                    <w xml:id="w_974_1"><hi rendition="hc:RedStroke">D</hi><choice><am>&er;</am><ex>er</ex></choice></w>
                     <c> </c>
                     <w xml:id="w_974_2">erhegete</w>
                     <c> </c>
