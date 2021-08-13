@@ -339,7 +339,7 @@
                         <c> </c>
                         <w xml:id="w_6948_4">ê</w>
                         <c> </c>
-                        <w xml:id="w_6948_5">bewar<metamark ana="hc:InsertionMark ">&insup;</metamark><add hei:placeRef="hc:AboveLine">t</add>en</w>
+                        <w xml:id="w_6948_5">bewar<add hei:placeRef="hc:BelowLine"><metamark ana="hc:InsertionMark">&insup;</metamark></add><add hei:placeRef="hc:AboveLine">t</add>en</w>
                     </l>
                 </lg>
                 <lg ana="hc:Couplet">
@@ -553,7 +553,7 @@
                         <w xml:id="w_6966_2">beide</w>
                         <c> </c>
                         <w xml:id="w_6966_3">ſigelos</w>
-                        <damage ana="hc:RubbedOff"/>
+                        <damage rendition="hc:RubbedOff"/>
                         <gap rendition="hc:CutOff"/>
                     </l>
                 </lg>
@@ -1998,7 +1998,9 @@
                         <lb n="22"/>
                         <w xml:id="w_7085_1"><hi rendition="hc:RedStroke">ſ</hi>inen</w>
                         <c> </c>
-                        <w xml:id="w_7085_2">champh geſellen</w>
+                        <w xml:id="w_7085_2">champh</w>
+                        <c> </c>  
+                        <w xml:id="w_7085_3">geſellen</w>
                     </l>
                     <l n="7086" xml:id="l_7086" hei:altN="147">
                         <lb n="23"/>
@@ -2859,7 +2861,7 @@
                         <c> </c>
                         <w xml:id="w_7152_4">lihte</w>
                         <c> </c>
-                        <w xml:id="w_7152_5">en k<choice><orig>v</orig><reg>u</reg></choice>&osup;lte</w>
+                        <w xml:id="w_7152_5">en<choice><orig> </orig><reg/></choice>k<choice><orig>v</orig><reg>u</reg></choice>&osup;lte</w>
                     </l>
                 </lg>
                 <lg ana="hc:Couplet">
@@ -3002,6 +3004,7 @@
                 <lg ana="hc:Couplet">
                     <l n="7175" xml:id="l_7175" hei:altN="225">
                         <lb n="8"/>
+                        <hei:cue ana="hc:CueInitial" hei:placeRef="hc:ColumnMarginLeft">ſ</hei:cue>
                         <w xml:id="w_7175_1"><hei:initial rendition="hc:Lombard" hei:color="Red" hei:heightLines="2">S</hei:initial>wer</w>
                         <c> </c>
                         <w xml:id="w_7175_2">gerne</w>
@@ -3167,7 +3170,7 @@
                         <c> </c>
                         <w xml:id="w_7188_3">ſich</w>
                         <c> </c>
-                        <w xml:id="w_7188_4"><choice><orig>v</orig><reg>u</reg></choice>nder w<choice><orig/><reg>u</reg></choice>&osup;nden</w>
+                        <w xml:id="w_7188_4"><choice><orig>v</orig><reg>u</reg></choice>nder<choice><orig> </orig><reg/></choice>w<choice><orig/><reg>u</reg></choice>&osup;nden</w>
                     </l>
                 </lg>
                 <lg ana="hc:Couplet">
@@ -3202,7 +3205,7 @@
                         <c> </c>
                         <w xml:id="w_7191_5">ir</w>
                         <c> </c>
-                        <w xml:id="w_7191_6">varend<choice><am>’</am><ex>es</ex></choice></w>
+                        <w xml:id="w_7191_6">varend<choice><am>&re;</am><ex>es</ex></choice></w>
                         <c> </c>
                         <w xml:id="w_7191_7">g<choice><orig>v</orig><reg>u</reg></choice>&osup;t</w>
                     </l>
@@ -3350,6 +3353,7 @@
                 <lg ana="hc:Couplet">
                     <l n="7235" xml:id="l_7235" hei:altN="253">
                         <lb n="2"/>
+                        <hei:cue ana="hc:CueInitial" hei:placeRef="hc:ColumnMarginLeft">ſ</hei:cue>
                         <w xml:id="w_7235_1"><hei:initial rendition="hc:Lombard" hei:color="Blue" hei:heightLines="2">S</hei:initial>ich</w>
                         <c> </c>
                         <w xml:id="w_7235_2">h<choice><orig>v</orig><reg>u</reg></choice>&osup;p</w>
@@ -3475,10 +3479,7 @@
                         <c> </c>
                         <w xml:id="w_7331_2">einem</w>
                         <metamark ana="hc:CorrectionMark " hei:placeRef="hc:AboveLine">/</metamark>
-                        <w xml:id="w_7331_3">
-                            <del rendition="hc:ImplicitlyDeleted">oder</del>
-                        </w>
-                        <c> </c>
+                        <del rendition="hc:ImplicitlyDeleted"><w xml:id="w_7331_3">oder</w><c> </c></del>
                         <w xml:id="w_7331_4">oder</w>
                         <c> </c>
                         <w xml:id="w_7331_5">in</w>
@@ -3715,14 +3716,7 @@
                     </l>
                     <l n="7458" xml:id="l_7458" hei:altN="281">
                         <lb n="4"/>
-                        <w xml:id="w_7458_1">
-                            <choice>
-                                <am>
-                                    <hi rendition="hc:RedStroke">d&er;</hi>
-                                </am>
-                                <ex><hi rendition="hc:RedStroke">d</hi>er</ex>
-                            </choice>
-                        </w>
+                        <w xml:id="w_7458_1"><hi rendition="hc:RedStroke">d<choice><am>&er;</am><ex>er</ex></choice></hi></w>
                         <c> </c>
                         <w xml:id="w_7458_2">ich</w>
                         <c> </c>
@@ -3738,6 +3732,7 @@
                 <lg ana="hc:Couplet">
                     <l n="7459" xml:id="l_7459" hei:altN="282">
                         <lb n="5"/>
+                        <hei:cue ana="hc:CueInitial" hei:placeRef="hc:ColumnMarginLeft">m</hei:cue>
                         <w xml:id="w_7459_1"><hei:initial rendition="hc:Lombard" hei:color="Blue" hei:heightLines="2">M</hei:initial><hi rendition="hc:RedStroke">i</hi>n</w>
                         <c> </c>
                         <w xml:id="w_7459_2">herze</w>
@@ -4299,7 +4294,7 @@
                         <lb n="18"/>
                         <w xml:id="w_7503_1"><hi rendition="hc:RedStroke">S</hi>i</w>
                         <c> </c>
-                        <w xml:id="w_7503_2"><choice><orig>v</orig><reg>u</reg></choice>nder ch<choice><orig>v</orig><reg>u</reg></choice>&osup;ſten</w>
+                        <w xml:id="w_7503_2"><choice><orig>v</orig><reg>u</reg></choice>nder<choice><orig> </orig><reg/></choice>ch<choice><orig>v</orig><reg>u</reg></choice>&osup;ſten</w>
                         <c> </c>
                         <w xml:id="w_7503_3">to&vsup;ſe</w>
                         <gap rendition="hc:CutOff"/>
@@ -5294,6 +5289,7 @@
                 <lg ana="hc:Couplet">
                     <l n="7579" xml:id="l_7579" hei:altN="402">
                         <lb n="1"/>
+                        <hei:cue ana="hc:CueInitial" hei:placeRef="hc:ColumnMarginLeft">h</hei:cue>
                         <w xml:id="w_7579_1"><hei:initial rendition="hc:Lombard" hei:color="Red" hei:heightLines="2">H</hei:initial>erre</w>
                         <c> </c>
                         <w xml:id="w_7579_2">ywein</w>
@@ -5375,10 +5371,7 @@
                 <lg ana="hc:Couplet">
                     <l n="7585" xml:id="l_7585" hei:altN="408">
                         <lb n="7"/>
-                        <w xml:id="w_7585_1">
-                            <hi rendition="hc:RedStroke">ê</hi>
-                            <del rendition="hc:Underdotted">r</del>
-                        </w>
+                        <w xml:id="w_7585_1"><hi rendition="hc:RedStroke">ê</hi><del rendition="hc:Underdotted">r</del></w>
                         <c> </c>
                         <w xml:id="w_7585_2">ir</w>
                         <c> </c>
@@ -5388,9 +5381,7 @@
                         <c> </c>
                         <w xml:id="w_7585_5">beſt<choice><orig>v</orig><reg>u</reg></choice>&osup;ndet</w>
                         <c> </c>
-                        <del rendition="hc:Underdotted hc:Overpainted">
-                            <w xml:id="w_7585_6">ê</w>
-                        </del>
+                        <del rendition="hc:Underdotted hc:Overpainted"><w xml:id="w_7585_6">ê</w><c> </c></del>
                         <w xml:id="w_7585_7">me</w>
                     </l>
                     <l n="7586" xml:id="l_7586" hei:altN="409">
@@ -6093,7 +6084,7 @@
                         <c> </c>
                         <w xml:id="w_7637_4">lei&de;</w>
                         <c> </c>
-                        <w xml:id="w_7637_5">ſcha<choice><am>&bar;</am><ex>m</ex></choice> rot</w>
+                        <w xml:id="w_7637_5">ſcha<choice><am>&bar;</am><ex>m</ex></choice><choice><orig> </orig><reg/></choice>rot</w>
                     </l>
                     <l n="7638" xml:id="l_7638" hei:altN="461">
                         <lb n="29"/>
@@ -6477,7 +6468,7 @@
                         <c> </c>
                         <w xml:id="w_7665_4">ir</w>
                         <c> </c>
-                        <w xml:id="w_7665_5">hab<choice><am>z</am><ex>et</ex></choice></w>
+                        <w xml:id="w_7665_5">hab<choice><am>&etfin;</am><ex>et</ex></choice></w>
                         <c> </c>
                         <w xml:id="w_7665_6">v<choice><am>&er;</am><ex>er</ex></choice><choice><orig>i</orig><reg>j</reg></choice>ehe<choice><am>&bar;</am><ex>n</ex></choice></w>
                     </l>
@@ -6497,10 +6488,10 @@
                         <c> </c>
                         <w part="I" xml:id="w_7666_7">geſche</w>
                         <lb ana="hc:DependentLine hc:RunOverLineAbove" n="26a"/>
-                        <metamark ana="hc:InsertionMark ">|</metamark>
+                        <add hei:placeRef="hc:ColumnMarginRight"><metamark ana="hc:InsertionMark">|</metamark></add>
                         <metamark ana="hc:RunOverMark">¶</metamark>
                         <w part="F" xml:id="w_7666_8">hen</w>
-                        <note ana="hc:TranscriptionNote">Das Wortende steht vier Zeilen weiter oben, mit einer Linie verbunden</note>
+                        <note ana="hc:TranscriptionNote" target="#w_7666_8">Das Wortende steht vier Zeilen weiter oben, mit einer Linie verbunden</note>
                     </l>
                 </lg>
                 <lg ana="hc:Couplet">

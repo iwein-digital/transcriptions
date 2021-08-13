@@ -104,8 +104,7 @@
             <lg ana="hc:Couplet">
                 <l n="331" xml:id="l_331" hei:altN="1">
                     <lb n="1"/>
-                    <w xml:id="w_331_1"><choice><orig><hei:initial rendition="hc:Lombard" hei:color="Red" hei:heightLines="2">U</hei:initial><hi rendition="hc:RedStroke">v</hi></orig><reg><hei:initial
-                        rendition="hc:Lombard" hei:color="Red" hei:heightLines="2">W</hei:initial></reg></choice>ir</w>
+                    <w xml:id="w_331_1"><hei:initial rendition="hc:Lombard" hei:color="Red" hei:heightLines="2"><choice><orig>U</orig><reg>W</reg></choice></hei:initial><hi rendition="hc:RedStroke">v</hi>ir</w>
                     <c> </c>
                     <w xml:id="w_331_2">zwei</w>
                     <c> </c>
@@ -457,14 +456,7 @@
                     <pc>··</pc>
                 </l>
                 <l n="354" xml:id="l_354" hei:altN="24">
-                    <w xml:id="w_354_1">
-                        <choice>
-                            <am>
-                                <hi rendition="hc:RedStroke">D&er;</hi>
-                            </am>
-                            <ex><hi rendition="hc:RedStroke">D</hi>er</ex>
-                        </choice>
-                    </w>
+                    <w xml:id="w_354_1"><hi rendition="hc:RedStroke">D<choice><am>&er;</am><ex>er</ex></choice></hi></w>
                     <c> </c>
                     <w xml:id="w_354_2">wirt</w>
                     <c> </c>
@@ -689,7 +681,7 @@
             <lg ana="hc:Couplet">
                 <l n="369" xml:id="l_369" hei:altN="39">
                     <lb n="26"/>
-                    <w xml:id="w_369_1"><hi rendition="hc:RedStroke">D</hi>o</w>
+                    <w xml:id="w_369_1"><hei:initial rendition="hc:Lombard" hei:color="Red" hei:heightLines="2">D</hei:initial>o</w>
                     <c> </c>
                     <w xml:id="w_369_2">wir</w>
                     <c> </c>
@@ -776,6 +768,7 @@
                 </l>
             </lg>
             <pb n="1v" facs="#M_1v"/>
+            <cb n="a" facs="#M_1v-a"/>
             <lg ana="hc:Couplet">
                 <l n="375" xml:id="l_375" hei:altN="45">
                     <lb n="1"/>
@@ -1493,8 +1486,7 @@
                         <w xml:id="w_2564_4">got</w>
                         <pc>·</pc>
                     </unclear>
-                    <note ana="hc:TranscriptionNote" target="#xpath(//l[@n='2564'])"
-                        >Das obere rechte Außenteil des Blattes mit den Versen 2539–2563 ist so stark vermodert, dass eine Transkription nicht möglich ist</note>
+                    <note ana="hc:TranscriptionNote" target="#l_2564">Das obere rechte Außenteil des Blattes mit den Versen 2539–2563 ist so stark vermodert, dass eine Transkription nicht möglich ist</note>
                 </l>
             </lg>
             <lg ana="hc:Couplet">
@@ -1751,8 +1743,7 @@
                         <w xml:id="w_2605_2">geſdin</w>
                     </unclear>
                     <gap rendition="hc:Mould"/>
-                    <note ana="hc:TranscriptionNote" target="#xpath(//l[@n='2605'])"
-                        >Das obere rechte Außenteil des Blattes mit den Versen 2582–2604 ist so stark vermodert, dass eine Transkription nicht möglich ist</note>
+                    <note ana="hc:TranscriptionNote" target="#l_2605">Das obere rechte Außenteil des Blattes mit den Versen 2582–2604 ist so stark vermodert, dass eine Transkription nicht möglich ist</note>
                 </l>
                 <l n="2606" xml:id="l_2606" hei:altN="117">
                     <unclear>
@@ -2153,14 +2144,7 @@
             <lg ana="hc:Couplet">
                 <l n="2715" xml:id="l_2715" hei:altN="143">
                     <lb n="8"/>
-                    <w xml:id="w_2715_1">
-                        <choice>
-                            <am>
-                                <hi rendition="hc:RedStroke">D&er;</hi>
-                            </am>
-                            <ex><hi rendition="hc:RedStroke">D</hi>er</ex>
-                        </choice>
-                    </w>
+                    <w xml:id="w_2715_1"><hi rendition="hc:RedStroke">D<choice><am>&er;</am><ex>er</ex></choice></hi></w>
                     <c> </c>
                     <w xml:id="w_2715_2">her</w>
                     <c> </c>
@@ -2401,14 +2385,7 @@
                 </l>
                 <l n="2746" xml:id="l_2746" hei:altN="160">
                     <lb n="2"/>
-                    <w xml:id="w_2746_1">
-                        <choice>
-                            <am>
-                                <hi rendition="hc:RedStroke">D&er;</hi>
-                            </am>
-                            <ex><hi rendition="hc:RedStroke">D</hi>er</ex>
-                        </choice>
-                    </w>
+                    <w xml:id="w_2746_1"><hi rendition="hc:RedStroke">D<choice><am>&er;</am><ex>er</ex></choice></hi></w>
                     <c> </c>
                     <damage rendition="hc:Faded">
                         <w xml:id="w_2746_2">in</w>
@@ -2748,14 +2725,7 @@
             </lg>
             <lg ana="hc:Couplet">
                 <l n="2767" xml:id="l_2767" hei:altN="181">
-                    <w xml:id="w_2767_1">
-                        <choice>
-                            <am>
-                                <hi rendition="hc:RedStroke">H&er;</hi>
-                            </am>
-                            <ex><hi rendition="hc:RedStroke">H</hi>er</ex>
-                        </choice>
-                    </w>
+                    <w xml:id="w_2767_1"><hi rendition="hc:RedStroke">H<choice><am>&er;</am><ex>er</ex></choice></hi></w>
                     <c> </c>
                     <w xml:id="w_2767_2">gawen</w>
                     <c> </c>
@@ -3015,7 +2985,7 @@
                 <l n="6112" xml:id="l_6112" hei:altN="198">
                     <lb n="11"/>
                     <unclear>
-                        <w xml:id="w_6112_1"><choice><am><hi rendition="hc:RedStroke">V&er;</hi></am><ex><hi rendition="hc:RedStroke">V</hi>er</ex></choice>denet</w>
+                        <w xml:id="w_6112_1"><hi rendition="hc:RedStroke">V<choice><am>&er;</am><ex>er</ex></choice></hi>denet</w>
                         <c> </c>
                         <w xml:id="w_6112_2">ich</w>
                         <c> </c>
@@ -3223,9 +3193,7 @@
                     <c> </c>
                     <w xml:id="w_6125_5">diſe<choice><am>&bar;</am><ex>n</ex></choice></w>
                     <c> </c>
-                    <del rendition="hc:RedStrikethrough">
-                        <w xml:id="w_6125_6">wort</w>
-                    </del>
+                    <del rendition="hc:RedStrikethrough"><w xml:id="w_6125_6">wort</w></del>
                     <pc>·</pc>
                     <w xml:id="w_6125_7">zorn</w>
                 </l>
@@ -3269,7 +3237,7 @@
                     <c> </c>
                     <w xml:id="w_6128_3">den</w>
                     <c> </c>
-                    <w xml:id="w_6128_4">burch wec</w>
+                    <w xml:id="w_6128_4">burch<choice><orig> </orig><reg/></choice>wec</w>
                     <c> </c>
                     <w xml:id="w_6128_5">ge<choice><orig>u</orig><reg>v</reg></choice>ienc</w>
                     <pc>·</pc>
@@ -3431,20 +3399,20 @@
                     <w xml:id="w_6145_3">hier</w>
                     <c> </c>
                     <w xml:id="w_6145_4"><choice><orig>u</orig><reg>v</reg></choice>or</w>
-                    <metamark ana="hc:TranspositionMark ">|</metamark>
+                    <metamark ana="hc:TranspositionMark" hei:placeRef="hc:Inline" target="#w_6145_5">|</metamark>
                     <w xml:id="w_6145_5">man</w>
-                    <metamark ana="hc:TranspositionMark ">|</metamark>
+                    <metamark ana="hc:TranspositionMark" hei:placeRef="hc:Inline" target="#w_6145_6">|</metamark>
                     <w xml:id="w_6145_6">noch</w>
-                    <metamark ana="hc:TranspositionMark ">|</metamark>
+                    <metamark ana="hc:TranspositionMark" hei:placeRef="hc:Inline" target="#w_6145_7">|</metamark>
                     <w xml:id="w_6145_7">wip</w>
-                    <metamark ana="hc:TranspositionMark ">|</metamark>
+                    <metamark ana="hc:TranspositionMark">|</metamark>
                     <pc>·</pc>
                 </l>
                 <listTranspose>
-                    <transpose corresp="#M_w_6145_5 #M_w_6145_6 #M_w_6145_7">
-                        <ptr target="#M_w_6145_7"/>
-                        <ptr target="#M_w_6145_6"/>
-                        <ptr target="#M_w_6145_5"/>
+                    <transpose corresp="#w_6145_5 #w_6145_6 #w_6145_7">
+                        <ptr target="#w_6145_7"/>
+                        <ptr target="#w_6145_6"/>
+                        <ptr target="#w_6145_5"/>
                     </transpose>
                 </listTranspose>
                 <l n="6146" xml:id="l_6146" hei:altN="225">
@@ -4123,7 +4091,7 @@
                     <lb n="1"/>
                     <w xml:id="w_7821_1"><hei:initial rendition="hc:Lombard" hei:color="Red" hei:heightLines="2">D</hei:initial>az</w>
                     <c> </c>
-                    <w xml:id="w_7821_2">walt ge<unclear>v</unclear></w>
+                    <w xml:id="w_7821_2">walt<choice><orig> </orig><reg/></choice>ge<unclear>v</unclear></w>
                     <gap rendition="hc:Perforated"/>
                     <w xml:id="w_7821_3"><damage rendition="hc:Perforated">w</damage>art</w>
                     <c> </c>
@@ -4204,18 +4172,7 @@
                 </l>
                 <l n="7828" xml:id="l_7828" hei:altN="275">
                     <lb n="6"/>
-                    <w xml:id="w_7828_1">
-                        <choice>
-                            <abbr>
-                                <am>
-                                    <hi rendition="hc:RedStroke">D&er;</hi>
-                                </am>
-                            </abbr>
-                            <expan>
-                                <ex><hi rendition="hc:RedStroke">D</hi>er</ex>
-                            </expan>
-                        </choice>
-                    </w>
+                    <w xml:id="w_7828_1"><hi rendition="hc:RedStroke">D<choice><am>&er;</am><ex>er</ex></choice></hi></w>
                     <c> </c>
                     <w xml:id="w_7828_2">dinge</w>
                     <c> </c>
@@ -4346,18 +4303,7 @@
                     <pc>·</pc>
                 </l>
                 <l n="7838" xml:id="l_7838" hei:altN="285">
-                    <w xml:id="w_7838_1">
-                        <choice>
-                            <abbr>
-                                <am>
-                                    <hi rendition="hc:RedStroke">D&er;</hi>
-                                </am>
-                            </abbr>
-                            <expan>
-                                <ex><hi rendition="hc:RedStroke">D</hi>er</ex>
-                            </expan>
-                        </choice>
-                    </w>
+                    <w xml:id="w_7838_1"><hi rendition="hc:RedStroke">D<choice><am>&er;</am><ex>er</ex></choice></hi></w>
                     <c> </c>
                     <w xml:id="w_7838_2">
                         <choice>
@@ -4665,18 +4611,7 @@
             <lg ana="hc:Couplet">
                 <l n="7859" xml:id="l_7859" hei:altN="306">
                     <lb n="28"/>
-                    <w xml:id="w_7859_1">
-                        <choice>
-                            <abbr>
-                                <am>
-                                    <hi rendition="hc:RedStroke">D&er;</hi>
-                                </am>
-                            </abbr>
-                            <expan>
-                                <ex><hi rendition="hc:RedStroke">D</hi>er</ex>
-                            </expan>
-                        </choice>
-                    </w>
+                    <w xml:id="w_7859_1"><hi rendition="hc:RedStroke">D<choice><am>&er;</am><ex>er</ex></choice></hi></w>
                     <c> </c>
                     <w xml:id="w_7859_2">diſe</w>
                     <c> </c>
@@ -4690,18 +4625,7 @@
                 </l>
                 <l n="7860" xml:id="l_7860" hei:altN="307">
                     <lb n="29"/>
-                    <w xml:id="w_7860_1">
-                        <choice>
-                            <abbr>
-                                <am>
-                                    <hi rendition="hc:RedStroke">D&er;</hi>
-                                </am>
-                            </abbr>
-                            <expan>
-                                <ex><hi rendition="hc:RedStroke">D</hi>er</ex>
-                            </expan>
-                        </choice>
-                    </w>
+                    <w xml:id="w_7860_1"><hi rendition="hc:RedStroke">D<choice><am>&er;</am><ex>er</ex></choice></hi></w>
                     <c> </c>
                     <w xml:id="w_7860_2"><choice><orig>v</orig><reg>u</reg></choice>ns</w>
                     <c> </c>
@@ -5119,13 +5043,13 @@
             </lg>
             <lg ana="hc:Couplet">
                 <l n="7893" xml:id="l_7893" hei:altN="339">
-                    <w xml:id="w_7893_1"><choice><abbr><am><hi rendition="hc:RedStroke">v&er;</hi></am></abbr><expan><ex><hi rendition="hc:RedStroke">v</hi>er</ex></expan></choice>tribe</w>
+                    <w xml:id="w_7893_1"><hi rendition="hc:RedStroke">v<choice><am>&er;</am><ex>er</ex></choice></hi>tribe</w>
                     <c> </c>
                     <w xml:id="w_7893_2">ob</w>
                     <c> </c>
                     <w xml:id="w_7893_3">ich</w>
                     <lb ana="hc:DependentLine hc:RunOverLineAbove" n="21a"/>
-                    <metamark ana="hc:Hyphen ">
+                    <metamark ana="hc:Hyphen">
                         <hi hei:color="Red">|</hi>
                     </metamark>
                     <w xml:id="w_7893_4">iember</w>

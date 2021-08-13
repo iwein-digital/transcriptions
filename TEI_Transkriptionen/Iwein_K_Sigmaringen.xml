@@ -1205,9 +1205,7 @@
                 <l n="2546" xml:id="l_2546" hei:altN="82">
                     <lb n="11"/>
                     <w xml:id="w_2546_1">Er</w>
-                    <add hei:placeRef="hc:AboveLine">
-                        <w xml:id="w_2546_2">n</w>
-                    </add>
+                    <add hei:placeRef="hc:AboveLine"><w xml:id="w_2546_2">n</w><c> me</c></add>
                     <w xml:id="w_2546_3">worde</w>
                     <c> </c>
                     <w xml:id="w_2546_4">im</w>

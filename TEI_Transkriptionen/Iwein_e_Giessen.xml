@@ -718,15 +718,19 @@
                 <lg ana="hc:Couplet">
                     <l n="4681" xml:id="l_4681" hei:altN="45">
                         <lb n="7"/>
-                        <w xml:id="w_4681_1">Bis das er</w>
+                        <w xml:id="w_4681_1">Bis</w>
+                        <c> </c>  
+                        <w xml:id="w_4681_2">das</w>
+                        <c> </c>    
+                        <w xml:id="w_4681_3">er</w>
                         <c> </c>
-                        <w xml:id="w_4681_2">vor</w>
+                        <w xml:id="w_4681_4">vor</w>
                         <c> </c>
-                        <w xml:id="w_4681_3">in</w>
+                        <w xml:id="w_4681_5">in</w>
                         <c> </c>
-                        <w xml:id="w_4681_4">allen</w>
+                        <w xml:id="w_4681_6">allen</w>
                         <c> </c>
-                        <w xml:id="w_4681_5">geleit</w>
+                        <w xml:id="w_4681_7">geleit</w>
                     </l>
                     <l n="4682" xml:id="l_4682" hei:altN="46">
                         <lb n="8"/>
@@ -1442,7 +1446,7 @@
                         <c> </c>
                         <w xml:id="w_4738_2">ich</w>
                         <c> </c>
-                        <w xml:id="w_4738_3">ver liere</w>
+                        <w xml:id="w_4738_3">ver<choice><orig> </orig><reg/></choice>liere</w>
                         <c> </c>
                         <w xml:id="w_4738_4">morgen</w>
                     </l>
@@ -1885,10 +1889,9 @@
                             <w xml:id="w_4768_3">habt</w>
                             <c> </c>
                             <w xml:id="w_4768_4">gu&osup;ten</w>
+                            <c> </c>
                         </del>
-                        <add hei:placeRef="hc:BelowLine">
-                            <w xml:id="w_4768_5">diensthaften</w>
-                        </add>
+                        <add hei:placeRef="hc:BelowLine"><w xml:id="w_4768_5">diensthaften</w><c> </c></add>
                         <w xml:id="w_4768_6">mu&osup;t</w>
                     </l>
                 </lg>
@@ -2079,7 +2082,7 @@
                         <c> </c>
                         <w xml:id="w_4782_3">ſprach</w>
                         <c> </c>
-                        <w xml:id="w_4782_4">nu&combacute;</w>
+                        <w xml:id="w_4782_4">nu&iuml;</w>
                         <c> </c>
                         <w xml:id="w_4782_5">en</w>
                         <w xml:id="w_4782_6">welle</w>
@@ -2114,7 +2117,7 @@
                         <c> </c>
                         <w xml:id="w_4784_5">meinem</w>
                         <c> </c>
-                        <w xml:id="w_4784_6">fu&combacute;ſſe</w>
+                        <w xml:id="w_4784_6">fu&iuml;ſſe</w>
                     </l>
                 </lg>
                 <lg ana="hc:Couplet">
@@ -2192,13 +2195,14 @@
                 <lg>
                     <l n="4791" xml:id="l_4791" hei:altN="153">
                         <lb n="15"/>
-                        <w xml:id="w_4791_1">Mich armen</w>
+                        <w xml:id="w_4791_1">Mich<choice><orig> </orig><reg/></choice>armen</w>
                         <c> </c>
                         <w xml:id="w_4791_2">man</w>
                         <c> </c>
                         <w xml:id="w_4791_3">erlaſze</w>
                         <c> </c>
-                        <w xml:id="w_4791_4">ir̃</w><!-- Zeichen prüfen -->
+                        <w xml:id="w_4791_4">ir̃</w>
+                        <!-- Zeichen prüfen -->
                     </l>
                 </lg>
                 <milestone ana="hc:ZoneShift"/>
@@ -2649,7 +2653,7 @@
                         <c> </c>
                         <w xml:id="w_6806_5">gar</w>
                         <c> </c>
-                        <w xml:id="w_6806_6">gu&combacute;t</w>
+                        <w xml:id="w_6806_6">gu&iuml;t</w>
                         <c> </c>
                         <w xml:id="w_6806_7">rat</w>
                     </l>
@@ -2780,7 +2784,7 @@
                     </l>
                     <l n="6815" xml:id="l_6815" hei:altN="193">
                         <lb n="18"/>
-                        <metamark ana="hc:TranspositionMark ">//</metamark>
+                        <metamark ana="hc:TranspositionMark">//</metamark>
                         <w xml:id="w_6815_1">Das</w>
                         <c> </c>
                         <w xml:id="w_6815_2">ich</w>
@@ -2795,8 +2799,8 @@
                     </l>
                     <listTranspose>
                         <transpose>
-                            <ptr target="#xpath(//l[@n='6815'])"/>
-                            <ptr target="#xpath(//l[@n='6816'])"/>
+                            <ptr target="#l_6815"/>
+                            <ptr target="#l_6816"/>
                         </transpose>
                     </listTranspose>
                 </lg>

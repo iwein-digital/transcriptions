@@ -737,7 +737,7 @@
                 </lg>
                 <lg ana="hc:Couplet">
                     <l n="5931" xml:id="l_5931" hei:altN="51">
-                        <w xml:id="w_5931_1"><hei:initial rendition="hc:Lombard" hei:color="Red" hei:heightLines="2">S</hei:initial>uſ</w>
+                        <w xml:id="w_5931_1"><hei:initial rendition="hc:Lombard" hei:color="Red" hei:heightLines="1">S</hei:initial>uſ</w>
                         <c> </c>
                         <w xml:id="w_5931_2">reit</w>
                         <c> </c>
@@ -1296,9 +1296,7 @@
                         <c> </c>
                         <w xml:id="w_5973_4">mir</w>
                         <c> </c>
-                        <add hei:placeRef="hc:AboveLine">
-                            <w xml:id="w_5973_5">n<choice><orig>v</orig><reg>u</reg></choice></w>
-                        </add>
+                        <add hei:placeRef="hc:AboveLine"><w xml:id="w_5973_5">n<choice><orig>v</orig><reg>u</reg></choice></w><c> </c></add>
                         <w xml:id="w_5973_6">ergan</w>
                         <pc>·</pc>
                     </l>

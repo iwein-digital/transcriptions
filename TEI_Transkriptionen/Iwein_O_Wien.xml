@@ -49,30 +49,30 @@
         <surface ana="hc:Page" xml:id="O_1r" n="1r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/onb_codsn_316/0005/image" mimeType="image/*"/>
             <zone ana="hc:HorizontalLayout">
-                <zone ana="hc:Column" xml:id="O_1r-a" n="a"/>
-                <zone ana="hc:Column" xml:id="O_1r-b" n="b"/>
+                <zone ana="hc:MainColumn" xml:id="O_1r-a" n="a"/>
+                <zone ana="hc:MainColumn" xml:id="O_1r-b" n="b"/>
             </zone>
         </surface>
         <surface ana="hc:Page" xml:id="O_1v" n="1v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/onb_codsn_316/0006/image" mimeType="image/*"/>
             <zone ana="hc:HorizontalLayout">
-                <zone ana="hc:Column" xml:id="O_1v-a" n="a"/>
-                <zone ana="hc:Column" xml:id="O_1v-b" n="b"/>
+                <zone ana="hc:MainColumn" xml:id="O_1v-a" n="a"/>
+                <zone ana="hc:MainColumn" xml:id="O_1v-b" n="b"/>
             </zone>
         </surface>
         <surface ana="hc:Page" xml:id="O_2r" n="2r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/onb_codsn_316/0007/image" mimeType="image/*"/>
             <zone ana="hc:HorizontalLayout">
-                <zone ana="hc:Column" xml:id="O_2r-a" n="a"/>
-                <zone ana="hc:Column" xml:id="O_2r-b" n="b"/>
+                <zone ana="hc:MainColumn" xml:id="O_2r-a" n="a"/>
+                <zone ana="hc:MainColumn" xml:id="O_2r-b" n="b"/>
             </zone>
             <zone ana="hc:MarginalZone" xml:id="O_2r-c"/>
         </surface>
         <surface ana="hc:Page" xml:id="O_2v" n="2v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/onb_codsn_316/0008/image" mimeType="image/*"/>
             <zone ana="hc:HorizontalLayout">
-                <zone ana="hc:Column" xml:id="O_2v-a" n="a"/>
-                <zone ana="hc:Column" xml:id="O_2v-b" n="b"/>
+                <zone ana="hc:MainColumn" xml:id="O_2v-a" n="a"/>
+                <zone ana="hc:MainColumn" xml:id="O_2v-b" n="b"/>
             </zone>
             <zone ana="hc:MarginalZone" xml:id="O_2v-c"/>
         </surface>
@@ -691,7 +691,7 @@
             <lg ana="hc:Couplet">
                 <l n="6257" xml:id="l_6257" hei:altN="47">
                     <lb n="3"/>
-                    <metamark ana="hc:CueInitial ">d</metamark>
+                    <hei:cue ana="hc:CueInitial" hei:placeRef="hc:ColumnMarginLeft">d</hei:cue>
                     <w xml:id="w_6257_1"><hei:initial rendition="hc:Lombard" hei:color="Red Black" hei:heightLines="2">D</hei:initial>o</w>
                     <c> </c>
                     <w xml:id="w_6257_2">ſprach</w>
@@ -1341,9 +1341,7 @@
                     <c> </c>
                     <w xml:id="w_6478_2">in</w>
                     <c> </c>
-                    <add hei:placeRef="hc:AboveLine">
-                        <w xml:id="w_6478_3">i<choice><am>&bar;</am><ex>n</ex></choice></w>
-                    </add>
+                    <add hei:placeRef="hc:AboveLine"><w xml:id="w_6478_3">i<choice><am>&bar;</am><ex>n</ex></choice></w><c> </c></add>
                     <w xml:id="w_6478_4">ch<choice><orig>v</orig><reg>u</reg></choice>rzer</w>
                     <c> </c>
                     <w xml:id="w_6478_5">friſt</w>
@@ -1572,7 +1570,7 @@
                     <c> </c>
                     <w xml:id="w_6500_3">nach</w>
                     <c> </c>
-                    <w xml:id="w_6500_4">bet winge<choice><am>&bar;</am><ex>n</ex></choice></w>
+                    <w xml:id="w_6500_4">bet<choice><orig> </orig><reg/></choice>winge<choice><am>&bar;</am><ex>n</ex></choice></w>
                     <c> </c>
                     <w xml:id="w_6500_5">da</w>
                     <c> </c>
@@ -2092,7 +2090,7 @@
                     <c> </c>
                     <w xml:id="w_6537_2">dem</w>
                     <c> </c>
-                    <w xml:id="w_6537_3">ho&vsup;bet froſte</w>
+                    <w xml:id="w_6537_3">ho&vsup;bet<choice><orig> </orig><reg/></choice>froſte</w>
                     <pc>·</pc>
                 </l>
                 <l n="6538" xml:id="l_6538" hei:altN="149">
@@ -2182,23 +2180,7 @@
             <lg ana="hc:Couplet">
                 <l n="6545" xml:id="l_6545" hei:altN="155">
                     <lb n="4"/>
-                    <w xml:id="w_6545_1">
-                        <choice>
-                            <orig>
-                                <hi rendition="hc:Versal">
-                                    <choice>
-                                        <abbr>
-                                            <am>V</am>
-                                        </abbr>
-                                        <expan>
-                                            <ex><hi rendition="hc:Versal">V</hi>nd</ex>
-                                        </expan>
-                                    </choice>
-                                </hi>
-                            </orig>
-                            <reg>und</reg>
-                        </choice>
-                    </w>
+                    <w xml:id="w_6545_1"><hi rendition="hc:Versal">V</hi><choice><am>&bar;</am><ex>nd</ex></choice></w>
                     <c> </c>
                     <w xml:id="w_6545_2">giengen</w>
                     <c> </c>
@@ -2312,7 +2294,7 @@
                     <c> </c>
                     <w xml:id="w_6554_2"><choice><orig>v</orig><reg>u</reg></choice>n<choice><am>&bar;</am><ex>d</ex></choice></w>
                     <c> </c>
-                    <w xml:id="w_6554_3">wirt ſch</w>
+                    <w xml:id="w_6554_3">wirt<choice><orig> </orig><reg/></choice>ſch</w>
                     <gap rendition="hc:CutOff"/>
                 </l>
             </lg>

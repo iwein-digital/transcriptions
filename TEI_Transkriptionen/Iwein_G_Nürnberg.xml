@@ -55,15 +55,15 @@
         <surface ana="hc:Page" xml:id="F_1r" n="1r">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/oolb_hs599/0002/image" mimeType="image/*"/>
             <zone ana="hc:HorizontalLayout">
-                <zone ana="hc:Column" xml:id="F_1r-a" n="a"/>
-                <zone ana="hc:Column" xml:id="F_1r-b" n="b"/>
+                <zone ana="hc:MainColumn" xml:id="F_1r-a" n="a"/>
+                <zone ana="hc:MainColumn" xml:id="F_1r-b" n="b"/>
             </zone>
         </surface>
         <surface ana="hc:Page" xml:id="F_1v" n="1v">
             <graphic url="https://digi.ub.uni-heidelberg.de/diglit/oolb_hs599/0003/image" mimeType="image/*"/>
             <zone ana="hc:HorizontalLayout">
-                <zone ana="hc:Column" xml:id="F_1v-a" n="a"/>
-                <zone ana="hc:Column" xml:id="F_1v-b" n="b"/>
+                <zone ana="hc:MainColumn" xml:id="F_1v-a" n="a"/>
+                <zone ana="hc:MainColumn" xml:id="F_1v-b" n="b"/>
             </zone>
         </surface>
     </facsimile>
@@ -75,7 +75,7 @@
                 <lg ana="hc:Couplet">
                     <l n="3211" xml:id="l_3211" hei:altN="1">
                         <lb n="1"/>
-                        <w xml:id="w_3211_1"><hi rendition="hc:RedStroke">S</hi>in<damage ana="hc:TornOff">e</damage><gap rendition="hc:CutOff" n="1" unit="character"/></w>
+                        <w xml:id="w_3211_1"><hi rendition="hc:RedStroke">S</hi>in<damage rendition="hc:TornOff">e</damage><gap rendition="hc:CutOff" n="1" unit="character"/></w>
                         <c> </c>
                         <w xml:id="w_3211_2">ſteten</w>
                         <c> </c>
@@ -85,7 +85,7 @@
                         <lb n="2"/>
                         <w xml:id="w_3212_1">di</w>
                         <c> </c>
-                        <w xml:id="w_3212_2">vor luſt</w>
+                        <w xml:id="w_3212_2">vor<choice><orig> </orig><reg/></choice>luſt</w>
                         <c> </c>
                         <w xml:id="w_3212_3">des</w>
                         <c> </c>
@@ -602,7 +602,7 @@
                         <c> </c>
                         <w xml:id="w_3250_2">helt</w>
                         <c> </c>
-                        <w xml:id="w_3250_3"><choice><orig>v</orig><reg>u</reg></choice>n erveret</w>
+                        <w xml:id="w_3250_3"><choice><orig>v</orig><reg>u</reg></choice>n<choice><orig> </orig><reg/></choice>erveret</w>
                     </l>
                 </lg>
                 <lg ana="hc:Couplet">
@@ -668,7 +668,7 @@
                     </l>
                     <l n="3256" xml:id="l_3256" hei:altN="46">
                         <lb n="8"/>
-                        <w xml:id="w_3256_1">vor kerte</w>
+                        <w xml:id="w_3256_1">vor<choice><orig> </orig><reg/></choice>kerte</w>
                         <c> </c>
                         <w xml:id="w_3256_2">ſinne</w>
                         <c> </c>
@@ -1038,6 +1038,7 @@
                 <lg ana="hc:Couplet">
                     <l n="3283" xml:id="l_3283" hei:altN="73">
                         <lb n="35"/>
+                        <hei:cue ana="hc:CueInitial" hei:placeRef="hc:PageMarginRight">d</hei:cue>
                         <w xml:id="w_3283_1"><hei:initial rendition="hc:Lombard" hei:color="Red" hei:heightLines="2">D</hei:initial>o</w>
                         <c> </c>
                         <w xml:id="w_3283_2">er</w>
@@ -1271,7 +1272,7 @@
                         <c> </c>
                         <w xml:id="w_3299_3">wi</w>
                         <c> </c>
-                        <w xml:id="w_3299_4">ir nere</w>
+                        <w xml:id="w_3299_4">ir<choice><orig> </orig><reg/></choice>nere</w>
                         <c> </c>
                         <w xml:id="w_3299_5">ich</w>
                         <c> </c>
@@ -1286,12 +1287,7 @@
                         <w xml:id="w_3300_3">da</w>
                         <c> </c>
                         <w xml:id="w_3300_4">bedacht</w>
-                        <w xml:id="w_3300_5">
-                            <choice>
-                                <am>&er;</am>
-                                <ex>er</ex>
-                            </choice>
-                        </w>
+                        <w xml:id="w_3300_5"><choice><am>&er;</am><ex>er</ex></choice></w>
                         <c> </c>
                         <w xml:id="w_3300_6">ſich</w>
                     </l>
@@ -1934,6 +1930,7 @@
                 <lg ana="hc:Couplet">
                     <l n="3345" xml:id="l_3345" hei:altN="135">
                         <lb n="21"/>
+                        <hei:cue ana="hc:CueInitial" hei:placeRef="hc:ColumnMarginLeft">s</hei:cue>
                         <w xml:id="w_3345_1"><hei:initial rendition="hc:Lombard" hei:color="Red" hei:heightLines="2">S</hei:initial><choice><orig>v</orig><reg>u</reg></choice>ſ</w>
                         <c> </c>
                         <w xml:id="w_3345_2">wonte</w>
@@ -2024,7 +2021,7 @@
                         <c> </c>
                         <w xml:id="w_3352_5">ſper</w>
                         <c> </c>
-                        <w xml:id="w_3352_6">z<choice><orig>v</orig><reg>u</reg></choice> brach</w>
+                        <w xml:id="w_3352_6">z<choice><orig>v</orig><reg>u</reg></choice><choice><orig> </orig><reg/></choice>brach</w>
                     </l>
                 </lg>
                 <lg ana="hc:Couplet">

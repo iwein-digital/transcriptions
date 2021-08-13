@@ -170,7 +170,7 @@
                     </l>
                     <l n="4956" xml:id="l_4956" hei:altN="8">
                         <lb n="8"/>
-                        <w xml:id="w_4956_1"><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">D</hei:initial>o</w>
+                        <w xml:id="w_4956_1"><hei:initial rendition="hc:Lombard" hei:color="Red" hei:heightLines="2">D</hei:initial>o</w>
                         <c> </c>
                         <w xml:id="w_4956_2">ſp<choice><am>&ra;</am><ex>ra</ex></choice>ch</w>
                         <c> </c>
@@ -659,7 +659,8 @@
                 <lg ana="hc:Couplet">
                     <l n="4989" xml:id="l_4989" hei:altN="41">
                         <lb n="17"/>
-                        <w xml:id="w_4989_1"><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">S</hei:initial><choice><orig>v</orig><reg>u</reg></choice>ſ</w>
+                        <hei:cue ana="hc:CueInitial" hei:placeRef="hc:PageMarginLeft">s</hei:cue>
+                        <w xml:id="w_4989_1"><hei:initial rendition="hc:Lombard" hei:color="Red" hei:heightLines="2">S</hei:initial><choice><orig>v</orig><reg>u</reg></choice>ſ</w>
                         <c> </c>
                         <w xml:id="w_4989_2">waſ</w>
                         <c> </c>
@@ -1131,7 +1132,7 @@
                 <lg ana="hc:Couplet">
                     <l n="5217" xml:id="l_5217" hei:altN="75">
                         <lb n="3"/>
-                        <w xml:id="w_5217_1"><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">D</hei:initial>iz</w>
+                        <w xml:id="w_5217_1"><hei:initial rendition="hc:Lombard" hei:color="Red" hei:heightLines="2">D</hei:initial>iz</w>
                         <c> </c>
                         <w xml:id="w_5217_2">machte</w>
                         <c> </c>
@@ -1321,7 +1322,8 @@
                 <lg ana="hc:Couplet">
                     <l n="5229" xml:id="l_5229" hei:altN="87">
                         <lb n="15"/>
-                        <w xml:id="w_5229_1"><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">N</hei:initial><choice><orig>v</orig><reg>u</reg></choice></w>
+                        <hei:cue ana="hc:CueInitial" hei:placeRef="hc:PageMarginLeft">n</hei:cue>
+                        <w xml:id="w_5229_1"><hei:initial rendition="hc:Lombard" hei:color="Red" hei:heightLines="2">N</hei:initial><choice><orig>v</orig><reg>u</reg></choice></w>
                         <c> </c>
                         <w xml:id="w_5229_2">waſ</w>
                         <c> </c>
