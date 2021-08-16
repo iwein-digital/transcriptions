@@ -345,7 +345,7 @@
                     <c> </c>
                     <w xml:id="w_499_2">walde</w>
                     <c> </c>
-                    <w xml:id="w_499_3">v<choice><am>o&bar;</am><ex>en</ex></choice></w>
+                    <w xml:id="w_499_3">vo<choice><am>&bar;</am><ex>en</ex></choice></w>
                     <c> </c>
                     <w xml:id="w_499_4">ge<choice><orig>u</orig><reg>v</reg></choice>ilde</w>
                     <pc>·</pc>
@@ -1069,7 +1069,7 @@
                     <c> </c>
                     <w xml:id="w_557_3">die</w>
                     <c> </c>
-                    <w xml:id="w_557_4">wid<choice><am>&er;</am><ex>er</ex></choice> kere</w>
+                    <w xml:id="w_557_4">wid<choice><am>&er;</am><ex>er</ex></choice><choice><orig> </orig><reg/></choice>kere</w>
                     <pc>·</pc>
                 </l>
                 <l n="558" xml:id="l_558" hei:altN="69">
@@ -1129,7 +1129,7 @@
                     <c> </c>
                     <w xml:id="w_561_2">frumt</w>
                     <c> </c>
-                    <w xml:id="w_561_3">wz</w>
+                    <w xml:id="w_561_3">w<choice><am>z</am><ex>az</ex></choice></w>
                     <c> </c>
                     <w xml:id="w_561_4">ich</w>
                     <c> </c>
@@ -1179,7 +1179,7 @@
                     <lb n="10"/>
                     <w xml:id="w_564_1"><hi rendition="hc:RedStroke">S</hi>elbe</w>
                     <c> </c>
-                    <w xml:id="w_564_2">wz</w>
+                    <w xml:id="w_564_2">w<choice><am>z</am><ex>az</ex></choice></w>
                     <c> </c>
                     <w xml:id="w_564_3">die</w>
                     <c> </c>
@@ -1388,7 +1388,7 @@
                     <w xml:id="w_578_6">noch</w>
                     <c> </c>
                     <w xml:id="w_578_7">en</w>
-                    <w xml:id="w_578_8">frum<choice><am>z</am><ex>et</ex></choice></w>
+                    <w xml:id="w_578_8">frum<choice><am>&etfin;</am><ex>et</ex></choice></w>
                     <pc>·</pc>
                 </l>
             </lg>
@@ -1632,7 +1632,7 @@
                     <c> </c>
                     <w xml:id="w_598_4">d<choice><am>&er;</am><ex>er</ex></choice></w>
                     <c> </c>
-                    <w xml:id="w_598_5">walt man</w>
+                    <w xml:id="w_598_5">walt<choice><orig> </orig><reg/></choice>man</w>
                     <pc>·</pc>
                 </l>
             </lg>
@@ -1794,7 +1794,7 @@
                     <lb n="21"/>
                     <w xml:id="w_610_1"><hi rendition="hc:RedStroke">E</hi>in</w>
                     <c> </c>
-                    <w xml:id="w_610_2">tot ru&combdot;weſere</w>
+                    <w xml:id="w_610_2">tot<choice><orig> </orig><reg/></choice>ru&combdot;weſere</w>
                     <pc>·</pc>
                 </l>
             </lg>
@@ -1993,9 +1993,7 @@
                     <c> </c>
                     <w xml:id="w_856_2">mir</w>
                     <c> </c>
-                    <add hei:placeRef="hc:AboveLine">
-                        <w xml:id="w_856_3">e<choice><am>&bar;</am><ex>n</ex></choice></w>
-                    </add>
+                    <add hei:placeRef="hc:AboveLine"><w xml:id="w_856_3">e<choice><am>&bar;</am><ex>n</ex></choice></w><c> </c></add>
                     <w xml:id="w_856_4">iſt</w>
                     <gap rendition="hc:Burnt"/>
                 </l>
@@ -2417,7 +2415,7 @@
                     <c> </c>
                     <w xml:id="w_883_4">ſo</w>
                     <c> </c>
-                    <w xml:id="w_883_5">ze hant</w>
+                    <w xml:id="w_883_5">ze<choice><orig> </orig><reg/></choice>hant</w>
                     <pc>·</pc>
                 </l>
                 <l n="884" xml:id="l_884" hei:altN="159">
@@ -2786,7 +2784,7 @@
             <lg ana="hc:Couplet">
                 <l n="919" xml:id="l_919" hei:altN="183">
                     <lb n="21"/>
-                    <w xml:id="w_919_1"><hi rendition="hc:RedStroke">E</hi>n truwen</w>
+                    <w xml:id="w_919_1"><hi rendition="hc:RedStroke">E</hi>n<choice><orig> </orig><reg/></choice>truwen</w>
                     <c> </c>
                     <w xml:id="w_919_2">es</w>
                     <c> </c>
@@ -2985,7 +2983,7 @@
                     <c> </c>
                     <w xml:id="w_943_5">ez</w>
                     <c> </c>
-                    <w xml:id="w_943_6">er gat</w>
+                    <w xml:id="w_943_6">er<choice><orig> </orig><reg/></choice>gat</w>
                     <pc>·</pc>
                 </l>
                 <l n="944" xml:id="l_944" hei:altN="198">
@@ -3007,6 +3005,7 @@
             <lg ana="hc:Couplet">
                 <l n="945" xml:id="l_945" hei:altN="199">
                     <lb n="13"/>
+                    <hei:cue ana="hc:CueInitial" hei:placeRef="hc:Inspace">a</hei:cue>
                     <w xml:id="w_945_1"><hei:initial rendition="hc:Lombard" hei:color="Red" hei:heightLines="2">A</hei:initial>lſus</w>
                     <c> </c>
                     <w xml:id="w_945_2">ſtal</w>
@@ -3087,7 +3086,7 @@
                     <w xml:id="w_950_4">er</w>
                     <c> </c>
                     <w xml:id="w_950_5">al</w>
-                    <w xml:id="w_950_6">ze hant</w>
+                    <w xml:id="w_950_6">ze<choice><orig> </orig><reg/></choice>hant</w>
                 </l>
             </lg>
             <lg ana="hc:Couplet">
@@ -3170,7 +3169,7 @@
                     <c> </c>
                     <w xml:id="w_956_4">o&vsup;ch</w>
                     <c> </c>
-                    <w xml:id="w_956_5">er bitte<choice><am>&bar;</am><ex>n</ex></choice></w>
+                    <w xml:id="w_956_5">er<choice><orig> </orig><reg/></choice>bitte<choice><am>&bar;</am><ex>n</ex></choice></w>
                     <pc>·</pc>
                 </l>
             </lg>
@@ -3311,7 +3310,7 @@
                     <lb n="10"/>
                     <w xml:id="w_969_1"><hi rendition="hc:RedStroke">D</hi>o</w>
                     <c> </c>
-                    <w xml:id="w_969_2">ar ſtreit</w>
+                    <w xml:id="w_969_2">ar<choice><orig> </orig><reg/></choice>ſtreit</w>
                     <c> </c>
                     <w xml:id="w_969_3">er</w>
                     <c> </c>
@@ -3469,7 +3468,7 @@
                     <w xml:id="w_980_2">vant</w>
                     <c> </c>
                     <w xml:id="w_980_3">d<add hei:placeRef="hc:AboveLine">e<choice><am>&bar;</am><ex>n</ex></choice></add></w>
-                    <metamark ana="hc:InsertionMark">&insup;</metamark>
+                    <add hei:placeRef="hc:BelowLine"><metamark ana="hc:InsertionMark">&insup;</metamark></add>
                     <w xml:id="w_980_4">gru&combdot;weliche<choice><am>&bar;</am><ex>n</ex></choice></w>
                     <c> </c>
                     <w xml:id="w_980_5">man</w>
@@ -3558,7 +3557,7 @@
                     <c> </c>
                     <w xml:id="w_988_4">in</w>
                     <c> </c>
-                    <w xml:id="w_988_5">dz</w>
+                    <w xml:id="w_988_5">d<choice><am>z</am><ex>az</ex></choice></w>
                     <c> </c>
                     <w xml:id="w_988_6">ſu&esup;ſte</w>
                     <pc>·</pc>
@@ -3567,8 +3566,7 @@
             <lg ana="hc:Couplet">
                 <l n="989" xml:id="l_989" hei:altN="241">
                     <lb n="30"/>
-                    <w xml:id="w_989_1"><choice><orig><hei:initial rendition="hc:Lombard" hei:color="Red" hei:heightLines="2">U</hei:initial></orig><reg><hei:initial rendition="hc:Lombard"
-                        hei:color="Red" hei:heightLines="2">V</hei:initial></reg></choice>il</w>
+                    <w xml:id="w_989_1"><hei:initial rendition="hc:Lombard" hei:color="Red" hei:heightLines="2"><choice><orig>U</orig><reg>V</reg></choice></hei:initial>il</w>
                     <c> </c>
                     <w xml:id="w_989_2">ſchiere</w>
                     <c> </c>
@@ -3617,7 +3615,7 @@
                     <lb n="33"/>
                     <w xml:id="w_992_1"><hi rendition="hc:RedStroke">D</hi>o</w>
                     <c> </c>
-                    <w xml:id="w_992_2">wz</w>
+                    <w xml:id="w_992_2">w<choice><am>z</am><ex>az</ex></choice></w>
                     <c> </c>
                     <w xml:id="w_992_3">ſin</w>
                     <c> </c>

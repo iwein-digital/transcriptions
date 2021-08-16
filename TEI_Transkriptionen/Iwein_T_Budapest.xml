@@ -144,7 +144,7 @@
                 <l n="5875" xml:id="l_5875" hei:altN="10">
                     <lb n="10"/>
                     <gap rendition="hc:CutOff"/>
-                    <w xml:id="w_5875_1">r want</w>
+                    <w xml:id="w_5875_1">r<choice><orig> </orig><reg/></choice>want</w>
                     <pc>·</pc>
                 </l>
                 <l n="5876" xml:id="l_5876" hei:altN="11">
@@ -601,7 +601,7 @@
                     <c> </c>
                     <w xml:id="w_5916_3">danne</w>
                     <c> </c>
-                    <w xml:id="w_5916_4"><choice><orig>v</orig><reg>u</reg></choice>ber w</w>
+                    <w xml:id="w_5916_4"><choice><orig>v</orig><reg>u</reg></choice>ber<choice><orig> </orig><reg/></choice>w</w>
                     <gap rendition="hc:CutOff"/>
                 </l>
             </lg>
