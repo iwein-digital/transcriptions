@@ -363,7 +363,7 @@
             <lg ana="hc:Couplet">
                 <l n="4119" xml:id="l_4119" hei:altN="23">
                     <lb n="12"/>
-                    <w xml:id="w_4119_1"><supplied><hei:initial rendition="hc:Lombard" hei:heightLines="2">D</hei:initial></supplied>o</w>
+                    <w xml:id="w_4119_1"><choice><orig><space rendition="hc:BlankAreaLeftForInitial" unit="char" quantity="1" hei:indents="2"><desc xml:lang="de">Aussparung für Initiale</desc></space></orig><supplied><hei:initial>D</hei:initial></supplied></choice>o</w>
                     <c> </c>
                     <w xml:id="w_4119_2">min</w>
                     <c> </c>

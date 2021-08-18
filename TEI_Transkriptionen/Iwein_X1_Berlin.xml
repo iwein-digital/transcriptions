@@ -114,7 +114,7 @@
             <lg>
                 <l n="3655" xml:id="l_3655" hei:altN="5">
                     <lb n="5"/>
-                    <w xml:id="w_3655_1"><supplied><hei:initial rendition="hc:Lombard" hei:heightLines="2">D</hei:initial></supplied>ie</w>
+                    <w xml:id="w_3655_1"><choice><orig><space rendition="hc:BlankAreaLeftForInitial" unit="char" quantity="1" hei:indents="2"><desc xml:lang="de">Aussparung für Initiale</desc></space></orig><supplied><hei:initial>D</hei:initial></supplied></choice>ie</w>
                     <c> </c>
                     <w xml:id="w_3655_2">frou&osup;we</w>
                     <c> </c>
@@ -267,7 +267,7 @@
                 <l n="3695" xml:id="l_3695" hei:altN="17">
                     <lb n="2"/>
                     <hei:cue ana="hc:CueInitial" hei:placeRef="hc:ColumnMarginLeft">ſ</hei:cue>
-                    <w xml:id="w_3695_1"><supplied><hei:initial rendition="hc:Lombard" hei:heightLines="1">S</hei:initial></supplied><choice><orig>v</orig><reg>u</reg></choice>ſ</w>
+                    <w xml:id="w_3695_1"><choice><orig><space rendition="hc:BlankAreaLeftForInitial" unit="char" quantity="1" hei:indents="1"><desc xml:lang="de">Aussparung für Initiale</desc></space></orig><supplied><hei:initial>S</hei:initial></supplied></choice><choice><orig>v</orig><reg>u</reg></choice>ſ</w>
                     <c> </c>
                     <w xml:id="w_3695_2">twelte</w>
                     <c> </c>
@@ -688,7 +688,7 @@
                 <l n="3802" xml:id="l_3802" hei:altN="57">
                     <lb n="11"/>
                     <hei:cue ana="hc:CueInitial" hei:placeRef="hc:ColumnMarginLeft">d</hei:cue>
-                    <w xml:id="w_3802_1"><supplied><hei:initial rendition="hc:Lombard" hei:heightLines="2">D</hei:initial></supplied>o</w>
+                    <w xml:id="w_3802_1"><choice><orig><space rendition="hc:BlankAreaLeftForInitial" unit="char" quantity="1" hei:indents="2"><desc xml:lang="de">Aussparung für Initiale</desc></space></orig><supplied><hei:initial>D</hei:initial></supplied></choice>o</w>
                     <c> </c>
                     <w xml:id="w_3802_2">die</w>
                     <c> </c>
