@@ -513,15 +513,15 @@
                     <c> </c>
                     <w xml:id="w_2303_2">han</w>
                     <pc>·</pc>
-                    <metamark ana="hc:TranspositionMark " hei:placeRef="hc:AboveLine" target="#V_w_2303_2">b</metamark>
+                    <metamark ana="hc:TranspositionMark" hei:placeRef="hc:AboveLine" target="#w_2303_2">b</metamark>
                     <w xml:id="w_2303_3">ge<lb n="29" break="no"/><gap rendition="hc:CutOff"/>angen</w>
                     <pc>·</pc>
-                    <metamark ana="hc:TranspositionMark " hei:placeRef="hc:AboveLine" target="#V_w_2303_3">a</metamark>
+                    <metamark ana="hc:TranspositionMark" hei:placeRef="hc:AboveLine" target="#w_2303_3">a</metamark>
                 </l>
                 <listTranspose>
-                    <transpose corresp="#V_w_2303_2 #V_w_2303_3">
-                        <ptr target="#V_w_2303_3"/>
-                        <ptr target="#V_w_2303_2"/>
+                    <transpose corresp="#w_2303_2 #w_2303_3">
+                        <ptr target="#w_2303_3"/>
+                        <ptr target="#w_2303_2"/>
                     </transpose>
                 </listTranspose>
                 <l n="2304" xml:id="l_2304" hei:altN="35">
@@ -1009,7 +1009,7 @@
                     <lb n="25"/>
                     <w xml:id="w_2337_4">hi<choice><orig>v</orig><reg>u</reg></choice>te</w>
                     <c> </c>
-                    <w xml:id="w_2337_5">wider varn</w>
+                    <w xml:id="w_2337_5">wider<choice><orig> </orig><reg/></choice>varn</w>
                     <pc>·</pc>
                 </l>
                 <l n="2338" xml:id="l_2338" hei:altN="69">
@@ -1372,8 +1372,7 @@
                     <lb n="16"/>
                     <w xml:id="w_2365_6">niht</w>
                     <c> </c>
-                    <w xml:id="w_2365_7">ſt<subst><del rendition="hc:Underdotted">e</del><add hei:placeRef="hc:AboveLine">i</add></subst>l<subst><del rendition="hc:Adapted">n</del><add
-                        rendition="hc:Adapted">le</add></subst>n</w>
+                    <w xml:id="w_2365_7">ſt<subst><del rendition="hc:Underdotted">e</del><add hei:placeRef="hc:AboveLine">i</add></subst>l<subst><del rendition="hc:Adapted">n</del><add rendition="hc:Adapted">le</add></subst>n</w>
                     <pc>·</pc>
                 </l>
                 <l n="2366" xml:id="l_2366" hei:altN="95">

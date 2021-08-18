@@ -571,8 +571,7 @@
                 </l>
                 <l n="4140" xml:id="l_4140" hei:altN="39">
                     <lb n="21"/>
-                    <w xml:id="w_4140_1"><choice><orig>u</orig><reg>v</reg></choice>er
-        ſprach</w>
+                    <w xml:id="w_4140_1"><choice><orig>u</orig><reg>v</reg></choice>er<choice><orig> </orig><reg/></choice>ſprach</w>
                     <c> </c>
                     <w xml:id="w_4140_2">mich</w>
                     <c> </c>
@@ -620,8 +619,7 @@
                     <c> </c>
                     <w xml:id="w_4143_2">er</w>
                     <c> </c>
-                    <w xml:id="w_4143_3">uber
-        ſprech</w>
+                    <w xml:id="w_4143_3">uber<choice><orig> </orig><reg/></choice>ſprech</w>
                     <c> </c>
                     <w xml:id="w_4143_4">ſich</w>
                 </l>
@@ -1336,7 +1334,7 @@
                     <c> </c>
                     <w xml:id="w_4212_3">ſo</w>
                     <c> </c>
-                    <w xml:id="w_4212_4">er kennet</w>
+                    <w xml:id="w_4212_4">er<choice><orig> </orig><reg/></choice>kennet</w>
                     <c> </c>
                     <w xml:id="w_4212_5">och</w>
                     <c> </c>
@@ -1751,7 +1749,7 @@
                     <w xml:id="w_4253_6">funt</w>
                 </l>
                 <lg ana="hc:Couplet">
-                    <l n="4253,1" hei:replicates="#xpath(//l[n='4247'])" xml:id="l_4253.1" hei:altN="133">
+                    <l n="4253,1" hei:replicates="#l_4247" xml:id="l_4253.1" hei:altN="133">
                         <w xml:id="w_4253.1_1">daz</w>
                         <c> </c>
                         <w xml:id="w_4253.1_2">ich</w>
@@ -1761,7 +1759,7 @@
                         </unclear>
                         <w xml:id="w_4253.1_4"><gap rendition="hc:Perforated"/>ne</w>
                     </l>
-                    <l n="4253,2" hei:replicates="#xpath(//l[n='42478])" xml:id="l_4253.2" hei:altN="134">
+                    <l n="4253,2" hei:replicates="#l_42478" xml:id="l_4253.2" hei:altN="134">
                         <w xml:id="w_4253.2_1">der</w>
                         <c> </c>
                         <w xml:id="w_4253.2_2">erberen</w>
@@ -2390,7 +2388,7 @@
                     <c> </c>
                     <w xml:id="w_4534_3">der</w>
                     <c> </c>
-                    <w xml:id="w_4534_4">tavel run<choice><am>&de;</am><ex>de</ex></choice></w>
+                    <w xml:id="w_4534_4">tavel<choice><orig> </orig><reg/></choice>run<choice><am>&de;</am><ex>de</ex></choice></w>
                 </l>
             </lg>
             <lg ana="hc:Couplet">
@@ -2634,7 +2632,7 @@
                 <l n="4555" xml:id="l_4555" hei:altN="207">
                     <w xml:id="w_4555_1">daz</w>
                     <c> </c>
-                    <w xml:id="w_4555_2"><choice><orig>vv</orig><reg>w</reg></choice>ider rette</w>
+                    <w xml:id="w_4555_2"><choice><orig>vv</orig><reg>w</reg></choice>ider<choice><orig> </orig><reg/></choice>rette</w>
                     <c> </c>
                     <w xml:id="w_4555_3">ch<choice><orig>v</orig><reg>u</reg></choice>n</w>
                     <gap rendition="hc:CutOff"/>
@@ -2701,7 +2699,7 @@
                     <c> </c>
                     <w xml:id="w_4567_3">der</w>
                     <c> </c>
-                    <w xml:id="w_4567_4">tavel run<choice><am>&de;</am><ex>de</ex></choice></w>
+                    <w xml:id="w_4567_4">tavel<choice><orig> </orig><reg/></choice>run<choice><am>&de;</am><ex>de</ex></choice></w>
                 </l>
                 <l n="4568" xml:id="l_4568" hei:altN="214">
                     <w xml:id="w_4568_1"><choice><orig>v</orig><reg>u</reg></choice>nt</w>
@@ -2814,7 +2812,7 @@
                     <w xml:id="w_4577_4">mere</w>
                 </l>
                 <l n="4578" xml:id="l_4578" hei:altN="224">
-                    <w xml:id="w_4578_1">de hain</w>
+                    <w xml:id="w_4578_1">de<choice><orig> </orig><reg/></choice>hain</w>
                     <c> </c>
                     <w xml:id="w_4578_2">e<choice><orig>v</orig><reg>u</reg></choice>rer</w>
                     <c> </c>
@@ -3006,9 +3004,7 @@
                 <l n="4595" xml:id="l_4595" hei:altN="241">
                     <w xml:id="w_4595_1">herre</w>
                     <c> </c>
-                    <del rendition="hc:Erased">
-                        <w xml:id="w_4595_2">habet</w>
-                    </del>
+                    <del rendition="hc:Erased"><w xml:id="w_4595_2">habet</w><c> </c></del>
                     <w xml:id="w_4595_3">habet</w>
                     <c> </c>
                     <w xml:id="w_4595_4">g<choice><orig>v</orig><reg>u</reg></choice>&osup;te</w>
@@ -3321,7 +3317,7 @@
                 <l n="4630" xml:id="l_4630" hei:altN="269">
                     <w xml:id="w_4630_1">ſet</w>
                     <c> </c>
-                    <w xml:id="w_4630_2">er iz</w>
+                    <w xml:id="w_4630_2">er<choice><orig> </orig><reg/></choice>iz</w>
                     <c> </c>
                     <w xml:id="w_4630_3">ſo</w>
                     <c> </c>

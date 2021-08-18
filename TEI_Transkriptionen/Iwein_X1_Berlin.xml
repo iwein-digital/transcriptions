@@ -266,7 +266,7 @@
             <lg ana="hc:Couplet">
                 <l n="3695" xml:id="l_3695" hei:altN="17">
                     <lb n="2"/>
-                    <metamark ana="hc:CueInitial ">ſ</metamark>
+                    <hei:cue ana="hc:CueInitial" hei:placeRef="hc:ColumnMarginLeft">ſ</hei:cue>
                     <w xml:id="w_3695_1"><supplied><hei:initial rendition="hc:Lombard" hei:heightLines="1">S</hei:initial></supplied><choice><orig>v</orig><reg>u</reg></choice>ſ</w>
                     <c> </c>
                     <w xml:id="w_3695_2">twelte</w>
@@ -378,7 +378,7 @@
             <lg ana="hc:Couplet">
                 <l n="3725" xml:id="l_3725" hei:altN="27">
                     <lb n="12"/>
-                    <w xml:id="w_3725_1">dz</w>
+                    <w xml:id="w_3725_1">d<choice><am>z</am><ex>az</ex></choice></w>
                     <c> </c>
                     <w xml:id="w_3725_2">dicke</w>
                     <c> </c>
@@ -387,7 +387,7 @@
                 </l>
                 <l n="3726" xml:id="l_3726" hei:altN="28">
                     <lb n="13"/>
-                    <w xml:id="w_3726_1">dz</w>
+                    <w xml:id="w_3726_1">d<choice><am>z</am><ex>az</ex></choice></w>
                     <c> </c>
                     <w xml:id="w_3726_2">ſolich</w>
                     <c> </c>
@@ -547,7 +547,7 @@
                     <c> </c>
                     <w xml:id="w_3772_3">der</w>
                     <c> </c>
-                    <w xml:id="w_3772_4">burg berg</w>
+                    <w xml:id="w_3772_4">burg<choice><orig> </orig><reg/></choice>berg</w>
                     <c> </c>
                     <w xml:id="w_3772_5">ha<add hei:placeRef="hc:AboveLine">r</add>te</w>
                     <c> </c>
@@ -570,7 +570,7 @@
                     <pc>·</pc>
                 </l>
                 <l n="3774" xml:id="l_3774" hei:altN="48">
-                    <w xml:id="w_3774_1">dz</w>
+                    <w xml:id="w_3774_1">d<choice><am>z</am><ex>az</ex></choice></w>
                     <c> </c>
                     <w xml:id="w_3774_2">in</w>
                     <c> </c>
@@ -687,7 +687,7 @@
                 </l>
                 <l n="3802" xml:id="l_3802" hei:altN="57">
                     <lb n="11"/>
-                    <metamark ana="hc:CueInitial ">d</metamark>
+                    <hei:cue ana="hc:CueInitial" hei:placeRef="hc:ColumnMarginLeft">d</hei:cue>
                     <w xml:id="w_3802_1"><supplied><hei:initial rendition="hc:Lombard" hei:heightLines="2">D</hei:initial></supplied>o</w>
                     <c> </c>
                     <w xml:id="w_3802_2">die</w>

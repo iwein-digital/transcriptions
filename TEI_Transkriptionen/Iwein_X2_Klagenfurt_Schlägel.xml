@@ -744,7 +744,7 @@
                 </l>
                 <l n="2490" xml:id="l_2490" hei:altN="54">
                     <lb n="19"/>
-                    <w xml:id="w_2490_1">ſ<choice><am>z</am><ex>et</ex></choice></w>
+                    <w xml:id="w_2490_1">ſ<choice><am>&etfin;</am><ex>et</ex></choice></w>
                     <gap rendition="hc:Illegible"/>
                     <w xml:id="w_2490_2">in</w>
                     <c> </c>
@@ -1072,7 +1072,7 @@
                     <c> </c>
                     <w xml:id="w_2818_6">ſin</w>
                     <c> </c>
-                    <w xml:id="w_2818_7">wint<choice><am>&er;</am><ex>er</ex></choice> cleit</w>
+                    <w xml:id="w_2818_7">wint<choice><am>&er;</am><ex>er</ex></choice><choice><orig> </orig><reg/></choice>cleit</w>
                 </l>
             </lg>
             <lg>
@@ -1459,8 +1459,7 @@
                 <l n="2879" xml:id="l_2879" hei:altN="120">
                     <lb n="8"/>
                     <w xml:id="w_2879_1">
-                        <hei:initial rendition="hc:Lombard" hei:color="Red" hei:heightLines="2">I</hei:initial>
-                    </w>
+                        <hei:initial rendition="hc:Lombard" hei:color="Red" hei:heightLines="2">I</hei:initial></w>
                     <gap rendition="hc:CutOff"/>
                     <w xml:id="w_2879_2">wir</w>
                     <c> </c>
