@@ -3005,7 +3005,7 @@
             <lg ana="hc:Couplet">
                 <l n="945" xml:id="l_945" hei:altN="199">
                     <lb n="13"/>
-                    <hei:cue ana="hc:CueInitial" hei:placeRef="hc:Inspace">a</hei:cue>
+                    <hei:cue ana="hc:CueInitial" hei:placeRef="hc:Inspace"><c>a</c></hei:cue>
                     <w xml:id="w_945_1"><hei:initial rendition="hc:Lombard" hei:color="Red" hei:heightLines="2">A</hei:initial>lſus</w>
                     <c> </c>
                     <w xml:id="w_945_2">ſtal</w>

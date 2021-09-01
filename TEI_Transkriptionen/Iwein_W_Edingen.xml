@@ -233,7 +233,7 @@
             <lg ana="hc:Couplet">
                 <l n="565" xml:id="l_565" hei:altN="11">
                     <lb n="11"/>
-                    <hei:cue ana="hc:CueInitial" hei:placeRef="hc:Inspace">o</hei:cue>
+                    <hei:cue ana="hc:CueInitial" hei:placeRef="hc:Inspace"><c>o</c></hei:cue>
                     <w xml:id="w_565_1"><hei:initial rendition="hc:Lombard" hei:color="Red" hei:heightLines="1">O</hei:initial>uch</w>
                     <c> </c>
                     <w xml:id="w_565_2">hore</w>
@@ -2490,7 +2490,7 @@
             <lg ana="hc:Couplet">
                 <l n="731" xml:id="l_731" hei:altN="177">
                     <lb n="39"/>
-                    <hei:cue ana="hc:CueInitial" hei:placeRef="hc:Inspace">d</hei:cue>
+                    <hei:cue ana="hc:CueInitial" hei:placeRef="hc:Inspace"><c>d</c></hei:cue>
                     <w xml:id="w_731_1"><hei:initial rendition="hc:Lombard" hei:color="Red" hei:heightLines="2">D</hei:initial>o</w>
                     <c> </c>
                     <w xml:id="w_731_2">bot</w>
@@ -2955,7 +2955,7 @@
             <lg ana="hc:Couplet">
                 <l n="763" xml:id="l_763" hei:altN="209">
                     <lb n="25"/>
-                    <hei:cue ana="hc:CueInitial" hei:placeRef="hc:Inspace">d</hei:cue>
+                    <hei:cue ana="hc:CueInitial" hei:placeRef="hc:Inspace"><c>d</c></hei:cue>
                     <w xml:id="w_763_1"><hei:initial rendition="hc:Lombard" hei:color="Red" hei:heightLines="2">D</hei:initial>o</w>
                     <c> </c>
                     <w xml:id="w_763_2">mir</w>
@@ -3103,7 +3103,7 @@
             <lg ana="hc:Couplet">
                 <l n="773" xml:id="l_773" hei:altN="219">
                     <lb n="35"/>
-                    <hei:cue ana="hc:CueInitial" hei:placeRef="hc:Inspace">d</hei:cue>
+                    <hei:cue ana="hc:CueInitial" hei:placeRef="hc:Inspace"><c>d</c></hei:cue>
                     <w xml:id="w_773_1"><hei:initial rendition="hc:Lombard" hei:color="Red" hei:heightLines="1">D</hei:initial>o</w>
                     <c> </c>
                     <w xml:id="w_773_2">ich</w>
@@ -5423,7 +5423,7 @@
             <lg ana="hc:Couplet">
                 <l n="2601" xml:id="l_2601" hei:altN="387">
                     <lb n="19"/>
-                    <hei:cue ana="hc:CueInitial" hei:placeRef="hc:Inspace">e</hei:cue>
+                    <hei:cue ana="hc:CueInitial" hei:placeRef="hc:Inspace"><c>e</c></hei:cue>
                     <w xml:id="w_2601_1"><hei:initial rendition="hc:Lombard" hei:color="Red" hei:heightLines="2">E</hei:initial>r</w>
                     <c> </c>
                     <w xml:id="w_2601_2">nam</w>
@@ -6244,7 +6244,7 @@
             <lg ana="hc:Couplet">
                 <l n="2663" xml:id="l_2663" hei:altN="447">
                     <lb n="33"/>
-                    <hei:cue ana="hc:CueInitial" hei:placeRef="hc:Inspace">d</hei:cue>
+                    <hei:cue ana="hc:CueInitial" hei:placeRef="hc:Inspace"><c>d</c></hei:cue>
                     <w xml:id="w_2663_1">
                         <hei:initial rendition="hc:Lombard" hei:color="Red" hei:heightLines="2">D</hei:initial>
                         <choice>

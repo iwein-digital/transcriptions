@@ -691,7 +691,7 @@
             <lg ana="hc:Couplet">
                 <l n="6257" xml:id="l_6257" hei:altN="47">
                     <lb n="3"/>
-                    <hei:cue ana="hc:CueInitial" hei:placeRef="hc:ColumnMarginLeft">d</hei:cue>
+                    <hei:cue ana="hc:CueInitial" hei:placeRef="hc:ColumnMarginLeft"><c>d</c></hei:cue>
                     <w xml:id="w_6257_1"><hei:initial rendition="hc:Lombard" hei:color="Red Black" hei:heightLines="2">D</hei:initial>o</w>
                     <c> </c>
                     <w xml:id="w_6257_2">ſprach</w>
