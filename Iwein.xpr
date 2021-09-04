@@ -38,6 +38,19 @@
                         </documentTypeEntry-array>
                     </entry>
                     <entry>
+                        <String>editor.format.break.line.elements</String>
+                        <breakLineElement-array>
+                            <breakLineElement>
+                                <field name="elementExpression">
+                                    <String>l</String>
+                                </field>
+                                <field name="breakPolicy">
+                                    <Integer>3</Integer>
+                                </field>
+                            </breakLineElement>
+                        </breakLineElement-array>
+                    </entry>
+                    <entry>
                         <String>editor.format.break.long.attributes</String>
                         <Boolean>false</Boolean>
                     </entry>
@@ -63,6 +76,21 @@
                     <entry>
                         <String>editor.format.preserve.not.normalize.attribute.values</String>
                         <Boolean>false</Boolean>
+                    </entry>
+                    <entry>
+                        <String>editor.format.preserve.spaces.elements.v11</String>
+                        <String-array>
+                            <String>xsl:text</String>
+                            <String>xsl:comment</String>
+                            <String>xsl:processing-instruction</String>
+                            <String>literallayout</String>
+                            <String>programlisting</String>
+                            <String>screen</String>
+                            <String>synopsis</String>
+                            <String>pre</String>
+                            <String>xd:pre</String>
+                            <String>l//*</String>
+                        </String-array>
                     </entry>
                     <entry>
                         <String>editor.format.preserve.text.as.it.is</String>
@@ -91,6 +119,14 @@
                     <entry>
                         <String>key.editor.format.xml.option.pane</String>
                         <Boolean>true</Boolean>
+                    </entry>
+                    <entry>
+                        <String>key.editor.open.option.pane</String>
+                        <Boolean>false</Boolean>
+                    </entry>
+                    <entry>
+                        <String>key.editor.save.option.pane</String>
+                        <Boolean>false</Boolean>
                     </entry>
                     <entry>
                         <String>key.fonts.option.pane</String>
